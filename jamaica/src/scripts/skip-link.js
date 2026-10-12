@@ -1,0 +1,1 @@
+document.addEventListener('click',e=>{const a=e.target.closest('.skip-link');if(!a)return;e.preventDefault();e.stopImmediatePropagation();document.querySelector('main').focus({preventScroll:true})},true);

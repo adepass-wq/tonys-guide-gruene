@@ -1,0 +1,4 @@
+node_modules/
+jamaica/.cache/
+jamaica/.preview/
+*.log

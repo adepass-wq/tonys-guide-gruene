@@ -1,0 +1,1 @@
+document.addEventListener('click',e=>{const a=e.target.closest('a[href^="#"]');if(!a)return;const id=a.getAttribute('href').slice(1),target=document.getElementById(id);if(!target)return;const detail=target.closest('details');if(detail)detail.open=true;if(target.tagName==='DETAILS')target.open=true});

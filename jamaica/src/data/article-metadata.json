@@ -1,0 +1,254 @@
+[
+  {
+    "id": "read-maroon",
+    "theme": "Freedom & land",
+    "parish": "Islandwide",
+    "summary": "The agreement of 1739 secured liberty and land for Cudjoe’s community. It also required the return of future fugitives. Both provisions belong at the center of the story.",
+    "era": "1739"
+  },
+  {
+    "id": "read-court",
+    "theme": "Freedom & land",
+    "parish": "St. Ann",
+    "summary": "A surviving court book brings pimento, livestock, escape and testimony into the history of St. Ann. It shows how everyday disputes entered a legal system controlled by people with power over the accused.",
+    "era": "1787–1814"
+  },
+  {
+    "id": "read-villages",
+    "theme": "Freedom & land",
+    "parish": "St. Ann",
+    "summary": "The end of slavery did not transfer estates to the people who had worked them. In St. Ann, free villages connected legal freedom to plots, households, schools and a new bargaining position.",
+    "era": "1834–1839"
+  },
+  {
+    "id": "read-barclay",
+    "theme": "Towns & trade",
+    "parish": "St. Mary",
+    "summary": "Barclay’s campaign joined credit, land, representation and marketing. The cooperative that followed was not simply a farmers’ club: it challenged who controlled the route from a Jamaican field to an overseas buyer.",
+    "era": "1914–1936"
+  },
+  {
+    "id": "read-church",
+    "theme": "Faith & family",
+    "parish": "Both",
+    "summary": "Church history changes when public finance, slavery, Black religious leadership and family records are told together. Institutions and worshippers did not always give the same meaning to Christianity.",
+    "era": "Across periods"
+  },
+  {
+    "id": "read-names",
+    "theme": "Faith & family",
+    "parish": "Both",
+    "summary": "A proprietor’s name can survive in print while the people sustaining the property appear only as a total. Reading the records together changes whose history is visible.",
+    "era": "Across periods"
+  },
+  {
+    "id": "read-seville",
+    "theme": "Freedom & land",
+    "parish": "St. Ann",
+    "summary": "One north-coast landscape contains several histories. The visitor attraction becomes more revealing when the great house is placed beside Taíno occupation, Spanish settlement and the villages of enslaved Africans.",
+    "era": "before 1494–present"
+  },
+  {
+    "id": "read-town",
+    "theme": "Towns & trade",
+    "parish": "Both",
+    "summary": "The north coast was a working and governed landscape long before its present tourist economy. Maps and property returns show how ports, plantations, churches and smaller settlements were connected.",
+    "era": "Across periods"
+  },
+  {
+    "id": "read-garvey",
+    "theme": "Freedom & land",
+    "parish": "St. Ann",
+    "summary": "Garvey connected racial dignity to institutions: newspapers, meetings, businesses and political organization. His birthplace is the beginning of a history that crosses the Atlantic, not the whole story.",
+    "era": "1887–1940"
+  },
+  {
+    "id": "read-culture",
+    "theme": "Music & ritual",
+    "parish": "Islandwide",
+    "summary": "Songs, worship, speech and public performance are not colorful extras to the historical account. They record how people worked, mourned, judged conduct and made a place for themselves.",
+    "era": "Across periods"
+  },
+  {
+    "id": "jh-port-maria",
+    "theme": "Towns & trade",
+    "parish": "St. Mary",
+    "summary": "Port Maria’s civic centre is a place to connect architecture with the changing exercise of public power. The waterfront, parish church, park and former courthouse belong to a working town, not a sealed colonial scene. Their significance becomes clearer when we follow how the civic building was obtained, used and rebuilt.",
+    "era": "Across periods"
+  },
+  {
+    "id": "jh-annotto",
+    "theme": "Towns & trade",
+    "parish": "St. Mary",
+    "summary": "Annotto Bay grew at the mouth of the Wag Water River and is remembered as a trading settlement tied to Grays Inn sugar estate. The physical traces of industrial production matter because the plantation economy did not stop at the field. Sugar had to be processed, loaded and sold; later agricultural commodities depended on roads, river crossings, merchants and maritime access. Who owned the mills, who labored there and who controlled prices are different questions—and all belong in the history. [1]",
+    "era": "Across periods"
+  },
+  {
+    "id": "jh-oracabessa",
+    "theme": "Towns & trade",
+    "parish": "St. Mary",
+    "summary": "Modern Oracabessa is often introduced through famous visitors, private estates and its scenic coast. That is part of its later story, but it is not the beginning. It is a north-coast community whose history is connected to colonial fortifications, agricultural production, ports and the movement of people. The JNHT records Fort Oracabessa, also known as Fort Littleton, as a structure erected by John Allen in 1752 during the period of imperial trade warfare. Its former grounds were later subdivided and crossed by a road. Even the land occupied by military works was repurposed. [1]",
+    "era": "Across periods"
+  },
+  {
+    "id": "jh-castleton",
+    "theme": "Towns & trade",
+    "parish": "St. Mary",
+    "summary": "Castleton Botanical Gardens is a rewarding landscape in its own right. Established on 19 November 1862, it developed as a major tropical botanical collection. But the history of botanical gardens is not only a catalogue of rare trees. Across the colonial world, plant collection and experimentation supported the movement of commercially valuable species and the expansion of plantation economies. A full account must examine what was cultivated at Castleton, who supplied the plant material, who maintained the grounds and which local farmers benefited. [1]",
+    "era": "Across periods"
+  },
+  {
+    "id": "jh-highgate",
+    "theme": "Towns & trade",
+    "parish": "St. Mary",
+    "summary": "St. Mary is often explained from the shoreline inward. That approach misses the towns whose markets, schools and roads tied upland cultivation to coastal shipping. Official parish accounts describe Highgate as a busy agricultural and commercial center and Richmond as an older farming and residential settlement, formerly known as Meeks Springs. Those descriptions are starting points for deeper town histories rather than proof that all inland communities developed identically. [1]",
+    "era": "Across periods"
+  },
+  {
+    "id": "jh-stannbay",
+    "theme": "Towns & trade",
+    "parish": "St. Ann",
+    "summary": "St. Ann's Bay is a useful starting point for understanding administrative power, religion and historical memory. Its colonial townscape includes civic institutions, a parish church and a fort: the Jamaica National Heritage Trust dates St. Ann's Bay Fort to about 1750. In any town with an eighteenth-century fort and nineteenth-century administrative buildings, a history that talks only about architectural elegance has left out the people whose labor sustained the colony. [1]",
+    "era": "Across periods"
+  },
+  {
+    "id": "jh-1907",
+    "theme": "Towns & trade",
+    "parish": "Both",
+    "summary": "Kingston’s destruction dominates the photographs, but contemporary reports also describe the north coast. Distinguishing the places, dates and kinds of evidence changes the account.",
+    "era": "1907"
+  },
+  {
+    "id": "hh-seville",
+    "theme": "Home & daily life",
+    "parish": "St. Ann",
+    "summary": "Seville’s great house is not the whole plantation. The village sites bring the people who sustained the estate back into view. Here a house was a shelter, a working place and a small part of a community living under coercion. Its importance is not that archaeology can recreate every conversation. It is that the ground preserves evidence of lives that an owner-centred tour can overlook.",
+    "era": "Across periods"
+  },
+  {
+    "id": "hh-food",
+    "theme": "Home & daily life",
+    "parish": "Both",
+    "summary": "A household’s food history begins before the finished dish. Someone needed fuel, utensils and ingredients, and somewhere to prepare them. At Seville, those practical questions can be connected to excavated evidence. The result is more concrete than declaring a modern recipe an unchanged survival of an ancient cuisine.",
+    "era": "Across periods"
+  },
+  {
+    "id": "hh-nine",
+    "theme": "Home & daily life",
+    "parish": "Both",
+    "summary": "LISTEN · ORIGINAL RECORDING",
+    "era": "Across periods"
+  },
+  {
+    "id": "hh-harmony",
+    "theme": "Home & daily life",
+    "parish": "St. Mary",
+    "summary": "Harmony Hall connects agricultural property, church residence and the Jamaican art world. Its familiar ornament is only the beginning. The more revealing history is how successive users turned a house into a place where crops, religious life and cultural enterprise left different marks.",
+    "era": "Across periods"
+  },
+  {
+    "id": "hh-build",
+    "theme": "Home & daily life",
+    "parish": "Both",
+    "summary": "A veranda can look like a decorative detail. In a household history, it raises larger questions: who could obtain materials, who built the house, who controlled the land and how a family used the space. A building’s appearance cannot answer those questions by itself. Nor should Jamaica’s houses be arranged on a simple ladder from supposedly primitive to modern.",
+    "era": "Across periods"
+  },
+  {
+    "id": "hh-sleep",
+    "theme": "Home & daily life",
+    "parish": "Both",
+    "summary": "A small house does not tell us how small a family was. Nor does a two-room plan tell us where its children slept. At Seville, archaeology lets us describe particular domestic spaces more securely than we can identify the people who occupied each room. That distinction matters: the inhabitants deserve a history, but they do not deserve invented intimate details.",
+    "era": "Across periods"
+  },
+  {
+    "id": "culture-feature-0",
+    "theme": "Music & ritual",
+    "parish": "Islandwide",
+    "summary": "Kumina joins spiritual knowledge with drumming, singing and dance. Its history includes African continuities, migration and the people who sustained a living practice in Jamaica.",
+    "era": "Across periods"
+  },
+  {
+    "id": "culture-feature-1",
+    "theme": "Music & ritual",
+    "parish": "Islandwide",
+    "summary": "Maroon communities across Jamaica [1]",
+    "era": "Across periods"
+  },
+  {
+    "id": "culture-feature-2",
+    "theme": "Music & ritual",
+    "parish": "Islandwide",
+    "summary": "The name “African-derived dance” is too broad to explain a particular form. Ettu’s documented association with Hanover places songs, movement and transmission within a community history.",
+    "era": "Across periods"
+  },
+  {
+    "id": "culture-feature-3",
+    "theme": "Music & ritual",
+    "parish": "Islandwide",
+    "summary": "Burru’s documented association with Lionel Town and Hayes gives it a social geography. Its place in Jamaican music deserves more than a vague claim that every later beat came from one drum.",
+    "era": "Across periods"
+  },
+  {
+    "id": "culture-feature-4",
+    "theme": "Music & ritual",
+    "parish": "Both",
+    "summary": "St. Mary, St. Ann and eastern Jamaica [1]",
+    "era": "Across periods"
+  },
+  {
+    "id": "culture-feature-5",
+    "theme": "Music & ritual",
+    "parish": "Islandwide",
+    "summary": "Revival’s nineteenth-century history joins African Jamaican religious knowledge to Christian worship. The sound is part of a community’s practice, not an isolated musical effect.",
+    "era": "1860–present"
+  },
+  {
+    "id": "culture-feature-6",
+    "theme": "Music & ritual",
+    "parish": "Islandwide",
+    "summary": "Across Jamaica, with regional forms [1]",
+    "era": "Across periods"
+  },
+  {
+    "id": "culture-feature-7",
+    "theme": "Music & ritual",
+    "parish": "Islandwide",
+    "summary": "Rural Jamaica, towns and the recording era [1]",
+    "era": "Across periods"
+  },
+  {
+    "id": "language-story",
+    "theme": "Language",
+    "parish": "Islandwide",
+    "summary": "Jamaican Creole has history, grammar and literature. The important distinction is not between people with and without language, but between the ways Jamaicans speak and the power attached to those ways of speaking.",
+    "era": "colonial period–present"
+  },
+  {
+    "id": "history-tacky",
+    "theme": "Freedom & land",
+    "parish": "St. Mary",
+    "summary": "The revolt associated with Tacky began in St. Mary, but its history crosses the island and the Atlantic. Forts, plantations, African military experience and imperial war belong in the same account.",
+    "era": "1760–1761"
+  },
+  {
+    "id": "history-morant",
+    "theme": "Freedom & land",
+    "parish": "Islandwide",
+    "summary": "Paul Bogle’s march reached a courthouse in a society where emancipation had not brought equal access to land, justice or political authority.",
+    "era": "1865–1866"
+  },
+  {
+    "id": "history-independence",
+    "theme": "Freedom & land",
+    "parish": "Islandwide",
+    "summary": "Labor organization, the right to vote, self-government and the decision about federation were distinct steps. Independence was built through institutions as well as celebrated through symbols.",
+    "era": "1938–1962"
+  },
+  {
+    "id": "history-migration",
+    "theme": "Faith & family",
+    "parish": "Islandwide",
+    "summary": "Indenture and later migration brought new communities into an already unequal society. Their histories belong within Jamaican life, not in a footnote about colorful influences.",
+    "era": "1845–present"
+  }
+]

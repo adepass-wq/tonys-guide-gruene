@@ -1,0 +1,16 @@
+{
+  "name": "tonys-guide-jamaica",
+  "private": true,
+  "version": "1.0.0",
+  "engines": { "node": ">=24" },
+  "scripts": {
+    "build": "node jamaica/scripts/build.cjs",
+    "check": "node jamaica/scripts/build.cjs --check && node jamaica/scripts/validate.cjs",
+    "test": "node --test jamaica/tests/*.test.cjs",
+    "verify": "npm run check && npm test",
+    "preview": "node jamaica/scripts/preview.cjs",
+    "release:prepare": "npm run build && npm run verify",
+    "verify:live": "node jamaica/scripts/verify-live.cjs"
+  },
+  "devDependencies": { "jsdom": "30.1.2" }
+}
