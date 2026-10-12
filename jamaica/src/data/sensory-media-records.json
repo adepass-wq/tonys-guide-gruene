@@ -365,5 +365,29 @@
     "playableInEmbed": true,
     "actualPlaybackTested": false,
     "source": "https://www.youtube.com/watch?v=R0apj4Rybb4"
-  }
+  },
+  "expandedHistory": [
+    {
+      "article": "history-dancehall",
+      "title": "Reggae Routes: Reggae & Sound System Culture",
+      "publisher": "Jamaica Information Service",
+      "sourceUrl": "https://jis.gov.jm/radio_programs/reggae-routes-reggae-sound-system-culture/",
+      "audioUrl": "https://jis.gov.jm/media/2024/02/REGGAE-SOUND-SYSTEM-Pt-1-20240209-AS.mp3",
+      "checked": "2026-10-12",
+      "httpStatus": 206,
+      "contentType": "audio/mpeg",
+      "verification": "Publisher HTML supplied media URL. Ranged GET returned audio bytes. Audible playback not verified."
+    },
+    {
+      "article": "history-dancehall",
+      "title": "Reggae Music of Jamaica",
+      "publisher": "UNESCO; Jamaica Ministry of Culture / CPTC",
+      "sourceUrl": "https://www.unesco.org/archives/multimedia/document-4760",
+      "videoUrl": "https://www.unesco.org/archives/multimedia/assets/video/2018-ich-rl-0139800004.mp4",
+      "checked": "2026-10-12",
+      "httpStatus": 206,
+      "contentType": "video/mp4",
+      "verification": "Publisher metadata supplied media URL. Ranged GET returned video bytes. Visual and audible playback not verified."
+    }
+  ]
 }

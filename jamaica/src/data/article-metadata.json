@@ -278,5 +278,82 @@
     "parish": "Islandwide",
     "summary": "Read a historical work photograph beside the banana economy and a farmer’s later recorded explanation. Landscape, labour and organisation enter the same story.",
     "era": "Late 19th–20th centuries"
+  },
+  {
+    "id": "history-jamaica",
+    "theme": "Freedom & land",
+    "parish": "Islandwide",
+    "summary": "A national history from Indigenous communities through conquest, slavery, freedom and independence—then a route into the regional histories behind the places you visit.",
+    "era": "Before 1494–present"
+  },
+  {
+    "id": "history-ocho-stann",
+    "theme": "Towns & trade",
+    "parish": "St. Ann",
+    "summary": "Seville, St. Ann’s Bay, free villages and Ocho Rios show how Indigenous settlement, plantation labor, land ownership and tourism inhabit the same north-coast landscape.",
+    "era": "Before 1494–present"
+  },
+  {
+    "id": "history-trelawny-falmouth",
+    "theme": "Towns & trade",
+    "parish": "Trelawny",
+    "summary": "Falmouth’s Georgian buildings become more meaningful when the town is connected to enslaved labor, Martha Brae transport, inland estates, emancipation and the changing shipping economy.",
+    "era": "1770–present"
+  },
+  {
+    "id": "history-melissa-falmouth",
+    "theme": "Towns & trade",
+    "parish": "Trelawny",
+    "summary": "Hurricane Melissa’s October 2025 passage damaged health services and disrupted everyday life. Read the documented damage separately from today’s operating conditions.",
+    "era": "2025–2026"
+  },
+  {
+    "id": "history-stjames",
+    "theme": "Freedom & land",
+    "parish": "St. James",
+    "summary": "The parish is more than a resort arrival point. Indigenous traces, plantation districts, emancipation struggle and Maroon country place Montego Bay in a deeper western-Jamaican history.",
+    "era": "Before 1494–present"
+  },
+  {
+    "id": "history-cockpit",
+    "theme": "Freedom & land",
+    "parish": "Islandwide",
+    "summary": "The limestone interior is a cultural landscape as well as a forest. Its terrain shaped the struggle over freedom; its protection today involves water, biodiversity and the people who live around it.",
+    "era": "1739–present"
+  },
+  {
+    "id": "history-stmary-hills",
+    "theme": "Home & daily life",
+    "parish": "St. Mary",
+    "summary": "Leave the coastal highway and read St. Mary through Woodside, Highgate and the routes joining farming communities to Port Maria and Annotto Bay.",
+    "era": "Before 1494–present"
+  },
+  {
+    "id": "history-housing",
+    "theme": "Home & daily life",
+    "parish": "Islandwide",
+    "summary": "A road through Jamaica passes houses shaped by land, labor, climate, family and money. Read ordinary households alongside great houses, and resist guessing an entire life from a façade.",
+    "era": "17th–20th centuries"
+  },
+  {
+    "id": "history-great-houses",
+    "theme": "Objects & archives",
+    "parish": "Islandwide",
+    "summary": "Tour a building with its labor and land history in view. These houses offer different stories—and their current access is not interchangeable.",
+    "era": "1745–present"
+  },
+  {
+    "id": "history-dancehall",
+    "theme": "Music & ritual",
+    "parish": "Islandwide",
+    "summary": "Sound systems, selectors, deejays, dance, public space and the reasons music is heard across Jamaica.",
+    "era": "1940s–present"
+  },
+  {
+    "id": "jamaica-like-local",
+    "theme": "Home & daily life",
+    "parish": "Islandwide",
+    "summary": "A practical guide to experiencing Jamaica through local food, transport, communities, markets and respectful everyday encounters.",
+    "era": "Present day"
   }
 ]
