@@ -1,0 +1,226 @@
+{
+  "greenwood": {
+    "asset": "history-greenwood.base64",
+    "caption": "Location: Greenwood, St. James · Rear of Greenwood Great House,1November2023, before Hurricane Melissa; this photograph does not depict current repair condition.",
+    "source": "https://commons.wikimedia.org/wiki/File:Greenwood_Great_House_II.jpg",
+    "alt": "Location: Greenwood, St. James · Rear of Greenwood Great House,1November2023, before Hurricane Melissa; this photograph does not depict current repair condition.",
+    "credit": "Van Atrecht",
+    "license": "CC0 1.0"
+  },
+  "rosehall": {
+    "asset": "history-rosehall.base64",
+    "caption": "Location: Rose Hall, St. James · Rose Hall Great House,24February2013; historical photograph, not current storm condition.",
+    "source": "https://commons.wikimedia.org/wiki/File:Rose_Hall_Jamaica_Photo_Don_Ramey_Logan.jpg",
+    "alt": "Location: Rose Hall, St. James · Rose Hall Great House,24February2013; historical photograph, not current storm condition.",
+    "credit": "Don Ramey Logan",
+    "license": "CC BY-SA3.0"
+  },
+  "seville-ruins": {
+    "asset": "history-seville-ruins.base64",
+    "caption": "Location: Seville Heritage Park, St. Ann · Exposed archaeological masonry at Seville Heritage Park,29October2010; exact building identification not verified.",
+    "source": "https://commons.wikimedia.org/wiki/File:JM_Sevilla_Heritage_Park_1010_%281%29_%2817256441591%29.jpg",
+    "alt": "Location: Seville Heritage Park, St. Ann · Exposed archaeological masonry at Seville Heritage Park,29October2010; exact building identification not verified.",
+    "credit": "Diego Tirira",
+    "license": "CC BY-SA2.0"
+  },
+  "seville-stone": {
+    "asset": "history-seville-stone.base64",
+    "caption": "Location: Seville Heritage Park, St. Ann · Carved stone animal-head exhibit at Seville museum,29October2010; original maker and object date not verified.",
+    "source": "https://commons.wikimedia.org/wiki/File:JM_Sevilla_Heritage_Park_1010_%2825%29_%2817049563987%29.jpg",
+    "alt": "Location: Seville Heritage Park, St. Ann · Carved stone animal-head exhibit at Seville museum,29October2010; original maker and object date not verified.",
+    "credit": "Diego Tirira",
+    "license": "CC BY-SA2.0"
+  },
+  "seville-pots": {
+    "asset": "history-seville-pots.base64",
+    "caption": "Location: Seville Heritage Park, St. Ann · Museum display of cookware and vessels at Seville,29October2010; individual object dates and household provenance not verified.",
+    "source": "https://commons.wikimedia.org/wiki/File:JM_Sevilla_Heritage_Park_1010_%2838%29_%2817069420880%29.jpg",
+    "alt": "Location: Seville Heritage Park, St. Ann · Museum display of cookware and vessels at Seville,29October2010; individual object dates and household provenance not verified.",
+    "credit": "Diego Tirira",
+    "license": "CC BY-SA2.0"
+  },
+  "seville-house": {
+    "asset": "history-seville-house.base64",
+    "caption": "Location: Seville Heritage Park, St. Ann · Seville Great House exterior,29October2010; historical photograph, not current storm condition.",
+    "source": "https://commons.wikimedia.org/wiki/File:JM_Sevilla_Heritage_Park_1010_%2853%29_%2816634511094%29.jpg",
+    "alt": "Location: Seville Heritage Park, St. Ann · Seville Great House exterior,29October2010; historical photograph, not current storm condition.",
+    "credit": "Diego Tirira",
+    "license": "CC BY-SA2.0"
+  },
+  "seville-dwelling": {
+    "asset": "history-seville-dwelling.base64",
+    "caption": "Location: Seville Heritage Park, St. Ann · Reconstructed African Jamaican dwelling beside the kitchen garden at Seville,29October2010; a museum reconstruction, not an intact slave-era home.",
+    "source": "https://commons.wikimedia.org/wiki/File:JM_Sevilla_Heritage_Park_1010_%2860%29_%2817069206698%29.jpg",
+    "alt": "Location: Seville Heritage Park, St. Ann · Reconstructed African Jamaican dwelling beside the kitchen garden at Seville,29October2010; a museum reconstruction, not an intact slave-era home.",
+    "credit": "Diego Tirira",
+    "license": "CC BY-SA2.0"
+  },
+  "cockpit": {
+    "asset": "history-cockpit.base64",
+    "caption": "Location: Cockpit Country, Jamaica; exact site unspecified · Capturedateunknown;uploaded2009-07-16; EXIFscan date notcapturedate",
+    "source": "https://commons.wikimedia.org/wiki/File:Cockpit_Country.jpg",
+    "alt": "Cockpit Country landscape",
+    "credit": "FabianTompsett, WikimediaCommons",
+    "license": "CC BY-SA3.0"
+  },
+  "accompong": {
+    "asset": "history-accompong.base64",
+    "caption": "Location: Accompong, St. Elizabeth · Metadata2016-01-05 23:37:23;captionannualJan6",
+    "source": "https://commons.wikimedia.org/wiki/File:Accompong_Maroon_Festival_IMG_6766.jpg",
+    "alt": "Accompong Maroon Festival",
+    "credit": "AudreyDreygoHeadley(Dreygo),WikimediaCommons",
+    "license": "CC BY-SA4.0"
+  },
+  "parrot": {
+    "asset": "history-parrot.base64",
+    "caption": "Location: Cockpit Country, Jamaica; exact site unspecified · 2009-03-20",
+    "source": "https://commons.wikimedia.org/wiki/File:Amazona_agilis_-Cockpit_Country,_Jamaica-8.jpg",
+    "alt": "Black-billed parrot in Cockpit Country",
+    "credit": "RonKnight,2009;viaWikimediaCommons",
+    "license": "CC BY2.0"
+  },
+  "roehampton-fire": {
+    "asset": "history-roehampton-fire.base64",
+    "caption": "Location: Roehampton, St. James · Adolphe Duperly’s 1833 illustration of the destruction of Roehampton Estate, St James, January 1832.",
+    "source": "https://commons.wikimedia.org/wiki/File:Duperly_(1833)_Destruction_of_the_Roehampton_Estate_January_1832.png",
+    "alt": "Location: Roehampton, St. James · Adolphe Duperly’s 1833 illustration of the destruction of Roehampton Estate, St James, January 1832.",
+    "credit": "Adolphe Duperly / Wikimedia Commons; also reproduced courtesy National Library of Jamaica in Jemmott, St James,p53",
+    "license": "Public domain, PD-old-100 / PD-Art; Commons licence record"
+  },
+  "sharpe-square": {
+    "asset": "history-sharpe-square.base64",
+    "caption": "Location: Montego Bay, St. James · Sam Sharpe Memorial and The Cage in Montego Bay,March20,2016.",
+    "source": "https://commons.wikimedia.org/wiki/File:Montego_Bay_-_Sam_Sharpe_Memorial.JPG",
+    "alt": "Location: Montego Bay, St. James · Sam Sharpe Memorial and The Cage in Montego Bay,March20,2016.",
+    "credit": "Martin Falbisoner / Wikimedia Commons",
+    "license": "CC BY-SA4.0"
+  },
+  "falmouth-court": {
+    "asset": "history-falmouth-court.base64",
+    "caption": "Location: Falmouth, Trelawny · Commemorative plaque and exterior steps at Trelawny Parish Courthouse, Falmouth,January27,2026.",
+    "source": "https://commons.wikimedia.org/wiki/File:Trelawny_Parish_Court_House_01_2026_03.jpg",
+    "alt": "Location: Falmouth, Trelawny · Commemorative plaque and exterior steps at Trelawny Parish Courthouse, Falmouth,January27,2026.",
+    "credit": "Concord / Wikimedia Commons",
+    "license": "CC BY-SA4.0"
+  },
+  "melissa-school": {
+    "asset": "history-melissa-school.base64",
+    "caption": "Location: William Knibb Memorial High School, Falmouth · Roof damage at William Knibb Memorial High School, Falmouth, after Hurricane Melissa on October28,2025.",
+    "source": "https://jis.gov.jm/william-knibb-high-looking-at-shift-system-to-resume-learning/",
+    "alt": "Location: William Knibb Memorial High School, Falmouth · Roof damage at William Knibb Memorial High School, Falmouth, after Hurricane Melissa on October28,2025.",
+    "credit": "Reneek Brown / Jamaica Information Service",
+    "license": "Publisher photograph; no open licence asserted"
+  },
+  "melissa-hospital": {
+    "asset": "history-melissa-hospital.base64",
+    "caption": "Location: Falmouth Public General Hospital grounds, Trelawny · Health and Wellness Minister Christopher Tufton tours Spain’s field hospital at Falmouth Public General Hospital,November14,2025.",
+    "source": "https://jis.gov.jm/renovation-of-falmouth-hospital-to-begin-next-week/",
+    "alt": "Location: Falmouth Public General Hospital grounds, Trelawny · Health and Wellness Minister Christopher Tufton tours Spain’s field hospital at Falmouth Public General Hospital,November14,2025.",
+    "credit": "Okoye Henry / Jamaica Information Service",
+    "license": "Publisher photograph; no open licence asserted"
+  },
+  "melissa-grants": {
+    "asset": "history-melissa-grants.base64",
+    "caption": "Location: Bounty Hall, Trelawny · Minister Pearnel Charles Jr presents a ROOFS grant cheque to Julia Shaw at Bounty Hall, Trelawny,March11,2026; Donovan Williams and Tova Hamilton attend.",
+    "source": "https://jis.gov.jm/366m-in-grants-for-hurricane-affected-trelawny-families-under-roofs-programme/",
+    "alt": "Location: Bounty Hall, Trelawny · Minister Pearnel Charles Jr presents a ROOFS grant cheque to Julia Shaw at Bounty Hall, Trelawny,March11,2026; Donovan Williams and Tova Hamilton attend.",
+    "credit": "Serena Grant / Jamaica Information Service",
+    "license": "Publisher photograph; no open licence asserted"
+  },
+  "rosehall-print": {
+    "asset": "history-rosehall-print.base64",
+    "caption": "Location: Rose Hall, St James, Jamaica · Engraving published April2,1824; included in1825 book; drawings1820–1821 · Artwork rather than photograph; picturesque elite perspective. Do not include WhiteWitch legend as fact.",
+    "source": "https://commons.wikimedia.org/wiki/File:Hakewill,_A_Picturesque_Tour_of_the_Island_of_Jamaica,_Plate_20.jpg",
+    "alt": "Coloured great-house/estate approach print",
+    "credit": "James Hakewill / Sutherland, Rose Hall,1824, scan via Internet Archive/WikimediaCommons; public domain.",
+    "license": "Public domain"
+  },
+  "roehampton-estate": {
+    "asset": "history-roehampton-estate.base64",
+    "caption": "Location: Roehampton estate, Jamaica · 1825, according to image catalogue · Catalogue says this illustration was NOT published in Hakewill’s1825 book. Do not call it a plate from that book or an objective full account of enslaved life.",
+    "source": "https://commons.wikimedia.org/wiki/File:Roehampton_Plantation_and_Slave_Village,_Jamaica_colony,_1825.jpg",
+    "alt": "Estate engraving showing workers’ housing at right, mansion, hospital and sugar works",
+    "credit": "James Hakewill, View of Roehampton Estate,1825; SlaveryImages/WikimediaCommons; public domain.",
+    "license": "Public domain"
+  },
+  "trench-yard": {
+    "asset": "history-trench-yard.base64",
+    "caption": "Location: Trench Town Culture Yard, Kingston, Jamaica · March13,2010,11:02 · Modern heritage-site photograph illustrates surviving layout, not1950s occupancy or an untouched historical yard.",
+    "source": "https://commons.wikimedia.org/wiki/File:Culture_Yard_(4547356308).jpg",
+    "alt": "Courtyard framed by small buildings with corrugated roofs, pathways, plants and Marley statue",
+    "credit": "Culture Yard, YardEdge,13March2010, via WikimediaCommons, CC BY2.0; state any crop/resizing.",
+    "license": "CC BY 2.0"
+  },
+  "devon": {
+    "asset": "history-devon.base64",
+    "caption": "Location: Devon House, Kingston / St. Andrew · Devon House in Kingston, photographed November 2005.",
+    "source": "https://commons.wikimedia.org/wiki/File:Devonhouse.jpg",
+    "alt": "Location: Devon House, Kingston / St. Andrew · Devon House in Kingston, photographed November 2005.",
+    "credit": "Devonhouse.jpg — Op. Deo, November 2005, Wikimedia Commons, CC BY-SA 3.0",
+    "license": "CC BY-SA 3.0"
+  },
+  "bellefield": {
+    "asset": "history-bellefield.base64",
+    "caption": "Location: Bellefield, St. James · Bellefield Great House exterior; operator photograph, capture date unpublished.",
+    "source": "https://bellefieldgreathouse.com/events-tours/tours/",
+    "alt": "Location: Bellefield, St. James · Bellefield Great House exterior; operator photograph, capture date unpublished.",
+    "credit": "Bellefield Great House & Gardens — official tour photograph",
+    "license": "Operator photograph; no open licence asserted"
+  },
+  "goodhope": {
+    "asset": "history-goodhope.base64",
+    "caption": "Location: Good Hope, Trelawny · Good Hope Great House hosting a wedding, from the official Country House celebrations page; capture date unpublished.",
+    "source": "https://www.goodhopejamaica.com/celebrate-with-us",
+    "alt": "Location: Good Hope, Trelawny · Good Hope Great House hosting a wedding, from the official Country House celebrations page; capture date unpublished.",
+    "credit": "Good Hope Jamaica — official Country House photograph",
+    "license": "Operator photograph; no open licence asserted"
+  },
+  "rosehall-register": {
+    "asset": "history-rosehall-register.base64",
+    "caption": "Location: Rose Hall, St. James · 1817 register reproduced by Barnard College; repository shelfmark not supplied on the cited page",
+    "source": "https://barnard.edu/news/jamaicas-rose-hall-plantation",
+    "alt": "Facsimile of a handwritten 1817 register of enslaved people at Rose Hall",
+    "credit": "Celia Naylor research / Barnard College reproduction; original archival document",
+    "license": ""
+  },
+  "highgate-church": {
+    "asset": "history-highgate-church.base64",
+    "caption": "Location: Highgate, St. Mary · St. Cyprian’s stone church; modern photograph, capture date unspecified",
+    "source": "https://www.parishhistoriesofjamaica.org/wp-content/uploads/2017/10/St-Mary-History.-Complete.pdf#page=110",
+    "alt": "Location: Highgate, St. Mary · St. Cyprian’s stone church; modern photograph, capture date unspecified",
+    "credit": "Jamaica National Foundation photograph published in Satchell’s parish history, Fig. 20; no open licence asserted",
+    "license": ""
+  },
+  "falmouth-full": {
+    "asset": "history-falmouth-full.base64",
+    "caption": "Location: Falmouth, Trelawny · 2026-01-27 · Full building view. Visible exposed upper windows/interior; photograph alone cannot date damage or establish repair status. Same-date plaque photograph_03 is not full building.",
+    "source": "https://commons.wikimedia.org/wiki/File:Trelawny_Parish_Court_House_01_2026_01.jpg",
+    "alt": "Falmouth Courthouse, Trelawny, photographed January27,2026.",
+    "credit": "Concord / Wikimedia Commons",
+    "license": "CC BY-SA 4.0"
+  },
+  "goodhope-hospital": {
+    "asset": "history-goodhope-hospital.base64",
+    "caption": "Location: Good Hope Estate, Trelawny · 2006-03 · DAACS dates construction1798, original architectThomasPaterson/delineatorAlexanderCampbell; hospital later served other functions including school/Anglicanchurch. Historical2006condition, notpostMelissa.",
+    "source": "https://www.daacs.org/plantations/good-hope-estate/",
+    "alt": "Hospital for enslaved people at Good Hope Estate, Trelawny,March2006.",
+    "credit": "Jillian Galle / Digital Archaeological Archive of Comparative Slavery (DAACS)",
+    "license": "CC BY-ND 3.0 US; whole image retained"
+  },
+  "goodhope-mill": {
+    "asset": "history-goodhope-mill.base64",
+    "caption": "Location: Good Hope Estate, Trelawny · 2005-05 · DAACS explains mill acrossMarthaBraeRiver fromboilinghouse, gravitysluicecarried juiceoverbridge. Historical2005condition,notpostMelissa.",
+    "source": "https://www.daacs.org/plantations/good-hope-estate/",
+    "alt": "Good Hope sugar mill, Trelawny,May2005.",
+    "credit": "Jillian Galle / Digital Archaeological Archive of Comparative Slavery (DAACS)",
+    "license": "CC BY-ND 3.0 US; whole image retained"
+  },
+  "seville-floor": {
+    "asset": "history-seville-floor.base64",
+    "caption": "Location: Seville House16, St. Ann · modern archaeological photograph of an excavated floor; capture date unspecified",
+    "source": "https://www.daacs.org/sites/seville-house-16/",
+    "alt": "Exposed stone/cobble floor at SevilleHouse 16.",
+    "credit": "Digital Archaeological Archive of Comparative Slavery, Seville House16",
+    "license": "DAACS published CC BY-ND3.0US policy; whole image retained"
+  }
+}

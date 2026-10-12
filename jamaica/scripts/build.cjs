@@ -13,5 +13,9 @@ const generated={
 };
 html=html.replace(token,(all,kind,name)=>{if(kind!=='generated'||!generated[name])throw Error('Unknown template token '+all);return JSON.stringify(generated[name]).replace(/<\/script/gi,'<\\/script');});if(/\{\{(?:include|generated)\b/.test(html))throw Error('Unresolved source token');
 const articleIds=[...d.querySelectorAll('.reading-article')].map(el=>el.id);if(articleIds.length!==metadata.length||new Set(metadata.map(m=>m.id)).size!==metadata.length)throw Error('Article metadata and reader fragments do not agree');
+// Store repeated embedded raster assets once while retaining self-contained hosting.
+const inlineImages={};let imageUses=0;
+html=html.replace(/src="(data:image\/[a-zA-Z0-9.+-]+;base64,[A-Za-z0-9+/=\s]+)"/g,(all,url)=>{const normalized=url.replace(/\s/g,''),id=crypto.createHash('sha256').update(normalized).digest('hex').slice(0,20);inlineImages[id]=normalized;imageUses++;return 'data-inline-image="'+id+'"';});
+if(imageUses){const loader='<script type="application/json" id="inline-image-data">'+JSON.stringify(inlineImages)+'</script><script id="inline-image-loader">(function(){const assets=JSON.parse(document.getElementById("inline-image-data").textContent);document.querySelectorAll("img[data-inline-image]").forEach(img=>{const src=assets[img.dataset.inlineImage];if(src)img.src=src;});})();</script>';html=html.replace('<script',loader+'<script');}
 const check=process.argv.includes('--check');if(check){if(!fs.existsSync(output)||fs.readFileSync(output,'utf8')!==html)throw Error('jamaica/index.html is stale. Run npm run build and commit the output with the source.');}else fs.writeFileSync(output,html);
 dom.window.close();console.log(`${check?'Checked':'Built'} Jamaica: ${metadata.length} articles, ${used.size} source modules, ${Buffer.byteLength(html)} bytes, SHA256 ${crypto.createHash('sha256').update(html).digest('hex')}.`);

@@ -1,0 +1,56 @@
+[
+  {
+    "name": "Seville Great House",
+    "place": "St. Ann",
+    "guide": "seville",
+    "key": "seville-house",
+    "status": "Museum tours offered · normal weekdays",
+    "summary": "Compare the main house, museum and reconstructed dwellings in a multi-period archaeological landscape.",
+    "source": "https://sevilleheritagepark.gov.jm/tours/"
+  },
+  {
+    "name": "Devon House",
+    "place": "Kingston / St. Andrew",
+    "guide": "national-devon",
+    "key": "devon",
+    "status": "Mansion tour offered · official booking",
+    "summary": "George Stiebel’s 1881 house: post-emancipation Black wealth, domestic space and the present courtyard.",
+    "source": "https://www.devonhouseja.com/book-tour"
+  },
+  {
+    "name": "Rose Hall",
+    "place": "St. James",
+    "guide": "national-rosehall",
+    "key": "rosehall",
+    "status": "Day tour offered · folklore night is separate",
+    "summary": "Explore plantation history through the house and records of enslaved people. Keep the ghost performance separate from documented biography.",
+    "source": "https://rosehall.com/rose-hall/"
+  },
+  {
+    "name": "Bellefield Great House",
+    "place": "St. James",
+    "guide": "bellefield",
+    "key": "bellefield",
+    "status": "Appointment offer · confirm post-storm operation",
+    "summary": "House and 1794 sugar mill interpretation; contact the property before arranging the visit.",
+    "source": "https://bellefieldgreathouse.com/events-tours/tours/"
+  },
+  {
+    "name": "Good Hope",
+    "place": "Trelawny",
+    "guide": "national-goodhope",
+    "key": "goodhope",
+    "status": "Outdoor estate passes · interior access unverified",
+    "summary": "Understand the estate’s house, works and labouring community. An adventure pass is not automatic mansion admission.",
+    "source": "https://chukka.com/jamaica/good-hope"
+  },
+  {
+    "name": "Greenwood Great House",
+    "place": "St. James",
+    "guide": "greenwood",
+    "key": "greenwood",
+    "status": "Temporarily closed · follow rebuilding updates",
+    "summary": "A surviving Barrett-family house in the estate landscape. The 2023 photograph predates Melissa and does not show present repairs.",
+    "source": "https://www.greenwoodgreathouse.com/"
+  }
+]

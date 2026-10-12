@@ -42,7 +42,19 @@
     "articles/object-negro-world.html",
     "articles/object-market.html",
     "articles/object-independence.html",
-    "articles/object-banana.html"
+    "articles/object-banana.html",
+    "articles/history-country.html",
+    "articles/history-stann-ocho.html",
+    "articles/history-housing.html",
+    "articles/history-stmary-hills.html",
+    "articles/history-cockpit.html",
+    "articles/history-dancehall.html",
+    "articles/history-local.html",
+    "articles/history-trelawny.html",
+    "articles/history-falmouth.html",
+    "articles/history-stjames.html",
+    "articles/history-melissa.html",
+    "articles/history-great-houses.html"
   ],
   "places": [
     "places/dunn.html",
@@ -127,6 +139,8 @@
     "places/island-village.html",
     "places/pineapple-market.html",
     "places/coconut-market.html",
-    "places/yaaman-cooking.html"
+    "places/yaaman-cooking.html",
+    "places/bellefield.html",
+    "places/greenwood.html"
   ]
 }

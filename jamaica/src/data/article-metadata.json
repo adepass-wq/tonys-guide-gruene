@@ -1,5 +1,89 @@
 [
   {
+    "id": "history-country",
+    "theme": "Country & regions",
+    "parish": "Islandwide",
+    "summary": "Begin with Indigenous communities, conquest, plantation slavery and resistance; follow emancipation, work, migration and independence into the landscapes around you.",
+    "era": "Before 1494–present"
+  },
+  {
+    "id": "history-stann-ocho",
+    "theme": "Country & regions",
+    "parish": "St. Ann",
+    "summary": "The falls and cruise pier sit within a much longer history of Indigenous settlement, colonial labour, free villages, bauxite and deliberate tourism development.",
+    "era": "Before 1509–present"
+  },
+  {
+    "id": "history-trelawny",
+    "theme": "Country & regions",
+    "parish": "Trelawny",
+    "summary": "Falmouth is the coastal entrance to a parish shaped by plantation production, Maroon terrain, emancipation and the communities that grew through land and work.",
+    "era": "1770–present"
+  },
+  {
+    "id": "history-falmouth",
+    "theme": "Country & regions",
+    "parish": "Trelawny",
+    "summary": "Follow the harbour, the wharves and the machinery as well as the architecture. The town’s history connects wealth, enslavement, freedom and changing transport.",
+    "era": "1769–present"
+  },
+  {
+    "id": "history-stjames",
+    "theme": "Country & regions",
+    "parish": "St. James",
+    "summary": "Montego Bay’s airport, cruise port and resort coast grew over an older geography of slave trading, estate work, resistance, smallholdings and changing commerce.",
+    "era": "18th century–present"
+  },
+  {
+    "id": "history-cockpit",
+    "theme": "Country & regions",
+    "parish": "Western Jamaica",
+    "summary": "The limestone hills are an ecological system, a history of resistance and a place where people farm, govern, conserve and welcome carefully arranged visits.",
+    "era": "1730s–present"
+  },
+  {
+    "id": "history-stmary-hills",
+    "theme": "Country & regions",
+    "parish": "St. Mary",
+    "summary": "Gayle, Richmond, Highgate and Goshen were connected by buying, cultivation, institutions and routes to the coast. Their history explains much more than the scenery beyond Ocho Rios.",
+    "era": "19th–20th centuries"
+  },
+  {
+    "id": "history-great-houses",
+    "theme": "Home & daily life",
+    "parish": "Islandwide",
+    "summary": "Explore six surviving houses with real historical context. Separate a mansion tour, an estate adventure, an appointment offer and a closed property before planning your journey.",
+    "era": "1744–present"
+  },
+  {
+    "id": "history-housing",
+    "theme": "Home & daily life",
+    "parish": "Islandwide",
+    "summary": "A small dwelling, an estate mansion, a free-village plot and a government yard tell different histories. Learn to read materials, tenure and shared space without assuming every house followed one national pattern.",
+    "era": "17th–20th centuries"
+  },
+  {
+    "id": "history-dancehall",
+    "theme": "Music & ritual",
+    "parish": "Islandwide",
+    "summary": "The music you hear from a shop, a car or a country gathering belongs to histories of technology, performance, social reputation and work. Loudness alone does not explain the culture.",
+    "era": "1950s–present"
+  },
+  {
+    "id": "history-local",
+    "theme": "Home & daily life",
+    "parish": "Islandwide",
+    "summary": "Build a day around ordinary food, named places and community knowledge. Good local travel means asking better questions and making sound arrangements.",
+    "era": "Contemporary Jamaica"
+  },
+  {
+    "id": "history-melissa",
+    "theme": "Country & regions",
+    "parish": "Trelawny",
+    "summary": "Follow dated evidence from the October 2025 hurricane through emergency care, school disruption, household grants and later repair reports. Damage, funding and completed restoration are different findings.",
+    "era": "October 2025–October 2026"
+  },
+  {
     "id": "read-maroon",
     "theme": "Freedom & land",
     "parish": "Islandwide",

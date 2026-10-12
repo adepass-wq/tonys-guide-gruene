@@ -88,3 +88,11 @@ The newspaper and Independence Act page use base64 source assets in `src/assets/
 Photographs of restaurants, product illustrations and logos must be distinguished in captions. `data/visitor-research.json` and `data/food-image-records.json` retain the evidence and limitations. Source image assets are compressed and embedded to preserve the current one-file hosting workflow; a source URL is not an open-licence statement. Never use stock as evidence of a named venue.
 
 The cruise calculator uses the visitor’s ship deadline, transfer estimate and margin; it does not infer berth, ship clock or traffic. Closed activity products stay visibly unavailable and are excluded from timetable options. Shared shortlist buttons use one delegated handler, including cards rendered after initial load.
+
+## Country history, regional context and visible choices
+
+National and regional histories are indexed through article metadata, including Country & regions, Trelawny, St. James and Western Jamaica. The history portal starts with a chronology, followed by region/subject pathways. `data/great-houses.json` distinguishes operating museum tours, appointment offers, outdoor estate admission and temporary closure. A ghost performance is not evidence of a biography. Never infer restoration from a grant, a construction announcement or an exterior photograph.
+
+`visible-results.js` acknowledges option changes on screen and brings updated results into view when they would otherwise be outside the viewport. Typing retains focus. Shortlist changes get a visible acknowledgement with a direct View result action. Keep new controls mapped to their actual output; do not rely on distant content changing silently.
+
+The build consolidates repeated base64 image data in one deterministic inline registry and hydrates images before application modules initialize. Source fragments retain their ordinary image assets and captions. The generated site remains one deployable HTML file, while repeated cards/figures share bytes. Check the image registry and hydration in behaviour tests when editing this step. DOM fixtures run serially with garbage collection enabled; yield to the event loop between fixtures so closed windows and pending handlers are released before loading the next full page.
