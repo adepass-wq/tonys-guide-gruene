@@ -1,0 +1,152 @@
+{
+  "checked": "2026-10-12",
+  "images": [
+    {
+      "id": "juici-beef",
+      "imageUrl": "https://juicipatties.com/wp-content/uploads/2022/12/Juici-Beef_417x400jpg.jpg",
+      "size": [
+        417,
+        400
+      ],
+      "name": "Juici Patties / Juici Beef",
+      "sourceUrl": "https://juicipatties.com/menu-item/beef-patty/",
+      "sourceType": "primary operator product page",
+      "actualSubject": "A golden beef patty on a white plate, cut open to reveal filling.",
+      "suggestedCaption": "Juici beef patty — official product photograph.",
+      "notes": "Product photograph; no claim this was shot at an Ocho branch. Product page dated December15,2022; photo date unspecified.",
+      "visuallyInspected": true,
+      "rights": "No open licence or reuse grant found. Public availability does not establish permission; publisher/operator copyright and photographer rights may apply. Credit source, and obtain applicable permission before rehosting/publishing."
+    },
+    {
+      "id": "kfc-meal",
+      "imageUrl": "https://rojgroup.ofisistemas.com/App/ImageStorage/1T0delivery_8.png",
+      "size": [
+        797,
+        417
+      ],
+      "name": "KFC",
+      "sourceUrl": "https://kfcjamaica.com/en/menu/meal_deal_y167",
+      "sourceType": "primary operator menu data",
+      "actualSubject": "Two fried chicken pieces, fries and Pepsi in a composite product image.",
+      "suggestedCaption": "KFC Meal Deal — official menu illustration.",
+      "notes": "Image URL comes from operator menu __NEXT_DATA__ itemDelivery167 media.logo. Do not label an Ocho branch photograph; do not imply exact serving appearance/price.",
+      "visuallyInspected": true,
+      "rights": "No open licence or reuse grant found. Public availability does not establish permission; publisher/operator copyright and photographer rights may apply. Credit source, and obtain applicable permission before rehosting/publishing."
+    },
+    {
+      "id": "evita-venue",
+      "imageUrl": "https://evitas.dijamaicanexperience.com/wp-content/uploads/2018/04/contact-img.jpg",
+      "size": [
+        550,
+        549
+      ],
+      "name": "Evita’s Italian Restaurant",
+      "sourceUrl": "https://evitas.dijamaicanexperience.com/location/",
+      "sourceType": "primary operator location page",
+      "actualSubject": "Collage of signed entrance, wooden bar, evening dining table and outdoor veranda tables.",
+      "suggestedCaption": "Evita’s entrance, bar and veranda — operator photo collage.",
+      "notes": "Collage rather than single shot. URL upload path2018/04; capture date unknown; do not imply current unchanged decor.",
+      "visuallyInspected": true,
+      "rights": "No open licence or reuse grant found. Public availability does not establish permission; publisher/operator copyright and photographer rights may apply. Credit source, and obtain applicable permission before rehosting/publishing."
+    },
+    {
+      "id": "ciao-hero",
+      "imageUrl": "https://www.italianfoodjm.com/web/image/14612-e41e740f/WhatsApp%20Image%202025-09-17%20at%2013.32.46_38776a5a.jpg",
+      "size": [
+        1600,
+        1200
+      ],
+      "name": "Ciao Bella Art Cafe & Restaurant",
+      "sourceUrl": "https://www.italianfoodjm.com/",
+      "sourceType": "primary operator homepage hero background",
+      "actualSubject": "Interior dining room with upholstered booths, set tables and railing in foreground.",
+      "suggestedCaption": "Ciao Bella’s dining room — operator homepage photograph.",
+      "notes": "Hero background URL from actual operator CSS. Filename containsSeptember17,2025 but photo capture date not independently confirmed. Waffle/pizza menu illustrations excluded as evidence of actual served dishes.",
+      "visuallyInspected": true,
+      "rights": "No open licence or reuse grant found. Public availability does not establish permission; publisher/operator copyright and photographer rights may apply. Credit source, and obtain applicable permission before rehosting/publishing."
+    },
+    {
+      "id": "plantation-a",
+      "imageUrl": "https://res.cloudinary.com/dam4tupj7/image/upload/v1777608179/PSH_Web/gallery/instagram/ig-1746412290-3625491525192370033.jpg",
+      "size": [
+        1440,
+        1920
+      ],
+      "name": "Plantation Smokehouse",
+      "sourceUrl": "https://www.plantationsmokehouse.com/gallery",
+      "sourceType": "primary operator gallery",
+      "actualSubject": "A white plate with glazed grilled meat portions and a bowl of fries.",
+      "suggestedCaption": "A plated meat dish and fries — Plantation Smokehouse operator gallery.",
+      "notes": "Do not identify exact meat cut from appearance alone. Gallery ties image to operator Instagram; actual capture date not confirmed.",
+      "visuallyInspected": true,
+      "rights": "No open licence or reuse grant found. Public availability does not establish permission; publisher/operator copyright and photographer rights may apply. Credit source, and obtain applicable permission before rehosting/publishing."
+    },
+    {
+      "id": "plantation-b",
+      "imageUrl": "https://res.cloudinary.com/dam4tupj7/image/upload/v1777608174/PSH_Web/gallery/instagram/ig-1744761237-3611641486472815517.jpg",
+      "size": [
+        1440,
+        1800
+      ],
+      "name": "Plantation Smokehouse alternate",
+      "sourceUrl": "https://www.plantationsmokehouse.com/gallery",
+      "sourceType": "primary operator gallery",
+      "actualSubject": "Sliced cooked meat, salad garnish, a bowl of rice and sauce.",
+      "suggestedCaption": "Sliced meat with rice — Plantation Smokehouse operator gallery.",
+      "notes": "Alternate food image. Exact meat type not verified from caption.",
+      "visuallyInspected": true,
+      "rights": "No open licence or reuse grant found. Public availability does not establish permission; publisher/operator copyright and photographer rights may apply. Credit source, and obtain applicable permission before rehosting/publishing."
+    },
+    {
+      "id": "mongoose-sign",
+      "url": "https://images.squarespace-cdn.com/content/v1/63ba6ef36a535a1c93f3cf30/19e3bbed-8549-45cf-99db-90f37b3b6f56/mongoose-restaurant-3.png",
+      "size": [
+        2244,
+        1259
+      ],
+      "imageUrl": "https://images.squarespace-cdn.com/content/v1/63ba6ef36a535a1c93f3cf30/19e3bbed-8549-45cf-99db-90f37b3b6f56/mongoose-restaurant-3.png",
+      "name": "Mongoose Jamaica Restaurant & Lounge",
+      "sourceUrl": "https://luxeoasisochorios.com/ocho-rios-neighborhood-guide",
+      "sourceType": "secondary local accommodation operator guide",
+      "actualSubject": "Actual roof/entrance bearing Smirnoff and Mongoose Jamaica Restaurant & Lounge signage and red ENTRANCE sign.",
+      "suggestedCaption": "Mongoose’s signed entrance — photo published by Luxe Oasis.",
+      "notes": "Venue identity visually explicit. Photographer/ownership and capture date unspecified. Mongoose operator Facebook/Instagram inaccessible; this is NOT an official Mongoose photograph.",
+      "visuallyInspected": true,
+      "rights": "No open licence or reuse grant found. Public availability does not establish permission; publisher/operator copyright and photographer rights may apply. Credit source, and obtain applicable permission before rehosting/publishing."
+    },
+    {
+      "id": "bamboo-venue",
+      "url": "https://www.moonjamaica.com/sites/default/files/styles/flexslider_slide/public/bamboo-blu-2.jpeg?itok=NYU0i52D",
+      "size": [
+        840,
+        400
+      ],
+      "imageUrl": "https://www.moonjamaica.com/sites/default/files/styles/flexslider_slide/public/bamboo-blu-2.jpeg?itok=NYU0i52D",
+      "name": "Bamboo Blu",
+      "sourceUrl": "https://www.moonjamaica.com/listing/bamboo-blu",
+      "sourceType": "secondary travel publisher venue gallery",
+      "actualSubject": "Beach sand, a blue lounger, timber deck with open thatched-roof dining structure and building behind.",
+      "suggestedCaption": "Bamboo Blu’s beachfront setting — Moon Jamaica gallery photograph.",
+      "notes": "Venue photo from explicitly named business gallery. Capture date unknown; may be archival. Official Bamboo hero inspected is marketing collage; bamboo-strip images are decoration, not venue photographs.",
+      "visuallyInspected": true,
+      "rights": "No open licence or reuse grant found. Public availability does not establish permission; publisher/operator copyright and photographer rights may apply. Credit source, and obtain applicable permission before rehosting/publishing."
+    },
+    {
+      "id": "ocean11-venue",
+      "url": "https://storage.newlocay.com/realty/original/uploads/2024/08/Oceanfront-Business-for-Sale-in-Ocho-Rios-Jamaica-Oceans-11-3.jpg",
+      "size": [
+        1280,
+        720
+      ],
+      "imageUrl": "https://storage.newlocay.com/realty/original/uploads/2024/08/Oceanfront-Business-for-Sale-in-Ocho-Rios-Jamaica-Oceans-11-3.jpg",
+      "name": "Ocean’s 11 Restaurant & Bar",
+      "sourceUrl": "https://newlocay.com/property/oceanfront-business-for-sale-in-ocho-rios-jamaica-oceans-11/",
+      "sourceType": "secondary property listing syndicator (listing names Keller Williams Jamaica)",
+      "actualSubject": "Blue oceanfront building with Ocean’s11 Restaurant&Bar sign, seawall and water.",
+      "suggestedCaption": "Ocean’s 11 waterfront building — property listing photograph.",
+      "notes": "Venue identity visually explicit. PhotoURL upload2024/08; capture date unknown. Syndicator says images/info provided by agencies/agents. Listing was updatedJune22,2026 and displays both for-sale and sold/expired labels; image does not establish present operating status. Official oceans11ja.com failed502.",
+      "visuallyInspected": true,
+      "rights": "No open licence or reuse grant found. Public availability does not establish permission; publisher/operator copyright and photographer rights may apply. Credit source, and obtain applicable permission before rehosting/publishing."
+    }
+  ]
+}

@@ -78,3 +78,13 @@ Place photographs and document facsimiles within the narrative beside the releva
 `scripts/sensory-media.js` provides in-page image magnification and click-to-load YouTube embeds. Preserve original credits and fallback publisher links. `data/sensory-media-records.json` records source identity and technical checks; original publisher previews are labelled as 30-second excerpts. A successful HTTP response or provider embed flag does not establish heard playback.
 
 The newspaper and Independence Act page use base64 source assets in `src/assets/` so readers can examine them without another image server. Source include tokens must remain intact; parse/serialize source HTML only after protecting include tokens. Keep primary artifact metadata distinct from interpretation, and retain the prohibition on International Dialects of English Archive material.
+
+## Visitor discovery and local programmes
+
+`data/travel-places.json` is the single inventory for the activity directory, food filters, homepage picks, comparisons and custom timetables. Keep full reading fragments and manifest entries aligned with it. `foodKind`, `nearby` and `discoveryCategory` control the dedicated views. A town branch is a distinct location, not a duplicate business accidentally created by search.
+
+`data/local-programmes.json` contains recurring venue programmes, separately from confirmed dated events. Preserve weekday and second/last-Sunday rules. Homepage Today/This weekend uses Jamaica dates; the event desk also applies area and genre filters. Do not assign a dated concert or artist lineup from an undated venue feature. Programme records have a recheck date and visibly request fresh confirmation after it.
+
+Photographs of restaurants, product illustrations and logos must be distinguished in captions. `data/visitor-research.json` and `data/food-image-records.json` retain the evidence and limitations. Source image assets are compressed and embedded to preserve the current one-file hosting workflow; a source URL is not an open-licence statement. Never use stock as evidence of a named venue.
+
+The cruise calculator uses the visitor’s ship deadline, transfer estimate and margin; it does not infer berth, ship clock or traffic. Closed activity products stay visibly unavailable and are excluded from timetable options. Shared shortlist buttons use one delegated handler, including cards rendered after initial load.

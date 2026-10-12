@@ -1,0 +1,1206 @@
+{
+  "checked": "2026-10-12",
+  "food": {
+    "checkedAt": "2026-10-12",
+    "scope": "25 actual food-business/branch entries in Ocho Rios town. Includes shops/cafes as well as restaurants. Current primary operator/property/JTB evidence or transparently labeled commerce-partner evidence. No numerical price promises.",
+    "entries": [
+      {
+        "id": "ocho-food-1",
+        "name": "Juici Patties / Juici Beef — 1 Newlin Street",
+        "address": "1 Newlin Street, Ocho Rios",
+        "area": "Ocho Rios town",
+        "category": "Jamaican patties, coco bread, porridges and soups",
+        "officialUrl": "https://juicipatties.com/location/ocho-rios-1-newlin-st/",
+        "sources": [
+          {
+            "url": "https://juicipatties.com/location/ocho-rios-1-newlin-st/",
+            "type": "operator or property operator",
+            "supports": "Business, location and description unless limitations are noted."
+          }
+        ],
+        "hours": null,
+        "booking": "Opening and booking details not verified; confirm directly.",
+        "pricingStyle": "Counter-service snacks or meals; compare the posted branch menu.",
+        "notes": "",
+        "images": []
+      },
+      {
+        "id": "ocho-food-2",
+        "name": "Juici Patties / Juici Beef — 61 Main Street",
+        "address": "61 Main Street, Ocho Rios",
+        "area": "Ocho Rios town",
+        "category": "Jamaican patties, coco bread, porridges and soups",
+        "officialUrl": "https://juicipatties.com/location/ocho-rios-61-main-st/",
+        "sources": [
+          {
+            "url": "https://juicipatties.com/location/ocho-rios-61-main-st/",
+            "type": "operator or property operator",
+            "supports": "Business, location and description unless limitations are noted."
+          }
+        ],
+        "hours": null,
+        "booking": "Opening and booking details not verified; confirm directly.",
+        "pricingStyle": "Counter-service snacks or meals; compare the posted branch menu.",
+        "notes": "",
+        "images": []
+      },
+      {
+        "id": "ocho-food-3",
+        "name": "KFC — Main Street",
+        "address": "22 Main Street, Ocho Rios",
+        "area": "Ocho Rios town",
+        "category": "Fried chicken and fast-food combos",
+        "officialUrl": "https://kfcjamaica.com/en/store-locator/kfc_ocho_rios_main_street_",
+        "sources": [
+          {
+            "url": "https://kfcjamaica.com/en/store-locator/kfc_ocho_rios_main_street_",
+            "type": "operator or property operator",
+            "supports": "Business, location and description unless limitations are noted."
+          }
+        ],
+        "hours": "Daily 10am–9pm (operator schedule)",
+        "booking": "Order through the official branch page; tel 876-974-2830.",
+        "pricingStyle": "Counter-service combos and individual items.",
+        "notes": "",
+        "images": []
+      },
+      {
+        "id": "ocho-food-4",
+        "name": "KFC — Eight Rivers",
+        "address": "19–20 Eight River Plaza, Ocho Rios",
+        "area": "Ocho Rios town",
+        "category": "Fried chicken and fast-food combos",
+        "officialUrl": "https://www.kfcjamaica.com/en/store-locator/kfc_ocho_rios_eight_rivers",
+        "sources": [
+          {
+            "url": "https://www.kfcjamaica.com/en/store-locator/kfc_ocho_rios_eight_rivers",
+            "type": "operator or property operator",
+            "supports": "Business, location and description unless limitations are noted."
+          }
+        ],
+        "hours": "Daily 10am–9pm (operator schedule)",
+        "booking": "Official branch page; tel 876-974-5572.",
+        "pricingStyle": "Counter-service combos and individual items.",
+        "notes": "",
+        "images": []
+      },
+      {
+        "id": "ocho-food-5",
+        "name": "Pizza Hut — Ocho Rios",
+        "address": "CV4W+HHM, Ocho Rios (operator locator plus-code)",
+        "area": "Ocho Rios town",
+        "category": "Pizza",
+        "officialUrl": "https://www.pizzahutjamaica.com/en/store-locator",
+        "sources": [
+          {
+            "url": "https://www.pizzahutjamaica.com/en/store-locator",
+            "type": "operator or property operator",
+            "supports": "Business, location and description unless limitations are noted."
+          }
+        ],
+        "hours": null,
+        "booking": "Official locator directions; tel 876-755-4488. Verify local collection/delivery.",
+        "pricingStyle": "Pizza sizes, toppings and combos; current offers vary.",
+        "notes": "Use official plus-code. Do not copy a secondary Eight Rivers shop number that also appears on KFC’s locator.",
+        "images": []
+      },
+      {
+        "id": "ocho-food-6",
+        "name": "Miss T’s Kitchen",
+        "address": "65 Main Street, Ocho Rios",
+        "area": "Ocho Rios town",
+        "category": "Jamaican homestyle meals",
+        "officialUrl": "https://www.misstskitchen.com/",
+        "sources": [
+          {
+            "url": "https://www.misstskitchen.com/",
+            "type": "operator or property operator",
+            "supports": "Business, location and description unless limitations are noted."
+          },
+          {
+            "url": "https://www.visitjamaica.com/resort-areas/ocho-rios/where-to-eat/",
+            "type": "JTB",
+            "supports": "Jerk chicken, curry goat and seafood."
+          }
+        ],
+        "hours": null,
+        "booking": "Operator invites reservations by phone: 876-795-0099.",
+        "pricingStyle": "Sit-down à la carte.",
+        "notes": "",
+        "images": [
+          {
+            "url": "https://static.wixstatic.com/media/7a7eb7_906799b6457a4adaa6dbea4d6a0b2713~mv2.jpg",
+            "provenance": "https://www.misstskitchen.com/",
+            "subject": "Operator page OG image; inspect before caption.",
+            "rights": "Operator image; reuse permission unknown."
+          }
+        ]
+      },
+      {
+        "id": "ocho-food-7",
+        "name": "Ciao Bella Art Cafe & Restaurant",
+        "address": "Taj Mahal Plaza, Main Street, Ocho Rios",
+        "area": "Ocho Rios town",
+        "category": "Italian pasta and pizza; cafe breakfasts and pastries",
+        "officialUrl": "https://www.italianfoodjm.com/",
+        "sources": [
+          {
+            "url": "https://www.italianfoodjm.com/",
+            "type": "operator or property operator",
+            "supports": "Business, location and description unless limitations are noted."
+          },
+          {
+            "url": "https://tajmahal.com.jm/category/restaurants/",
+            "type": "property operator",
+            "supports": "Taj Mahal Plaza location."
+          }
+        ],
+        "hours": "Cafe menu Mon–Sat 9am–6pm; restaurant Tue–Sun noon–9pm (different operator menus).",
+        "booking": "Opening and booking details not verified; confirm directly.",
+        "pricingStyle": "Cafe items or sit-down à la carte.",
+        "notes": "Do not merge cafe and restaurant schedules.",
+        "images": []
+      },
+      {
+        "id": "ocho-food-8",
+        "name": "Evita’s Italian Restaurant",
+        "address": "Eden Bower Road, Ocho Rios",
+        "area": "Ocho Rios town",
+        "category": "Northern Italian and Jamaican-Italian fusion",
+        "officialUrl": "https://evitas.dijamaicanexperience.com/",
+        "sources": [
+          {
+            "url": "https://evitas.dijamaicanexperience.com/",
+            "type": "operator or property operator",
+            "supports": "Business, location and description unless limitations are noted."
+          }
+        ],
+        "hours": null,
+        "booking": "Call 876-974-2333 for lunch/dinner arrangements.",
+        "pricingStyle": "Sit-down à la carte, lunch specials advertised.",
+        "notes": "Hillside house; request actual route and entry information if mobility matters.",
+        "images": []
+      },
+      {
+        "id": "ocho-food-9",
+        "name": "Mongoose Jamaica Restaurant & Lounge",
+        "address": "52 Main Street, Ocho Rios",
+        "area": "Ocho Rios town",
+        "category": "Local and international meals; restaurant/lounge",
+        "officialUrl": "https://www.visitjamaica.com/resort-areas/ocho-rios/where-to-eat/",
+        "sources": [
+          {
+            "url": "https://www.visitjamaica.com/resort-areas/ocho-rios/where-to-eat/",
+            "type": "operator or property operator",
+            "supports": "Business, location and description unless limitations are noted."
+          },
+          {
+            "url": "https://fspid.gov.jm/St.%20Ann.pdf",
+            "type": "government historical address record",
+            "supports": "52 Main Street; listed certificate expiry May31,2025."
+          }
+        ],
+        "hours": null,
+        "booking": "Opening and booking details not verified; confirm directly.",
+        "pricingStyle": "Sit-down menu; no current price list verified.",
+        "notes": "Current JTB page names venue. Exact address comes from 2025 government certificate list; certificate expiry is not a closure statement or a current licence claim.",
+        "images": []
+      },
+      {
+        "id": "ocho-food-10",
+        "name": "Reggae Kitchen & Lounge",
+        "address": "The Fishing Village, Ocho Rios — shop number not primary-verified; confirm",
+        "area": "Ocho Rios town",
+        "category": "Jamaican seafood",
+        "officialUrl": "https://www.visitjamaica.com/resort-areas/ocho-rios/where-to-eat/",
+        "sources": [
+          {
+            "url": "https://www.visitjamaica.com/resort-areas/ocho-rios/where-to-eat/",
+            "type": "operator or property operator",
+            "supports": "Business, location and description unless limitations are noted."
+          }
+        ],
+        "hours": null,
+        "booking": "Opening and booking details not verified; confirm directly.",
+        "pricingStyle": "Seafood meal menu; current prices unknown.",
+        "notes": "JTB confirms business/seafood; reggaekitchenja.com failed to load. Fishing Village/shop3 is a secondary address lead; do not publish shop3 as primary-verified.",
+        "images": []
+      },
+      {
+        "id": "ocho-food-11",
+        "name": "Ocho Rios Jerk Centre",
+        "address": "14 DaCosta Drive, Ocho Rios",
+        "area": "Ocho Rios town",
+        "category": "Jerk chicken, pork and sausage; seafood",
+        "officialUrl": "https://www.ochoriosjerkcenter.com/",
+        "sources": [
+          {
+            "url": "https://www.ochoriosjerkcenter.com/",
+            "type": "operator or property operator",
+            "supports": "Business, location and description unless limitations are noted."
+          }
+        ],
+        "hours": "Mon–Thu 11am–midnight; Fri–Sun 11am–1am (operator schedule)",
+        "booking": "Tel 876-974-2549; WhatsApp 876-318-4059.",
+        "pricingStyle": "Menu-priced platters and individual dishes.",
+        "notes": "",
+        "images": [
+          {
+            "url": "https://static.wixstatic.com/media/c17436_d994ff3917254e56931dd4c7a583e948~mv2.jpg",
+            "provenance": "https://www.ochoriosjerkcenter.com/",
+            "subject": "Operator homepage photo ANMP0051; inspect before caption.",
+            "rights": "Operator image; reuse permission unknown."
+          }
+        ]
+      },
+      {
+        "id": "ocho-food-12",
+        "name": "Manzil — East Meets West",
+        "address": "Shop 16A, Soni’s Plaza, 50 Main Street, Ocho Rios",
+        "area": "Ocho Rios town",
+        "category": "Indian/Chinese restaurant",
+        "officialUrl": "https://www.jamaicainn.com/dining/",
+        "sources": [
+          {
+            "url": "https://www.jamaicainn.com/dining/",
+            "type": "operator or property operator",
+            "supports": "Business, location and description unless limitations are noted."
+          },
+          {
+            "url": "https://fspid.gov.jm/St.%20Ann.pdf",
+            "type": "government historical address record",
+            "supports": "Manzil shop16A Soni’s Plaza address."
+          }
+        ],
+        "hours": null,
+        "booking": "Opening and booking details not verified; confirm directly.",
+        "pricingStyle": "Sit-down à la carte; prices unverified.",
+        "notes": "Jamaica Inn currently names Manzil as a dine-around partner. Exact address from 2025 government record; do not imply hotel meal plan is public restaurant pricing.",
+        "images": []
+      },
+      {
+        "id": "ocho-food-13",
+        "name": "Margaritaville — Ocho Rios",
+        "address": "Island Village, Turtle River Road, Ocho Rios",
+        "area": "Ocho Rios town",
+        "category": "Caribbean/American food, burgers and bar",
+        "officialUrl": "https://www.margaritavillecaribbean.com/ocho-rios/",
+        "sources": [
+          {
+            "url": "https://www.margaritavillecaribbean.com/ocho-rios/",
+            "type": "operator or property operator",
+            "supports": "Business, location and description unless limitations are noted."
+          },
+          {
+            "url": "https://www.margaritavillecaribbean.com/about-us/faqs/",
+            "type": "operator",
+            "supports": "Day dining hours."
+          }
+        ],
+        "hours": "Day restaurant: 10am–10pm in operator FAQ; confirm late-night schedules.",
+        "booking": "Contact operator for groups; daytime dining described in FAQ.",
+        "pricingStyle": "Tourist restaurant à la carte; check currency/service on menu.",
+        "notes": "FAQ and town page late-night times differ; omit definitive nightclub closing time.",
+        "images": []
+      },
+      {
+        "id": "ocho-food-14",
+        "name": "Café Blue — Ocho Rios",
+        "address": "Unit 3, Eight Rivers Towne Centre, Ocho Rios (ordering partner)",
+        "area": "Ocho Rios town",
+        "category": "Coffee, sandwiches, pastries and breakfasts",
+        "officialUrl": "https://cafeblue.com/",
+        "sources": [
+          {
+            "url": "https://cafeblue.com/",
+            "type": "operator or property operator",
+            "supports": "Business, location and description unless limitations are noted."
+          },
+          {
+            "url": "https://linktr.ee/CafeBlue",
+            "type": "operator profile",
+            "supports": "Ocho branch event reference."
+          },
+          {
+            "url": "https://www.quickcartonline.com/store/menu/merchant/cafe-blue-ocho-rios",
+            "type": "commerce partner",
+            "supports": "Specific Ocho branch and menu/address."
+          }
+        ],
+        "hours": null,
+        "booking": "Opening and booking details not verified; confirm directly.",
+        "pricingStyle": "Cafe menu: drinks, snacks and meals.",
+        "notes": "Operator site inaccessible on this check; its official Linktree advertises Ocho event. Ordering partner verifies specific branch/address; partner delivery hours are not dine-in hours.",
+        "images": []
+      },
+      {
+        "id": "ocho-food-15",
+        "name": "Jamaica Inn dining / Teddy’s Beach Grill",
+        "address": "Jamaica Inn, Ocho Rios (eastern town; ask hotel for directions)",
+        "area": "Ocho Rios town",
+        "category": "Resort terrace dining and beach grill",
+        "officialUrl": "https://www.jamaicainn.com/dining/",
+        "sources": [
+          {
+            "url": "https://www.jamaicainn.com/dining/",
+            "type": "operator or property operator",
+            "supports": "Business, location and description unless limitations are noted."
+          }
+        ],
+        "hours": null,
+        "booking": "Ask hotel to confirm nonresident reservations and access: 855-441-2044.",
+        "pricingStyle": "Resort à la carte or guest meal plans; confirm nonresident menu/currency.",
+        "notes": "Do not publish room-guest meal-plan costs as walk-in restaurant prices. Hotel page alone does not guarantee public beach access.",
+        "images": []
+      },
+      {
+        "id": "ocho-food-16",
+        "name": "Christopher’s / The Broken Rudder — Hermosa Cove",
+        "address": "End of Hermosa Lane, Ocho Rios",
+        "area": "Ocho Rios town",
+        "category": "Jamaican coastal restaurant and outdoor barbecue",
+        "officialUrl": "https://www.hermosacove.com/the-broken-rudder/",
+        "sources": [
+          {
+            "url": "https://www.hermosacove.com/the-broken-rudder/",
+            "type": "operator or property operator",
+            "supports": "Business, location and description unless limitations are noted."
+          }
+        ],
+        "hours": "Broken Rudder onsite guests: daily noon–5pm; Friday barbecue depends on occupancy.",
+        "booking": "Nonresidents must call ahead for availability/reservation (876-974-3699); security requires reservation names and ID.",
+        "pricingStyle": "Menu prices in USD; groups/special dining may need deposits.",
+        "notes": "One business entry: Broken Rudder is the outdoor barbecue part of Christopher’s, not a second independent restaurant.",
+        "images": [
+          {
+            "url": "https://www.hermosacove.com/wp-content/uploads/2025/07/DSC04497-683x1024.jpeg",
+            "provenance": "https://www.hermosacove.com/the-broken-rudder/",
+            "subject": "Operator restaurant page photograph; inspect before caption.",
+            "rights": "Operator image; reuse permission unknown."
+          }
+        ]
+      },
+      {
+        "id": "ocho-food-17",
+        "name": "Island Brew Cafe",
+        "address": "Cruise Ship Pier, Ocho Rios, St Ann",
+        "area": "Ocho Rios town",
+        "category": "Coffee cafe",
+        "officialUrl": "https://islandbluecoffee.com/pages/contact-us",
+        "sources": [
+          {
+            "url": "https://islandbluecoffee.com/pages/contact-us",
+            "type": "operator or property operator",
+            "supports": "Business, location and description unless limitations are noted."
+          }
+        ],
+        "hours": null,
+        "booking": "Tel876-974-4010. Confirm opening and whether nonpassengers can enter cruise-port premises.",
+        "pricingStyle": "Cafe retail; prices unverified.",
+        "notes": "Distinct from Island Coffees Cafe at Island Village. Do not promise unrestricted port access.",
+        "images": []
+      },
+      {
+        "id": "ocho-food-18",
+        "name": "Island Coffees Cafe & Boardwalk Bistro",
+        "address": "Island Village, Ocho Rios",
+        "area": "Ocho Rios town",
+        "category": "Coffee, Jamaican breakfasts, sandwiches and pasta",
+        "officialUrl": "https://www.quickcartonline.com/store/menu/merchant/island-coffees-cafe-amp-boardwalk-bistro-ocho-rios",
+        "sources": [
+          {
+            "url": "https://www.quickcartonline.com/store/menu/merchant/island-coffees-cafe-amp-boardwalk-bistro-ocho-rios",
+            "type": "operator or property operator",
+            "supports": "Business, location and description unless limitations are noted."
+          }
+        ],
+        "hours": null,
+        "booking": "Opening and booking details not verified; confirm directly.",
+        "pricingStyle": "Cafe and meal menu; ordering-partner prices may differ in person.",
+        "notes": "Primary commerce-partner menu rather than retrieved operator website. Display “Closed” is live ordering status, not evidence permanent closure.",
+        "images": []
+      },
+      {
+        "id": "ocho-food-19",
+        "name": "Andy’s Jerk / The Flava Yard Jerk Center",
+        "address": "Island Village, Turtle River Road, Ocho Rios",
+        "area": "Ocho Rios town",
+        "category": "Jamaican jerk",
+        "officialUrl": "https://islandvillageja.com/andys-jerk",
+        "sources": [
+          {
+            "url": "https://islandvillageja.com/andys-jerk",
+            "type": "operator or property operator",
+            "supports": "Business, location and description unless limitations are noted."
+          }
+        ],
+        "hours": "Property page displays today10am–6pm; weekly schedule unknown.",
+        "booking": "Opening and booking details not verified; confirm directly.",
+        "pricingStyle": "Casual jerk counter; prices unknown.",
+        "notes": "Hero photo is Getty stock: do not call it a photograph of this venue.",
+        "images": []
+      },
+      {
+        "id": "ocho-food-20",
+        "name": "Pizza Please",
+        "address": "Island Village, Turtle River Road, Ocho Rios",
+        "area": "Ocho Rios town",
+        "category": "Sourdough pizza",
+        "officialUrl": "https://islandvillageja.com/pizza-please",
+        "sources": [
+          {
+            "url": "https://islandvillageja.com/pizza-please",
+            "type": "operator or property operator",
+            "supports": "Business, location and description unless limitations are noted."
+          }
+        ],
+        "hours": null,
+        "booking": "Opening and booking details not verified; confirm directly.",
+        "pricingStyle": "Pizza menu; current prices unknown.",
+        "notes": "Property page includes placeholder phone876000000 and7am–7am hours; suppress both. Operator link pizzapleaseja.com/about-us.",
+        "images": [
+          {
+            "url": "https://img1.wsimg.com/isteam/ip/26856781-f51c-47f1-ae70-04939d9b00cc/qt%3Dq_95.webp/:/cr=t:0%25,l:0%25,w:100%25,h:100%25/rs=w:1240,cg:true",
+            "provenance": "https://islandvillageja.com/pizza-please",
+            "subject": "Operator/property image; inspect before selecting caption.",
+            "rights": "Copyright/permission not established; no rehosting authorisation inferred."
+          }
+        ]
+      },
+      {
+        "id": "ocho-food-21",
+        "name": "Scoops Ice-Cream / Devon House I-Scream",
+        "address": "Shop 11/20A, Island Village, Turtle River Road, Ocho Rios",
+        "area": "Ocho Rios town",
+        "category": "Ice cream; tropical and rum-and-raisin flavours",
+        "officialUrl": "https://islandvillageja.com/scoops-ice-cream",
+        "sources": [
+          {
+            "url": "https://islandvillageja.com/scoops-ice-cream",
+            "type": "operator or property operator",
+            "supports": "Business, location and description unless limitations are noted."
+          }
+        ],
+        "hours": "Property page displays today11am–5pm; weekly schedule unknown.",
+        "booking": "Opening and booking details not verified; confirm directly.",
+        "pricingStyle": "Counter-service frozen treats.",
+        "notes": "Specific shop11/20A; tel8766758776.",
+        "images": []
+      },
+      {
+        "id": "ocho-food-22",
+        "name": "Starbucks — Island Village",
+        "address": "Island Village, Turtle River Road, Ocho Rios",
+        "area": "Ocho Rios town",
+        "category": "Coffee, espresso and Frappuccino",
+        "officialUrl": "https://islandvillageja.com/starbucks",
+        "sources": [
+          {
+            "url": "https://islandvillageja.com/starbucks",
+            "type": "operator or property operator",
+            "supports": "Business, location and description unless limitations are noted."
+          }
+        ],
+        "hours": null,
+        "booking": "Opening and booking details not verified; confirm directly.",
+        "pricingStyle": "Coffeehouse drinks/snacks.",
+        "notes": "Property narrative says MonFri10am–5pm/weekends9am–4:30pm but hours widget says9am–6pm. Confirm8766162374; do not choose one as certain.",
+        "images": [
+          {
+            "url": "https://img1.wsimg.com/isteam/ip/26856781-f51c-47f1-ae70-04939d9b00cc/4E140DDE-1E0C-4E41-8753-E1588E7AB7FE.jpeg/:/rs=w:1240,h:620,cg:true,m/cr=w:1240,h:620",
+            "provenance": "https://islandvillageja.com/starbucks",
+            "subject": "Operator/property image; inspect before selecting caption.",
+            "rights": "Copyright/permission not established; no rehosting authorisation inferred."
+          }
+        ]
+      },
+      {
+        "id": "ocho-food-23",
+        "name": "Rolly Polly",
+        "address": "Island Village, Turtle River Road, Ocho Rios",
+        "area": "Ocho Rios town",
+        "category": "Rolled ice cream",
+        "officialUrl": "https://islandvillageja.com/rolly-polly",
+        "sources": [
+          {
+            "url": "https://islandvillageja.com/rolly-polly",
+            "type": "operator or property operator",
+            "supports": "Business, location and description unless limitations are noted."
+          }
+        ],
+        "hours": "Property page displays todaynoon–8pm; weekly schedule unknown.",
+        "booking": "Opening and booking details not verified; confirm directly.",
+        "pricingStyle": "Counter-service frozen treats.",
+        "notes": "Tel8764934688; photographed storefront on property page.",
+        "images": [
+          {
+            "url": "https://img1.wsimg.com/isteam/ip/26856781-f51c-47f1-ae70-04939d9b00cc/IMG_1650.JPEG/:/rs=w:1240,h:620,cg:true,m/cr=w:1240,h:620",
+            "provenance": "https://islandvillageja.com/rolly-polly",
+            "subject": "Operator/property image; inspect before selecting caption.",
+            "rights": "Copyright/permission not established; no rehosting authorisation inferred."
+          }
+        ]
+      },
+      {
+        "id": "ocho-food-24",
+        "name": "Pure Chocolate",
+        "address": "Island Village, Turtle River Road, Ocho Rios",
+        "area": "Ocho Rios town",
+        "category": "Jamaican artisan chocolate shop",
+        "officialUrl": "https://islandvillageja.com/pure-chocolate",
+        "sources": [
+          {
+            "url": "https://islandvillageja.com/pure-chocolate",
+            "type": "operator or property operator",
+            "supports": "Business, location and description unless limitations are noted."
+          }
+        ],
+        "hours": "Property page displays today9am–5pm; weekly schedule unknown.",
+        "booking": "Opening and booking details not verified; confirm directly.",
+        "pricingStyle": "Packaged artisan chocolate; workshop is a separate booking.",
+        "notes": "Tel8763521934; shop rather than full restaurant.",
+        "images": [
+          {
+            "url": "https://img1.wsimg.com/isteam/ip/26856781-f51c-47f1-ae70-04939d9b00cc/business_3561611953963.jpg/:/rs=w:1240,h:620,cg:true,m/cr=w:1240,h:620",
+            "provenance": "https://islandvillageja.com/pure-chocolate",
+            "subject": "Operator/property image; inspect before selecting caption.",
+            "rights": "Copyright/permission not established; no rehosting authorisation inferred."
+          }
+        ]
+      },
+      {
+        "id": "ocho-food-25",
+        "name": "Chill Pops",
+        "address": "Island Village, Turtle River Road, Ocho Rios",
+        "area": "Ocho Rios town",
+        "category": "Artisan popsicles and soft serve",
+        "officialUrl": "https://islandvillageja.com/chill-pops",
+        "sources": [
+          {
+            "url": "https://islandvillageja.com/chill-pops",
+            "type": "operator or property operator",
+            "supports": "Business, location and description unless limitations are noted."
+          }
+        ],
+        "hours": null,
+        "booking": "Opening and booking details not verified; confirm directly.",
+        "pricingStyle": "Counter-service frozen treats.",
+        "notes": "Property identifies business; hours/contact not supplied on retrieved page.",
+        "images": [
+          {
+            "url": "https://img1.wsimg.com/isteam/ip/26856781-f51c-47f1-ae70-04939d9b00cc/chill.jpg/:/cr=t:12.44%25,l:0%25,w:100%25,h:75.12%25/rs=w:1240,h:932.3308270676691,cg:true",
+            "provenance": "https://islandvillageja.com/chill-pops",
+            "subject": "Operator/property image; inspect before selecting caption.",
+            "rights": "Copyright/permission not established; no rehosting authorisation inferred."
+          }
+        ]
+      }
+    ],
+    "unverifiedRequestedChains": [
+      {
+        "name": "Tastee",
+        "officialUrl": "https://www.tasteejamaica.com/locations/",
+        "status": "No current Ocho branch found on retrieved operator page. Secondary2MilfordRoad listing not sufficient for requested verification. Do not infer absence/closure."
+      },
+      {
+        "name": "Burger King",
+        "officialUrl": "https://www.raljm.com/",
+        "status": "National operator confirmed; Ocho current branch not retrieved from primary listing. MainStreet secondary reports are leads only."
+      },
+      {
+        "name": "Popeyes Louisiana Kitchen",
+        "officialUrl": "https://www.raljm.com/",
+        "status": "No verified Ocho chain branch. Directory independent Popeye Restaurant is not proof of Louisiana chain. Reject popeyeschickenmenu.com10MainSt listing with fabricated-looking555 phone."
+      },
+      {
+        "name": "Domino’s",
+        "officialUrl": "https://www.dominos.com.jm/",
+        "status": "Multiple current secondary Ocho listings; official dynamic site did not expose branch. Excluded under primary-current-branch rule. Do not confuse JamaicaNY with island Jamaica."
+      }
+    ],
+    "nearbyAlternatives": [
+      {
+        "name": "Scotchies Drax Hall",
+        "address": "Drax Hall, west of Ocho Rios",
+        "sources": [
+          "https://www.visitjamaica.com/resort-areas/ocho-rios/where-to-eat/"
+        ],
+        "category": "Jamaican jerk",
+        "hours": null
+      },
+      {
+        "name": "Plantation Smokehouse",
+        "address": "Richmond/Plantation Village, west of Ocho Rios",
+        "sources": [
+          "https://www.plantationsmokehouse.com/"
+        ],
+        "category": "Smoked meat/seafood and international dishes",
+        "hours": "Operator daily10am–11pm"
+      },
+      {
+        "name": "Bamboo Blu",
+        "address": "Mammee Bay Estate, west of Ocho Rios",
+        "sources": [
+          "https://bambooblujamaica.com/about-us/"
+        ],
+        "category": "Beachfront restaurant",
+        "hours": null,
+        "note": "10am–6pm MonFri advertised reservation-contact window is not restaurant opening hours."
+      },
+      {
+        "name": "Sharkies Seafood",
+        "address": "A1 MainStreet Salem, RunawayBay, StAnn; outside Ocho Rios",
+        "sources": [
+          "https://www.sharkiesseafood.com/contact"
+        ],
+        "category": "Seafood",
+        "hours": "Operator daily10am–10:30pm",
+        "booking": "Walkins welcome; groups should reserve."
+      },
+      {
+        "name": "Starliner Seafood Wine-Bar & Grill",
+        "address": "Plantation Village, Priory; outside Ocho Rios",
+        "sources": [
+          "https://starlinerjamaica.com/"
+        ],
+        "category": "Seafood and Jamaican meals",
+        "hours": "Monday and Wednesday–Saturday 11am–11pm; Sunday noon–10pm; closed Tuesday.",
+        "pricingStyle": "Operator menu denominated JMD."
+      }
+    ],
+    "additionalLeads": [
+      {
+        "name": "Spring Garden Seafood & Steakhouse",
+        "evidence": "https://www.visitjamaica.com/resort-areas/ocho-rios/where-to-eat/",
+        "note": "JTB names venue; alleged operator springgardenja.com failed502; bypass address not primary-verified."
+      },
+      {
+        "name": "John Crow’s Tavern",
+        "evidence": "https://johncrowstavern.com/",
+        "note": "Cached address10MainStreet, but live operator domain redirects to Account Suspended. Excluded from verified25 until operating/contact confirmation."
+      },
+      {
+        "name": "Nuff Fries",
+        "evidence": "https://islandvillageja.com/nuff-fries",
+        "note": "Property current navigation lists business but destination page text empty; not included in25."
+      }
+    ],
+    "editorialRules": [
+      "Specific branch hours remain changeable; publish source attribution and confirm-before-travel note.",
+      "Do not treat property today-hours widgets as a complete weekly schedule.",
+      "Photographs are provenance leads only; exact subject/caption and rights must be checked before embedding.",
+      "Primary government certificate2025 addresses are historical evidence, not proof of current certification."
+    ]
+  },
+  "activities": {
+    "researched_at": "2026-10-12",
+    "timezone": "America/Jamaica",
+    "activities": [
+      {
+        "name": "White River Calypso rafting",
+        "location": "Prospherhall, Exchange, White River / Ocho Rios",
+        "kind": "guided_raft",
+        "official_url": "https://whiterivercalypsorafting.com/tours/online-tours/river-rafting-ticket/",
+        "evidence": "Operator sells raft ticket for1–2people; JTB lists CalypsoRafting open.",
+        "source_refs": [
+          "turn152view1",
+          "turn158view2"
+        ],
+        "status": "published_offer",
+        "schedule": "Daily09:00–16:00; closedGoodFriday/Christmas",
+        "published_cost": "US$100 per raft for1–2people",
+        "limits": "Distinguish raft seat from inner tube. Operator text retrieved says rafting without explicit bamboo material; confirm material or inspect operator raft photograph before labeling bamboo. Do not infer broad safety certification from marketing.",
+        "authentic_image_url": null,
+        "image_rights": null
+      },
+      {
+        "name": "White River Calypso tubing",
+        "location": "Prospherhall, Exchange, White River / Ocho Rios",
+        "kind": "inner_tube",
+        "official_url": "https://whiterivercalypsorafting.com/",
+        "evidence": "Operator explicitly states river tubing temporarily unavailable.",
+        "source_refs": [
+          "turn152view0"
+        ],
+        "status": "temporarily_unavailable",
+        "schedule": null,
+        "published_cost": null,
+        "limits": "Do not enable book-now recommendation or interpret oldUS$40 product link as active operation.",
+        "authentic_image_url": "https://whiterivercalypsorafting.com/wp-content/uploads/2025/06/image9.jpeg",
+        "image_rights": "Operator copyright; existence on site does not grant reproduction permission."
+      },
+      {
+        "name": "Keith’s Bamboo Crew river outing",
+        "location": "White River; departures ShawParkBeach / CouplesSansSouciSunsetBeach",
+        "kind": "bamboo_raft",
+        "official_url": "https://keithsbamboocrew.com/",
+        "evidence": "Operator explicitly says bamboo raft and approximately3h including lunch; daily departures.",
+        "source_refs": [
+          "turn158view0"
+        ],
+        "status": "standing_offer_current_operations_unconfirmed",
+        "schedule": "Daily per standing page; confirm departure",
+        "published_cost": null,
+        "limits": "Website blog dated2018/2019. Licensing,current operation and access for nonguests not independently checked. Do not present as freshly confirmed departure.",
+        "authentic_image_url": null,
+        "image_rights": null
+      },
+      {
+        "name": "Rafting on the White River — Old Road operator",
+        "location": "CW7H+589, OldRd, OchoRios",
+        "kind": "guided_raft",
+        "official_url": "https://raftingonthewhiteriverofficial.com/",
+        "evidence": "Operator publishes rafting offers, address and contact8763763984.",
+        "source_refs": [
+          "turn149view0",
+          "turn132view1"
+        ],
+        "status": "operator_claims_offer_details_conflicting",
+        "schedule": null,
+        "published_cost": null,
+        "limits": "Contact page body09–17 vsfooter08–18. Do not print exact hours. Text retrieved does not identify bamboo construction; avoid assuming. Licensing/current departures not independently verified.",
+        "authentic_image_url": null,
+        "image_rights": null
+      },
+      {
+        "name": "Blue Adventure Tours WhiteRiver tubing",
+        "location": "WhiteRiver, StMary per description; header OchoRiosStAnn",
+        "kind": "inner_tube",
+        "official_url": "https://www.blueadventuretours.com/tours/river-tubing",
+        "evidence": "Seller describes WhiteRiver tubing andUS$69.99.",
+        "source_refs": [
+          "turn136view1"
+        ],
+        "status": "advertised_current_departures_unconfirmed",
+        "schedule": null,
+        "published_cost": null,
+        "limits": "Conflicts with Calypso tubing suspension and JTB ChukkaWhiteRiverValley closure. This seller may use another operation; confirm actual outfitter,river section and availability before recommending.",
+        "authentic_image_url": null,
+        "image_rights": null
+      },
+      {
+        "name": "Hermosa Cove beach/daypass with kayaking and snorkeling",
+        "location": "HermosaLane, OchoRios",
+        "kind": "kayak_snorkel_beach",
+        "official_url": "https://www.hermosacove.com/day-pass/",
+        "evidence": "Resort explicitly offers nonguest daypass, pools/beach, kayak/snorkel staff supplement.",
+        "source_refs": [
+          "turn140view0"
+        ],
+        "status": "published_offer",
+        "schedule": "10:00–17:00 daypass",
+        "published_cost": "Published$75 perperson/day; kayaking/snorkeling$25 extra",
+        "limits": "Arrange directly; no outside food/liquor. Confirm currency and whether supplement covers both activities. Conditions dependent.",
+        "authentic_image_url": "https://hermosacove.com/wp-content/uploads/2025/07/DSC03220.jpeg",
+        "image_rights": "Operator copyright; existence on site does not grant reproduction permission."
+      },
+      {
+        "name": "ScubaCaribe Signature Snorkeling",
+        "location": "OchoRios; watersports center meeting point on confirmation",
+        "kind": "guided_snorkel",
+        "official_url": "https://www.scubacaribe.com/tours/jamaica/ocho-rios/signature-snorkeling/",
+        "evidence": "Operator includes gear/guide/water and two shallow reefs.",
+        "source_refs": [
+          "turn140view1"
+        ],
+        "status": "published_offer",
+        "schedule": null,
+        "published_cost": "US$59 tour; RIUdaypassUS$90 may be required for outside guests",
+        "limits": "Page says Jamaica services exclusive forRIU,SunsetAtThePalms,PrincessGrand guests; outsiders require daypass,notavailable publicholidays. Verify selected center and access,total price.",
+        "authentic_image_url": "https://cdn.tourcms.com/a/13222/655/1/large.png",
+        "image_rights": "Operator copyright; existence on site does not grant reproduction permission."
+      },
+      {
+        "name": "Garfield Diving Station snorkeling and glass-bottom boat",
+        "location": "OchoRios; exact departure toconfirm",
+        "kind": "snorkel_boat_scuba",
+        "official_url": "https://garfielddiving.com/",
+        "evidence": "Operator offers snorkeling,glassbottomboat,scuba,charters; JTB lists open.",
+        "source_refs": [
+          "turn145view3",
+          "turn158view2"
+        ],
+        "status": "published_offer",
+        "schedule": null,
+        "published_cost": null,
+        "limits": "8763957023. Exact beach,departure,cost not supplied. Website photos are Unsplashstock: do not reuse as authentic OchoRios location imagery.",
+        "authentic_image_url": null,
+        "image_rights": null
+      },
+      {
+        "name": "Chukka Seville Horseback Ride & Swim",
+        "location": "Seville nearPriory/StAnn’sBay, StAnn",
+        "kind": "horse_ride_swim",
+        "official_url": "https://chukka.com/jamaica/chukka-seville-outpost/424444",
+        "evidence": "Operator explicitly identifies Seville,noincludedtransport,weight/agerestrictions; JTB open.",
+        "source_refs": [
+          "turn152view2",
+          "turn158view2"
+        ],
+        "status": "published_offer",
+        "schedule": null,
+        "published_cost": "FromUS$109/person",
+        "limits": "Minage6,maxweight230lb; notwheelchairaccessible; closedtoeshoes; notsuitablepregnancy; sea portion weatherdependent. Calendar no-options text is default state,not proof nofuture availability.",
+        "authentic_image_url": null,
+        "image_rights": null
+      },
+      {
+        "name": "Chukka Seville Horseback & ATV Adventure Pass",
+        "location": "Seville, StAnn",
+        "kind": "horse_atv",
+        "official_url": "https://chukka.com/jamaica/chukka-seville-outpost?layout=list",
+        "evidence": "Operator lists combohorse/ATV with pickupfromOchoRios,RunawayBay,Falmouth.",
+        "source_refs": [
+          "turn136view2"
+        ],
+        "status": "published_offer",
+        "schedule": null,
+        "published_cost": "FromUS$139/person",
+        "limits": "Verify ATV license/minage/weight policies separately; do not carry over horse-only eligibility.",
+        "authentic_image_url": null,
+        "image_rights": null
+      },
+      {
+        "name": "Dunn’s River zipline with Chukka",
+        "location": "Dunn’sRiverFalls, StAnn",
+        "kind": "zipline",
+        "official_url": "https://chukka.com/jamaica/chukka-seville-outpost/410026",
+        "evidence": "Operator combo explicitly includes zipline overDunn’sRiverFalls.",
+        "source_refs": [
+          "turn149view6"
+        ],
+        "status": "published_offer",
+        "schedule": null,
+        "published_cost": null,
+        "limits": "Combo alsoSevilleHorse/Waterfallclimb; verify separate zipline pass ifvisitor wants onlyzipline. Product max230lb,min6,notwheelchairaccessible.",
+        "authentic_image_url": null,
+        "image_rights": null
+      },
+      {
+        "name": "Mystic Mountain rainforest rides and canopy zipline",
+        "location": "MysticMountain, OchoRios",
+        "kind": "zipline_chairlift_rides",
+        "official_url": "https://www.mysticmountain.com/rides-and-activities",
+        "evidence": "Operator describes canopyzipline,bobsled,Raggamuffin,EATV; JTB listsparkopen.",
+        "source_refs": [
+          "turn149view7",
+          "turn158view2"
+        ],
+        "status": "published_offer",
+        "schedule": null,
+        "published_cost": null,
+        "limits": "Buy appropriate package; do not implyallridesincluded/free. Exact hours/age/weight require selected package.",
+        "authentic_image_url": "https://s3.amazonaws.com/islandroutes.com/sandbox/xpyGqCAgWP14ljZZGmEKEmAvmGTiFP2Kcdi2vlKp.png",
+        "image_rights": "Operator copyright; existence on site does not grant reproduction permission."
+      },
+      {
+        "name": "Mystic Mountain Artisan Village",
+        "location": "InsideMysticMountain, OchoRios",
+        "kind": "craft_shopping",
+        "official_url": "https://www.mysticmountain.com/rides-and-activities",
+        "evidence": "Operator identifies makers/artists andartisanal shoppinginsidepark.",
+        "source_refs": [
+          "turn149view7"
+        ],
+        "status": "published_offer",
+        "schedule": null,
+        "published_cost": null,
+        "limits": "Requiresparkaccess; vendors/stock change. Avoid asserting allproducts locallymade without checkingmaker.",
+        "authentic_image_url": null,
+        "image_rights": null
+      },
+      {
+        "name": "Island Village shopping and boardwalk",
+        "location": "TurtleRiverRoad, OchoRios, StAnn",
+        "kind": "shopping_walk",
+        "official_url": "https://islandvillageja.com/",
+        "evidence": "Owner describes retail,entertainment,gardens,beachfrontboardwalk.",
+        "source_refs": [
+          "turn145view7"
+        ],
+        "status": "published_offer",
+        "schedule": null,
+        "published_cost": null,
+        "limits": "Retailtenant hours vary. Ignore owner45minKingstontraveltime as unrealistic/unverified; do not copy.",
+        "authentic_image_url": null,
+        "image_rights": null
+      },
+      {
+        "name": "Pineapple Craft Market",
+        "location": "Pineapple/MainStreet,eastOchoRios",
+        "kind": "craft_shopping",
+        "official_url": "https://www.visitjamaica.com/experiences/things-to-do/shopping/",
+        "evidence": "JTB namesPineapple forstrawhats/pottery; reopeningtable open.",
+        "source_refs": [
+          "turn149view1",
+          "turn158view2"
+        ],
+        "status": "tourism_authority_listed_open",
+        "schedule": null,
+        "published_cost": null,
+        "limits": "Individual listing extraction unavailable. Vendorhours,haggling/payment,makerprovenance unverified. Location fromJTBindexedlisting.",
+        "authentic_image_url": null,
+        "image_rights": null
+      },
+      {
+        "name": "Ocho Rios Craft Market",
+        "location": "CentralOchoRios; exactentrypointconfirm",
+        "kind": "craft_shopping",
+        "official_url": "https://www.visitjamaica.com/cruises/ports/ocho-rios/",
+        "evidence": "JTB portpage recommendsmarket/handmadegoods; reopeningtable open.",
+        "source_refs": [
+          "turn132search3",
+          "turn158view2"
+        ],
+        "status": "tourism_authority_listed_open",
+        "schedule": null,
+        "published_cost": null,
+        "limits": "No exacthours established; distinguishcraftmarket fromfarmersproduce market.",
+        "authentic_image_url": null,
+        "image_rights": null
+      },
+      {
+        "name": "Coconut Grove Craft Market",
+        "location": "OchoRios; CoconutGrove",
+        "kind": "craft_shopping",
+        "official_url": "https://www.visitjamaica.com/travel-alerts/tours-attractions-reopenings/",
+        "evidence": "JTB currentstatus listsCoconutGroveCraftMarket open.",
+        "source_refs": [
+          "turn158view2"
+        ],
+        "status": "tourism_authority_listed_open",
+        "schedule": null,
+        "published_cost": null,
+        "limits": "Exactaddress,hours,stock notestablished; no admission-price claim.",
+        "authentic_image_url": null,
+        "image_rights": null
+      },
+      {
+        "name": "Yaaman Jamaican cooking experience",
+        "location": "YaamanAdventurePark, OchoRios",
+        "kind": "cooking",
+        "official_url": "https://beta.yaamanadventure.com/activities/culinary-tour",
+        "evidence": "Operatorindexedpage identifiescooking inSeaViewkitchen; JTB listsparkopen.",
+        "source_refs": [
+          "turn136search7",
+          "turn158view2"
+        ],
+        "status": "operator_indexed_offer_open_park",
+        "schedule": null,
+        "published_cost": null,
+        "limits": "Directproductretrievaltimedout; packageprice,departure,minimumage unknown. Useoperatorlink without inventinghour.",
+        "authentic_image_url": null,
+        "image_rights": null
+      },
+      {
+        "name": "Jamaica Inn Shop & Cook with Chef Maurice",
+        "location": "JamaicaInn plusOchoRiosFarmer’sMarket",
+        "kind": "market_cooking",
+        "official_url": "https://www.jamaicainn.com/experiences/resort-activities/",
+        "evidence": "Operatoroffersmarketvisitplus45mincookingdemo.",
+        "source_refs": [
+          "turn136view4"
+        ],
+        "status": "published_offer",
+        "schedule": "Friday10:30",
+        "published_cost": null,
+        "limits": "Hotelactivity: outsidevisitor access/cost unverified; arrangeconciergebeforeplanning.",
+        "authentic_image_url": null,
+        "image_rights": null
+      },
+      {
+        "name": "Jamaica Inn Artisan Sundays",
+        "location": "SeaGrapeTree byTeddy’sBeachBar,JamaicaInn,OchoRios",
+        "kind": "craft_demonstration_shopping",
+        "official_url": "https://www.jamaicainn.com/experiences/resort-activities/artisan-sundays/",
+        "evidence": "Operatordocumentslocalartisan demonstrations/workshops/shop.",
+        "source_refs": [
+          "turn140view5"
+        ],
+        "status": "published_offer",
+        "schedule": "Sunday10:30–17:00",
+        "published_cost": null,
+        "limits": "Outsidevisitor admissionnotestablished; reserve/confirmatInn.",
+        "authentic_image_url": "https://www.jamaicainn.com/media/eiyj0bwf/dscf5572-forweb.jpg?anchor=center&height=1530&mode=crop&quality=70&rnd=134212797160270000&width=2000",
+        "image_rights": "Operator copyright; existence on site does not grant reproduction permission."
+      }
+    ],
+    "local_music_and_culture": [
+      {
+        "name": "Island Village After Work Jam",
+        "location": "TurtleRiverRoad,OchoRios",
+        "kind": "dj",
+        "official_url": "https://islandvillageja.com/f/jazz-in-the-village-a-night-to-remember",
+        "evidence": "OwnerpublishesDJbeats asFridayprogramme. Allweeklyeventsstart18:00,admissionfree.",
+        "source_refs": [
+          "turn145view7"
+        ],
+        "status": "recurring_programme_published",
+        "schedule": "Friday18:00",
+        "start_date": null,
+        "end_date": null,
+        "limits": "Confirmthisweek’sprogramme; nodatedartistlineup. Freeadmissiondoesnotincludefood/drink."
+      },
+      {
+        "name": "Island Village Salsa Saturdays",
+        "location": "TurtleRiverRoad,OchoRios",
+        "kind": "dance",
+        "official_url": "https://islandvillageja.com/f/jazz-in-the-village-a-night-to-remember",
+        "evidence": "Ownerpublishesfree salsa lessons andopenfloor. Allweeklyeventsstart18:00,admissionfree.",
+        "source_refs": [
+          "turn145view7"
+        ],
+        "status": "recurring_programme_published",
+        "schedule": "Saturday18:00",
+        "start_date": null,
+        "end_date": null,
+        "limits": "Confirmthisweek’sprogramme; nodatedartistlineup. Freeadmissiondoesnotincludefood/drink."
+      },
+      {
+        "name": "Island Village Karaoke Sundays",
+        "location": "TurtleRiverRoad,OchoRios",
+        "kind": "karaoke",
+        "official_url": "https://islandvillageja.com/f/jazz-in-the-village-a-night-to-remember",
+        "evidence": "OwnerpublishesSundaykaraoke. Allweeklyeventsstart18:00,admissionfree.",
+        "source_refs": [
+          "turn145view7"
+        ],
+        "status": "recurring_programme_published",
+        "schedule": "Sunday18:00",
+        "start_date": null,
+        "end_date": null,
+        "limits": "Confirmthisweek’sprogramme; nodatedartistlineup. Freeadmissiondoesnotincludefood/drink."
+      },
+      {
+        "name": "Plantation Smokehouse live band",
+        "location": "Richmond,StAnn",
+        "kind": "live_band",
+        "official_url": "https://www.plantationsmokehouse.com/",
+        "evidence": "Venuepublishesliveband everyFriday.",
+        "source_refs": [
+          "turn132view3"
+        ],
+        "status": "recurring_programme_published",
+        "schedule": "Friday; exactbandstartnotpublished",
+        "start_date": null,
+        "end_date": null,
+        "limits": "Generalrestaurant10–23hoursarenotbandsettime. Wednesdaykaraoke appearssecondarysourcesonly,soomit."
+      },
+      {
+        "name": "Ocean’s11 Karaoke Tuesdays",
+        "location": "Ocean’s11 waterfront,OchoRios",
+        "kind": "karaoke",
+        "official_url": "https://oceans-11-seafood-ja.odoo.com/events",
+        "evidence": "Venue-brandedpagepublishesTuesdaykaraoke.",
+        "source_refs": [
+          "turn140view7"
+        ],
+        "status": "recurring_programme_published",
+        "schedule": "Tuesday; starttimenotpublished",
+        "start_date": null,
+        "end_date": null,
+        "limits": "Venue-brandedOdoo page agreesolderdirectory;confirmcurrentcontact/operationbeforepromoting."
+      },
+      {
+        "name": "Ocean’s11 Sunday brunch with live tunes",
+        "location": "Ocean’s11 waterfront,OchoRios",
+        "kind": "live_music_brunch",
+        "official_url": "https://oceans-11-seafood-ja.odoo.com/events",
+        "evidence": "Venue-brandedpage sayssecondandlastSundaybrunch withlivetunes.",
+        "source_refs": [
+          "turn140view7"
+        ],
+        "status": "recurring_programme_published",
+        "schedule": "SecondandlastSundaymonthly; timeunpublished",
+        "start_date": null,
+        "end_date": null,
+        "limits": "Do not changeto everySundayband; bookedperformer/feeunknown."
+      },
+      {
+        "name": "Jamaica Inn Terrace dinner music",
+        "location": "TerraceRestaurant,JamaicaInn,OchoRios",
+        "kind": "live_band",
+        "official_url": "https://www.jamaicainn.com/dining/dinner/",
+        "evidence": "Currentdinnerpage saysusuallylive localmusic; service19–21:30.",
+        "source_refs": [
+          "turn136view5"
+        ],
+        "status": "regular_music_not_guaranteed",
+        "schedule": "Daily dinner19:00–21:30; performances usually",
+        "start_date": null,
+        "end_date": null,
+        "limits": "Reservation,dresscode,nonguestaccess confirmation. Dinnerhoursarenotguaranteedsettimes."
+      },
+      {
+        "name": "Jamaica Inn Inner Groove beach dinner",
+        "location": "JamaicaInn beach,OchoRios",
+        "kind": "live_band",
+        "official_url": "https://www.jamaicainn.com/our-blog/melodies-of-the-inn/",
+        "evidence": "Undatedoperatorfeature saysTuesdaybeachdinnerwithInnerGroove; Terrace19everyevening.",
+        "source_refs": [
+          "turn158view1"
+        ],
+        "status": "standing_feature_requires_current_confirmation",
+        "schedule": "Tuesday accordingtoundatedfeature",
+        "start_date": null,
+        "end_date": null,
+        "limits": "Do not presentasdateconfirmed2026concert orprintcurrentartistrosterfromfeature."
+      },
+      {
+        "name": "Evita’s bar live music",
+        "location": "EdenBowerRoad,OchoRios",
+        "kind": "live_music",
+        "official_url": "https://evitas.dijamaicanexperience.com/bar/",
+        "evidence": "Venuebarpage invitesvisitors tolivemusic.",
+        "source_refs": [
+          "turn140view6"
+        ],
+        "status": "venue_music_offer_schedule_unconfirmed",
+        "schedule": null,
+        "start_date": null,
+        "end_date": null,
+        "limits": "Noday/time/artist announced;call8769742333. Keepoutofdate-specificeventresults."
+      },
+      {
+        "name": "Jamaica Inn Artisan Sundays",
+        "location": "Teddy’sBeachBar,JamaicaInn",
+        "kind": "recurring_culture",
+        "official_url": "https://www.jamaicainn.com/experiences/resort-activities/artisan-sundays/",
+        "evidence": "Primarypage verifiesSundayartisanprogramme10:30–17.",
+        "source_refs": [
+          "turn140view5"
+        ],
+        "status": "recurring_programme_published",
+        "schedule": "Sunday10:30–17:00",
+        "start_date": null,
+        "end_date": null,
+        "limits": "Culturalworkshops/shopping,notconcert. Nonguestaccessrequiresconfirmation."
+      },
+      {
+        "name": "Jamaica Inn Shop & Cook",
+        "location": "JamaicaInn/OchoRiosFarmersMarket",
+        "kind": "recurring_culture",
+        "official_url": "https://www.jamaicainn.com/experiences/resort-activities/",
+        "evidence": "Primarypage verifiesFridaymarket/cookingprogramme10:30.",
+        "source_refs": [
+          "turn136view4"
+        ],
+        "status": "recurring_programme_published",
+        "schedule": "Friday10:30",
+        "start_date": null,
+        "end_date": null,
+        "limits": "Culinaryculturalprogramme,notmusic. Nonguestaccessunverified."
+      }
+    ],
+    "scope": "Boundedresearch:20activitycandidates,11venue/programmelistings;notalloperationallyconfirmed. No8–12distinctdatedsmallconcertsestablished; recurrence/culture and unconfirmedmusicexplicitlylabeled.",
+    "critical_exclusions": [
+      "JTB ChukkaWhiteRiverValley CLOSED; do not recommendzipline/tubingthere.",
+      "JTB RiverRapidsAdventure andSandAndSaddle CLOSED.",
+      "JTB RioNuevoVillage&BattleSite CLOSED butseparateRioNuevoVillage OPEN; do notconflate.",
+      "whiteriverbamboorafting.com declaresindependentvisitorguide,notoperator; rejectitsinventedofficialrates/hours.",
+      "Hunterzclub searchsuggestsmusicbutdirectpagereads0lines; notverifiedschedule.",
+      "Do notuseGarfieldUnsplashstockimageaslocationphoto.",
+      "Artistlineups,datedsmallconcerts,ticketpricesandout-of-resortaccessnotestablishedwhereflagged."
+    ]
+  }
+}

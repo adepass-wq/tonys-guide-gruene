@@ -1,0 +1,182 @@
+[
+  {
+    "id": "local-0",
+    "name": "Island Village After Work Jam",
+    "days": [
+      5
+    ],
+    "schedule": "Friday · 6 p.m.",
+    "description": "DJ-led after-work music; published free admission.",
+    "location": "Island Village, Turtle River Road, Ocho Rios",
+    "source": "https://islandvillageja.com/f/jazz-in-the-village-a-night-to-remember",
+    "monthly": "",
+    "genre": "Music & nightlife",
+    "area": "North coast",
+    "checked": "2026-10-12",
+    "recheckAfter": "2027-01-10"
+  },
+  {
+    "id": "local-1",
+    "name": "Island Village Salsa Saturdays",
+    "days": [
+      6
+    ],
+    "schedule": "Saturday · 6 p.m.",
+    "description": "Salsa lessons and open dancing; published free admission.",
+    "location": "Island Village, Turtle River Road, Ocho Rios",
+    "source": "https://islandvillageja.com/f/jazz-in-the-village-a-night-to-remember",
+    "monthly": "",
+    "genre": "Music & nightlife",
+    "area": "North coast",
+    "checked": "2026-10-12",
+    "recheckAfter": "2027-01-10"
+  },
+  {
+    "id": "local-2",
+    "name": "Island Village Karaoke Sundays",
+    "days": [
+      0
+    ],
+    "schedule": "Sunday · 6 p.m.",
+    "description": "Karaoke at Island Village; published free admission.",
+    "location": "Island Village, Turtle River Road, Ocho Rios",
+    "source": "https://islandvillageja.com/f/jazz-in-the-village-a-night-to-remember",
+    "monthly": "",
+    "genre": "Music & nightlife",
+    "area": "North coast",
+    "checked": "2026-10-12",
+    "recheckAfter": "2027-01-10"
+  },
+  {
+    "id": "local-3",
+    "name": "Plantation Smokehouse live band",
+    "days": [
+      5
+    ],
+    "schedule": "Friday · ask for band start",
+    "description": "Live-band programme at Richmond, west of Ocho Rios. Allow for the road journey.",
+    "location": "Richmond, St. Ann",
+    "source": "https://www.plantationsmokehouse.com/",
+    "monthly": "",
+    "genre": "Music & nightlife",
+    "area": "North coast",
+    "checked": "2026-10-12",
+    "recheckAfter": "2027-01-10"
+  },
+  {
+    "id": "local-4",
+    "name": "Ocean’s11 Karaoke Tuesdays",
+    "days": [
+      2
+    ],
+    "schedule": "Tuesday · ask for start",
+    "description": "Venue-published karaoke; confirm this week’s service.",
+    "location": "Ocean’s 11, Ocho Rios",
+    "source": "https://oceans-11-seafood-ja.odoo.com/events",
+    "monthly": "",
+    "genre": "Music & nightlife",
+    "area": "North coast",
+    "checked": "2026-10-12",
+    "recheckAfter": "2027-01-10"
+  },
+  {
+    "id": "local-5",
+    "name": "Ocean’s11 Sunday brunch with live tunes",
+    "days": [
+      0
+    ],
+    "schedule": "Second and last Sunday · ask for time",
+    "description": "Brunch with live tunes. This is not an every-Sunday concert.",
+    "location": "Ocean’s 11, Ocho Rios",
+    "source": "https://oceans-11-seafood-ja.odoo.com/events",
+    "monthly": "second-last",
+    "genre": "Music & nightlife",
+    "area": "North coast",
+    "checked": "2026-10-12",
+    "recheckAfter": "2027-01-10"
+  },
+  {
+    "id": "local-6",
+    "name": "Jamaica Inn Terrace dinner music",
+    "days": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6
+    ],
+    "schedule": "Dinner service · 7–9:30 p.m.",
+    "description": "Hotel terrace dining with music usually provided; confirm the performance, outside-guest reservation and dress code.",
+    "location": "Jamaica Inn, Ocho Rios",
+    "source": "https://www.jamaicainn.com/dining/dinner/",
+    "monthly": "",
+    "genre": "Music & nightlife",
+    "area": "North coast",
+    "checked": "2026-10-12",
+    "recheckAfter": "2027-01-10"
+  },
+  {
+    "id": "local-7",
+    "name": "Jamaica Inn Inner Groove beach dinner",
+    "days": [
+      2
+    ],
+    "schedule": "Tuesday · ask the hotel",
+    "description": "A hotel-published beach-dinner music programme. Confirm whether this week’s edition runs and accepts outside guests.",
+    "location": "Jamaica Inn, Ocho Rios",
+    "source": "https://www.jamaicainn.com/our-blog/melodies-of-the-inn/",
+    "monthly": "",
+    "genre": "Music & nightlife",
+    "area": "North coast",
+    "checked": "2026-10-12",
+    "recheckAfter": "2027-01-10"
+  },
+  {
+    "id": "local-8",
+    "name": "Evita’s bar live music",
+    "days": [],
+    "schedule": "Ask the restaurant for a date",
+    "description": "The restaurant describes live music but supplies no fixed weekly date. Ask for the next performance.",
+    "location": "Evita’s, Eden Bower Road, Ocho Rios",
+    "source": "https://evitas.dijamaicanexperience.com/bar/",
+    "monthly": "",
+    "genre": "Music & nightlife",
+    "area": "North coast",
+    "checked": "2026-10-12",
+    "recheckAfter": "2027-01-10"
+  },
+  {
+    "id": "local-9",
+    "name": "Jamaica Inn Artisan Sundays",
+    "days": [
+      0
+    ],
+    "schedule": "Sunday · 10:30 a.m.–5 p.m.",
+    "description": "Artisan workshops and shopping under the Sea Grape Tree. Outside visitors must arrange access with the hotel.",
+    "location": "Jamaica Inn, Ocho Rios",
+    "source": "https://www.jamaicainn.com/experiences/resort-activities/artisan-sundays/",
+    "monthly": "",
+    "genre": "Culture & family",
+    "area": "North coast",
+    "checked": "2026-10-12",
+    "recheckAfter": "2027-01-10"
+  },
+  {
+    "id": "local-10",
+    "name": "Jamaica Inn Shop & Cook",
+    "days": [
+      5
+    ],
+    "schedule": "Friday · 10:30 a.m.",
+    "description": "Market visit and cooking demonstration with Chef Maurice. Arrange outside-guest access and price with the hotel.",
+    "location": "Jamaica Inn, Ocho Rios",
+    "source": "https://www.jamaicainn.com/experiences/resort-activities/",
+    "monthly": "",
+    "genre": "Culture & family",
+    "area": "North coast",
+    "checked": "2026-10-12",
+    "recheckAfter": "2027-01-10"
+  }
+]
