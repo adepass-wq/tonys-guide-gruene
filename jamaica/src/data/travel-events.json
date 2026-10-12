@@ -120,36 +120,6 @@
     "map": "Kingston Waterfront, Jamaica"
   },
   {
-    "id": "expanded-3",
-    "name": "Jamaica Pro Am — Annie’s Revenge",
-    "start": "2026-11-18",
-    "end": "2026-11-22",
-    "area": "North coast",
-    "genre": "Culture & family",
-    "location": "Montego Bay; Half Moon, White Witch and Cinnamon Hill",
-    "description": "Registered professional/amateur golf tournament and hospitality programme.",
-    "call": "Participants need entry packages; casual spectator access not established.",
-    "cost": "Confirm registration, ticket category and current price with the organizer.",
-    "source": "https://www.jamaicaproam.com/",
-    "verify": "https://www.jamaicaproam.com/",
-    "map": "Montego Bay; Half Moon, White Witch and Cinnamon Hill"
-  },
-  {
-    "id": "expanded-5",
-    "name": "Reggae Marathon race day",
-    "start": "2026-12-06",
-    "end": "2026-12-06",
-    "area": "Elsewhere in Jamaica",
-    "genre": "Sports & community",
-    "location": "Kingston Waterfront",
-    "description": "Road running with reggae atmosphere; check current race distances.",
-    "call": "Generic tourism copy still refers to Negril; operator location takes priority. Registration, course and road closures need race fact sheets.",
-    "cost": "Confirm registration, ticket category and current price with the organizer.",
-    "source": "https://www.reggaemarathon.com/",
-    "verify": "https://www.reggaemarathon.com/",
-    "map": "Kingston Waterfront"
-  },
-  {
     "id": "expanded-6",
     "name": "Swim for the Sanctuary",
     "start": "2026-11-07",
