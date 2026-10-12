@@ -1,1 +1,158 @@
-[{"name":"Jamaica weather forecast","group":"Conditions","url":"https://metservice.gov.jm/daily-forecast/","text":"Official daily forecast; check the north coast and inland route, not only your hotel's sky."},{"name":"Weather alerts","group":"Conditions","url":"https://alert.metservice.gov.jm/","text":"Official alerts before river activities or an inland drive."},{"name":"Attraction opening status","group":"Conditions","url":"https://www.visitjamaica.com/travel-alerts/tours-attractions-reopenings/","text":"JTB reopening table. An open listing does not verify every activity or that day's hours."},{"name":"Jamaica events calendar","group":"Events","url":"https://www.visitjamaica.com/experiences/events/events-calendar/","text":"The tourism board's wider dated programme; check updates before committing travel."},{"name":"JCDC cultural programmes","group":"Events","url":"https://jcdc.gov.jm/","text":"Community and national cultural programme updates; search the relevant parish."},{"name":"Seville Heritage Expo","group":"Events","url":"https://jamaicaculturalexpo.com/seville-heritage-expo-1","text":"Organiser details and registration for the cultural expo."},{"name":"Licensed taxis and public transport","group":"Transport","url":"https://www.visitjamaica.com/plan-your-adventure/getting-around/public-transportation/","text":"Official explanation of taxis, buses and licensed services. Agree vehicle, fare, stops and pickup with your provider."},{"name":"Driving and vehicle rentals","group":"Transport","url":"https://www.visitjamaica.com/plan-your-adventure/getting-around/vehicle-rentals-transportation-services/","text":"Driving is on the left. Review licence rules, rental terms and the route before hiring."},{"name":"JTB tour operators","group":"Transport","url":"https://www.visitjamaica.com/experiences/things-to-do/tours-excursions/","text":"Find providers; compare what is included, cancellation terms and access arrangements."},{"name":"Official C5 arrival declaration","group":"Arriving","url":"https://enterjamaica.gov.jm/","text":"Official immigration/customs declaration. PICA states the online form is free; avoid paying an unrelated intermediary for the form itself."},{"name":"Entry and visa requirements","group":"Arriving","url":"https://www.pica.gov.jm/immigration/entry-visa-requirements","text":"Check your nationality and travel document with PICA; diaspora identity alone does not determine document requirements."},{"name":"Ocho Rios cruise port","group":"Transport","url":"https://www.visitjamaica.com/cruises/ports/ocho-rios/","text":"Use your cruise line's terminal and all-aboard instructions as the binding return plan."},{"name":"Public holidays","group":"Events","url":"https://www.visitjamaica.com/plan-your-adventure/travel-tips/public-holidays/","text":"Holidays affect attractions, banks and community programmes; check before using a weekday itinerary."},{"name":"Jamaica National Heritage Trust","group":"History","url":"https://www.jnht.com/","text":"Authoritative heritage context. A site's designation does not grant public entry to private property."},{"name":"Where to base your stay","group":"Arriving","url":"https://www.visitjamaica.com/resort-areas/ocho-rios/where-to-stay/","text":"Compare Ocho Rios town, western St. Ann and the St. Mary coast. Verify the exact address, public beach access and transfer costs."},{"name":"International airports","group":"Arriving","url":"https://www.visitjamaica.com/plan-your-adventure/getting-here/airports-in-jamaica/","text":"Sangster, Norman Manley and Ian Fleming: compare actual flights and ground transfers before choosing."},{"name":"Place comparison","group":"Tool","url":"#stop-comparison","text":"Compare up to three places side by side by time, costs, access, mobility and suitability."},{"name":"Personal day time planner","group":"Tool","url":"#personal-day","text":"Choose stops, enter editable stay and driving estimates, check a deadline and download a day sheet."},{"name":"Trip preparation checklist","group":"Tool","url":"#trip-checklist","text":"Save packing and preparation checks for water, nature, town and cruise outings."},{"name":"Language atlas and sound laboratory","group":"Language","url":"#voices","text":"Jamaican Creole Patwa, Jamaican English, accent dialect register and location variations; compare named voices."},{"name":"Saved reading list","group":"Reading","url":"#saved-reading","text":"Save history and culture articles and revisit them."},{"name":"Historical era explorer","group":"History tool","url":"#history-era-explorer","text":"Follow the chronology of conquest, slavery, resistance, emancipation, migration and independence."},{"name":"Article source index","group":"Research tool","url":"#source-index","text":"Search citations by article, scholar, institution, record and source type."},{"name":"Film and recording portal","group":"Media","url":"#watch","text":"Watch named heritage presentations, performances and scholarly interviews connected to the articles."},{"name":"Regional listening comparison","group":"Language","url":"#regional-listening","text":"Hear identified Jamaican speakers from Portland, St. Catherine and rural western Jamaica through IDEA source audio, biography and transcripts. Compare reading and conversation and save listening notes."},{"name":"Short Jamaican Patwa audio","group":"Language","url":"#patwa-audio-example","text":"An attributed native-speaker example with an English explanation. Recording location is undocumented."}]
+[
+  {
+    "name": "Jamaica weather forecast",
+    "group": "Conditions",
+    "url": "https://metservice.gov.jm/daily-forecast/",
+    "text": "Official daily forecast; check the north coast and inland route, not only your hotel's sky."
+  },
+  {
+    "name": "Weather alerts",
+    "group": "Conditions",
+    "url": "https://alert.metservice.gov.jm/",
+    "text": "Official alerts before river activities or an inland drive."
+  },
+  {
+    "name": "Attraction opening status",
+    "group": "Conditions",
+    "url": "https://www.visitjamaica.com/travel-alerts/tours-attractions-reopenings/",
+    "text": "JTB reopening table. An open listing does not verify every activity or that day's hours."
+  },
+  {
+    "name": "Jamaica events calendar",
+    "group": "Events",
+    "url": "https://www.visitjamaica.com/experiences/events/events-calendar/",
+    "text": "The tourism board's wider dated programme; check updates before committing travel."
+  },
+  {
+    "name": "JCDC cultural programmes",
+    "group": "Events",
+    "url": "https://jcdc.gov.jm/",
+    "text": "Community and national cultural programme updates; search the relevant parish."
+  },
+  {
+    "name": "Seville Heritage Expo",
+    "group": "Events",
+    "url": "https://jamaicaculturalexpo.com/seville-heritage-expo-1",
+    "text": "Organiser details and registration for the cultural expo."
+  },
+  {
+    "name": "Licensed taxis and public transport",
+    "group": "Transport",
+    "url": "https://www.visitjamaica.com/plan-your-adventure/getting-around/public-transportation/",
+    "text": "Official explanation of taxis, buses and licensed services. Agree vehicle, fare, stops and pickup with your provider."
+  },
+  {
+    "name": "Driving and vehicle rentals",
+    "group": "Transport",
+    "url": "https://www.visitjamaica.com/plan-your-adventure/getting-around/vehicle-rentals-transportation-services/",
+    "text": "Driving is on the left. Review licence rules, rental terms and the route before hiring."
+  },
+  {
+    "name": "JTB tour operators",
+    "group": "Transport",
+    "url": "https://www.visitjamaica.com/experiences/things-to-do/tours-excursions/",
+    "text": "Find providers; compare what is included, cancellation terms and access arrangements."
+  },
+  {
+    "name": "Official C5 arrival declaration",
+    "group": "Arriving",
+    "url": "https://enterjamaica.gov.jm/",
+    "text": "Official immigration/customs declaration. PICA states the online form is free; avoid paying an unrelated intermediary for the form itself."
+  },
+  {
+    "name": "Entry and visa requirements",
+    "group": "Arriving",
+    "url": "https://www.pica.gov.jm/immigration/entry-visa-requirements",
+    "text": "Check your nationality and travel document with PICA; diaspora identity alone does not determine document requirements."
+  },
+  {
+    "name": "Ocho Rios cruise port",
+    "group": "Transport",
+    "url": "https://www.visitjamaica.com/cruises/ports/ocho-rios/",
+    "text": "Use your cruise line's terminal and all-aboard instructions as the binding return plan."
+  },
+  {
+    "name": "Public holidays",
+    "group": "Events",
+    "url": "https://www.visitjamaica.com/plan-your-adventure/travel-tips/public-holidays/",
+    "text": "Holidays affect attractions, banks and community programmes; check before using a weekday itinerary."
+  },
+  {
+    "name": "Jamaica National Heritage Trust",
+    "group": "History",
+    "url": "https://www.jnht.com/",
+    "text": "Authoritative heritage context. A site's designation does not grant public entry to private property."
+  },
+  {
+    "name": "Where to base your stay",
+    "group": "Arriving",
+    "url": "https://www.visitjamaica.com/resort-areas/ocho-rios/where-to-stay/",
+    "text": "Compare Ocho Rios town, western St. Ann and the St. Mary coast. Verify the exact address, public beach access and transfer costs."
+  },
+  {
+    "name": "International airports",
+    "group": "Arriving",
+    "url": "https://www.visitjamaica.com/plan-your-adventure/getting-here/airports-in-jamaica/",
+    "text": "Sangster, Norman Manley and Ian Fleming: compare actual flights and ground transfers before choosing."
+  },
+  {
+    "name": "Place comparison",
+    "group": "Tool",
+    "url": "#stop-comparison",
+    "text": "Compare up to three places side by side by time, costs, access, mobility and suitability."
+  },
+  {
+    "name": "Personal day time planner",
+    "group": "Tool",
+    "url": "#personal-day",
+    "text": "Choose stops, enter editable stay and driving estimates, check a deadline and download a day sheet."
+  },
+  {
+    "name": "Trip preparation checklist",
+    "group": "Tool",
+    "url": "#trip-checklist",
+    "text": "Save packing and preparation checks for water, nature, town and cruise outings."
+  },
+  {
+    "name": "Language atlas and sound laboratory",
+    "group": "Language",
+    "url": "#voices",
+    "text": "Jamaican Creole Patwa, Jamaican English, accent dialect register and location variations; compare named voices."
+  },
+  {
+    "name": "Saved reading list",
+    "group": "Reading",
+    "url": "#saved-reading",
+    "text": "Save history and culture articles and revisit them."
+  },
+  {
+    "name": "Historical era explorer",
+    "group": "History tool",
+    "url": "#history-era-explorer",
+    "text": "Follow the chronology of conquest, slavery, resistance, emancipation, migration and independence."
+  },
+  {
+    "name": "Article source index",
+    "group": "Research tool",
+    "url": "#source-index",
+    "text": "Search citations by article, scholar, institution, record and source type."
+  },
+  {
+    "name": "Film and recording portal",
+    "group": "Media",
+    "url": "#watch",
+    "text": "Watch named heritage presentations, performances and scholarly interviews connected to the articles."
+  },
+  {
+    "name": "Cassidy historical listening library",
+    "group": "Language",
+    "url": "#regional-listening",
+    "text": "Listen inside the guide to 1952 scholarly field recordings of fishermen, farmers, storytellers and community performances. Compare recordings and save listening notes."
+  },
+  {
+    "name": "Short Jamaican Patwa audio",
+    "group": "Language",
+    "url": "#patwa-audio-example",
+    "text": "An attributed native-speaker example with an English explanation. Recording location is undocumented."
+  }
+]

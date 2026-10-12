@@ -23,6 +23,7 @@ function renderSaved(){document.querySelectorAll('[data-save-place]').forEach(b=
 document.querySelectorAll('[data-save-place]').forEach(b=>b.addEventListener('click',()=>save(b.dataset.savePlace)));
 $('trip-shortlist').addEventListener('click',e=>{const b=e.target.closest('button');if(!b)return;if(b.dataset.remove){save(b.dataset.remove);return}if(b.dataset.move){const i=saved.indexOf(b.dataset.move),j=i+Number(b.dataset.direction);if(j>=0&&j<saved.length){[saved[i],saved[j]]=[saved[j],saved[i]];persist();renderSaved()}}});$('trip-origin').addEventListener('input',renderSaved);
 $('trip-print').addEventListener('click',()=>{if(!saved.length){$('trip-save-status').textContent='Save at least one place before printing.';return}document.body.classList.add('print-travel');window.print();setTimeout(()=>document.body.classList.remove('print-travel'),1000)});
+window.addEventListener('tonys-trip-restore',e=>{saved=[...new Set(e.detail)].filter(id=>byid.has(id));persist();renderSaved()});
 $('trip-clear').addEventListener('click',()=>{saved=[];persist();renderSaved()});renderSaved();
 // One query across guides, events, tools and the existing public histories.
 const cards=[...document.querySelectorAll('.travel-card')],search=$('travel-search'),scope=$('travel-scope'),area=$('travel-area'),kind=$('travel-kind'),pace=$('travel-pace');

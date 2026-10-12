@@ -62,3 +62,11 @@ For rollback, select the last verified release commit and revert the coordinated
 ## Verification limits
 
 DOM tests use deterministic weather fixtures and simulated feed outages. They do not inspect a real beach, validate historical claims, render a phone screen, or prove third-party audio/video availability. Verify those separately and report specific limits without presenting automated success as broader evidence.
+
+## Saved trips and edition email records
+
+Public companion: https://tonys-guide-saved-trips.adepass.chatgpt.site; Sites project `appgprj_6accf5debd888191bb9345facec0b837`. Source is maintained in its Sites Git repository, separately from Render. D1 stores trips (secret-link tokens and place IDs) and subscribers (email, edition, consent and timestamp). Emails are not exposed by the public API. Browser module: `src/scripts/saved-trips.js`. Allowed origins: Jamaica custom domain and Render domain.
+
+The form records Jamaica update interest. No outbound email delivery service is configured. Trip links contain no email, but link holders can read selected places. Device storage, download and printing remain available.
+
+Historical audio: `src/data/historical-recordings.json`. Preserve dates, field localities and conversation/performance distinctions. Do not reintroduce International Dialects of English Archive material.
