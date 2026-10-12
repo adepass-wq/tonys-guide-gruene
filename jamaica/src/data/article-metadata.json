@@ -185,7 +185,7 @@
     "id": "culture-feature-3",
     "theme": "Music & ritual",
     "parish": "Islandwide",
-    "summary": "Burru’s documented association with Lionel Town and Hayes gives it a social geography. Its place in Jamaican music deserves more than a vague claim that every later beat came from one drum.",
+    "summary": "Hear two Burru demonstrations and follow the tradition through named Spring Village musicians, Clarendon masquerade and Count Ossie’s Rastafari music.",
     "era": "Across periods"
   },
   {
@@ -250,5 +250,33 @@
     "parish": "Islandwide",
     "summary": "Indenture and later migration brought new communities into an already unequal society. Their histories belong within Jamaican life, not in a footnote about colorful influences.",
     "era": "1845–present"
+  },
+  {
+    "id": "object-negro-world",
+    "theme": "Objects & archives",
+    "parish": "Islandwide",
+    "summary": "Examine a real front page, then hear Garvey’s recorded voice: print, political imagination and the practical work of organising across borders.",
+    "era": "1920–1921"
+  },
+  {
+    "id": "object-market",
+    "theme": "Objects & archives",
+    "parish": "St. Catherine",
+    "summary": "Look closely at a dated market photograph, then hear Miss Lou’s later Linstead Market: two different ways to preserve working life.",
+    "era": "1891–20th century"
+  },
+  {
+    "id": "object-independence",
+    "theme": "Objects & archives",
+    "parish": "Islandwide",
+    "summary": "Examine the original statute and watch the Kingston ceremony. See how July’s legislation and August’s public celebration describe different steps.",
+    "era": "1962"
+  },
+  {
+    "id": "object-banana",
+    "theme": "Objects & archives",
+    "parish": "Islandwide",
+    "summary": "Read a historical work photograph beside the banana economy and a farmer’s later recorded explanation. Landscape, labour and organisation enter the same story.",
+    "era": "Late 19th–20th centuries"
   }
 ]

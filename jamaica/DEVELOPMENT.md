@@ -70,3 +70,11 @@ Public companion: https://tonys-guide-saved-trips.adepass.chatgpt.site; Sites pr
 The form records Jamaica update interest. No outbound email delivery service is configured. Trip links contain no email, but link holders can read selected places. Device storage, download and printing remain available.
 
 Historical audio: `src/data/historical-recordings.json`. Preserve dates, field localities and conversation/performance distinctions. Do not reintroduce International Dialects of English Archive material.
+
+## Sensory history and inline evidence
+
+Place photographs and document facsimiles within the narrative beside the relevant passage. Every article figure needs a location caption: identify the actual place or state that the locality is not established. Keep dates, performer/creator and credits attached to the actual item. All article figures live in `.narrative-body`; do not restore footer image galleries.
+
+`scripts/sensory-media.js` provides in-page image magnification and click-to-load YouTube embeds. Preserve original credits and fallback publisher links. `data/sensory-media-records.json` records source identity and technical checks; original publisher previews are labelled as 30-second excerpts. A successful HTTP response or provider embed flag does not establish heard playback.
+
+The newspaper and Independence Act page use base64 source assets in `src/assets/` so readers can examine them without another image server. Source include tokens must remain intact; parse/serialize source HTML only after protecting include tokens. Keep primary artifact metadata distinct from interpretation, and retain the prohibition on International Dialects of English Archive material.

@@ -1,0 +1,369 @@
+{
+  "checked": "2026-10-12",
+  "previews": [
+    {
+      "title": "John Canoe Music",
+      "tradition": "Jonkonnu / John Canoe",
+      "catalogueId": "FW04461_208",
+      "sourceUrl": "https://folkways.si.edu/john-canoe-music/caribbean-sacred-world/music/track/smithsonian",
+      "audioUrl": "https://folkways-media.si.edu/audio/samples/folkways/FW04461/FW04461_15.mp3",
+      "label": "Publisher preview excerpt — not full track",
+      "publisher": "Smithsonian Folkways",
+      "checked": "2026-10-12",
+      "httpStatus": 206,
+      "contentType": "audio/mpeg",
+      "contentRange": "bytes 0-1023/362851",
+      "rangeBytesReceived": 1024,
+      "probe": {
+        "programs": [],
+        "streams": [
+          {
+            "codec_name": "mp3"
+          }
+        ],
+        "format": {
+          "duration": "30.040816"
+        }
+      },
+      "fullPreviewBytes": 362851,
+      "verification": "Ranged GET and full preview retrieval succeeded; ffprobe result included.",
+      "sha256": "5a2e693f758ce31d8fd051a749c63d9d8b1cf59e0d45508fd3fe2b4254482676",
+      "previewSeconds": 30.040816,
+      "fullTrackDuration": "01:53"
+    },
+    {
+      "title": "Fife and Drum: John Canoe Music",
+      "tradition": "Jonkonnu / John Canoe",
+      "catalogueId": "FW04232_203",
+      "sourceUrl": "https://folkways.si.edu/st-ann-fife-and-drum-band/fife-and-drum-john-canoe-music/caribbean-world/music/track/smithsonian",
+      "audioUrl": "https://folkways-media.si.edu/audio/samples/folkways/FW04232/FW04232_09.mp3",
+      "label": "Publisher preview excerpt — not full track",
+      "publisher": "Smithsonian Folkways",
+      "checked": "2026-10-12",
+      "httpStatus": 206,
+      "contentType": "audio/mpeg",
+      "contentRange": "bytes 0-1023/362851",
+      "rangeBytesReceived": 1024,
+      "probe": {
+        "programs": [],
+        "streams": [
+          {
+            "codec_name": "mp3"
+          }
+        ],
+        "format": {
+          "duration": "30.040816"
+        }
+      },
+      "fullPreviewBytes": 362851,
+      "verification": "Ranged GET and full preview retrieval succeeded; ffprobe result included.",
+      "sha256": "f4d93b9480df731fc0b298559b264156cdd98591c4a73e7a98ae6dbe46d61f37",
+      "previewSeconds": 30.040816,
+      "fullTrackDuration": "02:46"
+    },
+    {
+      "title": "Zion Revival: Chorus (1)",
+      "tradition": "Revival Zion",
+      "catalogueId": "FW04232_101",
+      "sourceUrl": "https://folkways.si.edu/revival-zion-drummers-singers-dancers/zion-revival-chorus/caribbean-world/music/track/smithsonian",
+      "audioUrl": "https://folkways-media.si.edu/audio/samples/folkways/FW04232/FW04232_01.mp3",
+      "label": "Publisher preview excerpt — not full track",
+      "publisher": "Smithsonian Folkways",
+      "checked": "2026-10-12",
+      "httpStatus": 206,
+      "contentType": "audio/mpeg",
+      "contentRange": "bytes 0-1023/362851",
+      "rangeBytesReceived": 1024,
+      "probe": {
+        "programs": [],
+        "streams": [
+          {
+            "codec_name": "mp3"
+          }
+        ],
+        "format": {
+          "duration": "30.040816"
+        }
+      },
+      "fullPreviewBytes": 362851,
+      "verification": "Ranged GET and full preview retrieval succeeded; ffprobe result included.",
+      "sha256": "7a85dea2fc5a775154f9c5e1313e5a8986ed475152e5d8691113e766903e1f26",
+      "previewSeconds": 30.040816,
+      "fullTrackDuration": "03:52"
+    },
+    {
+      "title": "Quadrille Band: Quadrille 1st Figure",
+      "tradition": "Quadrille",
+      "catalogueId": "FW04232_105",
+      "sourceUrl": "https://folkways.si.edu/st-ann-quadrille-band/quadrille-band-quadrille-1st-figure/caribbean-world/music/track/smithsonian",
+      "audioUrl": "https://folkways-media.si.edu/audio/samples/folkways/FW04232/FW04232_05.mp3",
+      "label": "Publisher preview excerpt — not full track",
+      "publisher": "Smithsonian Folkways",
+      "checked": "2026-10-12",
+      "httpStatus": 206,
+      "contentType": "audio/mpeg",
+      "contentRange": "bytes 0-1023/362851",
+      "rangeBytesReceived": 1024,
+      "probe": {
+        "programs": [],
+        "streams": [
+          {
+            "codec_name": "mp3"
+          }
+        ],
+        "format": {
+          "duration": "30.040816"
+        }
+      },
+      "fullPreviewBytes": 362851,
+      "verification": "Ranged GET and full preview retrieval succeeded; ffprobe result included.",
+      "sha256": "29920de376a8dc3ddc3e77d190a245c72236e16746bbe2800e921b369e317571",
+      "previewSeconds": 30.040816,
+      "fullTrackDuration": "00:45"
+    },
+    {
+      "title": "Kumina Dance - Jamaica",
+      "tradition": "Kumina",
+      "catalogueId": "FW04533_104",
+      "sourceUrl": "https://folkways.si.edu/kumina-dance/caribbean-world/music/track/smithsonian",
+      "audioUrl": "https://folkways-media.si.edu/audio/samples/folkways/FW04533/FW04533_04.mp3",
+      "label": "Publisher preview excerpt — not full track",
+      "publisher": "Smithsonian Folkways",
+      "checked": "2026-10-12",
+      "httpStatus": 206,
+      "contentType": "audio/mpeg",
+      "contentRange": "bytes 0-1023/362851",
+      "rangeBytesReceived": 1024,
+      "probe": {
+        "programs": [],
+        "streams": [
+          {
+            "codec_name": "mp3"
+          }
+        ],
+        "format": {
+          "duration": "30.040816"
+        }
+      },
+      "fullPreviewBytes": 362851,
+      "verification": "Ranged GET and full preview retrieval succeeded; ffprobe result included.",
+      "sha256": "b32afa61134cf44798515906618f56e3a0626017bb90b461a2a8ebc55237fa98",
+      "previewSeconds": 30.040816,
+      "fullTrackDuration": "02:12"
+    },
+    {
+      "title": "Wheel and Turn - Jamaica",
+      "tradition": "Mento",
+      "catalogueId": "FW04602_302",
+      "sourceUrl": "https://folkways.si.edu/wheel-and-turn/african-american-music-islamica/music/track/smithsonian",
+      "audioUrl": "https://folkways-media.si.edu/audio/samples/folkways/FW04602/FW04602_1_15.mp3",
+      "label": "Publisher preview excerpt — not full track",
+      "publisher": "Smithsonian Folkways",
+      "checked": "2026-10-12",
+      "httpStatus": 206,
+      "contentType": "audio/mpeg",
+      "contentRange": "bytes 0-1023/362851",
+      "rangeBytesReceived": 1024,
+      "probe": {
+        "programs": [],
+        "streams": [
+          {
+            "codec_name": "mp3"
+          }
+        ],
+        "format": {
+          "duration": "30.040816"
+        }
+      },
+      "fullPreviewBytes": 362851,
+      "verification": "Ranged GET and full preview retrieval succeeded; ffprobe result included.",
+      "sha256": "9e3a72ffe0d17cf093fd35a4f6ec71f135711afe0f35ef8b12253e46f0f2569f",
+      "previewSeconds": 30.040816,
+      "fullTrackDuration": "02:20"
+    },
+    {
+      "title": "Pukkumina Prayer",
+      "tradition": "Pukkumina / Pocomania",
+      "catalogueId": "FW04453_206",
+      "sourceUrl": "https://folkways.si.edu/pukkumina-prayer/caribbean-world/music/track/smithsonian",
+      "audioUrl": "https://folkways-media.si.edu/audio/samples/folkways/FW04453/FW04453_14.mp3",
+      "label": "Publisher preview excerpt — not full track",
+      "publisher": "Smithsonian Folkways",
+      "checked": "2026-10-12",
+      "httpStatus": 206,
+      "contentType": "audio/mpeg",
+      "contentRange": "bytes 0-1023/362851",
+      "rangeBytesReceived": 1024,
+      "probe": {
+        "programs": [],
+        "streams": [
+          {
+            "codec_name": "mp3"
+          }
+        ],
+        "format": {
+          "duration": "30.040816"
+        }
+      },
+      "fullPreviewBytes": 362851,
+      "verification": "Primary track page audio tag extracted; ranged GET and ffprobe verified preview.",
+      "sha256": "83ad21ee59de508bf88c47a6bbcfe110ce3d8abe75c315be3daccf05c0614d03",
+      "previewSeconds": 30.040816,
+      "fullTrackDuration": "02:16"
+    }
+  ],
+  "burru": [
+    {
+      "id": "Un9Jbb4V5J4",
+      "title": "A Popular Djembe Rhythm, \"Burru\" with Joakim Lartey @ Tribal Rhyhtm Gathering 2018",
+      "uploader": "Didge Project",
+      "uploader_url": "http://www.youtube.com/@didgeproject",
+      "duration_seconds": 194,
+      "upload_date": "2019-02-01T03:45:00-08:00",
+      "watch_url": "https://www.youtube.com/watch?v=Un9Jbb4V5J4",
+      "embed_url": "https://www.youtube-nocookie.com/embed/Un9Jbb4V5J4",
+      "thumbnail": "https://i.ytimg.com/vi/Un9Jbb4V5J4/hqdefault.jpg",
+      "description": "Tribal Rhythms Gathering happens in Upstate New York every summer. Full details at: http://www.didgeproject.com/gathering\n\nJoakim Lartey is a drummer/percussionist, storyteller, educator and sound designer. He was co-founder, lead singer and percussionist of Woodstock’s Futu Futu. He is engaged in a lifelong exploration of recording technology and the fusion of traditional/ancient and contemporary musical forms. He has collaborated/played with Natalie Merchant, Jack DeJohnette, John Hall, Baba Olatunji among others…\n\nHe currently performs with the duo Joakim & Chris [with guitarist Chris Lane] and The Sonark Trio [with multi instrumentalist Thomas Workman and cellist Gabriel Dresdale]\n\n*******************\n\nDidge Project features music tutorials and instrument reviews. Follow us:\n\nhttp://www.didgeproject.com\nhttp://www.facebook.com/didgeproject\nhttps://www.youtube.com/didgeproject7",
+      "verification": {
+        "oembed": "HTTP success with official embed HTML",
+        "watch_page": "HTTP success with ytInitialPlayerResponse",
+        "player_status": "OK",
+        "playableInEmbed": true,
+        "public": true,
+        "available_in_US_and_JM": true,
+        "actual_media_playback_tested": false
+      },
+      "evidence_file": "/workspace/scratch/360e10c07cd2/burru-watch-Un9Jbb4V5J4.html.json",
+      "rights": "Embed through official YouTube player; no download/rehosting permission verified.",
+      "category": "Burru educational demonstration",
+      "setting": "Tribal Rhythm Gathering 2018, Upstate New York; uploaded February 1, 2019.",
+      "recommended": true,
+      "primary_context": "https://www.didgeproject.com/world-rhythms/burru-afro-jamaican-djembe-rhythm-joakim-lartey-tribal-rhyhtm-gathering-2018/",
+      "caption": "Joakim Lartey teaches an Afro-Jamaican Burru pattern on djembe at the 2018 Tribal Rhythm Gathering in Upstate New York. Didge Project published the lesson in 2019.",
+      "listening_prompts": [
+        "Follow the recurring sequence Lartey demonstrates: two bass strokes, two tone strokes, two bass strokes and four tone strokes. The producer labels bass B and tone T.",
+        "Keep your attention on the return of the low bass sound after the brighter tones; this is a teaching pattern with variations, not a claim that every Jamaican Burru performance uses one fixed formula.",
+        "Compare the lesson’s isolated drum vocabulary with the second duo demonstration; treat the two as educational performances rather than Christmas procession recordings."
+      ],
+      "identity_limits": "Explicitly named Burru by producer; djembe classroom demonstration in the United States. Not an archival Old Harbour Bay/Spring Village procession.",
+      "source_ref": "turn73view3"
+    },
+    {
+      "id": "9sRP-HgeNaI",
+      "title": "Joakim Lartey and Jamiles Lartey playing Burru",
+      "uploader": "Joakim Lartey",
+      "uploader_url": "http://www.youtube.com/@ataajoo1",
+      "duration_seconds": 155,
+      "upload_date": "2013-08-05T18:11:17-07:00",
+      "watch_url": "https://www.youtube.com/watch?v=9sRP-HgeNaI",
+      "embed_url": "https://www.youtube-nocookie.com/embed/9sRP-HgeNaI",
+      "thumbnail": "https://i.ytimg.com/vi/9sRP-HgeNaI/hqdefault.jpg",
+      "description": "Quick demonstration of \"Burru\" for College Administrators...",
+      "verification": {
+        "oembed": "HTTP success with official embed HTML",
+        "watch_page": "HTTP success with ytInitialPlayerResponse",
+        "player_status": "OK",
+        "playableInEmbed": true,
+        "public": true,
+        "available_in_US_and_JM": true,
+        "actual_media_playback_tested": false
+      },
+      "evidence_file": "/workspace/scratch/360e10c07cd2/burru-watch-9sRP-HgeNaI.html.json",
+      "rights": "Embed through official YouTube player; no download/rehosting permission verified.",
+      "category": "Burru performer demonstration",
+      "setting": "Demonstration for college administrators; uploaded August 5, 2013. Exact college/location not supplied.",
+      "recommended": true,
+      "caption": "Joakim and Jamiles Lartey demonstrate Burru for college administrators, in a performance uploaded by Joakim Lartey in 2013.",
+      "listening_prompts": [
+        "Watch how two players coordinate their parts and return to a repeating structure.",
+        "Compare the two-player demonstration with Lartey’s later teaching clip: which sounds repeat steadily and which phrases answer or vary?"
+      ],
+      "identity_limits": "Performers and style explicitly identified by performer’s own upload. The setting is an educational presentation, not an original village Christmas performance."
+    }
+  ],
+  "traditions": [
+    {
+      "tradition": "Dinki Mini",
+      "title": "Jamaica Traditional Folk Form Dinki Mini",
+      "publisher": "Jamaica Information Service",
+      "videoId": "HL9JTlYJefk",
+      "sourceUrl": "https://jis.gov.jm/videos/jamaica-traditional-folk-form-dinki-mini/",
+      "date": "2021-10-20 publication",
+      "locality": "Filming locality not established by retrieved page",
+      "embedUrl": "https://www.youtube-nocookie.com/embed/HL9JTlYJefk?rel=0",
+      "watchFor": "Watch the relation between paired movement and live musical response. Present as a JIS explanation/demonstration, not footage of an identified private wake.",
+      "verification": "Video ID recovered from primary publisher page HTML",
+      "playback": "Not yet browser-tested",
+      "rights": "Use source-hosted player; no rehosting, downloading or still-frame reproduction clearance claimed."
+    },
+    {
+      "tradition": "Kumina",
+      "title": "Kumina – JIS",
+      "publisher": "Jamaica Information Service",
+      "videoId": "EVxV1cR0Ogg",
+      "sourceUrl": "https://jis.gov.jm/videos/kumina-jis/",
+      "date": "2026-03-31 publication",
+      "locality": "Filming locality not established by retrieved page",
+      "embedUrl": "https://www.youtube-nocookie.com/embed/EVxV1cR0Ogg?rel=0",
+      "watchFor": "Follow how the feature identifies the tradition; attend to drummers, singers and dancers as a group. Do not caption an unverified scene as a particular sacred ceremony.",
+      "verification": "Video ID recovered from primary publisher page HTML",
+      "playback": "Not yet browser-tested",
+      "rights": "Use source-hosted player; no rehosting, downloading or still-frame reproduction clearance claimed."
+    },
+    {
+      "tradition": "Ettu / Etu",
+      "title": "Jamaican Etu Dancing",
+      "publisher": "Filmmaker Morenike Olabunmi",
+      "videoId": "47733216",
+      "sourceUrl": "https://vimeo.com/47733216",
+      "date": "Filming/publication date not supplied in retrieved page",
+      "locality": "Jamaica; specific community not supplied in retrieved page",
+      "embedUrl": "https://player.vimeo.com/video/47733216",
+      "watchFor": "Creator identifies a clip from ETU & NAGO: THE YORUBA CONNECTION. Watch dancers move in a circle towards the drummers; compare family song/rhythm with the movement, as the filmmaker describes.",
+      "verification": "Creator-issued Vimeo page identifies footage",
+      "playback": "Not yet browser-tested",
+      "rights": "Use source-hosted player; no rehosting, downloading or still-frame reproduction clearance claimed."
+    },
+    {
+      "tradition": "Quadrille / Maypole",
+      "title": "Jamaica Traditional Folk Forms Quadrille & Maypole",
+      "publisher": "Jamaica Information Service (attribution pending independent primary confirmation)",
+      "videoId": "oQ3WfgEoLbw",
+      "sourceUrl": "https://jamaicamusicatlas.com/entity/dance/quadrille-jamaica",
+      "date": "Not established",
+      "locality": "Not established",
+      "embedUrl": "https://www.youtube-nocookie.com/embed/oQ3WfgEoLbw?rel=0",
+      "watchFor": "Compare the formations of quadrille with ribbon/pole movement; keep the two named forms distinct. This lead must be checked before publication.",
+      "verification": "Exact video ID recovered from third-party discovery page; official title/channel metadata needs primary confirmation",
+      "playback": "Not yet browser-tested",
+      "rights": "Use source-hosted player; no rehosting, downloading or still-frame reproduction clearance claimed."
+    },
+    {
+      "tradition": "Revival pilgrimage",
+      "title": "Pilgrimage to Watt Town",
+      "publisher": "UNESCO; film copyright Creative Production & Training Centre, Jamaica",
+      "filmId": "75217",
+      "sourceUrl": "https://ich.unesco.org/en/video/75217",
+      "contextUrl": "https://ich.unesco.org/en/RL/pilgrimage-to-watt-town-02137",
+      "date": "2023 film; 2024 Representative List inscription",
+      "locality": "Watt Town, St. Ann, Jamaica",
+      "watchFor": "Notice bands arriving, gifts, seals, clothing and collective song/dance. It documents the named Revival pilgrimage, not all Revival congregations or a Kumina ceremony.",
+      "embedUrl": null,
+      "verification": "UNESCO film and context identified; hosted player URL unavailable behind an anti-bot wall.",
+      "playback": "Not tested; source link only until player is resolved.",
+      "rights": "CPTC copyright; source-hosted playback preferable. Photo use/rehosting permission not established."
+    }
+  ],
+  "revival": {
+    "id": "R0apj4Rybb4",
+    "title": "Jamaican Revival in Watt Town",
+    "creator": "Aston Cooke",
+    "date": "2014-03-17",
+    "setting": "Bishop Ray Foster’s Band, Watt Town, St. Ann, Revival ceremony 2014",
+    "durationSeconds": 209,
+    "playerStatus": "OK",
+    "playableInEmbed": true,
+    "actualPlaybackTested": false,
+    "source": "https://www.youtube.com/watch?v=R0apj4Rybb4"
+  }
+}
