@@ -1,0 +1,7 @@
+(function(){
+ const names=['Kingston','St. Andrew','St. Thomas','Portland','St. Mary','St. Ann','Trelawny','St. James','Hanover','Westmoreland','St. Elizabeth','Manchester','Clarendon','St. Catherine'];
+ function matches(row,selected){return !selected.length||row.national===true||(row.parishes||[]).some(p=>selected.includes(p));}
+ function label(row){return row.national?'Across Jamaica':(row.parishes||[]).join(' / ')||'Parish not yet identified';}
+ function mount(id,onChange){const box=document.getElementById(id);box.innerHTML='<fieldset><legend>Choose one or more parishes</legend><p>Leave all unchecked to browse every parish.</p><div class="parish-checkbox-grid">'+names.map((p,i)=>'<label><input type="checkbox" value="'+p+'" id="'+id+'-'+i+'">'+p+'</label>').join('')+'</div><button type="button" data-parish-reset>Show all parishes</button><p class="parish-filter-status" role="status" aria-live="polite">All parishes</p></fieldset>';const selected=()=>[...box.querySelectorAll('input:checked')].map(x=>x.value);function change(){box.querySelector('.parish-filter-status').textContent=selected().join(' / ')||'All parishes';onChange();}box.addEventListener('change',change);box.querySelector('[data-parish-reset]').addEventListener('click',()=>{box.querySelectorAll('input').forEach(x=>x.checked=false);change();});return{selected};}
+ window.TGParishFilters={names,matches,label,mount};
+})();

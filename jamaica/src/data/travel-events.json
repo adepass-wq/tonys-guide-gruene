@@ -12,7 +12,10 @@
     "cost": "Registration and current admission: check organiser.",
     "source": "https://jamaicaculturalexpo.com/seville-heritage-expo-1",
     "verify": "https://www.visitjamaica.com/",
-    "map": "Seville Heritage Park, Jamaica"
+    "map": "Seville Heritage Park, Jamaica",
+    "parishes": [
+      "St. Ann"
+    ]
   },
   {
     "id": "bzr",
@@ -27,7 +30,11 @@
     "cost": "Event-specific ticket categories; organiser confirmation required.",
     "source": "https://www.visitjamaica.com/blog/post/events-happening-in-jamaica/",
     "verify": "https://www.visitjamaica.com/event/bzr-wknd-2026/1439/",
-    "map": "National Stadium, Kingston, Jamaica"
+    "map": "National Stadium, Kingston, Jamaica",
+    "parishes": [
+      "St. Andrew"
+    ],
+    "parish_note": "Headline stadium venue is in St. Andrew; confirm each additional party venue."
   },
   {
     "id": "pinkrun",
@@ -42,14 +49,17 @@
     "cost": "Registration: check current event information.",
     "source": "https://www.visitjamaica.com/blog/post/events-happening-in-jamaica/",
     "verify": "https://www.visitjamaica.com/experiences/events/events-calendar/",
-    "map": "Treasure Beach, Jamaica"
+    "map": "Treasure Beach, Jamaica",
+    "parishes": [
+      "St. Elizabeth"
+    ]
   },
   {
     "id": "heroes",
     "name": "National Heroes’ Day",
     "start": "2026-10-19",
     "end": "2026-10-19",
-    "area": "North coast",
+    "area": "Across Jamaica",
     "genre": "Culture & family",
     "location": "National public holiday; programmes vary by parish",
     "description": "The third Monday in October falls on 19 October in 2026. This is a holiday notice, not a promise of a particular concert or ceremony.",
@@ -57,7 +67,10 @@
     "cost": "Venue-specific; no national event admission price.",
     "source": "https://www.visitjamaica.com/plan-your-adventure/travel-tips/public-holidays/",
     "verify": "https://jcdc.gov.jm/",
-    "map": null
+    "map": null,
+    "parishes": [],
+    "national": true,
+    "parish_note": "National public holiday; local programmes vary and need separate confirmation."
   },
   {
     "id": "foodrum",
@@ -72,7 +85,10 @@
     "cost": "Programme-specific; confirm festival tickets.",
     "source": "https://www.foodrumreggaefestival.com/",
     "verify": "https://www.visitjamaica.com/blog/post/events-happening-in-jamaica/",
-    "map": "Treasure Beach, Jamaica"
+    "map": "Treasure Beach, Jamaica",
+    "parishes": [
+      "St. Elizabeth"
+    ]
   },
   {
     "id": "proam",
@@ -87,7 +103,10 @@
     "cost": "Golf/event package pricing through organiser.",
     "source": "https://www.jamaicaproam.com/",
     "verify": "https://www.visitjamaica.com/blog/post/events-happening-in-jamaica/",
-    "map": "Montego Bay, Jamaica"
+    "map": "Montego Bay, Jamaica",
+    "parishes": [
+      "St. James"
+    ]
   },
   {
     "id": "mouttet",
@@ -102,7 +121,10 @@
     "cost": "Current admission and hospitality categories through organiser.",
     "source": "https://mouttetmile.com/",
     "verify": "https://www.visitjamaica.com/blog/post/events-happening-in-jamaica/",
-    "map": "Caymanas Park, Jamaica"
+    "map": "Caymanas Park, Jamaica",
+    "parishes": [
+      "St. Catherine"
+    ]
   },
   {
     "id": "reggaerun",
@@ -117,7 +139,10 @@
     "cost": "Distance/category registration fees on organiser's site.",
     "source": "https://www.reggaemarathon.com/faqs/",
     "verify": "https://www.reggaemarathon.com/about/",
-    "map": "Kingston Waterfront, Jamaica"
+    "map": "Kingston Waterfront, Jamaica",
+    "parishes": [
+      "Kingston"
+    ]
   },
   {
     "id": "expanded-6",
@@ -126,13 +151,16 @@
     "end": "2026-11-07",
     "area": "North coast",
     "genre": "Sports & community",
-    "location": "White River House Beach, Ocho Rios",
+    "location": "White River House Beach, St. Mary, near Ocho Rios",
     "description": "Charity open-water swim supporting White River Fish Sanctuary.",
     "call": "Event has a rescheduled January2026 prior staging, so do not confuse that completed race with November2026 edition. Open-water conditions and eligibility require checking.",
     "cost": "Confirm registration, ticket category and current price with the organizer.",
     "source": "https://www.jamaicainn.com/experiences/upcoming-events/swim-for-the-sanctuary/",
     "verify": "https://www.jamaicainn.com/experiences/upcoming-events/swim-for-the-sanctuary/",
-    "map": "White River House Beach, Ocho Rios"
+    "map": "White River House Beach, Ocho Rios",
+    "parishes": [
+      "St. Mary"
+    ]
   },
   {
     "id": "expanded-7",
@@ -147,7 +175,12 @@
     "cost": "Confirm registration, ticket category and current price with the organizer.",
     "source": "https://jcdc.gov.jm/events/marcus-garvey-award-excellence-performing-arts",
     "verify": "https://jcdc.gov.jm/events/marcus-garvey-award-excellence-performing-arts",
-    "map": "Kingston / St. Andrew; precise venue not provided"
+    "map": "Kingston / St. Andrew; precise venue not provided",
+    "parishes": [
+      "Kingston",
+      "St. Andrew"
+    ],
+    "parish_note": "Kingston metropolitan area; precise venue and parish are not yet confirmed."
   },
   {
     "id": "expanded-8",
@@ -162,7 +195,10 @@
     "cost": "Confirm registration, ticket category and current price with the organizer.",
     "source": "https://jcdc.gov.jm/events/national-heritage-week-thanksgiving-church-service-2",
     "verify": "https://jcdc.gov.jm/events/national-heritage-week-thanksgiving-church-service-2",
-    "map": "Kingston Open Bible, 12 Washington Boulevard, Kingston20"
+    "map": "Kingston Open Bible, 12 Washington Boulevard, Kingston20",
+    "parishes": [
+      "St. Andrew"
+    ]
   },
   {
     "id": "expanded-9",
@@ -177,7 +213,10 @@
     "cost": "Confirm registration, ticket category and current price with the organizer.",
     "source": "https://jcdc.gov.jm/events/salute-heroes",
     "verify": "https://jcdc.gov.jm/events/salute-heroes",
-    "map": "National Heroes Park, Kingston"
+    "map": "National Heroes Park, Kingston",
+    "parishes": [
+      "Kingston"
+    ]
   },
   {
     "id": "expanded-10",
@@ -192,14 +231,17 @@
     "cost": "Confirm registration, ticket category and current price with the organizer.",
     "source": "https://jcdc.gov.jm/events/ceremony-investiture-and-presentation-national-honours-and-awards",
     "verify": "https://jcdc.gov.jm/events/ceremony-investiture-and-presentation-national-honours-and-awards",
-    "map": "King’s House, Kingston / St. Andrew"
+    "map": "King’s House, Kingston / St. Andrew",
+    "parishes": [
+      "St. Andrew"
+    ]
   },
   {
     "id": "expanded-11",
     "name": "Carnival in Jamaica — Road March",
     "start": "2027-04-04",
     "end": "2027-04-04",
-    "area": "North coast",
+    "area": "Elsewhere in Jamaica",
     "genre": "Culture & family",
     "location": "Kingston; wider carnival events also Ocho Rios and Montego Bay",
     "description": "Costumed street parade and soca celebrations.",
@@ -207,6 +249,11 @@
     "cost": "Confirm registration, ticket category and current price with the organizer.",
     "source": "https://www.visitjamaica.com/carnival-in-jamaica/",
     "verify": "https://www.visitjamaica.com/carnival-in-jamaica/",
-    "map": "Kingston; wider carnival events also Ocho Rios and Montego Bay"
+    "map": "Kingston; wider carnival events also Ocho Rios and Montego Bay",
+    "parishes": [
+      "Kingston",
+      "St. Andrew"
+    ],
+    "parish_note": "Road march in the Kingston metropolitan area; confirm the route. Wider carnival parties have separate locations and dates."
   }
 ]

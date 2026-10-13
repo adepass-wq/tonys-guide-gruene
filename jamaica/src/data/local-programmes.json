@@ -13,7 +13,10 @@
     "genre": "Music & nightlife",
     "area": "North coast",
     "checked": "2026-10-12",
-    "recheckAfter": "2027-01-10"
+    "recheckAfter": "2027-01-10",
+    "parishes": [
+      "St. Ann"
+    ]
   },
   {
     "id": "local-1",
@@ -29,7 +32,10 @@
     "genre": "Music & nightlife",
     "area": "North coast",
     "checked": "2026-10-12",
-    "recheckAfter": "2027-01-10"
+    "recheckAfter": "2027-01-10",
+    "parishes": [
+      "St. Ann"
+    ]
   },
   {
     "id": "local-2",
@@ -45,7 +51,10 @@
     "genre": "Music & nightlife",
     "area": "North coast",
     "checked": "2026-10-12",
-    "recheckAfter": "2027-01-10"
+    "recheckAfter": "2027-01-10",
+    "parishes": [
+      "St. Ann"
+    ]
   },
   {
     "id": "local-3",
@@ -61,7 +70,10 @@
     "genre": "Music & nightlife",
     "area": "North coast",
     "checked": "2026-10-12",
-    "recheckAfter": "2027-01-10"
+    "recheckAfter": "2027-01-10",
+    "parishes": [
+      "St. Ann"
+    ]
   },
   {
     "id": "local-4",
@@ -77,7 +89,10 @@
     "genre": "Music & nightlife",
     "area": "North coast",
     "checked": "2026-10-12",
-    "recheckAfter": "2027-01-10"
+    "recheckAfter": "2027-01-10",
+    "parishes": [
+      "St. Ann"
+    ]
   },
   {
     "id": "local-5",
@@ -93,7 +108,10 @@
     "genre": "Music & nightlife",
     "area": "North coast",
     "checked": "2026-10-12",
-    "recheckAfter": "2027-01-10"
+    "recheckAfter": "2027-01-10",
+    "parishes": [
+      "St. Ann"
+    ]
   },
   {
     "id": "local-6",
@@ -115,7 +133,10 @@
     "genre": "Music & nightlife",
     "area": "North coast",
     "checked": "2026-10-12",
-    "recheckAfter": "2027-01-10"
+    "recheckAfter": "2027-01-10",
+    "parishes": [
+      "St. Ann"
+    ]
   },
   {
     "id": "local-7",
@@ -131,7 +152,10 @@
     "genre": "Music & nightlife",
     "area": "North coast",
     "checked": "2026-10-12",
-    "recheckAfter": "2027-01-10"
+    "recheckAfter": "2027-01-10",
+    "parishes": [
+      "St. Ann"
+    ]
   },
   {
     "id": "local-8",
@@ -145,7 +169,10 @@
     "genre": "Music & nightlife",
     "area": "North coast",
     "checked": "2026-10-12",
-    "recheckAfter": "2027-01-10"
+    "recheckAfter": "2027-01-10",
+    "parishes": [
+      "St. Ann"
+    ]
   },
   {
     "id": "local-9",
@@ -161,7 +188,10 @@
     "genre": "Culture & family",
     "area": "North coast",
     "checked": "2026-10-12",
-    "recheckAfter": "2027-01-10"
+    "recheckAfter": "2027-01-10",
+    "parishes": [
+      "St. Ann"
+    ]
   },
   {
     "id": "local-10",
@@ -177,6 +207,9 @@
     "genre": "Culture & family",
     "area": "North coast",
     "checked": "2026-10-12",
-    "recheckAfter": "2027-01-10"
+    "recheckAfter": "2027-01-10",
+    "parishes": [
+      "St. Ann"
+    ]
   }
 ]
