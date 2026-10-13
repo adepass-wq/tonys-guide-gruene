@@ -1,57 +1,136 @@
 [
   {
-    "id": "capital-mountains",
-    "name": "Kingston & the Blue Mountains",
-    "pitch": "Art, music, scholarship—and a separate day in the mountains.",
-    "base": "Kingston for city visits; a mountain stay for an early forest start.",
+    "id": "ocho-mary",
+    "name": "Ocho Rios, St. Ann & St. Mary",
+    "pitch": "A coast with working towns, inland histories and room for a proper meal.",
+    "base": "Ocho Rios for town access; Runaway Bay for western St. Ann; Oracabessa or Port Maria for a St. Mary branch.",
     "places": [
-      "national-gallery",
-      "national-marley",
-      "national-devon",
-      "national-holywell"
+      "dunn",
+      "seville",
+      "stannbay",
+      "portmaria",
+      "oracabessa",
+      "castleton",
+      "food-11",
+      "misst",
+      "stush"
+    ],
+    "heritage": [],
+    "branches": [
+      [
+        "Western St. Ann",
+        "Choose Discovery Bay/Runaway Bay, Green Grotto and Seville as a western branch. A Seville visit needs a suitable booked date; its normal tour exclusions still apply. St. Ann’s Bay connects the outing to town life and Garvey history.",
+        "<a href=\"#travel-caves\">Green Grotto</a> · <a href=\"#travel-seville\">Seville</a> · <a href=\"#travel-stannbay\">St. Ann’s Bay</a>"
+      ],
+      [
+        "Ocho Rios and the hinterland",
+        "Choose one principal active outing—Dunn’s River, Blue Hole or another booked product—then leave time for a town meal. Inland Nine Mile and Stush are commitments of their own, not extras to squeeze into a port call.",
+        "<a href=\"#travel-dunn\">Dunn’s River</a> · <a href=\"#travel-nine\">Nine Mile</a> · <a href=\"#travel-stush\">Stush</a>"
+      ],
+      [
+        "St. Mary coast and hills",
+        "Oracabessa, Port Maria and Annotto Bay introduce distinct working communities. Castleton is an inland garden branch; Firefly and Sun Valley require their own confirmed visits. Keep town exteriors separate from unconfirmed interior access.",
+        "<a href=\"#travel-portmaria\">Port Maria</a> · <a href=\"#travel-castleton\">Castleton</a> · <a href=\"#travel-annotto\">Annotto Bay</a>"
+      ]
+    ],
+    "call": "Pick one of the three branches for the day. Coast and hills belong together historically; that does not make every stop fit into one afternoon.",
+    "notes": [
+      [
+        "Before leaving",
+        "Confirm the chosen visit, road approach, return transport, costs and access. Use the weather desk for forecasts, then ask the operator about actual site conditions."
+      ]
+    ],
+    "photo": "dunn"
+  },
+  {
+    "id": "montego",
+    "name": "Montego Bay, Falmouth & Trelawny",
+    "pitch": "Art, public space, port towns and the landscape behind the resort coast.",
+    "base": "Montego Bay for downtown and the Rose Hall coast; Falmouth for its town and Trelawny branch.",
+    "places": [
+      "national-doctors",
+      "national-rosehall",
+      "national-falmouth",
+      "national-lagoon",
+      "national-goodhope",
+      "regional-rasnatango",
+      "regional-rocklands",
+      "regional-mobay-culture",
+      "regional-harmony-park",
+      "food-scotchies-mobay"
     ],
     "heritage": [
-      "parish-kingston-rail",
-      "parish-libertyhall",
-      "parish-mona",
-      "parish-devon",
-      "parish-ward",
-      "parish-cinchona"
+      "parish-burchell",
+      "parish-goodhope"
     ],
     "branches": [
       [
-        "Downtown: art and the working city",
-        "Pair the National Gallery with a booked Water Lane walk. Galleries, murals and the waterfront tell different parts of Kingston’s story; allow time to look rather than collecting photo stops. Kingston Creative advises visiting Water Lane by day with a guide.",
-        "<a href=\"#travel-national-gallery\">National Gallery guide</a> · <a href=\"https://kingstoncreative.org/kc-tours-2/\" target=\"_blank\" rel=\"noopener\">Kingston Creative tours ↗</a>"
+        "Downtown before the beach",
+        "Start with the Cultural Centre and the meanings attached to Sam Sharpe Square. Harmony Beach Park offers a public-space alternative; Doctor’s Cave is a different, managed beach choice.",
+        "<a href=\"#travel-regional-mobay-culture\">Cultural Centre</a> · <a href=\"#travel-regional-harmony-park\">Harmony Beach Park</a>"
       ],
       [
-        "Music: Trench Town and Hope Road",
-        "Trench Town Culture Yard connects music to housing and community life. The Bob Marley Museum on Hope Road is a separate visit and requires a transfer. Book the Culture Yard directly with its resident-run team; agree the pickup and return before leaving.",
-        "<a href=\"https://www.ttcultureyard.com/tours-links\" target=\"_blank\" rel=\"noopener\">Culture Yard visits ↗</a> · <a href=\"#travel-national-marley\">Bob Marley Museum guide</a> · <a href=\"#music\">Explore the music history</a>"
+        "Choose one hillside outing",
+        "Ras Natango connects art and gardening; Rocklands rewards patient bird observation. Select the experience that interests your group rather than automatically combining two hill transfers.",
+        "<a href=\"#travel-regional-rasnatango\">Ras Natango</a> · <a href=\"#travel-regional-rocklands\">Rocklands</a>"
       ],
       [
-        "Mona: the intellectual landscape",
-        "Use UWI’s heritage tour to read the campus as a historical landscape, not simply attractive university grounds. Its story includes former sugar estates and the development of a Caribbean university. Arrange a tour rather than assuming unrestricted access to every building.",
-        "<a href=\"#parish-mona\">Read Mona’s layered history</a> · <a href=\"https://www.mona.uwi.edu/heritage_tour/\" target=\"_blank\" rel=\"noopener\">UWI heritage tours ↗</a>"
-      ],
-      [
-        "Mountain day: Irish Town, Newcastle and Holywell",
-        "Choose the Holywell approach with your driver and confirm that day’s route through the mountain communities. Gordon Town is a gateway to other walks and routes; do not assume every stop belongs on one continuous drive. Holywell is a different outing from Blue Mountain Peak: the summit trail needs its own trailhead, transport and hiking plan.",
-        "<a href=\"#travel-national-holywell\">Holywell guide</a> · <a href=\"#travel-national-peak\">Separate summit-hike guide</a>"
+        "Falmouth and Trelawny are a separate branch",
+        "Give the historic town time. Good Hope requires its booked product; the lagoon requires its evening departure and return ride. A historic building or an old tour advertisement is not proof of current entry.",
+        "<a href=\"#travel-national-falmouth\">Falmouth</a> · <a href=\"#travel-national-goodhope\">Good Hope</a> · <a href=\"#travel-national-lagoon\">Luminous Lagoon</a>"
       ]
     ],
-    "call": "Give Kingston at least one city day and the mountains their own day. Skip the mountain extension if bends, weather or the available return transport make the outing uncomfortable.",
+    "call": "Use separate downtown, hillside or Trelawny days. A regional collection is broader than a practical day route.",
     "notes": [
       [
-        "Coffee: ask where the cup comes from",
-        "Compare a booked farm visit with a commercial tasting by asking who grew, processed and roasted the beans, and whether the bag is a blend. Small scale alone does not establish quality or farmer benefit. Jamaica Blue Mountain is a regulated brand: ask about origin and certification, not just the view from the café. <a href=\"https://jacra.org/divisions/coffee/introduction/\" target=\"_blank\" rel=\"noopener\">JACRA brand and licensing explanation ↗</a>"
-      ],
-      [
-        "Elevation, bends and rain",
-        "Holywell’s published park description places it above 900 metres. Pack a layer, rain protection and footwear suited to the selected trail. Put outdoor walking earlier in the day as a planning preference; afternoon rain is possible, not a guaranteed timetable. Check the forecast and park before departure; a driver familiar with the mountain road is a sensible choice. <a href=\"https://www.blueandjohncrowmountains.org/national-park-recreation-areas/holywell\" target=\"_blank\" rel=\"noopener\">Park facilities, trails and coffee visits ↗</a>"
+        "Before leaving",
+        "Confirm the chosen visit, road approach, return transport, costs and access. Use the weather desk for forecasts, then ask the operator about actual site conditions."
       ]
     ],
-    "photo": "national-holywell"
+    "photo": "national-doctors"
+  },
+  {
+    "id": "negril",
+    "name": "Negril, Hanover & Western Jamaica",
+    "pitch": "Beach, cliffs and the western communities that deserve more than a drive-through.",
+    "base": "Negril for beach and West End outings; a Hanover base for Lucea and surrounding communities.",
+    "places": [
+      "national-negrilbeach",
+      "national-ricks",
+      "regional-jamwest",
+      "regional-lucea-fort"
+    ],
+    "heritage": [
+      "parish-lucea",
+      "parish-fortcharlotte",
+      "parish-savannalamar",
+      "parish-blenheim"
+    ],
+    "branches": [
+      [
+        "Beach and West End",
+        "Choose a beach block or a cliff-side evening with a confirmed return ride. Swimming, sunset viewing and cliff jumping are different choices; a lively venue is not a safety endorsement for jumping.",
+        "<a href=\"#travel-national-negrilbeach\">Negril beach</a> · <a href=\"#travel-national-ricks\">Rick’s Café</a>"
+      ],
+      [
+        "An inland activity changes the day",
+        "Jamwest is outside Negril at Old Hope. Choose its exact product, check participation requirements and allow transfer time; do not treat an inland package as a short walk off the sand.",
+        "<a href=\"#travel-regional-jamwest\">Jamwest guide</a>"
+      ],
+      [
+        "Hanover and working western towns",
+        "Lucea and Fort Charlotte provide a Hanover history branch. Savanna-la-Mar and Blenheim have their own histories and access arrangements. Border fish and bammy belongs to the South Coast branch, rather than this beach circuit.",
+        "<a href=\"#travel-regional-lucea-fort\">Lucea outing</a> · <a href=\"#parish-savannalamar\">Savanna-la-Mar history</a> · <a href=\"#travel-food-border\">Border food stop</a>"
+      ]
+    ],
+    "call": "Protect a beach day from too many transfers. Make Hanover or an inland outing a deliberate second day.",
+    "notes": [
+      [
+        "Before leaving",
+        "Confirm the chosen visit, road approach, return transport, costs and access. Use the weather desk for forecasts, then ask the operator about actual site conditions."
+      ]
+    ],
+    "photo": "national-negrilbeach"
   },
   {
     "id": "portland",
@@ -105,6 +184,98 @@
     "photo": "national-frenchmans"
   },
   {
+    "id": "capital-mountains",
+    "name": "Kingston & the Blue Mountains",
+    "pitch": "Art, music, scholarship—and a separate day in the mountains.",
+    "base": "Kingston for city visits; a mountain stay for an early forest start.",
+    "places": [
+      "national-gallery",
+      "national-marley",
+      "national-devon",
+      "national-holywell"
+    ],
+    "heritage": [
+      "parish-kingston-rail",
+      "parish-libertyhall",
+      "parish-mona",
+      "parish-ward",
+      "parish-cinchona"
+    ],
+    "branches": [
+      [
+        "Downtown: art and the working city",
+        "Pair the National Gallery with a booked Water Lane walk. Galleries, murals and the waterfront tell different parts of Kingston’s story; allow time to look rather than collecting photo stops. Kingston Creative advises visiting Water Lane by day with a guide.",
+        "<a href=\"#travel-national-gallery\">National Gallery guide</a> · <a href=\"https://kingstoncreative.org/kc-tours-2/\" target=\"_blank\" rel=\"noopener\">Kingston Creative tours ↗</a>"
+      ],
+      [
+        "Music: Trench Town and Hope Road",
+        "Trench Town Culture Yard connects music to housing and community life. The Bob Marley Museum on Hope Road is a separate visit and requires a transfer. Book the Culture Yard directly with its resident-run team; agree the pickup and return before leaving.",
+        "<a href=\"https://www.ttcultureyard.com/tours-links\" target=\"_blank\" rel=\"noopener\">Culture Yard visits ↗</a> · <a href=\"#travel-national-marley\">Bob Marley Museum guide</a> · <a href=\"#music\">Explore the music history</a>"
+      ],
+      [
+        "Mona: the intellectual landscape",
+        "Use UWI’s heritage tour to read the campus as a historical landscape, not simply attractive university grounds. Its story includes former sugar estates and the development of a Caribbean university. Arrange a tour rather than assuming unrestricted access to every building.",
+        "<a href=\"#parish-mona\">Read Mona’s layered history</a> · <a href=\"https://www.mona.uwi.edu/heritage_tour/\" target=\"_blank\" rel=\"noopener\">UWI heritage tours ↗</a>"
+      ],
+      [
+        "Mountain day: Irish Town, Newcastle and Holywell",
+        "Choose the Holywell approach with your driver and confirm that day’s route through the mountain communities. Gordon Town is a gateway to other walks and routes; do not assume every stop belongs on one continuous drive. Holywell is a different outing from Blue Mountain Peak: the summit trail needs its own trailhead, transport and hiking plan.",
+        "<a href=\"#travel-national-holywell\">Holywell guide</a> · <a href=\"#travel-national-peak\">Separate summit-hike guide</a>"
+      ]
+    ],
+    "call": "Give Kingston at least one city day and the mountains their own day. Skip the mountain extension if bends, weather or the available return transport make the outing uncomfortable.",
+    "notes": [
+      [
+        "Coffee: ask where the cup comes from",
+        "Compare a booked farm visit with a commercial tasting by asking who grew, processed and roasted the beans, and whether the bag is a blend. Small scale alone does not establish quality or farmer benefit. Jamaica Blue Mountain is a regulated brand: ask about origin and certification, not just the view from the café. <a href=\"https://jacra.org/divisions/coffee/introduction/\" target=\"_blank\" rel=\"noopener\">JACRA brand and licensing explanation ↗</a>"
+      ],
+      [
+        "Elevation, bends and rain",
+        "Holywell’s published park description places it above 900 metres. Pack a layer, rain protection and footwear suited to the selected trail. Put outdoor walking earlier in the day as a planning preference; afternoon rain is possible, not a guaranteed timetable. Check the forecast and park before departure; a driver familiar with the mountain road is a sensible choice. <a href=\"https://www.blueandjohncrowmountains.org/national-park-recreation-areas/holywell\" target=\"_blank\" rel=\"noopener\">Park facilities, trails and coffee visits ↗</a>"
+      ]
+    ],
+    "photo": "national-holywell"
+  },
+  {
+    "id": "southeast",
+    "name": "St. Thomas & the Southeast",
+    "pitch": "Public memory, Bath and southeastern communities with their own stories.",
+    "base": "Morant Bay or a confirmed southeastern host for the branch you intend to explore.",
+    "places": [
+      "regional-morant",
+      "regional-bath"
+    ],
+    "heritage": [
+      "parish-morantpoint",
+      "parish-stokeshall"
+    ],
+    "branches": [
+      [
+        "Morant Bay and public memory",
+        "Read the 1865 rebellion account before visiting the courthouse/fort landscape. Agree a daytime route with a locally informed guide; historic designation does not imply interior access.",
+        "<a href=\"#travel-regional-morant\">Morant Bay visit</a> · <a href=\"#history-morant\">Rebellion history</a>"
+      ],
+      [
+        "Bath as its own outing",
+        "Confirm the actual service, establishment and meeting point. Bath’s cultural and travel history does not validate medical claims about a treatment.",
+        "<a href=\"#travel-regional-bath\">Bath visit choices</a>"
+      ],
+      [
+        "Coast and mountain foothills",
+        "Morant Point and Stokes Hall histories add context, but access must be arranged separately. Do not describe every heritage site as a staffed attraction or combine distant foothill routes by map distance alone.",
+        "<a href=\"#parish-morantpoint\">Morant Point history</a> · <a href=\"#parish-stokeshall\">Stokes Hall history</a>"
+      ]
+    ],
+    "call": "Start with one confirmed local branch. This region is worth developing carefully, without pretending the current directory covers every community.",
+    "notes": [
+      [
+        "Before leaving",
+        "Confirm the chosen visit, road approach, return transport, costs and access. Use the weather desk for forecasts, then ask the operator about actual site conditions."
+      ]
+    ],
+    "photo": ""
+  },
+  {
     "id": "south-elizabeth",
     "name": "South Coast & St. Elizabeth",
     "pitch": "Fishing communities, river history, pepper shrimp and an unhurried coast.",
@@ -117,7 +288,6 @@
       "food-middle-quarters"
     ],
     "heritage": [
-      "parish-blackriver",
       "parish-lacovia"
     ],
     "branches": [
@@ -159,5 +329,47 @@
       ]
     ],
     "photo": "national-treasure"
+  },
+  {
+    "id": "central-interior",
+    "name": "Central Jamaica & the Interior",
+    "pitch": "Town squares, inland lives and the institutions that shaped the country.",
+    "base": "Mandeville for Manchester; Spanish Town for a St. Catherine history visit; a separate Clarendon base for its inland/coastal branch.",
+    "places": [
+      "regional-mandeville",
+      "regional-spanish",
+      "food-little-ochie"
+    ],
+    "heritage": [
+      "parish-maidstone",
+      "parish-mandeville",
+      "parish-spanishtown",
+      "parish-halsehall"
+    ],
+    "branches": [
+      [
+        "Mandeville and Manchester",
+        "The square and courthouse offer a short town outing. Maidstone and Marshall’s Pen deepen the history, but a private property requires a separately arranged visit. Alligator Pond’s Little Ochie is a coastal branch, not a Mandeville town restaurant.",
+        "<a href=\"#travel-regional-mandeville\">Mandeville outing</a> · <a href=\"#parish-maidstone\">Maidstone history</a> · <a href=\"#travel-food-little-ochie\">Little Ochie coastal meal</a>"
+      ],
+      [
+        "Spanish Town and St. Catherine",
+        "Use Emancipation Square as the focus of an arranged history visit. Read the capital’s story and confirm the actual route and permitted entry before treating the buildings as a circuit of museums.",
+        "<a href=\"#travel-regional-spanish\">Spanish Town outing</a> · <a href=\"#parish-spanishtown\">Full history</a>"
+      ],
+      [
+        "Clarendon: history before an assumed attraction",
+        "Halse Hall and Alley offer learning pathways into agriculture, architecture and labour. The histories supply context; arrange visits and lawful access locally before planning a physical outing.",
+        "<a href=\"#parish-halsehall\">Halse Hall</a> · <a href=\"#parish-alley\">Alley history</a>"
+      ]
+    ],
+    "call": "Choose one central town or parish branch. Manchester, Clarendon and St. Catherine are not a single compact day loop.",
+    "notes": [
+      [
+        "Before leaving",
+        "Confirm the chosen visit, road approach, return transport, costs and access. Use the weather desk for forecasts, then ask the operator about actual site conditions."
+      ]
+    ],
+    "photo": ""
   }
 ]

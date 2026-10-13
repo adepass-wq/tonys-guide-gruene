@@ -255,5 +255,62 @@
       "St. Andrew"
     ],
     "parish_note": "Road march in the Kingston metropolitan area; confirm the route. Wider carnival parties have separate locations and dates."
+  },
+  {
+    "id": "regional-techbeach",
+    "name": "Tech Beach Retreat / TBRX Jamaica",
+    "start": "2026-12-02",
+    "end": "2026-12-05",
+    "area": "Elsewhere in Jamaica",
+    "genre": "Learning & business",
+    "location": "Princess Resort, Green Island, Hanover",
+    "description": "The organiser and JTB list 2–5 December 2026; current booking names Princess Resort. The property is in Green Island, Hanover, despite Montego Bay labels elsewhere on the event website.",
+    "call": "Book for the conference programme rather than assuming a public beach festival. Verify the exact property and arrival instructions before reserving transport.",
+    "cost": "Conference passes and accommodation packages differ; use the current organiser booking page.",
+    "source": "https://www.techbeach.net/book-jamaica",
+    "verify": "https://www.princess-hotels.com/en/jamaica/princess-grand-jamaica/location/",
+    "map": "Princess Grand Jamaica, Green Island, Hanover, Jamaica",
+    "parishes": [
+      "Hanover"
+    ],
+    "checked": "2026-10-13"
+  },
+  {
+    "id": "regional-kitchen-class",
+    "name": "Cooking class at Jamaica Food & Drink Kitchen",
+    "start": "2026-10-21",
+    "end": "2026-10-21",
+    "area": "Elsewhere in Jamaica",
+    "genre": "Food & music",
+    "location": "Shop 9, Progressive Shopping Centre, Liguanea, St. Andrew",
+    "description": "The current calendar and individual booking page list a Santa Fe Chicken cooking class on 21 October, 6:30–9:30 p.m. Jamaica time.",
+    "call": "Reserve the class and settle dietary needs in advance. This is a specific international-cuisine cooking session, not a course in Jamaican culinary history.",
+    "cost": "Booking page showed JMD 7,500 on 13 October; reconfirm total and availability before paying.",
+    "source": "https://jamaicafoodanddrinkkitchen.com/the-calendar/cooking-classes-the-kitchen-santa-fe-chicken/",
+    "verify": "https://jamaicafoodanddrinkkitchen.com/events/",
+    "map": "Jamaica Food and Drink Kitchen, Liguanea, Jamaica",
+    "parishes": [
+      "St. Andrew"
+    ],
+    "checked": "2026-10-13"
+  },
+  {
+    "id": "regional-kitchen-brunch",
+    "name": "Brunch Society — Jamaica Food & Drink Kitchen",
+    "start": "2026-10-25",
+    "end": "2026-10-25",
+    "area": "Elsewhere in Jamaica",
+    "genre": "Food & music",
+    "location": "Shop 9, Progressive Shopping Centre, Liguanea, St. Andrew",
+    "description": "The organiser lists a food-inclusive brunch with a DJ on 25 October, 1–6 p.m. Jamaica time.",
+    "call": "A planned Liguanea afternoon rather than an assumed recurring Sunday brunch. Confirm the ticket inclusions and return ride.",
+    "cost": "Booking page showed JMD 13,500 on 13 October; reconfirm inclusions, extra drinks and availability.",
+    "source": "https://jamaicafoodanddrinkkitchen.com/the-calendar/brunch-society/",
+    "verify": "https://jamaicafoodanddrinkkitchen.com/events/",
+    "map": "Jamaica Food and Drink Kitchen, Liguanea, Jamaica",
+    "parishes": [
+      "St. Andrew"
+    ],
+    "checked": "2026-10-13"
   }
 ]

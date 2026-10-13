@@ -1,0 +1,119 @@
+{
+  "montego": [
+    {
+      "label": "Downtown Montego Bay",
+      "stops": [
+        "regional-mobay-culture",
+        "regional-harmony-park"
+      ],
+      "note": "Confirm gallery opening, then give the public waterfront time. These are choices within a downtown day, not a promise of an inspected pedestrian route."
+    },
+    {
+      "label": "Choose a hillside experience",
+      "stops": [
+        "regional-rasnatango",
+        "food-scotchies-mobay"
+      ],
+      "note": "Reserve the garden visit and check the actual transfer to your meal. Rocklands is an alternative, not an automatic extra stop."
+    }
+  ],
+  "negril": [
+    {
+      "label": "Negril beach",
+      "stops": [
+        "national-negrilbeach"
+      ],
+      "note": "Protect a beach block; a cliff-side evening is optional with a confirmed return ride. Beach access and conditions need checking."
+    },
+    {
+      "label": "Lucea and Hanover history",
+      "stops": [
+        "regional-lucea-fort"
+      ],
+      "note": "Arrange lawful access and a locally guided town/fort route. Jamwest is an active alternative day, not an extra stop on this history route."
+    }
+  ],
+  "portland": [
+    {
+      "label": "Portland coast",
+      "stops": [
+        "national-frenchmans",
+        "food-boston"
+      ],
+      "note": "Choose a beach block and a meal if your host confirms the route and timing. Reach Falls is a separate active alternative."
+    },
+    {
+      "label": "Living Maroon heritage",
+      "stops": [
+        "regional-charlestown"
+      ],
+      "note": "Arrange a host and programme. A Rio Grande raft trip is another possible day, not an assumed part of this community visit."
+    }
+  ],
+  "capital-mountains": [
+    {
+      "label": "City art and music",
+      "stops": [
+        "national-gallery",
+        "national-marley"
+      ],
+      "note": "Check both openings and tour reservations. For a half-day choose one museum; traffic and transfers can make both too much."
+    },
+    {
+      "label": "A separate mountain day",
+      "stops": [
+        "national-holywell"
+      ],
+      "note": "Confirm road and weather conditions and the chosen trail. Holywell is not the Blue Mountain Peak trek."
+    }
+  ],
+  "southeast": [
+    {
+      "label": "Morant Bay history",
+      "stops": [
+        "regional-morant"
+      ],
+      "note": "Arrange a locally informed daytime route and pickup. Read the rebellion article before the outing."
+    },
+    {
+      "label": "Bath branch",
+      "stops": [
+        "regional-bath"
+      ],
+      "note": "Confirm the actual establishment and service. This is a separate branch, with no promised treatment benefit."
+    }
+  ],
+  "south-elizabeth": [
+    {
+      "label": "Treasure Beach at a local pace",
+      "stops": [
+        "national-treasure"
+      ],
+      "note": "Choose a bay, a meal and time in the community. Offshore boats need separate booking and conditions checks."
+    },
+    {
+      "label": "Black River and food",
+      "stops": [
+        "national-blackriver",
+        "food-middle-quarters"
+      ],
+      "note": "Confirm the river departure and your driver’s route to the food stop. YS Falls is a different main-outing alternative."
+    }
+  ],
+  "central-interior": [
+    {
+      "label": "Mandeville town",
+      "stops": [
+        "regional-mandeville"
+      ],
+      "note": "Plan a town-centre history visit and time for a meal. Alligator Pond is a separate coastal branch."
+    },
+    {
+      "label": "A second Manchester learning day",
+      "stops": [
+        "food-little-ochie"
+      ],
+      "note": "Choose the Alligator Pond coastal branch only with confirmed restaurant access and transport. Spanish Town is an alternative base/branch, not the assumed next stop from Mandeville."
+    }
+  ]
+}

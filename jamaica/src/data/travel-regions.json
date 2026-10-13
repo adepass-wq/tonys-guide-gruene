@@ -1,0 +1,72 @@
+[
+  {
+    "id": "ocho-mary",
+    "label": "Ocho Rios, St. Ann & St. Mary",
+    "parishes": [
+      "St. Ann",
+      "St. Mary"
+    ],
+    "note": "Start with western St. Ann, Ocho Rios and its hinterland, or the St. Mary coast and hills. Choose one branch before adding stops."
+  },
+  {
+    "id": "montego",
+    "label": "Montego Bay, Falmouth & Trelawny",
+    "parishes": [
+      "St. James",
+      "Trelawny"
+    ],
+    "note": "Separate downtown Montego Bay, the Rose Hall coast, Falmouth and inland outings. This is a regional collection, not one day’s circuit."
+  },
+  {
+    "id": "negril",
+    "label": "Negril, Hanover & Western Jamaica",
+    "parishes": [
+      "Hanover",
+      "Westmoreland"
+    ],
+    "note": "Negril beach and cliffs, Hanover towns and western inland outings. South Coast stops such as Border also have their own regional tag."
+  },
+  {
+    "id": "portland",
+    "label": "Port Antonio & Portland",
+    "parishes": [
+      "Portland"
+    ],
+    "note": "Choose a coastal branch or an inland river/community day. Blue Mountain routes can also appear in the mountain region."
+  },
+  {
+    "id": "capital-mountains",
+    "label": "Kingston & the Blue Mountains",
+    "parishes": [
+      "Kingston",
+      "St. Andrew"
+    ],
+    "note": "Keep city museums and music separate from a mountain day. Mountain routes may cross Portland and St. Thomas."
+  },
+  {
+    "id": "southeast",
+    "label": "St. Thomas & the Southeast",
+    "parishes": [
+      "St. Thomas"
+    ],
+    "note": "Morant Bay, Bath and southeastern communities. A mountain trail and a coastal visit require different arrangements."
+  },
+  {
+    "id": "south-elizabeth",
+    "label": "South Coast & St. Elizabeth",
+    "parishes": [
+      "St. Elizabeth"
+    ],
+    "note": "Black River, Treasure Beach and southern coastal stops. Border spans St. Elizabeth and Westmoreland; it is not a Negril beach stop."
+  },
+  {
+    "id": "central-interior",
+    "label": "Central Jamaica & the Interior",
+    "parishes": [
+      "Manchester",
+      "Clarendon",
+      "St. Catherine"
+    ],
+    "note": "Mandeville, Spanish Town and central parish routes. Pick a town or branch; this broad region is not a short driving loop."
+  }
+]

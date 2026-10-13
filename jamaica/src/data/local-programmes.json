@@ -211,5 +211,75 @@
     "parishes": [
       "St. Ann"
     ]
+  },
+  {
+    "id": "regional-dub",
+    "name": "Kingston Dub Club Sundays",
+    "days": [
+      0
+    ],
+    "schedule": "Sunday evening; ask for this week’s doors and closing time",
+    "description": "Roots, rockers and dub session on Skyline Drive. Arrange a return ride and ask about the uphill entrance, steps, sound levels and seating. The venue describes a Sunday programme; no current performer lineup is implied.",
+    "location": "7b Skyline Drive, Jack’s Hill, St. Andrew",
+    "source": "https://mbprointernational.wixsite.com/dub-club",
+    "monthly": "",
+    "genre": "Music & nightlife",
+    "area": "Elsewhere in Jamaica",
+    "checked": "2026-10-13",
+    "recheckAfter": "2026-11-13",
+    "parishes": [
+      "St. Andrew"
+    ]
+  },
+  {
+    "id": "regional-artwalk",
+    "name": "Kingston Creative Artwalk",
+    "days": [],
+    "schedule": "Quarterly programme; next date must be announced",
+    "description": "The current organiser page describes a quarterly Artwalk. Do not infer an event on every last Sunday from older monthly descriptions. Ask for the next announced date and exact Water Lane / Church Street programme.",
+    "location": "Downtown Kingston",
+    "source": "https://kingstoncreative.org/artwalk/",
+    "monthly": "",
+    "genre": "Culture & family",
+    "area": "Elsewhere in Jamaica",
+    "checked": "2026-10-13",
+    "recheckAfter": "2026-11-13",
+    "parishes": [
+      "Kingston"
+    ]
+  },
+  {
+    "id": "regional-mobay-arts",
+    "name": "Montego Bay Creative Arts Festival",
+    "days": [],
+    "schedule": "Ask organiser for the next staging",
+    "description": "The organiser documents 2026 editions at the Cultural Centre, including an August event. Those completed dates do not establish the next edition; enquire about an announced programme before making travel plans.",
+    "location": "Montego Bay Cultural Centre, St. James",
+    "source": "https://kingstoncreative.org/artwalk/",
+    "monthly": "",
+    "genre": "Culture & family",
+    "area": "Elsewhere in Jamaica",
+    "checked": "2026-10-13",
+    "recheckAfter": "2026-11-13",
+    "parishes": [
+      "St. James"
+    ]
+  },
+  {
+    "id": "regional-onelove",
+    "name": "One Love Bus Bar Crawl — Negril",
+    "days": [],
+    "schedule": "Ask operator for the current departure days and pickup",
+    "description": "A hosted West End bar circuit rather than a fixed concert. Published departure schedules differ; confirm the current day, pickup, return, charges and age policy before booking. Arrange sober onward transport.",
+    "location": "Negril West End, Westmoreland",
+    "source": "https://www.visitjamaica.com/blog/post/hop-aboard-the-one-love-bus-crawl/",
+    "monthly": "",
+    "genre": "Music & nightlife",
+    "area": "Elsewhere in Jamaica",
+    "checked": "2026-10-13",
+    "recheckAfter": "2026-11-13",
+    "parishes": [
+      "Westmoreland"
+    ]
   }
 ]
