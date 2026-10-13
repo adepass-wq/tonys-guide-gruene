@@ -1,0 +1,3832 @@
+{
+  "checked": "2026-10-13",
+  "scope": "All 111 articles; newest fourteen slavery-legacies articles prioritised, then preceding St. Thomas/Clarendon round and weaker older media.",
+  "verificationLimit": "No supported control-browser available; no actual audio/video playback or rendered desktop/mobile QA. Source records, downloaded still images and HTTP delivery checked separately from DOM behavior.",
+  "records": [
+    {
+      "kind": "new-licensed-image",
+      "id": "new-0",
+      "asset": "media-new-0.base64",
+      "sourceURL": "https://upload.wikimedia.org/wikipedia/commons/f/f4/Hibbert_House_01.jpg",
+      "recordURL": "https://commons.wikimedia.org/wiki/File:Hibbert_House_01.jpg",
+      "creator": "Dan Livesay",
+      "date": "Modern photograph; capture date not supplied; uploaded 2008",
+      "licence": "CC BY-SA 3.0",
+      "licenceURL": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "articles": [
+        "legacy-hibbert"
+      ],
+      "width": 960,
+      "height": 718,
+      "bytes": 77768,
+      "visuallyInspected": true,
+      "transformation": "Whole-frame resized WebP; no content removed or generated.",
+      "placements": [
+        {
+          "article": "legacy-hibbert",
+          "place": "Hibbert House, Duke Street, Kingston",
+          "context": "The street frontage survives; the picture does not show the cellar or authenticate the accommodation of enslaved people. Compare it with the nineteenth-century illustration below."
+        }
+      ]
+    },
+    {
+      "kind": "new-licensed-image",
+      "id": "new-1",
+      "asset": "media-new-1.base64",
+      "sourceURL": "https://upload.wikimedia.org/wikipedia/commons/e/e9/Fairfield_Moravian_Church%2C_Jamaica%2C_1968.png",
+      "recordURL": "https://commons.wikimedia.org/wiki/File:Fairfield_Moravian_Church,_Jamaica,_1968.png",
+      "creator": "Jack Eden",
+      "date": "1968",
+      "licence": "CC BY-SA 2.0 uk",
+      "licenceURL": "https://creativecommons.org/licenses/by-sa/2.0/uk/deed.en",
+      "articles": [
+        "legacy-fairfield"
+      ],
+      "width": 960,
+      "height": 626,
+      "bytes": 33896,
+      "visuallyInspected": true,
+      "transformation": "Whole-frame resized WebP; no content removed or generated.",
+      "placements": [
+        {
+          "article": "legacy-fairfield",
+          "place": "Fairfield Moravian Church, Manchester, Jamaica",
+          "context": "Look at the entrance, roof and setting. This is the Jamaican church decades after emancipation, not Fairfield in England or an image of the 1823 plantation purchase."
+        }
+      ]
+    },
+    {
+      "kind": "new-licensed-image",
+      "id": "new-2",
+      "asset": "media-new-2.base64",
+      "sourceURL": "https://upload.wikimedia.org/wikipedia/commons/2/29/Cast-away_in_Jamaica_-_Head-Quarter_House%2C_Kingston.jpg",
+      "recordURL": "https://commons.wikimedia.org/wiki/File:Cast-away_in_Jamaica_-_Head-Quarter_House,_Kingston.jpg",
+      "creator": "Illustrator uncredited in the original",
+      "date": "January 1861; engraving in Harper’s New Monthly Magazine",
+      "licence": "Public domain",
+      "licenceURL": null,
+      "articles": [
+        "legacy-hibbert"
+      ],
+      "width": 946,
+      "height": 960,
+      "bytes": 232302,
+      "visuallyInspected": true,
+      "transformation": "Whole-frame resized WebP; no content removed or generated.",
+      "placements": [
+        {
+          "article": "legacy-hibbert",
+          "place": "Headquarters House (Hibbert House), Kingston",
+          "context": "Compare the stair and street edge with the modern photograph. The illustration was published after emancipation; it is not a photograph of a slave sale."
+        }
+      ]
+    },
+    {
+      "kind": "new-licensed-image",
+      "id": "new-3",
+      "asset": "media-new-3.base64",
+      "sourceURL": "https://upload.wikimedia.org/wikipedia/commons/8/8c/MilkRiverBath.JPG",
+      "recordURL": "https://commons.wikimedia.org/wiki/File:MilkRiverBath.JPG",
+      "creator": "Op. Deo",
+      "date": "27 November 2006, according to image metadata",
+      "licence": "Public domain",
+      "licenceURL": null,
+      "articles": [
+        "parish-milkriver"
+      ],
+      "width": 960,
+      "height": 720,
+      "bytes": 169104,
+      "visuallyInspected": true,
+      "transformation": "Whole-frame resized WebP; no content removed or generated.",
+      "placements": [
+        {
+          "article": "parish-milkriver",
+          "place": "Milk River Bath, Clarendon",
+          "context": "The open ground and later buildings give a wider setting than the close-up in this story. They do not date the facilities to the eighteenth-century origin account."
+        }
+      ]
+    },
+    {
+      "kind": "new-licensed-image",
+      "id": "new-4",
+      "asset": "media-new-4.base64",
+      "sourceURL": "https://upload.wikimedia.org/wikipedia/commons/7/70/Folly_Point_Lighthouse%2C_Port_Antonio_6966922619.jpg",
+      "recordURL": "https://commons.wikimedia.org/wiki/File:Folly_Point_Lighthouse,_Port_Antonio_6966922619.jpg",
+      "creator": "Dr Benjamin F. Place",
+      "date": "1905",
+      "licence": "Public domain",
+      "licenceURL": null,
+      "articles": [
+        "parish-folly"
+      ],
+      "width": 960,
+      "height": 533,
+      "bytes": 121698,
+      "visuallyInspected": true,
+      "transformation": "Whole-frame resized WebP; no content removed or generated.",
+      "placements": [
+        {
+          "article": "parish-folly",
+          "place": "Folly Point Lighthouse, viewed across water at Port Antonio, Portland",
+          "context": "Find the small lighthouse in the distant shoreline. This is not the Folly mansion and does not establish the story of its construction."
+        }
+      ]
+    },
+    {
+      "kind": "new-licensed-image",
+      "id": "new-5",
+      "asset": "media-new-5.base64",
+      "sourceURL": "https://upload.wikimedia.org/wikipedia/commons/d/d7/Dr_James_Johnston_-_Martha_Brae_Water_Wheel_Supplying_Water_to_Falmouth%2C_Jamaica_7248562614.jpg",
+      "recordURL": "https://commons.wikimedia.org/wiki/File:Dr_James_Johnston_-_Martha_Brae_Water_Wheel_Supplying_Water_to_Falmouth,_Jamaica_7248562614.jpg",
+      "creator": "Dr James Johnston",
+      "date": "Before December 1921; exact capture date not established",
+      "licence": "Public domain",
+      "licenceURL": null,
+      "articles": [
+        "history-trelawny-falmouth"
+      ],
+      "width": 960,
+      "height": 830,
+      "bytes": 182888,
+      "visuallyInspected": true,
+      "transformation": "Whole-frame resized WebP; no content removed or generated.",
+      "placements": [
+        {
+          "article": "history-trelawny-falmouth",
+          "place": "Martha Brae waterwheel supplying Falmouth, Trelawny",
+          "context": "Look for the relationship between machinery, water and surrounding vegetation. This is the Martha Brae water-supply wheel, not Tryall’s sugar works or Drax Hall."
+        }
+      ]
+    },
+    {
+      "kind": "new-licensed-image",
+      "id": "new-6",
+      "asset": "media-new-6.base64",
+      "sourceURL": "https://upload.wikimedia.org/wikipedia/commons/e/ea/Dr_James_Johnston_-_Port_Antonio_Docks%2C_Jamaica_7145841479.jpg",
+      "recordURL": "https://commons.wikimedia.org/wiki/File:Dr_James_Johnston_-_Port_Antonio_Docks,_Jamaica_7145841479.jpg",
+      "creator": "Dr James Johnston",
+      "date": "Before December 1921; exact capture date not established",
+      "licence": "Public domain",
+      "licenceURL": null,
+      "articles": [
+        "parish-titchfield",
+        "object-banana"
+      ],
+      "width": 960,
+      "height": 676,
+      "bytes": 132214,
+      "visuallyInspected": true,
+      "transformation": "Whole-frame resized WebP; no content removed or generated.",
+      "placements": [
+        {
+          "article": "parish-titchfield",
+          "place": "Port Antonio docks, Portland",
+          "context": "Follow the waterfront buildings, vessels and hills. This working harbour view places Titchfield’s houses beside shipping infrastructure rather than treating the peninsula as an isolated postcard."
+        },
+        {
+          "article": "object-banana",
+          "place": "Port Antonio docks, Portland",
+          "context": "Compare the docks with the banana-work photograph. This view supplies a port setting; it does not establish the date or workers in the other image."
+        }
+      ]
+    },
+    {
+      "kind": "new-licensed-image",
+      "id": "new-8",
+      "asset": "media-new-8.base64",
+      "sourceURL": "https://upload.wikimedia.org/wikipedia/commons/7/78/Dr_James_Johnston_-_Bridge_Over_Hope_River%2C_Jamaica_7248725856.jpg",
+      "recordURL": "https://commons.wikimedia.org/wiki/File:Dr_James_Johnston_-_Bridge_Over_Hope_River,_Jamaica_7248725856.jpg",
+      "creator": "Dr James Johnston",
+      "date": "Before December 1921; exact capture date not established",
+      "licence": "Public domain",
+      "licenceURL": null,
+      "articles": [
+        "legacy-hope"
+      ],
+      "width": 960,
+      "height": 795,
+      "bytes": 176888,
+      "visuallyInspected": true,
+      "transformation": "Whole-frame resized WebP; no content removed or generated.",
+      "placements": [
+        {
+          "article": "legacy-hope",
+          "place": "Bridge over Hope River, Jamaica; precise bridge locality not established here",
+          "context": "This is a river bridge, not Hope Aqueduct. Compare a crossing with a structure that carried water: similar masonry in an image does not establish the same function or site."
+        }
+      ]
+    },
+    {
+      "kind": "new-licensed-image",
+      "id": "new-10",
+      "asset": "media-new-10.base64",
+      "sourceURL": "https://upload.wikimedia.org/wikipedia/commons/b/b9/Dr_James_Johnston_-_Fisher_Boys%2C_Runaway_Bay%2C_Jamaica%2C_ca_1890_7242147958.jpg",
+      "recordURL": "https://commons.wikimedia.org/wiki/File:Dr_James_Johnston_-_Fisher_Boys,_Runaway_Bay,_Jamaica,_ca_1890_7242147958.jpg",
+      "creator": "Dr James Johnston",
+      "date": "Before December 1921; catalogue title suggests approximately 1890",
+      "licence": "Public domain",
+      "licenceURL": null,
+      "articles": [
+        "history-ocho-stann"
+      ],
+      "width": 960,
+      "height": 845,
+      "bytes": 105478,
+      "visuallyInspected": true,
+      "transformation": "Whole-frame resized WebP; no content removed or generated.",
+      "placements": [
+        {
+          "article": "history-ocho-stann",
+          "place": "Runaway Bay, St. Ann",
+          "context": "Notice the boats and shoreline activity. Fishing gives this resort coast another history; the photograph does not identify every person or establish their circumstances."
+        }
+      ]
+    },
+    {
+      "kind": "new-licensed-image",
+      "id": "new-11",
+      "asset": "media-new-11.base64",
+      "sourceURL": "https://upload.wikimedia.org/wikipedia/commons/2/26/Dr_James_Johnston_-_Gorge_on_Cane_River%2C_St_Davids%2C_Jamaica_7248747634.jpg",
+      "recordURL": "https://commons.wikimedia.org/wiki/File:Dr_James_Johnston_-_Gorge_on_Cane_River,_St_Davids,_Jamaica_7248747634.jpg",
+      "creator": "Dr James Johnston",
+      "date": "Before December 1921; exact capture date not established",
+      "licence": "Public domain",
+      "licenceURL": null,
+      "articles": [
+        "parish-yallahs"
+      ],
+      "width": 806,
+      "height": 960,
+      "bytes": 179572,
+      "visuallyInspected": true,
+      "transformation": "Whole-frame resized WebP; no content removed or generated.",
+      "placements": [
+        {
+          "article": "parish-yallahs",
+          "place": "Cane River gorge, labelled St. Davids in the archive, Jamaica",
+          "context": "This nearby eastern Jamaican landscape is a comparison, not a photograph of Yallahs River. Compare the confined gorge with the wide Yallahs crossing shown below."
+        }
+      ]
+    },
+    {
+      "kind": "new-licensed-image",
+      "id": "new-12",
+      "asset": "media-new-12.base64",
+      "sourceURL": "https://upload.wikimedia.org/wikipedia/commons/d/d2/Dr_James_Johnston_-_Llandovery_Sugar_Estate%2C_St._Ann%2C_Jamaica%2C_ca_1890_7242160226.jpg",
+      "recordURL": "https://commons.wikimedia.org/wiki/File:Dr_James_Johnston_-_Llandovery_Sugar_Estate,_St._Ann,_Jamaica,_ca_1890_7242160226.jpg",
+      "creator": "Dr James Johnston",
+      "date": "Before December 1921; catalogue title suggests approximately 1890",
+      "licence": "Public domain",
+      "licenceURL": null,
+      "articles": [
+        "legacy-drax"
+      ],
+      "width": 960,
+      "height": 779,
+      "bytes": 145700,
+      "visuallyInspected": true,
+      "transformation": "Whole-frame resized WebP; no content removed or generated.",
+      "placements": [
+        {
+          "article": "legacy-drax",
+          "place": "Llandovery Sugar Estate, St. Ann",
+          "context": "A post-emancipation comparison from another St. Ann estate. Look at buildings, chimney and transport. This is not Drax Hall, a slave-period workforce, or the Seville burial site."
+        }
+      ]
+    },
+    {
+      "kind": "new-licensed-image",
+      "id": "new-13",
+      "asset": "media-new-13.base64",
+      "sourceURL": "https://upload.wikimedia.org/wikipedia/commons/1/1c/Dr_James_Johnston_-_Martha_Brae_Bridge%2C_Trelawny%2C_Jamaica_7248705622.jpg",
+      "recordURL": "https://commons.wikimedia.org/wiki/File:Dr_James_Johnston_-_Martha_Brae_Bridge,_Trelawny,_Jamaica_7248705622.jpg",
+      "creator": "Dr James Johnston",
+      "date": "Before December 1921; exact capture date not established",
+      "licence": "Public domain",
+      "licenceURL": null,
+      "articles": [
+        "parish-goodhope"
+      ],
+      "width": 960,
+      "height": 825,
+      "bytes": 132812,
+      "visuallyInspected": true,
+      "transformation": "Whole-frame resized WebP; no content removed or generated.",
+      "placements": [
+        {
+          "article": "parish-goodhope",
+          "place": "Martha Brae Bridge, Trelawny",
+          "context": "Compare this river crossing with the estate structures in the article. It gives regional transport context, not a verified route or bridge on Good Hope’s property."
+        }
+      ]
+    },
+    {
+      "kind": "new-licensed-image",
+      "id": "new-14",
+      "asset": "media-new-14.base64",
+      "sourceURL": "https://upload.wikimedia.org/wikipedia/commons/2/27/Dr_James_Johnston_-_Mt._Mansfield%2C_St_Andrew%2C_Jamaica_7248662456.jpg",
+      "recordURL": "https://commons.wikimedia.org/wiki/File:Dr_James_Johnston_-_Mt._Mansfield,_St_Andrew,_Jamaica_7248662456.jpg",
+      "creator": "Dr James Johnston",
+      "date": "Before December 1921; exact capture date not established",
+      "licence": "Public domain",
+      "licenceURL": null,
+      "articles": [
+        "parish-cinchona"
+      ],
+      "width": 960,
+      "height": 836,
+      "bytes": 182202,
+      "visuallyInspected": true,
+      "transformation": "Whole-frame resized WebP; no content removed or generated.",
+      "placements": [
+        {
+          "article": "parish-cinchona",
+          "place": "Mount Mansfield, St. Andrew, Jamaica",
+          "context": "This is a named mountain landscape elsewhere in St. Andrew, not the Cinchona garden. Compare slope, vegetation and settlement with the garden image; do not identify the buildings as Cinchona facilities."
+        }
+      ]
+    },
+    {
+      "kind": "new-licensed-image",
+      "id": "new-15",
+      "asset": "media-new-15.base64",
+      "sourceURL": "https://upload.wikimedia.org/wikipedia/commons/4/4e/Dr_James_Johnston_-_Port_Royal_Looking_Seaward%2C_Jamaica_7242522058.jpg",
+      "recordURL": "https://commons.wikimedia.org/wiki/File:Dr_James_Johnston_-_Port_Royal_Looking_Seaward,_Jamaica_7242522058.jpg",
+      "creator": "Dr James Johnston",
+      "date": "Before December 1921; exact capture date not established",
+      "licence": "Public domain",
+      "licenceURL": null,
+      "articles": [
+        "read-church"
+      ],
+      "width": 960,
+      "height": 827,
+      "bytes": 122584,
+      "visuallyInspected": true,
+      "transformation": "Whole-frame resized WebP; no content removed or generated.",
+      "placements": [
+        {
+          "article": "read-church",
+          "place": "Port Royal, Kingston parish, looking seaward",
+          "context": "Locate the church within the town rather than viewing it as a detached monument. The photographer’s scene does not establish the beliefs of the people who lived around it."
+        }
+      ]
+    },
+    {
+      "kind": "new-licensed-image",
+      "id": "new-16",
+      "asset": "media-new-16.base64",
+      "sourceURL": "https://upload.wikimedia.org/wikipedia/commons/a/a4/Dr_James_Johnston_-_Mandeville_Market%2C_ca_1880_16476559738.jpg",
+      "recordURL": "https://commons.wikimedia.org/wiki/File:Dr_James_Johnston_-_Mandeville_Market,_ca_1880_16476559738.jpg",
+      "creator": "Dr James Johnston",
+      "date": "Before December 1921; catalogue title suggests approximately 1880",
+      "licence": "Public domain",
+      "licenceURL": null,
+      "articles": [
+        "parish-mandeville",
+        "object-market"
+      ],
+      "width": 960,
+      "height": 761,
+      "bytes": 170118,
+      "visuallyInspected": true,
+      "transformation": "Whole-frame resized WebP; no content removed or generated.",
+      "placements": [
+        {
+          "article": "parish-mandeville",
+          "place": "Mandeville market, Manchester",
+          "context": "Look at the public buildings above the market and the people gathered below. Compare an everyday commercial space with the courthouse’s formal role; the two scenes show different ways a town organised public life."
+        },
+        {
+          "article": "object-market",
+          "place": "Mandeville market, Manchester",
+          "context": "Compare the town setting and crowded foreground with the 1891 Linstead image. These are different markets; neither photograph authenticates a particular performance of the song."
+        }
+      ]
+    },
+    {
+      "kind": "new-licensed-image",
+      "id": "new-17",
+      "asset": "media-new-17.base64",
+      "sourceURL": "https://upload.wikimedia.org/wikipedia/commons/8/8b/Dr_James_Johnston_-_Bamboo_Avenue%2C_Holland_Estate%2C_St_Elizabeth%2C_Jamaica_7145839635.jpg",
+      "recordURL": "https://commons.wikimedia.org/wiki/File:Dr_James_Johnston_-_Bamboo_Avenue,_Holland_Estate,_St_Elizabeth,_Jamaica_7145839635.jpg",
+      "creator": "Dr James Johnston",
+      "date": "Before December 1921; exact capture date not established",
+      "licence": "Public domain",
+      "licenceURL": null,
+      "articles": [
+        "parish-lacovia"
+      ],
+      "width": 960,
+      "height": 691,
+      "bytes": 249656,
+      "visuallyInspected": true,
+      "transformation": "Whole-frame resized WebP; no content removed or generated.",
+      "placements": [
+        {
+          "article": "parish-lacovia",
+          "place": "Bamboo Avenue, Holland Estate, St. Elizabeth",
+          "context": "A regional road landscape, not Lacovia’s tombstones or Munro’s campus. Follow the avenue’s enclosure and ask how a planted road shapes movement and the remembered appearance of estate country."
+        }
+      ]
+    },
+    {
+      "kind": "new-licensed-image",
+      "id": "new-18",
+      "asset": "media-new-18.base64",
+      "sourceURL": "https://upload.wikimedia.org/wikipedia/commons/4/44/Dr_James_Johnston_-_Bog_Walk_Bridge_Over_Rio_Cobre%2C%2C_Jamaica_7227436208.jpg",
+      "recordURL": "https://commons.wikimedia.org/wiki/File:Dr_James_Johnston_-_Bog_Walk_Bridge_Over_Rio_Cobre,,_Jamaica_7227436208.jpg",
+      "creator": "Dr James Johnston",
+      "date": "Before December 1921; exact capture date not established",
+      "licence": "Public domain",
+      "licenceURL": null,
+      "articles": [
+        "parish-flatbridge"
+      ],
+      "width": 960,
+      "height": 828,
+      "bytes": 125562,
+      "visuallyInspected": true,
+      "transformation": "Whole-frame resized WebP; no content removed or generated.",
+      "placements": [
+        {
+          "article": "parish-flatbridge",
+          "place": "Bog Walk bridge over the Rio Cobre, St. Catherine",
+          "context": "Compare the bridge and approaches with the later photograph. A surviving crossing can be observed; the photograph alone cannot identify who built its eighteenth-century predecessor."
+        }
+      ]
+    },
+    {
+      "kind": "new-licensed-image",
+      "id": "new-19",
+      "asset": "media-new-19.base64",
+      "sourceURL": "https://upload.wikimedia.org/wikipedia/commons/3/39/Dr_James_Johnston_-_Burlington_On_The_Rio_Grande%2C_Jamaica_7145844363.jpg",
+      "recordURL": "https://commons.wikimedia.org/wiki/File:Dr_James_Johnston_-_Burlington_On_The_Rio_Grande,_Jamaica_7145844363.jpg",
+      "creator": "Dr James Johnston",
+      "date": "Before December 1921; exact capture date not established",
+      "licence": "Public domain",
+      "licenceURL": null,
+      "articles": [
+        "parish-mooretown"
+      ],
+      "width": 960,
+      "height": 680,
+      "bytes": 173054,
+      "visuallyInspected": true,
+      "transformation": "Whole-frame resized WebP; no content removed or generated.",
+      "placements": [
+        {
+          "article": "parish-mooretown",
+          "place": "Burlington on the Rio Grande, Portland",
+          "context": "A wider Portland river landscape, not Moore Town or a Kromanti ceremony. Read the river and settled hills beside the community account without turning the view into evidence of a particular ritual."
+        }
+      ]
+    },
+    {
+      "kind": "new-licensed-image",
+      "id": "new-20",
+      "asset": "media-new-20.base64",
+      "sourceURL": "https://upload.wikimedia.org/wikipedia/commons/f/f4/Dr_James_Johnston_-_Cocoanut_and_Banana_Valley%2C_Oracabessa%2C_St_Mary%2C_Jamaica_7248544722.jpg",
+      "recordURL": "https://commons.wikimedia.org/wiki/File:Dr_James_Johnston_-_Cocoanut_and_Banana_Valley,_Oracabessa,_St_Mary,_Jamaica_7248544722.jpg",
+      "creator": "Dr James Johnston",
+      "date": "Before December 1921; exact capture date not established",
+      "licence": "Public domain",
+      "licenceURL": null,
+      "articles": [
+        "jh-oracabessa"
+      ],
+      "width": 960,
+      "height": 833,
+      "bytes": 214276,
+      "visuallyInspected": true,
+      "transformation": "Whole-frame resized WebP; no content removed or generated.",
+      "placements": [
+        {
+          "article": "jh-oracabessa",
+          "place": "Coconut and banana valley near Oracabessa, St. Mary",
+          "context": "Compare cultivated valley land with the coastal views. The picture makes farming visible in a celebrity-coast story, while leaving land ownership and individual workers unidentified."
+        }
+      ]
+    },
+    {
+      "kind": "new-licensed-image",
+      "id": "yallahs-1988",
+      "asset": "media-yallahs-1988.base64",
+      "recordURL": "https://commons.wikimedia.org/wiki/File:Yallahs_River_Crossing_after_Hurricane_Gilbert_1988.jpg",
+      "creator": "De Geo",
+      "date": "12 December 1988, three months after Hurricane Gilbert",
+      "licence": "CC BY-SA 4.0",
+      "licenceURL": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "articles": [
+        "parish-yallahs"
+      ],
+      "width": 960,
+      "height": 684,
+      "bytes": 59654,
+      "visuallyInspected": true,
+      "place": "Yallahs River crossing, St. Thomas"
+    },
+    {
+      "kind": "new-licensed-image",
+      "id": "windrush-header",
+      "asset": "media-windrush-header.base64",
+      "recordURL": "https://commons.wikimedia.org/wiki/File:Passenger_list_header_M.V._%22Empire_Windrush%22,_Tilbury_June_1948.jpg",
+      "creator": "Tek monde",
+      "date": "Document: June 1948; photograph: 20 April 2023",
+      "licence": "CC BY-SA 4.0",
+      "licenceURL": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "articles": [
+        "history-windrush"
+      ],
+      "width": 960,
+      "height": 565,
+      "bytes": 27666,
+      "visuallyInspected": true,
+      "place": "Empire Windrush passenger-list header, arrival at Tilbury, England"
+    },
+    {
+      "kind": "existing-image-local-copy",
+      "asset": "media-existing-46a26c63f4e3.base64",
+      "sourceURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5e/Jamaica_Carnival_Jonkonnu.jpg/960px-Jamaica_Carnival_Jonkonnu.jpg",
+      "recordURL": "https://commons.wikimedia.org/wiki/File:Jamaica_Carnival_Jonkonnu.jpg",
+      "licence": "CC BY-SA 4.0",
+      "creator": "Xaymacan",
+      "date": "2025-04-27",
+      "articles": [
+        "culture-feature-6",
+        "culture-feature-6",
+        "read-culture"
+      ],
+      "width": 685,
+      "height": 960,
+      "bytes": 100928,
+      "transformation": "Whole-frame resized WebP; original image record and credits retained.",
+      "deliveryCheck": {
+        "originalStatus": 200,
+        "fallbackStatus": null
+      },
+      "existingRightsCaveat": "Repository attribution retained; archive copyright status is not independently adjudicated."
+    },
+    {
+      "kind": "existing-image-local-copy",
+      "asset": "media-existing-183a213925e7.base64",
+      "sourceURL": "https://upload.wikimedia.org/wikipedia/commons/1/1d/Joseph_%27Powda%27_Bennett%2C_The_Jolly_Boys_%284854002891%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "recordURL": "https://commons.wikimedia.org/wiki/File:Joseph_%27Powda%27_Bennett,_The_Jolly_Boys_(4854002891).jpg",
+      "licence": "CC BY 2.0",
+      "creator": "Bryan Ledgard",
+      "date": "2010-08-01 15:02:41",
+      "articles": [
+        "culture-feature-7"
+      ],
+      "width": 960,
+      "height": 639,
+      "bytes": 29462,
+      "transformation": "Whole-frame resized WebP; original image record and credits retained.",
+      "deliveryCheck": {
+        "originalStatus": 429,
+        "fallbackStatus": 200
+      },
+      "existingRightsCaveat": "Repository attribution retained; archive copyright status is not independently adjudicated."
+    },
+    {
+      "kind": "existing-image-local-copy",
+      "asset": "media-existing-3cd0eeb24d64.base64",
+      "sourceURL": "https://upload.wikimedia.org/wikipedia/commons/9/9a/JM_Sevilla_Heritage_Park_1010_%281%29_%2817256441591%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "recordURL": "https://commons.wikimedia.org/wiki/File:JM_Sevilla_Heritage_Park_1010_(1)_(17256441591).jpg",
+      "licence": "CC BY-SA 2.0",
+      "creator": "Diego Tirira from Quito, Ecuador",
+      "date": "Taken on 29 October 2010, 11:17",
+      "articles": [
+        "hh-build",
+        "hh-seville",
+        "history-great-houses",
+        "history-housing",
+        "history-ocho-stann",
+        "read-seville"
+      ],
+      "width": 800,
+      "height": 535,
+      "bytes": 70362,
+      "transformation": "Whole-frame resized WebP; original image record and credits retained.",
+      "deliveryCheck": {
+        "originalStatus": 200,
+        "fallbackStatus": null
+      },
+      "existingRightsCaveat": "Repository attribution retained; archive copyright status is not independently adjudicated."
+    },
+    {
+      "kind": "existing-image-local-copy",
+      "asset": "media-existing-f556c5c1ab2f.base64",
+      "sourceURL": "https://upload.wikimedia.org/wikipedia/commons/4/4f/Kingston%2C_Jamaica%2C_and_vicinity-_natives_and_donkey_in_front_of_thatched-roof_houses_LCCN2003678375.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "recordURL": "https://commons.wikimedia.org/wiki/File:Kingston,_Jamaica,_and_vicinity-_natives_and_donkey_in_front_of_thatched-roof_houses_LCCN2003678375.jpg",
+      "licence": "Public domain",
+      "creator": "Miscellaneous Items in High Demand, PPOC, Library of Congress",
+      "date": "1900",
+      "articles": [
+        "hh-build",
+        "history-housing"
+      ],
+      "width": 640,
+      "height": 496,
+      "bytes": 81926,
+      "transformation": "Whole-frame resized WebP; original image record and credits retained.",
+      "deliveryCheck": {
+        "originalStatus": 200,
+        "fallbackStatus": null
+      },
+      "existingRightsCaveat": "Repository attribution retained; archive copyright status is not independently adjudicated."
+    },
+    {
+      "kind": "existing-image-local-copy",
+      "asset": "media-existing-d28a4cd16f00.base64",
+      "sourceURL": "https://upload.wikimedia.org/wikipedia/commons/5/5e/Jamaican_Great_House%2C_Mahogany_Hall%2C_Jamaica%2C_ca.1875-ca.1940_%28imp-cswc-GB-237-CSWC47-LS11-011%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "recordURL": "https://commons.wikimedia.org/wiki/File:Jamaican_Great_House,_Mahogany_Hall,_Jamaica,_ca.1875-ca.1940_(imp-cswc-GB-237-CSWC47-LS11-011).jpg",
+      "licence": "Public domain",
+      "creator": "Unknown authorUnknown author",
+      "date": "circa 1875date QS:P,+1875-00-00T00:00:00Z/9,P1480,Q5727902/1940",
+      "articles": [
+        "hh-build",
+        "history-housing"
+      ],
+      "width": 957,
+      "height": 960,
+      "bytes": 158818,
+      "transformation": "Whole-frame resized WebP; original image record and credits retained.",
+      "deliveryCheck": {
+        "originalStatus": 429,
+        "fallbackStatus": 200
+      },
+      "existingRightsCaveat": "Repository attribution retained; archive copyright status is not independently adjudicated."
+    },
+    {
+      "kind": "existing-image-local-copy",
+      "asset": "media-existing-737869e76b5d.base64",
+      "sourceURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/38/A._Duperly_%26_Sons_-_Going_To_Market%2C_Rockfort_Road%2C_Kingston%2C_Jamaica_3188846275.jpg/960px-A._Duperly_%26_Sons_-_Going_To_Market%2C_Rockfort_Road%2C_Kingston%2C_Jamaica_3188846275.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "recordURL": "https://commons.wikimedia.org/wiki/File:A._Duperly_%26_Sons_-_Going_To_Market,_Rockfort_Road,_Kingston,_Jamaica_3188846275.jpg",
+      "licence": "Public domain",
+      "creator": "Adolphe Duperly & Sons",
+      "date": "before 1922",
+      "articles": [
+        "hh-food"
+      ],
+      "width": 960,
+      "height": 768,
+      "bytes": 140832,
+      "transformation": "Whole-frame resized WebP; original image record and credits retained.",
+      "deliveryCheck": {
+        "originalStatus": 200,
+        "fallbackStatus": null
+      },
+      "existingRightsCaveat": "Repository attribution retained; archive copyright status is not independently adjudicated."
+    },
+    {
+      "kind": "existing-image-local-copy",
+      "asset": "media-existing-c8bf65435205.base64",
+      "sourceURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/50/Drawing,_Studies_of_Trees_with_Details_of_Bamboo_and_a_Small_Detail_of_a_Man_Carrying_Bananas_on_His_Head,_Bellevue,_Jamaica,_August_1865_(CH_18198199).jpg/960px-Drawing,_Studies_of_Trees_with_Details_of_Bamboo_and_a_Small_Detail_of_a_Man_Carrying_Bananas_on_His_Head,_Bellevue,_Jamaica,_August_1865_(CH_18198199).jpg",
+      "recordURL": "https://commons.wikimedia.org/wiki/File:Drawing,_Studies_of_Trees_with_Details_of_Bamboo_and_a_Small_Detail_of_a_Man_Carrying_Bananas_on_His_Head,_Bellevue,_Jamaica,_August_1865_(CH_18198199).jpg",
+      "licence": "Public domain",
+      "creator": "Frederic Edwin Church",
+      "date": "August 1865date QS:P571,+1865-08-00T00:00:00Z/10",
+      "articles": [
+        "hh-food"
+      ],
+      "width": 960,
+      "height": 612,
+      "bytes": 40910,
+      "transformation": "Whole-frame resized WebP; original image record and credits retained.",
+      "deliveryCheck": {
+        "originalStatus": 200,
+        "fallbackStatus": null
+      },
+      "existingRightsCaveat": "Repository attribution retained; archive copyright status is not independently adjudicated."
+    },
+    {
+      "kind": "existing-image-local-copy",
+      "asset": "media-existing-5f60c51a2c37.base64",
+      "sourceURL": "https://upload.wikimedia.org/wikipedia/commons/2/2b/Jamaican_jerk_pork_and_chicken.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "recordURL": "https://commons.wikimedia.org/wiki/File:Jamaican_jerk_pork_and_chicken.jpg",
+      "licence": "CC BY-SA 4.0",
+      "creator": "Xaymacan",
+      "date": "2023-02-10",
+      "articles": [
+        "hh-food"
+      ],
+      "width": 960,
+      "height": 878,
+      "bytes": 119270,
+      "transformation": "Whole-frame resized WebP; original image record and credits retained.",
+      "deliveryCheck": {
+        "originalStatus": 429,
+        "fallbackStatus": 200
+      },
+      "existingRightsCaveat": "Repository attribution retained; archive copyright status is not independently adjudicated."
+    },
+    {
+      "kind": "existing-image-local-copy",
+      "asset": "media-existing-e4eac81af438.base64",
+      "sourceURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/11/A._Duperly_%26_Son_-_Jubilee_Market%2C_Orange_St%2C_Kingston%2C_Jamaica_8346893592.jpg/960px-A._Duperly_%26_Son_-_Jubilee_Market%2C_Orange_St%2C_Kingston%2C_Jamaica_8346893592.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "recordURL": "https://commons.wikimedia.org/wiki/File:A._Duperly_%26_Son_-_Jubilee_Market,_Orange_St,_Kingston,_Jamaica_8346893592.jpg",
+      "licence": "Public domain",
+      "creator": "Adolphe Duperly & Sons",
+      "date": "before 1922",
+      "articles": [
+        "hh-food"
+      ],
+      "width": 960,
+      "height": 603,
+      "bytes": 160610,
+      "transformation": "Whole-frame resized WebP; original image record and credits retained.",
+      "deliveryCheck": {
+        "originalStatus": 200,
+        "fallbackStatus": null
+      },
+      "existingRightsCaveat": "Repository attribution retained; archive copyright status is not independently adjudicated."
+    },
+    {
+      "kind": "existing-image-local-copy",
+      "asset": "media-existing-d71b51b1304a.base64",
+      "sourceURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e4/Valentine_and_Sons_-_At_Linstead_Market%2C_Jamaica%2C_1891_17093265697.jpg/960px-Valentine_and_Sons_-_At_Linstead_Market%2C_Jamaica%2C_1891_17093265697.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "recordURL": "https://commons.wikimedia.org/wiki/File:Valentine_and_Sons_-_At_Linstead_Market,_Jamaica,_1891_17093265697.jpg",
+      "licence": "Public domain",
+      "creator": "Valentine & Sons",
+      "date": "1891",
+      "articles": [
+        "hh-food",
+        "object-market"
+      ],
+      "width": 960,
+      "height": 775,
+      "bytes": 108038,
+      "transformation": "Whole-frame resized WebP; original image record and credits retained.",
+      "deliveryCheck": {
+        "originalStatus": 200,
+        "fallbackStatus": null
+      },
+      "existingRightsCaveat": "Repository attribution retained; archive copyright status is not independently adjudicated."
+    },
+    {
+      "kind": "existing-image-local-copy",
+      "asset": "media-existing-6ca411707aab.base64",
+      "sourceURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/50/Kingston%2C_Jamaica%2C_and_vicinity-_natives_in_front_of_thatched-roof_houses_LCCN2003678371.jpg/960px-Kingston%2C_Jamaica%2C_and_vicinity-_natives_in_front_of_thatched-roof_houses_LCCN2003678371.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "recordURL": "https://commons.wikimedia.org/wiki/File:Kingston,_Jamaica,_and_vicinity-_natives_in_front_of_thatched-roof_houses_LCCN2003678371.jpg",
+      "licence": "Public domain",
+      "creator": "Miscellaneous Items in High Demand, PPOC, Library of Congress",
+      "date": "1900",
+      "articles": [
+        "hh-sleep"
+      ],
+      "width": 960,
+      "height": 739,
+      "bytes": 52482,
+      "transformation": "Whole-frame resized WebP; original image record and credits retained.",
+      "deliveryCheck": {
+        "originalStatus": 200,
+        "fallbackStatus": null
+      },
+      "existingRightsCaveat": "Repository attribution retained; archive copyright status is not independently adjudicated."
+    },
+    {
+      "kind": "existing-image-local-copy",
+      "asset": "media-existing-5c00deb424c4.base64",
+      "sourceURL": "https://upload.wikimedia.org/wikipedia/commons/3/3e/Cockpit_Country.jpg",
+      "recordURL": "https://commons.wikimedia.org/wiki/File:Cockpit_Country.jpg",
+      "licence": "CC BY-SA 3.0",
+      "creator": "Fabian Tompsett",
+      "date": "",
+      "articles": [
+        "history-cockpit"
+      ],
+      "width": 960,
+      "height": 640,
+      "bytes": 70710,
+      "transformation": "Whole-frame resized WebP; original image record and credits retained.",
+      "deliveryCheck": {
+        "originalStatus": 429,
+        "fallbackStatus": 200
+      },
+      "existingRightsCaveat": "Repository attribution retained; archive copyright status is not independently adjudicated."
+    },
+    {
+      "kind": "existing-image-local-copy",
+      "asset": "media-existing-25b2ea0ca62f.base64",
+      "sourceURL": "https://upload.wikimedia.org/wikipedia/commons/7/7d/Devonhouse.jpg",
+      "recordURL": "https://commons.wikimedia.org/wiki/File:Devonhouse.jpg",
+      "licence": "CC BY-SA 3.0",
+      "creator": "",
+      "date": "",
+      "articles": [
+        "history-great-houses"
+      ],
+      "width": 960,
+      "height": 720,
+      "bytes": 90786,
+      "transformation": "Whole-frame resized WebP; original image record and credits retained.",
+      "deliveryCheck": {
+        "originalStatus": 200,
+        "fallbackStatus": null
+      },
+      "existingRightsCaveat": "Repository attribution retained; archive copyright status is not independently adjudicated."
+    },
+    {
+      "kind": "existing-image-local-copy",
+      "asset": "media-existing-873e547d86f2.base64",
+      "sourceURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/86/Herman_Moll._A_New_Map_of_the_Island_of_Jamaica._1717.jpg/960px-Herman_Moll._A_New_Map_of_the_Island_of_Jamaica._1717.jpg",
+      "recordURL": "https://commons.wikimedia.org/wiki/File:Herman_Moll._A_New_Map_of_the_Island_of_Jamaica._1717.jpg",
+      "licence": "Public domain",
+      "creator": "Herman Moll",
+      "date": "1717",
+      "articles": [
+        "history-jamaica",
+        "history-tacky",
+        "jh-highgate",
+        "read-church",
+        "read-names"
+      ],
+      "width": 960,
+      "height": 693,
+      "bytes": 195256,
+      "transformation": "Whole-frame resized WebP; original image record and credits retained.",
+      "deliveryCheck": {
+        "originalStatus": 200,
+        "fallbackStatus": null
+      },
+      "existingRightsCaveat": "Repository attribution retained; archive copyright status is not independently adjudicated."
+    },
+    {
+      "kind": "existing-image-local-copy",
+      "asset": "media-existing-944b3a6ed73e.base64",
+      "sourceURL": "https://upload.wikimedia.org/wikipedia/commons/b/be/Duperly_%28184%3F%29_Falmouth_taken_from_the_Church_Tower.png",
+      "recordURL": "https://commons.wikimedia.org/wiki/File:Duperly_(184%3F)_Falmouth_taken_from_the_Church_Tower.png",
+      "licence": "Public domain",
+      "creator": "Adolphe Duperly",
+      "date": "1840-01-01",
+      "articles": [
+        "history-melissa-falmouth",
+        "history-trelawny-falmouth"
+      ],
+      "width": 960,
+      "height": 605,
+      "bytes": 71918,
+      "transformation": "Whole-frame resized WebP; original image record and credits retained.",
+      "deliveryCheck": {
+        "originalStatus": 429,
+        "fallbackStatus": 200
+      },
+      "existingRightsCaveat": "Repository attribution retained; archive copyright status is not independently adjudicated."
+    },
+    {
+      "kind": "existing-image-local-copy",
+      "asset": "media-existing-f7373aadf63f.base64",
+      "sourceURL": "https://upload.wikimedia.org/wikipedia/commons/9/91/Chinese_Temple%2C_Kingston%2C_Jamaica_Carleton_H._Graves.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail_unscaled&_=20250513033604",
+      "recordURL": "https://commons.wikimedia.org/wiki/File:Chinese_Temple,_Kingston,_Jamaica_Carleton_H._Graves.jpg",
+      "licence": "Public domain",
+      "creator": "Carleton H. Graves",
+      "date": "before 1930",
+      "articles": [
+        "history-migration"
+      ],
+      "width": 960,
+      "height": 481,
+      "bytes": 38166,
+      "transformation": "Whole-frame resized WebP; original image record and credits retained.",
+      "deliveryCheck": {
+        "originalStatus": 429,
+        "fallbackStatus": 200
+      },
+      "existingRightsCaveat": "Repository attribution retained; archive copyright status is not independently adjudicated."
+    },
+    {
+      "kind": "existing-image-local-copy",
+      "asset": "media-existing-11bd5023c775.base64",
+      "sourceURL": "https://upload.wikimedia.org/wikipedia/commons/7/7a/Court_House_and_Bogle_-_main_street.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "recordURL": "https://commons.wikimedia.org/wiki/File:Court_House_and_Bogle_-_main_street.jpg",
+      "licence": "CC BY-SA 2.0",
+      "creator": "Michael L. Dorn",
+      "date": "2005-07-17 17:52:17",
+      "articles": [
+        "history-morant"
+      ],
+      "width": 720,
+      "height": 960,
+      "bytes": 73438,
+      "transformation": "Whole-frame resized WebP; original image record and credits retained.",
+      "deliveryCheck": {
+        "originalStatus": 429,
+        "fallbackStatus": 200
+      },
+      "existingRightsCaveat": "Repository attribution retained; archive copyright status is not independently adjudicated."
+    },
+    {
+      "kind": "existing-image-local-copy",
+      "asset": "media-existing-b83195b9715b.base64",
+      "sourceURL": "https://upload.wikimedia.org/wikipedia/commons/3/3a/Marianne_North_%281830-1890%29_-_View_over_Ochos_Rios%2C_Jamaica_-_MN164_-_Marianne_North_Gallery%2C_Royal_Botanic_Gardens%2C_Kew.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "recordURL": "https://commons.wikimedia.org/wiki/File:Marianne_North_(1830-1890)_-_View_over_Ochos_Rios,_Jamaica_-_MN164_-_Marianne_North_Gallery,_Royal_Botanic_Gardens,_Kew.jpg",
+      "licence": "Public domain",
+      "creator": "Marianne North",
+      "date": "1872",
+      "articles": [
+        "history-ocho-stann",
+        "jh-stannbay"
+      ],
+      "width": 944,
+      "height": 752,
+      "bytes": 62848,
+      "transformation": "Whole-frame resized WebP; original image record and credits retained.",
+      "deliveryCheck": {
+        "originalStatus": 200,
+        "fallbackStatus": null
+      },
+      "existingRightsCaveat": "Repository attribution retained; archive copyright status is not independently adjudicated."
+    },
+    {
+      "kind": "existing-image-local-copy",
+      "asset": "media-existing-81c682ff4d05.base64",
+      "sourceURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dc/Rain_storm_in_paradise.jpg/960px-Rain_storm_in_paradise.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "recordURL": "https://commons.wikimedia.org/wiki/File:Rain_storm_in_paradise.jpg",
+      "licence": "CC BY-SA 4.0",
+      "creator": "Vanderflappentoast",
+      "date": "2016-06-27 10:32:22",
+      "articles": [
+        "history-ocho-stann",
+        "jh-stannbay"
+      ],
+      "width": 960,
+      "height": 720,
+      "bytes": 95774,
+      "transformation": "Whole-frame resized WebP; original image record and credits retained.",
+      "deliveryCheck": {
+        "originalStatus": 200,
+        "fallbackStatus": null
+      },
+      "existingRightsCaveat": "Repository attribution retained; archive copyright status is not independently adjudicated."
+    },
+    {
+      "kind": "existing-image-local-copy",
+      "asset": "media-existing-c61be04817e9.base64",
+      "sourceURL": "https://upload.wikimedia.org/wikipedia/commons/c/c6/Montego_Bay_Sam_Sharpe_Photo_Don_Ramey_Logan.jpg",
+      "recordURL": "https://commons.wikimedia.org/wiki/File:Montego_Bay_Sam_Sharpe_Photo_Don_Ramey_Logan.jpg",
+      "licence": "CC BY-SA 3.0",
+      "creator": "Don Ramey Logan",
+      "date": "2013-02-22 14:30:39",
+      "articles": [
+        "history-stjames"
+      ],
+      "width": 960,
+      "height": 659,
+      "bytes": 136882,
+      "transformation": "Whole-frame resized WebP; original image record and credits retained.",
+      "deliveryCheck": {
+        "originalStatus": 429,
+        "fallbackStatus": 200
+      },
+      "existingRightsCaveat": "Repository attribution retained; archive copyright status is not independently adjudicated."
+    },
+    {
+      "kind": "existing-image-local-copy",
+      "asset": "media-existing-c18b1703c75b.base64",
+      "sourceURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0e/A._Duperly_%26_Sons_-_After_A_Days_Work_On_A_Banana_Plantation%2C_Jamaica_8326517760.jpg/960px-A._Duperly_%26_Sons_-_After_A_Days_Work_On_A_Banana_Plantation%2C_Jamaica_8326517760.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "recordURL": "https://commons.wikimedia.org/wiki/File:A._Duperly_%26_Sons_-_After_A_Days_Work_On_A_Banana_Plantation,_Jamaica_8326517760.jpg",
+      "licence": "Public domain",
+      "creator": "Adolphe Duperly & Sons",
+      "date": "before 1922",
+      "articles": [
+        "history-stmary-hills",
+        "object-banana"
+      ],
+      "width": 960,
+      "height": 735,
+      "bytes": 178258,
+      "transformation": "Whole-frame resized WebP; original image record and credits retained.",
+      "deliveryCheck": {
+        "originalStatus": 200,
+        "fallbackStatus": null
+      },
+      "existingRightsCaveat": "Repository attribution retained; archive copyright status is not independently adjudicated."
+    },
+    {
+      "kind": "existing-image-local-copy",
+      "asset": "media-existing-405f2435d07e.base64",
+      "sourceURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dc/A._Duperly_%26_Sons_-_Jubilee_Market%2C_West_Parade%2C_Kingston%2C_Jamaica%2C_ca_1890_7222928806.jpg/960px-A._Duperly_%26_Sons_-_Jubilee_Market%2C_West_Parade%2C_Kingston%2C_Jamaica%2C_ca_1890_7222928806.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "recordURL": "https://commons.wikimedia.org/wiki/File:A._Duperly_%26_Sons_-_Jubilee_Market,_West_Parade,_Kingston,_Jamaica,_ca_1890_7222928806.jpg",
+      "licence": "Public domain",
+      "creator": "Adolphe Duperly & Sons",
+      "date": "before 1922",
+      "articles": [
+        "jh-1907"
+      ],
+      "width": 960,
+      "height": 657,
+      "bytes": 132688,
+      "transformation": "Whole-frame resized WebP; original image record and credits retained.",
+      "deliveryCheck": {
+        "originalStatus": 200,
+        "fallbackStatus": null
+      },
+      "existingRightsCaveat": "Repository attribution retained; archive copyright status is not independently adjudicated."
+    },
+    {
+      "kind": "existing-image-local-copy",
+      "asset": "media-existing-0f4d03a68052.base64",
+      "sourceURL": "https://upload.wikimedia.org/wikipedia/commons/3/34/Earthquake_in_Jamaica%2C_1907_%28444895907%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "recordURL": "https://commons.wikimedia.org/wiki/File:Earthquake_in_Jamaica,_1907_(444895907).jpg",
+      "licence": "Public domain",
+      "creator": "pingnews.com from Washington, D.C., United States",
+      "date": "2007-04-03 09:22",
+      "articles": [
+        "jh-1907",
+        "jh-1907"
+      ],
+      "width": 960,
+      "height": 517,
+      "bytes": 39710,
+      "transformation": "Whole-frame resized WebP; original image record and credits retained.",
+      "deliveryCheck": {
+        "originalStatus": 200,
+        "fallbackStatus": null
+      },
+      "existingRightsCaveat": "Repository attribution retained; archive copyright status is not independently adjudicated."
+    },
+    {
+      "kind": "existing-image-local-copy",
+      "asset": "media-existing-938bac09ee09.base64",
+      "sourceURL": "https://upload.wikimedia.org/wikipedia/commons/6/62/PSM_V70_D390_Map_of_the_jamaica_earthquake.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "recordURL": "https://commons.wikimedia.org/wiki/File:PSM_V70_D390_Map_of_the_jamaica_earthquake.png",
+      "licence": "Public domain",
+      "creator": "Unknown authorUnknown author",
+      "date": "1907",
+      "articles": [
+        "jh-1907"
+      ],
+      "width": 960,
+      "height": 545,
+      "bytes": 65176,
+      "transformation": "Whole-frame resized WebP; original image record and credits retained.",
+      "deliveryCheck": {
+        "originalStatus": 429,
+        "fallbackStatus": 200
+      },
+      "existingRightsCaveat": "Repository attribution retained; archive copyright status is not independently adjudicated."
+    },
+    {
+      "kind": "existing-image-local-copy",
+      "asset": "media-existing-cfe7719e9d32.base64",
+      "sourceURL": "https://upload.wikimedia.org/wikipedia/commons/a/ad/Admiralty_Chart_No_1379_Annatto_Bay%2C_Published_1841.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "recordURL": "https://commons.wikimedia.org/wiki/File:Admiralty_Chart_No_1379_Annatto_Bay,_Published_1841.jpg",
+      "licence": "Public domain",
+      "creator": "United Kingdom Hydrographic Office",
+      "date": "1841-03-10",
+      "articles": [
+        "jh-annotto"
+      ],
+      "width": 960,
+      "height": 802,
+      "bytes": 53980,
+      "transformation": "Whole-frame resized WebP; original image record and credits retained.",
+      "deliveryCheck": {
+        "originalStatus": 429,
+        "fallbackStatus": 200
+      },
+      "existingRightsCaveat": "Repository attribution retained; archive copyright status is not independently adjudicated."
+    },
+    {
+      "kind": "existing-image-local-copy",
+      "asset": "media-existing-55578458e8cc.base64",
+      "sourceURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/19/Castleton_Gardens,_Kingston,_Jamaica,_1905_4818561127.jpg/960px-Castleton_Gardens,_Kingston,_Jamaica,_1905_4818561127.jpg",
+      "recordURL": "https://commons.wikimedia.org/wiki/File:Castleton_Gardens,_Kingston,_Jamaica,_1905_4818561127.jpg",
+      "licence": "Public domain",
+      "creator": "Hannah Philbrook Adams (b. 1858 - d. 1935 )",
+      "date": "February 1905",
+      "articles": [
+        "jh-castleton"
+      ],
+      "width": 935,
+      "height": 960,
+      "bytes": 118636,
+      "transformation": "Whole-frame resized WebP; original image record and credits retained.",
+      "deliveryCheck": {
+        "originalStatus": 200,
+        "fallbackStatus": null
+      },
+      "existingRightsCaveat": "Repository attribution retained; archive copyright status is not independently adjudicated."
+    },
+    {
+      "kind": "existing-image-local-copy",
+      "asset": "media-existing-99fdcc61a348.base64",
+      "sourceURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5a/A._Duperly_%26_Sons_-_Castleton_Gardens%2C_Jamaica_8323739864.jpg/960px-A._Duperly_%26_Sons_-_Castleton_Gardens%2C_Jamaica_8323739864.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "recordURL": "https://commons.wikimedia.org/wiki/File:A._Duperly_%26_Sons_-_Castleton_Gardens,_Jamaica_8323739864.jpg",
+      "licence": "Public domain",
+      "creator": "Adolphe Duperly & Sons",
+      "date": "before 1922",
+      "articles": [
+        "jh-castleton"
+      ],
+      "width": 960,
+      "height": 719,
+      "bytes": 266386,
+      "transformation": "Whole-frame resized WebP; original image record and credits retained.",
+      "deliveryCheck": {
+        "originalStatus": 200,
+        "fallbackStatus": null
+      },
+      "existingRightsCaveat": "Repository attribution retained; archive copyright status is not independently adjudicated."
+    },
+    {
+      "kind": "existing-image-local-copy",
+      "asset": "media-existing-4f9adb895327.base64",
+      "sourceURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1b/PSM_V86_D051_Castleton_garden_with_cycads_palms_and_araucarias.jpg/500px-PSM_V86_D051_Castleton_garden_with_cycads_palms_and_araucarias.jpg",
+      "recordURL": "https://commons.wikimedia.org/wiki/File:PSM_V86_D051_Castleton_garden_with_cycads_palms_and_araucarias.jpg",
+      "licence": "Public domain",
+      "creator": "Unknown authorUnknown author",
+      "date": "1915",
+      "articles": [
+        "jh-castleton"
+      ],
+      "width": 500,
+      "height": 633,
+      "bytes": 119456,
+      "transformation": "Whole-frame resized WebP; original image record and credits retained.",
+      "deliveryCheck": {
+        "originalStatus": 200,
+        "fallbackStatus": null
+      },
+      "existingRightsCaveat": "Repository attribution retained; archive copyright status is not independently adjudicated."
+    },
+    {
+      "kind": "existing-image-local-copy",
+      "asset": "media-existing-0e0e1dca15a0.base64",
+      "sourceURL": "https://upload.wikimedia.org/wikipedia/commons/c/c2/Beautiful_Castleton_Gardens%2C_Jamaica_Carleton_H._Graves.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "recordURL": "https://commons.wikimedia.org/wiki/File:Beautiful_Castleton_Gardens,_Jamaica_Carleton_H._Graves.jpg",
+      "licence": "Public domain",
+      "creator": "Carleton H. Graves",
+      "date": "before 1930",
+      "articles": [
+        "jh-castleton"
+      ],
+      "width": 759,
+      "height": 380,
+      "bytes": 42754,
+      "transformation": "Whole-frame resized WebP; original image record and credits retained.",
+      "deliveryCheck": {
+        "originalStatus": 200,
+        "fallbackStatus": null
+      },
+      "existingRightsCaveat": "Repository attribution retained; archive copyright status is not independently adjudicated."
+    },
+    {
+      "kind": "existing-image-local-copy",
+      "asset": "media-existing-563edfc1a93e.base64",
+      "sourceURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f6/Oracabessa_History2.jpg/960px-Oracabessa_History2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "recordURL": "https://commons.wikimedia.org/wiki/File:Oracabessa_History2.jpg",
+      "licence": "Public domain",
+      "creator": "William Hennings",
+      "date": "1861-06-15",
+      "articles": [
+        "jh-oracabessa"
+      ],
+      "width": 960,
+      "height": 720,
+      "bytes": 104022,
+      "transformation": "Whole-frame resized WebP; original image record and credits retained.",
+      "deliveryCheck": {
+        "originalStatus": 200,
+        "fallbackStatus": null
+      },
+      "existingRightsCaveat": "Repository attribution retained; archive copyright status is not independently adjudicated."
+    },
+    {
+      "kind": "existing-image-local-copy",
+      "asset": "media-existing-95c73905bdc4.base64",
+      "sourceURL": "https://upload.wikimedia.org/wikipedia/commons/0/0f/JamesBondBeach2.jpg",
+      "recordURL": "https://commons.wikimedia.org/wiki/File:JamesBondBeach2.jpg",
+      "licence": "Public domain",
+      "creator": "Banjoman1",
+      "date": "2006-12-02",
+      "articles": [
+        "jh-oracabessa"
+      ],
+      "width": 960,
+      "height": 720,
+      "bytes": 39156,
+      "transformation": "Whole-frame resized WebP; original image record and credits retained.",
+      "deliveryCheck": {
+        "originalStatus": 429,
+        "fallbackStatus": 200
+      },
+      "existingRightsCaveat": "Repository attribution retained; archive copyright status is not independently adjudicated."
+    },
+    {
+      "kind": "existing-image-local-copy",
+      "asset": "media-existing-b09072c0c223.base64",
+      "sourceURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5b/Golden_Clouds_aerial_view.jpg/960px-Golden_Clouds_aerial_view.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "recordURL": "https://commons.wikimedia.org/wiki/File:Golden_Clouds_aerial_view.jpg",
+      "licence": "CC BY-SA 4.0",
+      "creator": "Earl 44",
+      "date": "2018-01-10",
+      "articles": [
+        "jh-oracabessa"
+      ],
+      "width": 960,
+      "height": 588,
+      "bytes": 175370,
+      "transformation": "Whole-frame resized WebP; original image record and credits retained.",
+      "deliveryCheck": {
+        "originalStatus": 200,
+        "fallbackStatus": null
+      },
+      "existingRightsCaveat": "Repository attribution retained; archive copyright status is not independently adjudicated."
+    },
+    {
+      "kind": "existing-image-local-copy",
+      "asset": "media-existing-7fda213a5183.base64",
+      "sourceURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0b/Near_Oracabessa%2C_Jamaica_6824262948.jpg/960px-Near_Oracabessa%2C_Jamaica_6824262948.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "recordURL": "https://commons.wikimedia.org/wiki/File:Near_Oracabessa,_Jamaica_6824262948.jpg",
+      "licence": "Public domain",
+      "creator": "Hazard Family",
+      "date": "1904",
+      "articles": [
+        "jh-oracabessa"
+      ],
+      "width": 716,
+      "height": 960,
+      "bytes": 138804,
+      "transformation": "Whole-frame resized WebP; original image record and credits retained.",
+      "deliveryCheck": {
+        "originalStatus": 200,
+        "fallbackStatus": null
+      },
+      "existingRightsCaveat": "Repository attribution retained; archive copyright status is not independently adjudicated."
+    },
+    {
+      "kind": "existing-image-local-copy",
+      "asset": "media-existing-b158c98f5727.base64",
+      "sourceURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cf/Port_Maria_Mile_marker_20231007_120930.jpg/960px-Port_Maria_Mile_marker_20231007_120930.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "recordURL": "https://commons.wikimedia.org/wiki/File:Port_Maria_Mile_marker_20231007_120930.jpg",
+      "licence": "CC BY-SA 4.0",
+      "creator": "CaptJayRuffins",
+      "date": "2023-10-07 12:09:30",
+      "articles": [
+        "jh-port-maria"
+      ],
+      "width": 960,
+      "height": 540,
+      "bytes": 165842,
+      "transformation": "Whole-frame resized WebP; original image record and credits retained.",
+      "deliveryCheck": {
+        "originalStatus": 200,
+        "fallbackStatus": null
+      },
+      "existingRightsCaveat": "Repository attribution retained; archive copyright status is not independently adjudicated."
+    },
+    {
+      "kind": "existing-image-local-copy",
+      "asset": "media-existing-126621bfe5d1.base64",
+      "sourceURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/08/HM_20231007_120408.jpg/960px-HM_20231007_120408.jpg",
+      "recordURL": "https://commons.wikimedia.org/wiki/File:HM_20231007_120408.jpg",
+      "licence": "CC BY-SA 4.0",
+      "creator": "CaptJayRuffins",
+      "date": "2023-10-07 12:04:08",
+      "articles": [
+        "jh-port-maria"
+      ],
+      "width": 960,
+      "height": 540,
+      "bytes": 77416,
+      "transformation": "Whole-frame resized WebP; original image record and credits retained.",
+      "deliveryCheck": {
+        "originalStatus": 200,
+        "fallbackStatus": null
+      },
+      "existingRightsCaveat": "Repository attribution retained; archive copyright status is not independently adjudicated."
+    },
+    {
+      "kind": "existing-image-local-copy",
+      "asset": "media-existing-aa8d61a119dd.base64",
+      "sourceURL": "https://upload.wikimedia.org/wikipedia/commons/4/45/St._Mary_Parish_Church_20231007_120527.jpg",
+      "recordURL": "https://commons.wikimedia.org/wiki/File:St._Mary_Parish_Church_20231007_120527.jpg",
+      "licence": "CC BY-SA 4.0",
+      "creator": "CaptJayRuffins",
+      "date": "2023-10-07 12:05:27",
+      "articles": [
+        "jh-port-maria"
+      ],
+      "width": 960,
+      "height": 541,
+      "bytes": 78802,
+      "transformation": "Whole-frame resized WebP; original image record and credits retained.",
+      "deliveryCheck": {
+        "originalStatus": 429,
+        "fallbackStatus": 200
+      },
+      "existingRightsCaveat": "Repository attribution retained; archive copyright status is not independently adjudicated."
+    },
+    {
+      "kind": "existing-image-local-copy",
+      "asset": "media-existing-8626ce5f5dc4.base64",
+      "sourceURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/ba/Main_Street_Port_Maria_Jamaica_1988.jpg/960px-Main_Street_Port_Maria_Jamaica_1988.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "recordURL": "https://commons.wikimedia.org/wiki/File:Main_Street_Port_Maria_Jamaica_1988.jpg",
+      "licence": "CC BY-SA 4.0",
+      "creator": "De Geo",
+      "date": "1988-12-10",
+      "articles": [
+        "jh-port-maria"
+      ],
+      "width": 960,
+      "height": 671,
+      "bytes": 58310,
+      "transformation": "Whole-frame resized WebP; original image record and credits retained.",
+      "deliveryCheck": {
+        "originalStatus": 200,
+        "fallbackStatus": null
+      },
+      "existingRightsCaveat": "Repository attribution retained; archive copyright status is not independently adjudicated."
+    },
+    {
+      "kind": "existing-image-local-copy",
+      "asset": "media-existing-229907cc89b9.base64",
+      "sourceURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/48/Port_Maria_Court_House_20231007_120327.jpg/960px-Port_Maria_Court_House_20231007_120327.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "recordURL": "https://commons.wikimedia.org/wiki/File:Port_Maria_Court_House_20231007_120327.jpg",
+      "licence": "CC BY-SA 4.0",
+      "creator": "CaptJayRuffins",
+      "date": "2023-10-07 12:03:27",
+      "articles": [
+        "jh-port-maria"
+      ],
+      "width": 960,
+      "height": 540,
+      "bytes": 98378,
+      "transformation": "Whole-frame resized WebP; original image record and credits retained.",
+      "deliveryCheck": {
+        "originalStatus": 200,
+        "fallbackStatus": null
+      },
+      "existingRightsCaveat": "Repository attribution retained; archive copyright status is not independently adjudicated."
+    },
+    {
+      "kind": "existing-image-local-copy",
+      "asset": "media-existing-1165c43032fc.base64",
+      "sourceURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c8/Cabarita_Island%2C_Port_Maria_Jamaica_1988.jpg/960px-Cabarita_Island%2C_Port_Maria_Jamaica_1988.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "recordURL": "https://commons.wikimedia.org/wiki/File:Cabarita_Island,_Port_Maria_Jamaica_1988.jpg",
+      "licence": "CC BY-SA 4.0",
+      "creator": "De Geo",
+      "date": "1988-12-10",
+      "articles": [
+        "jh-port-maria"
+      ],
+      "width": 960,
+      "height": 669,
+      "bytes": 40368,
+      "transformation": "Whole-frame resized WebP; original image record and credits retained.",
+      "deliveryCheck": {
+        "originalStatus": 200,
+        "fallbackStatus": null
+      },
+      "existingRightsCaveat": "Repository attribution retained; archive copyright status is not independently adjudicated."
+    },
+    {
+      "kind": "existing-image-local-copy",
+      "asset": "media-existing-968adc1f063a.base64",
+      "sourceURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f3/Port_Maria_Harbor_20231007_123647.jpg/960px-Port_Maria_Harbor_20231007_123647.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "recordURL": "https://commons.wikimedia.org/wiki/File:Port_Maria_Harbor_20231007_123647.jpg",
+      "licence": "CC BY-SA 4.0",
+      "creator": "CaptJayRuffins",
+      "date": "2023-10-07 12:36:47",
+      "articles": [
+        "jh-port-maria"
+      ],
+      "width": 960,
+      "height": 610,
+      "bytes": 121392,
+      "transformation": "Whole-frame resized WebP; original image record and credits retained.",
+      "deliveryCheck": {
+        "originalStatus": 200,
+        "fallbackStatus": null
+      },
+      "existingRightsCaveat": "Repository attribution retained; archive copyright status is not independently adjudicated."
+    },
+    {
+      "kind": "existing-image-local-copy",
+      "asset": "media-existing-ab2380e6c845.base64",
+      "sourceURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/80/Fishing_boats_St_Ann%27s_Bay_20230605_134918.jpg/960px-Fishing_boats_St_Ann%27s_Bay_20230605_134918.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "recordURL": "https://commons.wikimedia.org/wiki/File:Fishing_boats_St_Ann%27s_Bay_20230605_134918.jpg",
+      "licence": "CC BY-SA 4.0",
+      "creator": "CaptJayRuffins",
+      "date": "2023-06-05 13:49:18",
+      "articles": [
+        "jh-stannbay",
+        "read-court",
+        "read-town",
+        "read-villages"
+      ],
+      "width": 960,
+      "height": 720,
+      "bytes": 43560,
+      "transformation": "Whole-frame resized WebP; original image record and credits retained.",
+      "deliveryCheck": {
+        "originalStatus": 200,
+        "fallbackStatus": null
+      },
+      "existingRightsCaveat": "Repository attribution retained; archive copyright status is not independently adjudicated."
+    },
+    {
+      "kind": "existing-image-local-copy",
+      "asset": "media-existing-9baca00ea417.base64",
+      "sourceURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e0/St_Ann%27s_Bay_20230605_134742.jpg/960px-St_Ann%27s_Bay_20230605_134742.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "recordURL": "https://commons.wikimedia.org/wiki/File:St_Ann%27s_Bay_20230605_134742.jpg",
+      "licence": "CC BY-SA 4.0",
+      "creator": "CaptJayRuffins",
+      "date": "2023-06-05 13:47:42",
+      "articles": [
+        "jh-stannbay"
+      ],
+      "width": 960,
+      "height": 720,
+      "bytes": 124934,
+      "transformation": "Whole-frame resized WebP; original image record and credits retained.",
+      "deliveryCheck": {
+        "originalStatus": 200,
+        "fallbackStatus": null
+      },
+      "existingRightsCaveat": "Repository attribution retained; archive copyright status is not independently adjudicated."
+    },
+    {
+      "kind": "existing-image-local-copy",
+      "asset": "media-existing-8473d9bc4bf7.base64",
+      "sourceURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d2/St_Ann%27s_Bay_20230605_134841.jpg/960px-St_Ann%27s_Bay_20230605_134841.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "recordURL": "https://commons.wikimedia.org/wiki/File:St_Ann%27s_Bay_20230605_134841.jpg",
+      "licence": "CC BY-SA 4.0",
+      "creator": "CaptJayRuffins",
+      "date": "2023-06-05 13:48:41",
+      "articles": [
+        "jh-stannbay"
+      ],
+      "width": 960,
+      "height": 720,
+      "bytes": 105452,
+      "transformation": "Whole-frame resized WebP; original image record and credits retained.",
+      "deliveryCheck": {
+        "originalStatus": 200,
+        "fallbackStatus": null
+      },
+      "existingRightsCaveat": "Repository attribution retained; archive copyright status is not independently adjudicated."
+    },
+    {
+      "kind": "existing-image-local-copy",
+      "asset": "media-existing-cbd5469e53f2.base64",
+      "sourceURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b2/Accompong%2C_Jamaica%2C_early_20th_century_%28imp-cswc-GB-237-CSWC47-LS12-015%29.jpg/960px-Accompong%2C_Jamaica%2C_early_20th_century_%28imp-cswc-GB-237-CSWC47-LS12-015%29.jpg",
+      "recordURL": "https://commons.wikimedia.org/wiki/File:Accompong,_Jamaica,_early_20th_century_(imp-cswc-GB-237-CSWC47-LS12-015).jpg",
+      "licence": "Public domain",
+      "creator": "Unknown authorUnknown author",
+      "date": "after 1900date QS:P,+1900-00-00T00:00:00Z/7,P1319,+1900-00-00T00:00:00Z/9",
+      "articles": [
+        "parish-accompong"
+      ],
+      "width": 959,
+      "height": 960,
+      "bytes": 156296,
+      "transformation": "Whole-frame resized WebP; original image record and credits retained.",
+      "deliveryCheck": {
+        "originalStatus": 200,
+        "fallbackStatus": null
+      },
+      "existingRightsCaveat": "Repository attribution retained; archive copyright status is not independently adjudicated."
+    },
+    {
+      "kind": "existing-image-local-copy",
+      "asset": "media-existing-ba39c9f586f9.base64",
+      "sourceURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/74/Parish_Church%2C_Port_Royal%2C_Jamaica_%28imp-cswc-GB-237-CSWC47-LS12-005%29.jpg/960px-Parish_Church%2C_Port_Royal%2C_Jamaica_%28imp-cswc-GB-237-CSWC47-LS12-005%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "recordURL": "https://commons.wikimedia.org/wiki/File:Parish_Church,_Port_Royal,_Jamaica_(imp-cswc-GB-237-CSWC47-LS12-005).jpg",
+      "licence": "Public domain",
+      "creator": "Unknown authorUnknown author",
+      "date": "after 1900date QS:P,+1900-00-00T00:00:00Z/7,P1319,+1900-00-00T00:00:00Z/9",
+      "articles": [
+        "read-church"
+      ],
+      "width": 960,
+      "height": 958,
+      "bytes": 104044,
+      "transformation": "Whole-frame resized WebP; original image record and credits retained.",
+      "deliveryCheck": {
+        "originalStatus": 200,
+        "fallbackStatus": null
+      },
+      "existingRightsCaveat": "Repository attribution retained; archive copyright status is not independently adjudicated."
+    },
+    {
+      "kind": "existing-image-local-copy",
+      "asset": "media-existing-5864d19b03c2.base64",
+      "sourceURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/18/Hampden_Church%2C_Jamaica%2C_ca.1875-ca.1940_%28imp-cswc-GB-237-CSWC47-LS11-031%29.jpg/960px-Hampden_Church%2C_Jamaica%2C_ca.1875-ca.1940_%28imp-cswc-GB-237-CSWC47-LS11-031%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "recordURL": "https://commons.wikimedia.org/wiki/File:Hampden_Church,_Jamaica,_ca.1875-ca.1940_(imp-cswc-GB-237-CSWC47-LS11-031).jpg",
+      "licence": "Public domain",
+      "creator": "Unknown authorUnknown author",
+      "date": "circa 1875date QS:P,+1875-00-00T00:00:00Z/9,P1480,Q5727902/1940",
+      "articles": [
+        "read-church"
+      ],
+      "width": 955,
+      "height": 960,
+      "bytes": 64320,
+      "transformation": "Whole-frame resized WebP; original image record and credits retained.",
+      "deliveryCheck": {
+        "originalStatus": 200,
+        "fallbackStatus": null
+      },
+      "existingRightsCaveat": "Repository attribution retained; archive copyright status is not independently adjudicated."
+    },
+    {
+      "kind": "existing-image-local-copy",
+      "asset": "media-existing-ff96c2fdbba1.base64",
+      "sourceURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/12/Jericho_Church%2C_Jamaica%2C_ca.1875-ca.1940_%28imp-cswc-GB-237-CSWC47-LS11-040%29.jpg/960px-Jericho_Church%2C_Jamaica%2C_ca.1875-ca.1940_%28imp-cswc-GB-237-CSWC47-LS11-040%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "recordURL": "https://commons.wikimedia.org/wiki/File:Jericho_Church,_Jamaica,_ca.1875-ca.1940_(imp-cswc-GB-237-CSWC47-LS11-040).jpg",
+      "licence": "Public domain",
+      "creator": "Unknown authorUnknown author",
+      "date": "circa 1875date QS:P,+1875-00-00T00:00:00Z/9,P1480,Q5727902/1940",
+      "articles": [
+        "read-church"
+      ],
+      "width": 955,
+      "height": 960,
+      "bytes": 61130,
+      "transformation": "Whole-frame resized WebP; original image record and credits retained.",
+      "deliveryCheck": {
+        "originalStatus": 200,
+        "fallbackStatus": null
+      },
+      "existingRightsCaveat": "Repository attribution retained; archive copyright status is not independently adjudicated."
+    },
+    {
+      "kind": "existing-image-local-copy",
+      "asset": "media-existing-2b251bb957ef.base64",
+      "sourceURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/92/Valentine_and_Sons_-_At_Linstead_Market%2C_Jamaica%2C_1891_8321555421.jpg/960px-Valentine_and_Sons_-_At_Linstead_Market%2C_Jamaica%2C_1891_8321555421.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "recordURL": "https://commons.wikimedia.org/wiki/File:Valentine_and_Sons_-_At_Linstead_Market,_Jamaica,_1891_8321555421.jpg",
+      "licence": "Public domain",
+      "creator": "Valentine & Sons",
+      "date": "1891",
+      "articles": [
+        "read-culture"
+      ],
+      "width": 960,
+      "height": 686,
+      "bytes": 149050,
+      "transformation": "Whole-frame resized WebP; original image record and credits retained.",
+      "deliveryCheck": {
+        "originalStatus": 200,
+        "fallbackStatus": null
+      },
+      "existingRightsCaveat": "Repository attribution retained; archive copyright status is not independently adjudicated."
+    },
+    {
+      "kind": "existing-image-local-copy",
+      "asset": "media-existing-8f0de36d9114.base64",
+      "sourceURL": "https://upload.wikimedia.org/wikipedia/commons/1/12/Marcus_Garvey_1924-08-05.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "recordURL": "https://commons.wikimedia.org/wiki/File:Marcus_Garvey_1924-08-05.jpg",
+      "licence": "Public domain",
+      "creator": "from George Grantham Bain Collection",
+      "date": "1924-08-05",
+      "articles": [
+        "read-garvey"
+      ],
+      "width": 627,
+      "height": 960,
+      "bytes": 43172,
+      "transformation": "Whole-frame resized WebP; original image record and credits retained.",
+      "deliveryCheck": {
+        "originalStatus": 429,
+        "fallbackStatus": 200
+      },
+      "existingRightsCaveat": "Repository attribution retained; archive copyright status is not independently adjudicated."
+    },
+    {
+      "kind": "existing-image-local-copy",
+      "asset": "media-existing-3237123871de.base64",
+      "sourceURL": "https://upload.wikimedia.org/wikipedia/commons/c/c4/Leonard_Parkinson,_A_Captain_of_the_Maroons;_taken_from_the_Life,_1796.jpg",
+      "recordURL": "https://commons.wikimedia.org/wiki/File:Leonard_Parkinson,_A_Captain_of_the_Maroons;_taken_from_the_Life,_1796.jpg",
+      "licence": "Public domain",
+      "creator": "Abraham Raimbach",
+      "date": "1796-10-24",
+      "articles": [
+        "read-maroon"
+      ],
+      "width": 577,
+      "height": 960,
+      "bytes": 33122,
+      "transformation": "Whole-frame resized WebP; original image record and credits retained.",
+      "deliveryCheck": {
+        "originalStatus": 429,
+        "fallbackStatus": 200
+      },
+      "existingRightsCaveat": "Repository attribution retained; archive copyright status is not independently adjudicated."
+    },
+    {
+      "kind": "existing-image-local-copy",
+      "asset": "media-existing-d2f35a11741e.base64",
+      "sourceURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/97/Jamaica_Kingston_Harbor.png/960px-Jamaica_Kingston_Harbor.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "recordURL": "https://commons.wikimedia.org/wiki/File:Jamaica_Kingston_Harbor.png",
+      "licence": "Public domain",
+      "creator": "Unknown authorUnknown author",
+      "date": "circa 1870date QS:P,+1870-00-00T00:00:00Z/9,P1480,Q5727902",
+      "articles": [
+        "read-town"
+      ],
+      "width": 960,
+      "height": 556,
+      "bytes": 34424,
+      "transformation": "Whole-frame resized WebP; original image record and credits retained.",
+      "deliveryCheck": {
+        "originalStatus": 200,
+        "fallbackStatus": null
+      },
+      "existingRightsCaveat": "Repository attribution retained; archive copyright status is not independently adjudicated."
+    },
+    {
+      "kind": "existing-image-local-copy",
+      "asset": "media-existing-e53b6d9b2cdf.base64",
+      "sourceURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/19/Kingston_Harbour_%28cmakin%29_2004-09-19.png/960px-Kingston_Harbour_%28cmakin%29_2004-09-19.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "recordURL": "https://commons.wikimedia.org/wiki/File:Kingston_Harbour_(cmakin)_2004-09-19.png",
+      "licence": "CC BY-SA 2.0",
+      "creator": "Carey Akin (cmakin) from Manvel, Texas, USA",
+      "date": "2004-09-19 16:20",
+      "articles": [
+        "read-town"
+      ],
+      "width": 960,
+      "height": 256,
+      "bytes": 15046,
+      "transformation": "Whole-frame resized WebP; original image record and credits retained.",
+      "deliveryCheck": {
+        "originalStatus": 200,
+        "fallbackStatus": null
+      },
+      "existingRightsCaveat": "Repository attribution retained; archive copyright status is not independently adjudicated."
+    },
+    {
+      "kind": "video-source-link",
+      "id": "source-0",
+      "articles": [
+        "legacy-hibbert"
+      ],
+      "title": "JNHT: the people behind Hibbert House",
+      "publisher": "Jamaica National Heritage Trust",
+      "date": "Modern heritage discussion; publication date not established",
+      "place": "Kingston",
+      "sourceURL": "https://www.facebook.com/JamaicaNationalHeritageTrust/videos/every-family-has-its-characters-personalities-and-stories-and-at-jnht-were-no-di/1013450561752669/",
+      "viewingPrompt": "Watch the Trust’s own discussion of Hibbert House and the institution working from it. Compare what the speaker chooses to explain with the questions this story asks about the slave trade.",
+      "rightsAndAccess": "Facebook publisher link; sign-in may be required.",
+      "reproduction": "Link only; no publisher media bytes copied.",
+      "verification": "Original publisher metadata researched. Actual audible playback and logged-in social access not verified."
+    },
+    {
+      "kind": "video-source-link",
+      "id": "source-1",
+      "articles": [
+        "legacy-bath-jacob"
+      ],
+      "title": "Bath Fountain today",
+      "publisher": "Ministry of Tourism Jamaica",
+      "date": "Modern promotional film; publication date not established",
+      "place": "Bath, St. Thomas",
+      "sourceURL": "https://www.facebook.com/TourismJA/videos/step-into-a-world-of-wellness-at-the-bath-fountain-hotel-rooted-in-history-and-k/2009810447079989/",
+      "viewingPrompt": "See how the modern destination presents itself. Compare that presentation with the account of Jacob and the public institution; promotional wellness language is not historical testimony or medical evidence.",
+      "rightsAndAccess": "Facebook publisher link; sign-in may be required.",
+      "reproduction": "Link only; no publisher media bytes copied.",
+      "verification": "Original publisher metadata researched. Actual audible playback and logged-in social access not verified."
+    },
+    {
+      "kind": "video-source-link",
+      "id": "source-2",
+      "articles": [
+        "legacy-kromanti",
+        "parish-mooretown"
+      ],
+      "title": "The Kromanti language of Jamaican Maroons",
+      "publisher": "National Library of Jamaica",
+      "date": "Modern language documentation; publication date not established",
+      "place": "Moore Town discussed; individual filming sites not established here",
+      "sourceURL": "https://www.facebook.com/nationallibraryja/videos/the-kromanti-language-of-the-jamaican-maroons/744100038950557/",
+      "viewingPrompt": "Listen for the distinction between explaining a language and performing in it. Read the speakers’ account beside the article’s discussion of transmission across generations.",
+      "rightsAndAccess": "Facebook publisher link; sign-in may be required.",
+      "reproduction": "Link only; no publisher media bytes copied.",
+      "verification": "Original publisher metadata researched. Actual audible playback and logged-in social access not verified."
+    },
+    {
+      "kind": "video-source-link",
+      "id": "source-3",
+      "articles": [
+        "legacy-daddy-rock",
+        "history-stmary-hills"
+      ],
+      "title": "Woodside, St. Mary: a community view",
+      "publisher": "InJamaica",
+      "date": "Modern location video; capture date not established",
+      "place": "Woodside, St. Mary",
+      "sourceURL": "https://www.injamaica.com/videos/view/1288/woodside-st-mary-jamaica",
+      "viewingPrompt": "Use the village setting beside the ancestral history. This publisher record does not authenticate footage of Daddy Rock or the 1817 names; those claims require their own evidence.",
+      "rightsAndAccess": "Open the original location-video page.",
+      "reproduction": "Link only; no publisher media bytes copied.",
+      "verification": "Original publisher metadata researched. Actual audible playback and logged-in social access not verified."
+    },
+    {
+      "kind": "video-source-link",
+      "id": "source-4",
+      "articles": [
+        "legacy-salters",
+        "parish-burchell",
+        "parish-samsharpe"
+      ],
+      "title": "Remembering Sam Sharpe",
+      "publisher": "Jamaica Information Service",
+      "date": "Published 9 January 2019",
+      "place": "Jamaica; exact filming locations not established here",
+      "sourceURL": "https://jis.gov.jm/videos/remembering-sam-sharpe/",
+      "viewingPrompt": "Watch a modern interpretation of Sharpe’s public life. Compare its account of resistance with the separate dates for building the church, meeting in 1831 and later commemoration.",
+      "rightsAndAccess": "Publisher video page; external availability may change.",
+      "reproduction": "Link only; no publisher media bytes copied.",
+      "verification": "Original publisher metadata researched. Actual audible playback and logged-in social access not verified."
+    },
+    {
+      "kind": "video-source-link",
+      "id": "source-5",
+      "articles": [
+        "legacy-tryall"
+      ],
+      "title": "Tryall waterwheel: a modern visit",
+      "publisher": "Kareem’s Quest",
+      "date": "Modern footage; publication date not established",
+      "place": "Tryall, Hanover",
+      "sourceURL": "https://www.facebook.com/KareemsQuest/videos/tryall-1/1372642383757345/",
+      "viewingPrompt": "Follow the wheel, water channel and surrounding estate setting. A surviving machine invites questions about the work needed to operate it; modern footage does not identify the enslaved workforce.",
+      "rightsAndAccess": "Facebook creator link; sign-in may be required.",
+      "reproduction": "Link only; no publisher media bytes copied.",
+      "verification": "Original publisher metadata researched. Actual audible playback and logged-in social access not verified."
+    },
+    {
+      "kind": "video-source-link",
+      "id": "source-6",
+      "articles": [
+        "legacy-munro"
+      ],
+      "title": "Munro College from above",
+      "publisher": "Sheldon LevFX",
+      "date": "Modern aerial view; publication date not established",
+      "place": "Munro College, St. Elizabeth",
+      "sourceURL": "https://www.facebook.com/sheldonlevfx/videos/founded-in-1856-munro-college-is-one-of-jamaicas-oldest-and-most-prestigious-sec/1846487839512932/",
+      "viewingPrompt": "Look at the scale and arrangement of the present campus. Then return to the article’s distinction between the 1834 endowment and the school that opened in 1856.",
+      "rightsAndAccess": "Facebook creator link; sign-in may be required.",
+      "reproduction": "Link only; no publisher media bytes copied.",
+      "verification": "Original publisher metadata researched. Actual audible playback and logged-in social access not verified."
+    },
+    {
+      "kind": "video-source-link",
+      "id": "source-7",
+      "articles": [
+        "legacy-hellshire"
+      ],
+      "title": "Working in Hellshire Hills today",
+      "publisher": "International Iguana Foundation",
+      "date": "Modern conservation fieldwork; publication date not established",
+      "place": "Hellshire Hills, St. Catherine",
+      "sourceURL": "https://www.facebook.com/InternationalIguanaFoundation/videos/radio-tracking-jamaican-iguanas-in-the-hellshire-hills-with-your-help-we-hope-to/363317214479157/",
+      "viewingPrompt": "See a conservation team radio-tracking Jamaican iguanas in the landscape discussed here. This offers a present-day terrain comparison; it is not evidence for the location of an 1819 refuge or an invitation to enter protected habitat.",
+      "rightsAndAccess": "Facebook organisation link; sign-in may be required.",
+      "reproduction": "Link only; no publisher media bytes copied.",
+      "verification": "Original publisher metadata researched. Actual audible playback and logged-in social access not verified."
+    },
+    {
+      "kind": "video-source-link",
+      "id": "source-8",
+      "articles": [
+        "parish-yallahs"
+      ],
+      "title": "Yallahs and Hope: managing the watersheds",
+      "publisher": "Jamaica Information Service",
+      "date": "Published 21 August 2015",
+      "place": "Yallahs and Hope watersheds discussed",
+      "sourceURL": "https://jis.gov.jm/videos/goj-strategic-priority-6-yallahshope-river/",
+      "viewingPrompt": "Compare watershed management with the engineering sequence in this story. Which parts concern the river landscape, and which concern the system carrying water into the city?",
+      "rightsAndAccess": "Publisher video page; external availability may change.",
+      "reproduction": "Link only; no publisher media bytes copied.",
+      "verification": "Original publisher metadata researched. Actual audible playback and logged-in social access not verified."
+    },
+    {
+      "kind": "video-source-link",
+      "id": "source-9",
+      "articles": [
+        "parish-stonygut",
+        "history-morant"
+      ],
+      "title": "Remembering Paul Bogle",
+      "publisher": "Jamaica Information Service",
+      "date": "Published 9 January 2019",
+      "place": "Jamaica; specific filming sites not established here",
+      "sourceURL": "https://jis.gov.jm/videos/remembering-our-heroes-paul-bogle-remembering-our-heroes-_-paul-bogle/",
+      "viewingPrompt": "Listen for the connection between a village organiser and the public uprising. Compare the modern narration with the sources distinguishing Stony Gut from Morant Bay.",
+      "rightsAndAccess": "Publisher video page; external availability may change.",
+      "reproduction": "Link only; no publisher media bytes copied.",
+      "verification": "Original publisher metadata researched. Actual audible playback and logged-in social access not verified."
+    },
+    {
+      "kind": "video-source-link",
+      "id": "source-10",
+      "articles": [
+        "parish-masonriver"
+      ],
+      "title": "Mason River’s community work",
+      "publisher": "Jamaica Information Service",
+      "date": "Published 24 May 2025; Labour Day project on 23 May 2025",
+      "place": "Mason River project discussed",
+      "sourceURL": "https://www.facebook.com/JISVoice/videos/as-he-addressed-participants-in-the-mason-river-national-labour-day-project-on-f/1905325036538926/",
+      "viewingPrompt": "Watch the public address connected with the community project. Place present-day work beside the wetland’s protection history; a speech does not show the condition of every part of the reserve.",
+      "rightsAndAccess": "Facebook publisher link; sign-in may be required.",
+      "reproduction": "Link only; no publisher media bytes copied.",
+      "verification": "Original publisher metadata researched. Actual audible playback and logged-in social access not verified."
+    },
+    {
+      "kind": "video-source-link",
+      "id": "source-11",
+      "articles": [
+        "read-seville",
+        "parish-goodhope"
+      ],
+      "title": "Commemorating emancipation at Seville",
+      "publisher": "Jamaica Information Service",
+      "date": "Published 1 August 2022",
+      "place": "Seville Heritage Park, St. Ann",
+      "sourceURL": "https://jis.gov.jm/videos/jis-tv-emancipation-jubilee-at-the-seville-heritage-park-in-st-ann/",
+      "viewingPrompt": "See a modern public commemoration, then compare ceremonial remembrance with the houses, excavated material and estate work discussed in these connected histories.",
+      "rightsAndAccess": "Publisher video page; Seville is a comparison for the Good Hope article.",
+      "reproduction": "Link only; no publisher media bytes copied.",
+      "verification": "Original publisher metadata researched. Actual audible playback and logged-in social access not verified."
+    },
+    {
+      "kind": "video-source-link",
+      "id": "source-12",
+      "articles": [
+        "history-jamaica"
+      ],
+      "title": "Who protects Jamaica’s heritage?",
+      "publisher": "Jamaica Information Service",
+      "date": "Published 12 October 2025",
+      "place": "Jamaica National Heritage Trust; specific filming sites not established here",
+      "sourceURL": "https://jis.gov.jm/videos/get-the-facts-jamaica-national-heritage-trust/",
+      "viewingPrompt": "Use the heritage institution’s account beside the guide’s local stories. Ask what preservation can protect physically, and what still needs documentary evidence or a community’s explanation.",
+      "rightsAndAccess": "Publisher video page; external availability may change.",
+      "reproduction": "Link only; no publisher media bytes copied.",
+      "verification": "Original publisher metadata researched. Actual audible playback and logged-in social access not verified."
+    },
+    {
+      "kind": "video-source-link",
+      "id": "source-13",
+      "articles": [
+        "history-independence"
+      ],
+      "title": "Jamaica’s independence in the archive",
+      "publisher": "Jamaica Information Service",
+      "date": "Archival collection presented for Emancipendence 2024; films have different dates",
+      "place": "Jamaica; locations vary by film",
+      "sourceURL": "https://jis.gov.jm/emancipendence-2024/",
+      "viewingPrompt": "Choose an independence film in the publisher’s collection and note its date before watching. Compare preparation, ceremony and later anniversary coverage; each records a different moment.",
+      "rightsAndAccess": "Publisher collection with individual film dates.",
+      "reproduction": "Link only; no publisher media bytes copied.",
+      "verification": "Original publisher metadata researched. Actual audible playback and logged-in social access not verified."
+    },
+    {
+      "kind": "archive-photo-link",
+      "id": "source-14",
+      "articles": [
+        "legacy-orange-valley"
+      ],
+      "title": "Orange Valley hospital ruins, 1970",
+      "publisher": "National Library of Jamaica; photograph by Brian J. Hudson",
+      "date": "1970; catalogue D0006236",
+      "place": "Orange Valley hospital, Trelawny",
+      "sourceURL": "https://nljdigital.nlj.gov.jm/items/show/5510",
+      "viewingPrompt": "Open the dated photograph and examine the surviving masonry. Separate visible ruin, catalogue information and archaeological interpretation; the image was made long after emancipation.",
+      "rightsAndAccess": "View in the archive. NLJ permission is required for reproduction; the photograph is linked, not copied.",
+      "reproduction": "Link only; no publisher media bytes copied.",
+      "verification": "Original publisher metadata researched. Actual audible playback and logged-in social access not verified."
+    },
+    {
+      "kind": "archive-photo-link",
+      "id": "source-15",
+      "articles": [
+        "legacy-munro"
+      ],
+      "title": "Munro pupils in the photographic archive",
+      "publisher": "National Library of Jamaica",
+      "date": "Capture date and photographer not established; catalogue D0003043",
+      "place": "Munro College, St. Elizabeth",
+      "sourceURL": "https://nljdigital.nlj.gov.jm/items/show/1361",
+      "viewingPrompt": "Look at the group and its setting. Compare a later school community with the endowment’s origins without assigning the pupils a date or identity the record does not supply.",
+      "rightsAndAccess": "Archive-view link; no open reproduction licence established.",
+      "reproduction": "Link only; no publisher media bytes copied.",
+      "verification": "Original publisher metadata researched. Actual audible playback and logged-in social access not verified."
+    },
+    {
+      "kind": "archive-photo-link",
+      "id": "source-16",
+      "articles": [
+        "legacy-munro"
+      ],
+      "title": "Classrooms and dining at Munro",
+      "publisher": "National Library of Jamaica",
+      "date": "Capture date and photographer not established; catalogue D0003042",
+      "place": "Munro College, St. Elizabeth",
+      "sourceURL": "https://nljdigital.nlj.gov.jm/items/show/1359",
+      "viewingPrompt": "Compare the arrangement of classrooms and dining with the campus photograph. The archive view documents a later institution rather than the buildings present in 1834.",
+      "rightsAndAccess": "Archive-view link; no open reproduction licence established.",
+      "reproduction": "Link only; no publisher media bytes copied.",
+      "verification": "Original publisher metadata researched. Actual audible playback and logged-in social access not verified."
+    },
+    {
+      "kind": "archive-photo-link",
+      "id": "source-17",
+      "articles": [
+        "legacy-hope"
+      ],
+      "title": "Hope Gardens in the photographic archive",
+      "publisher": "National Library of Jamaica; Cleary & Elliot",
+      "date": "Capture date not established; catalogue D0005191",
+      "place": "Hope Gardens, St. Andrew",
+      "sourceURL": "https://nljdigital.nlj.gov.jm/items/show/4297",
+      "viewingPrompt": "Compare the garden setting with the aqueduct. A historic estate landscape can acquire new public purposes while retaining structures from an earlier economy.",
+      "rightsAndAccess": "View in the archive. NLJ permission is required for reproduction; linked, not copied.",
+      "reproduction": "Link only; no publisher media bytes copied.",
+      "verification": "Original publisher metadata researched. Actual audible playback and logged-in social access not verified."
+    },
+    {
+      "kind": "archive-photo-link",
+      "id": "source-18",
+      "articles": [
+        "legacy-hope"
+      ],
+      "title": "A Georgian Society visit to Hope Gardens",
+      "publisher": "Georgian Society of Jamaica",
+      "date": "Visit discussed in the 1873–2023 anniversary context; photograph dates not independently established",
+      "place": "Hope Gardens, St. Andrew",
+      "sourceURL": "https://www.facebook.com/Georgian.history.Jamaica/posts/recent-visit-to-hope-gardens-which-is-marking-its-150th-anniversary-1873-2023-ho/309930785005642/",
+      "viewingPrompt": "Follow a heritage society’s observations of the house, hospital and aqueduct. Compare the named structures with the guide’s account of water and estate power.",
+      "rightsAndAccess": "Facebook photo-post link. No open reproduction licence established; sign-in may be required.",
+      "reproduction": "Link only; no publisher media bytes copied.",
+      "verification": "Original publisher metadata researched. Actual audible playback and logged-in social access not verified."
+    },
+    {
+      "kind": "archive-photo-link",
+      "id": "source-19",
+      "articles": [
+        "legacy-bath-jacob"
+      ],
+      "title": "Bath’s hotel balcony in 1972",
+      "publisher": "University of Central Florida, British West Indies Slides",
+      "date": "1972; collection record DP0003467",
+      "place": "Bath Fountain Hotel, St. Thomas",
+      "sourceURL": "https://stars.library.ucf.edu/bwi-slides-jamaica/69/",
+      "viewingPrompt": "Compare the later hotel view with the public bath’s seventeenth-century origin account. A dated photograph helps separate surviving tourism buildings from Jacob’s story.",
+      "rightsAndAccess": "Archive-view link. Collection terms require permission for commercial reproduction.",
+      "reproduction": "Link only; no publisher media bytes copied.",
+      "verification": "Original publisher metadata researched. Actual audible playback and logged-in social access not verified."
+    },
+    {
+      "kind": "archive-photo-link",
+      "id": "source-20",
+      "articles": [
+        "legacy-tryall"
+      ],
+      "title": "A closer view of Tryall’s wheel",
+      "publisher": "Nick Sherman, Flickr",
+      "date": "Photographed 26 February 2014",
+      "place": "Tryall waterwheel, near Sandy Bay, Hanover",
+      "sourceURL": "https://www.flickr.com/photos/nicksherman/13620550314",
+      "viewingPrompt": "Examine the wheel itself alongside the estate-house photograph. Keep the machine’s visible parts separate from claims about when each component was installed.",
+      "rightsAndAccess": "Flickr original photo link. CC BY-NC-SA 2.0 permits noncommercial reuse; the guide links instead of copying.",
+      "reproduction": "Link only; no publisher media bytes copied.",
+      "verification": "Original publisher metadata researched. Actual audible playback and logged-in social access not verified."
+    },
+    {
+      "kind": "archive-photo-link",
+      "id": "source-21",
+      "articles": [
+        "parish-kumina",
+        "culture-feature-0"
+      ],
+      "title": "Kumina in St. Thomas: an archival photograph",
+      "publisher": "National Library of Jamaica",
+      "date": "Capture date and photographer not established in the checked catalogue",
+      "place": "St. Thomas, as identified by the archive",
+      "sourceURL": "https://nljdigital.nlj.gov.jm/items/show/6749",
+      "viewingPrompt": "Open the photograph beside the recorded excerpt. Describe the people and arrangement you can observe, then ask what information would be needed to identify the occasion and community.",
+      "rightsAndAccess": "Archive-view link; no open reproduction licence established.",
+      "reproduction": "Link only; no publisher media bytes copied.",
+      "verification": "Original publisher metadata researched. Actual audible playback and logged-in social access not verified."
+    },
+    {
+      "kind": "archive-photo-link",
+      "id": "source-22",
+      "articles": [
+        "object-market"
+      ],
+      "title": "Jamaica in the 1890s: a Pinterest discovery lead",
+      "publisher": "Pinterest pin linking to Caribbean Journal’s historical-photo feature",
+      "date": "The pin concerns an 1891 photographic collection; individual image dates require original records",
+      "place": "Jamaica; individual locations vary",
+      "sourceURL": "https://www.pinterest.com/pin/459296862016106736/",
+      "viewingPrompt": "Use this visual lead to explore another presentation of historical photographs. Follow each picture back to its credited collection and compare its location with the Linstead and Mandeville records here.",
+      "rightsAndAccess": "Pinterest may require sign-in. This link supplies discovery, not a reproduction licence or primary historical evidence.",
+      "reproduction": "Link only; no publisher media bytes copied.",
+      "verification": "Original publisher metadata researched. Actual audible playback and logged-in social access not verified."
+    },
+    {
+      "kind": "click-to-load-film",
+      "id": "kromanti-film",
+      "articles": [
+        "legacy-kromanti"
+      ],
+      "sourceURL": "https://www.youtube.com/watch?v=TBKoDaR12UQ",
+      "publisher": "Jamaican Language Unit",
+      "title": "The Kromanti Language of the Jamaican Maroons",
+      "date": "Capture date not established",
+      "place": "Jamaican Maroon communities; exact filming locality not established",
+      "reproduction": "Publisher embed; no media copied",
+      "verification": "Reuses existing documented publisher ID; playback still requires independent browser verification."
+    },
+    {
+      "kind": "new-licensed-image",
+      "id": "jamaica-map-1755",
+      "asset": "media-jamaica-map-1755.base64",
+      "sourceURL": "https://upload.wikimedia.org/wikipedia/commons/7/72/A_new_map_of_Jamaica_-_btv1b5970657f.jpg",
+      "recordURL": "https://commons.wikimedia.org/wiki/File:A_new_map_of_Jamaica_-_btv1b5970657f.jpg",
+      "creator": "Patrick Browne",
+      "date": "1755",
+      "licence": "Public domain",
+      "articles": [
+        "legacy-suttons",
+        "legacy-hellshire"
+      ],
+      "width": 1600,
+      "height": 871,
+      "bytes": 335940,
+      "place": "Jamaica, historical parishes and Port Royal inset",
+      "visuallyInspected": true,
+      "transformation": "Whole-frame resized WebP; not a modern travel map or battle map."
+    },
+    {
+      "kind": "new-licensed-image",
+      "id": "sound-system-2009",
+      "asset": "media-sound-system-2009.base64",
+      "sourceURL": "https://www.flickr.com/photos/dubdem/3251415411/",
+      "recordURL": "https://commons.wikimedia.org/wiki/File:Sound_System.jpg",
+      "creator": "Dubdem e FabDub",
+      "date": "4 February 2009",
+      "place": "Long Bay, Negril, Jamaica",
+      "licence": "CC BY 2.0",
+      "licenceURL": "https://creativecommons.org/licenses/by/2.0/",
+      "articles": [
+        "history-dancehall",
+        "read-culture"
+      ],
+      "width": 960,
+      "height": 877,
+      "bytes": 100288,
+      "visuallyInspected": true,
+      "transformation": "Whole-frame resized WebP; no content removed or generated."
+    }
+  ],
+  "articleAudit": [
+    {
+      "article": "culture-feature-0",
+      "title": "Kumina: religion, migration and the community around the drum",
+      "before": {
+        "images": 0,
+        "diagrams": 0,
+        "videos": 3,
+        "audio": 1
+      },
+      "newMediaRecords": [
+        "source-21"
+      ],
+      "review": "Source markup, existing figure captions and delivery reviewed. Local historical object identity checked where replaced or supplemented; no browser playback or rendered mobile inspection."
+    },
+    {
+      "article": "culture-feature-1",
+      "title": "Kromanti and Maroon sound: Music, memory and the politics of Maroon freedom",
+      "before": {
+        "images": 0,
+        "diagrams": 0,
+        "videos": 3,
+        "audio": 0
+      },
+      "newMediaRecords": [],
+      "review": "Source markup, existing figure captions and delivery reviewed. Local historical object identity checked where replaced or supplemented; no browser playback or rendered mobile inspection."
+    },
+    {
+      "article": "culture-feature-2",
+      "title": "Ettu in Hanover: how a community carries a performance tradition",
+      "before": {
+        "images": 1,
+        "diagrams": 0,
+        "videos": 0,
+        "audio": 0
+      },
+      "newMediaRecords": [],
+      "review": "Source markup, existing figure captions and delivery reviewed. Local historical object identity checked where replaced or supplemented; no browser playback or rendered mobile inspection."
+    },
+    {
+      "article": "culture-feature-3",
+      "title": "Burru: hear the rhythm, meet the people behind it",
+      "before": {
+        "images": 0,
+        "diagrams": 0,
+        "videos": 2,
+        "audio": 0
+      },
+      "newMediaRecords": [],
+      "review": "Source markup, existing figure captions and delivery reviewed. Local historical object identity checked where replaced or supplemented; no browser playback or rendered mobile inspection."
+    },
+    {
+      "article": "culture-feature-4",
+      "title": "Dinki Mini and Nine Night: Why mourning could sound joyful",
+      "before": {
+        "images": 0,
+        "diagrams": 0,
+        "videos": 2,
+        "audio": 0
+      },
+      "newMediaRecords": [],
+      "review": "Source markup, existing figure captions and delivery reviewed. Local historical object identity checked where replaced or supplemented; no browser playback or rendered mobile inspection."
+    },
+    {
+      "article": "culture-feature-5",
+      "title": "Revival: the congregation made Christianity Jamaican",
+      "before": {
+        "images": 0,
+        "diagrams": 0,
+        "videos": 2,
+        "audio": 2
+      },
+      "newMediaRecords": [],
+      "review": "Source markup, existing figure captions and delivery reviewed. Local historical object identity checked where replaced or supplemented; no browser playback or rendered mobile inspection."
+    },
+    {
+      "article": "culture-feature-6",
+      "title": "Jonkonnu and Bruckins: Performance, masquerade and emancipation",
+      "before": {
+        "images": 2,
+        "diagrams": 0,
+        "videos": 1,
+        "audio": 2
+      },
+      "newMediaRecords": [
+        "media-existing-46a26c63f4e3.base64"
+      ],
+      "review": "Source markup, existing figure captions and delivery reviewed. Local historical object identity checked where replaced or supplemented; no browser playback or rendered mobile inspection."
+    },
+    {
+      "article": "culture-feature-7",
+      "title": "Mento and Quadrille: Long before ska was the soundtrack of Jamaica",
+      "before": {
+        "images": 1,
+        "diagrams": 0,
+        "videos": 3,
+        "audio": 2
+      },
+      "newMediaRecords": [
+        "media-existing-183a213925e7.base64"
+      ],
+      "review": "Source markup, existing figure captions and delivery reviewed. Local historical object identity checked where replaced or supplemented; no browser playback or rendered mobile inspection."
+    },
+    {
+      "article": "early-jamaican-voices",
+      "title": "Before 1950: Jamaicans speaking, broadcasting and being heard",
+      "before": {
+        "images": 1,
+        "diagrams": 0,
+        "videos": 0,
+        "audio": 0
+      },
+      "newMediaRecords": [],
+      "review": "Source markup, existing figure captions and delivery reviewed. Local historical object identity checked where replaced or supplemented; no browser playback or rendered mobile inspection."
+    },
+    {
+      "article": "hh-build",
+      "title": "Who Could Afford a Veranda?",
+      "before": {
+        "images": 3,
+        "diagrams": 0,
+        "videos": 0,
+        "audio": 0
+      },
+      "newMediaRecords": [
+        "media-existing-3cd0eeb24d64.base64",
+        "media-existing-f556c5c1ab2f.base64",
+        "media-existing-d28a4cd16f00.base64"
+      ],
+      "review": "Source markup, existing figure captions and delivery reviewed. Local historical object identity checked where replaced or supplemented; no browser playback or rendered mobile inspection."
+    },
+    {
+      "article": "hh-food",
+      "title": "What Was Cooking in the Yard?",
+      "before": {
+        "images": 5,
+        "diagrams": 0,
+        "videos": 1,
+        "audio": 0
+      },
+      "newMediaRecords": [
+        "media-existing-737869e76b5d.base64",
+        "media-existing-c8bf65435205.base64",
+        "media-existing-5f60c51a2c37.base64",
+        "media-existing-e4eac81af438.base64",
+        "media-existing-d71b51b1304a.base64"
+      ],
+      "review": "Source markup, existing figure captions and delivery reviewed. Local historical object identity checked where replaced or supplemented; no browser playback or rendered mobile inspection."
+    },
+    {
+      "article": "hh-harmony",
+      "title": "Harmony Hall: A Building That Changed Its Occupation",
+      "before": {
+        "images": 1,
+        "diagrams": 0,
+        "videos": 0,
+        "audio": 0
+      },
+      "newMediaRecords": [],
+      "review": "Source markup, existing figure captions and delivery reviewed. Local historical object identity checked where replaced or supplemented; no browser playback or rendered mobile inspection."
+    },
+    {
+      "article": "hh-nine",
+      "title": "Nine Night Was Not Just a Wake",
+      "before": {
+        "images": 0,
+        "diagrams": 0,
+        "videos": 1,
+        "audio": 0
+      },
+      "newMediaRecords": [],
+      "review": "Source markup, existing figure captions and delivery reviewed. Local historical object identity checked where replaced or supplemented; no browser playback or rendered mobile inspection."
+    },
+    {
+      "article": "hh-seville",
+      "title": "The House Was Never Just a House",
+      "before": {
+        "images": 1,
+        "diagrams": 0,
+        "videos": 1,
+        "audio": 0
+      },
+      "newMediaRecords": [
+        "media-existing-3cd0eeb24d64.base64"
+      ],
+      "review": "Source markup, existing figure captions and delivery reviewed. Local historical object identity checked where replaced or supplemented; no browser playback or rendered mobile inspection."
+    },
+    {
+      "article": "hh-sleep",
+      "title": "Inside the Household: Sleeping, Kinship and Privacy",
+      "before": {
+        "images": 1,
+        "diagrams": 0,
+        "videos": 0,
+        "audio": 0
+      },
+      "newMediaRecords": [
+        "media-existing-6ca411707aab.base64"
+      ],
+      "review": "Source markup, existing figure captions and delivery reviewed. Local historical object identity checked where replaced or supplemented; no browser playback or rendered mobile inspection."
+    },
+    {
+      "article": "history-cockpit",
+      "title": "Cockpit Country: land, Maroon freedom, water and living communities",
+      "before": {
+        "images": 1,
+        "diagrams": 0,
+        "videos": 0,
+        "audio": 1
+      },
+      "newMediaRecords": [
+        "media-existing-5c00deb424c4.base64"
+      ],
+      "review": "Source markup, existing figure captions and delivery reviewed. Local historical object identity checked where replaced or supplemented; no browser playback or rendered mobile inspection."
+    },
+    {
+      "article": "history-dancehall",
+      "title": "Why the music carries: sound systems, dancehall and Jamaican public life",
+      "before": {
+        "images": 0,
+        "diagrams": 0,
+        "videos": 0,
+        "audio": 1
+      },
+      "newMediaRecords": [
+        "sound-system-2009"
+      ],
+      "review": "Source markup, existing figure captions and delivery reviewed. Local historical object identity checked where replaced or supplemented; no browser playback or rendered mobile inspection."
+    },
+    {
+      "article": "history-great-houses",
+      "title": "Great houses worth understanding: Seville, Good Hope, Greenwood and Devon House",
+      "before": {
+        "images": 2,
+        "diagrams": 0,
+        "videos": 0,
+        "audio": 0
+      },
+      "newMediaRecords": [
+        "media-existing-3cd0eeb24d64.base64",
+        "media-existing-25b2ea0ca62f.base64"
+      ],
+      "review": "Source markup, existing figure captions and delivery reviewed. Local historical object identity checked where replaced or supplemented; no browser playback or rendered mobile inspection."
+    },
+    {
+      "article": "history-housing",
+      "title": "What people lived in: Jamaican houses from the 1600s to the 1900s",
+      "before": {
+        "images": 4,
+        "diagrams": 0,
+        "videos": 0,
+        "audio": 0
+      },
+      "newMediaRecords": [
+        "media-existing-3cd0eeb24d64.base64",
+        "media-existing-f556c5c1ab2f.base64",
+        "media-existing-d28a4cd16f00.base64"
+      ],
+      "review": "Source markup, existing figure captions and delivery reviewed. Local historical object identity checked where replaced or supplemented; no browser playback or rendered mobile inspection."
+    },
+    {
+      "article": "history-independence",
+      "title": "1938–1962: how Jamaica’s political nation took shape",
+      "before": {
+        "images": 0,
+        "diagrams": 0,
+        "videos": 1,
+        "audio": 0
+      },
+      "newMediaRecords": [
+        "source-13"
+      ],
+      "review": "Source markup, existing figure captions and delivery reviewed. Local historical object identity checked where replaced or supplemented; no browser playback or rendered mobile inspection."
+    },
+    {
+      "article": "history-jamaica",
+      "title": "Jamaica: the history that makes the journey make sense",
+      "before": {
+        "images": 2,
+        "diagrams": 0,
+        "videos": 1,
+        "audio": 0
+      },
+      "newMediaRecords": [
+        "media-existing-873e547d86f2.base64",
+        "source-12"
+      ],
+      "review": "Source markup, existing figure captions and delivery reviewed. Local historical object identity checked where replaced or supplemented; no browser playback or rendered mobile inspection."
+    },
+    {
+      "article": "history-melissa-falmouth",
+      "title": "Falmouth after Melissa: history includes what a town must rebuild",
+      "before": {
+        "images": 1,
+        "diagrams": 0,
+        "videos": 0,
+        "audio": 0
+      },
+      "newMediaRecords": [
+        "media-existing-944b3a6ed73e.base64"
+      ],
+      "review": "Source markup, existing figure captions and delivery reviewed. Local historical object identity checked where replaced or supplemented; no browser playback or rendered mobile inspection."
+    },
+    {
+      "article": "history-migration",
+      "title": "Migration after emancipation: Indian and Chinese Jamaican histories",
+      "before": {
+        "images": 1,
+        "diagrams": 0,
+        "videos": 0,
+        "audio": 0
+      },
+      "newMediaRecords": [
+        "media-existing-f7373aadf63f.base64"
+      ],
+      "review": "Source markup, existing figure captions and delivery reviewed. Local historical object identity checked where replaced or supplemented; no browser playback or rendered mobile inspection."
+    },
+    {
+      "article": "history-morant",
+      "title": "Morant Bay, 1865: freedom without equal power",
+      "before": {
+        "images": 1,
+        "diagrams": 0,
+        "videos": 0,
+        "audio": 0
+      },
+      "newMediaRecords": [
+        "media-existing-11bd5023c775.base64",
+        "source-9"
+      ],
+      "review": "Source markup, existing figure captions and delivery reviewed. Local historical object identity checked where replaced or supplemented; no browser playback or rendered mobile inspection."
+    },
+    {
+      "article": "history-ocho-stann",
+      "title": "Ocho Rios and St. Ann: beyond the resort coastline",
+      "before": {
+        "images": 3,
+        "diagrams": 0,
+        "videos": 0,
+        "audio": 0
+      },
+      "newMediaRecords": [
+        "new-10",
+        "media-existing-3cd0eeb24d64.base64",
+        "media-existing-b83195b9715b.base64",
+        "media-existing-81c682ff4d05.base64"
+      ],
+      "review": "Source markup, existing figure captions and delivery reviewed. Local historical object identity checked where replaced or supplemented; no browser playback or rendered mobile inspection."
+    },
+    {
+      "article": "history-stjames",
+      "title": "St. James: Montego Bay, Sam Sharpe and the hills beyond the airport",
+      "before": {
+        "images": 1,
+        "diagrams": 0,
+        "videos": 0,
+        "audio": 1
+      },
+      "newMediaRecords": [
+        "media-existing-c61be04817e9.base64"
+      ],
+      "review": "Source markup, existing figure captions and delivery reviewed. Local historical object identity checked where replaced or supplemented; no browser playback or rendered mobile inspection."
+    },
+    {
+      "article": "history-stmary-hills",
+      "title": "Into St. Mary’s hills: Woodside, roads, farming and memory",
+      "before": {
+        "images": 2,
+        "diagrams": 0,
+        "videos": 0,
+        "audio": 0
+      },
+      "newMediaRecords": [
+        "media-existing-c18b1703c75b.base64",
+        "source-3"
+      ],
+      "review": "Source markup, existing figure captions and delivery reviewed. Local historical object identity checked where replaced or supplemented; no browser playback or rendered mobile inspection."
+    },
+    {
+      "article": "history-tacky",
+      "title": "1760–61: Tacky’s War was larger than one uprising",
+      "before": {
+        "images": 1,
+        "diagrams": 0,
+        "videos": 0,
+        "audio": 0
+      },
+      "newMediaRecords": [
+        "media-existing-873e547d86f2.base64"
+      ],
+      "review": "Source markup, existing figure captions and delivery reviewed. Local historical object identity checked where replaced or supplemented; no browser playback or rendered mobile inspection."
+    },
+    {
+      "article": "history-trelawny-falmouth",
+      "title": "Trelawny and Falmouth: sugar, a port and the country behind it",
+      "before": {
+        "images": 1,
+        "diagrams": 0,
+        "videos": 0,
+        "audio": 1
+      },
+      "newMediaRecords": [
+        "new-5",
+        "media-existing-944b3a6ed73e.base64"
+      ],
+      "review": "Source markup, existing figure captions and delivery reviewed. Local historical object identity checked where replaced or supplemented; no browser playback or rendered mobile inspection."
+    },
+    {
+      "article": "history-una-marson",
+      "title": "Una Marson: a Jamaican voice shaping the microphone",
+      "before": {
+        "images": 1,
+        "diagrams": 0,
+        "videos": 1,
+        "audio": 0
+      },
+      "newMediaRecords": [],
+      "review": "Source markup, existing figure captions and delivery reviewed. Local historical object identity checked where replaced or supplemented; no browser playback or rendered mobile inspection."
+    },
+    {
+      "article": "history-windrush",
+      "title": "Windrush: the journey, the voices and the lives beyond the gangplank",
+      "before": {
+        "images": 0,
+        "diagrams": 0,
+        "videos": 1,
+        "audio": 0
+      },
+      "newMediaRecords": [
+        "windrush-header"
+      ],
+      "review": "Source markup, existing figure captions and delivery reviewed. Local historical object identity checked where replaced or supplemented; no browser playback or rendered mobile inspection."
+    },
+    {
+      "article": "jamaica-like-local",
+      "title": "Do Jamaica with local knowledge: meals, markets, movement and manners",
+      "before": {
+        "images": 2,
+        "diagrams": 0,
+        "videos": 0,
+        "audio": 0
+      },
+      "newMediaRecords": [],
+      "review": "Source markup, existing figure captions and delivery reviewed. Local historical object identity checked where replaced or supplemented; no browser playback or rendered mobile inspection."
+    },
+    {
+      "article": "jh-1907",
+      "title": "1907: earthquake, coastline and the rebuilding of Jamaica",
+      "before": {
+        "images": 4,
+        "diagrams": 0,
+        "videos": 0,
+        "audio": 0
+      },
+      "newMediaRecords": [
+        "media-existing-405f2435d07e.base64",
+        "media-existing-0f4d03a68052.base64",
+        "media-existing-938bac09ee09.base64"
+      ],
+      "review": "Source markup, existing figure captions and delivery reviewed. Local historical object identity checked where replaced or supplemented; no browser playback or rendered mobile inspection."
+    },
+    {
+      "article": "jh-annotto",
+      "title": "Annotto Bay: A Church, a Sugar Estate and a Working Coast",
+      "before": {
+        "images": 2,
+        "diagrams": 0,
+        "videos": 0,
+        "audio": 0
+      },
+      "newMediaRecords": [
+        "media-existing-cfe7719e9d32.base64"
+      ],
+      "review": "Source markup, existing figure captions and delivery reviewed. Local historical object identity checked where replaced or supplemented; no browser playback or rendered mobile inspection."
+    },
+    {
+      "article": "jh-castleton",
+      "title": "Castleton Gardens: Scientific Beauty and the Colonial Plant Economy",
+      "before": {
+        "images": 4,
+        "diagrams": 0,
+        "videos": 0,
+        "audio": 0
+      },
+      "newMediaRecords": [
+        "media-existing-55578458e8cc.base64",
+        "media-existing-99fdcc61a348.base64",
+        "media-existing-4f9adb895327.base64",
+        "media-existing-0e0e1dca15a0.base64"
+      ],
+      "review": "Source markup, existing figure captions and delivery reviewed. Local historical object identity checked where replaced or supplemented; no browser playback or rendered mobile inspection."
+    },
+    {
+      "article": "jh-highgate",
+      "title": "Highgate, Richmond and the Inland Towns: Where Rural Jamaica Did Business",
+      "before": {
+        "images": 3,
+        "diagrams": 0,
+        "videos": 0,
+        "audio": 0
+      },
+      "newMediaRecords": [
+        "media-existing-873e547d86f2.base64"
+      ],
+      "review": "Source markup, existing figure captions and delivery reviewed. Local historical object identity checked where replaced or supplemented; no browser playback or rendered mobile inspection."
+    },
+    {
+      "article": "jh-oracabessa",
+      "title": "Oracabessa: Before the Celebrity Coast, a Fort and Farming Town",
+      "before": {
+        "images": 4,
+        "diagrams": 0,
+        "videos": 0,
+        "audio": 0
+      },
+      "newMediaRecords": [
+        "new-20",
+        "media-existing-563edfc1a93e.base64",
+        "media-existing-95c73905bdc4.base64",
+        "media-existing-b09072c0c223.base64",
+        "media-existing-7fda213a5183.base64"
+      ],
+      "review": "Source markup, existing figure captions and delivery reviewed. Local historical object identity checked where replaced or supplemented; no browser playback or rendered mobile inspection."
+    },
+    {
+      "article": "jh-port-maria",
+      "title": "Port Maria: The Courthouse Was Never Just a Pretty Building",
+      "before": {
+        "images": 7,
+        "diagrams": 0,
+        "videos": 0,
+        "audio": 0
+      },
+      "newMediaRecords": [
+        "media-existing-b158c98f5727.base64",
+        "media-existing-126621bfe5d1.base64",
+        "media-existing-aa8d61a119dd.base64",
+        "media-existing-8626ce5f5dc4.base64",
+        "media-existing-229907cc89b9.base64",
+        "media-existing-1165c43032fc.base64",
+        "media-existing-968adc1f063a.base64"
+      ],
+      "review": "Source markup, existing figure captions and delivery reviewed. Local historical object identity checked where replaced or supplemented; no browser playback or rendered mobile inspection."
+    },
+    {
+      "article": "jh-stannbay",
+      "title": "St. Ann’s Bay and Ocho Rios: Who Gets Remembered on the North Coast?",
+      "before": {
+        "images": 5,
+        "diagrams": 0,
+        "videos": 0,
+        "audio": 0
+      },
+      "newMediaRecords": [
+        "media-existing-b83195b9715b.base64",
+        "media-existing-81c682ff4d05.base64",
+        "media-existing-ab2380e6c845.base64",
+        "media-existing-9baca00ea417.base64",
+        "media-existing-8473d9bc4bf7.base64"
+      ],
+      "review": "Source markup, existing figure captions and delivery reviewed. Local historical object identity checked where replaced or supplemented; no browser playback or rendered mobile inspection."
+    },
+    {
+      "article": "language-story",
+      "title": "How Jamaica speaks: language, class and the authority of a voice",
+      "before": {
+        "images": 0,
+        "diagrams": 0,
+        "videos": 1,
+        "audio": 1
+      },
+      "newMediaRecords": [],
+      "review": "Source markup, existing figure captions and delivery reviewed. Local historical object identity checked where replaced or supplemented; no browser playback or rendered mobile inspection."
+    },
+    {
+      "article": "legacy-ackendown",
+      "title": "Ackendown: a castle inscription and the people it leaves unnamed",
+      "before": {
+        "images": 1,
+        "diagrams": 0,
+        "videos": 0,
+        "audio": 0
+      },
+      "newMediaRecords": [],
+      "review": "Source markup, existing figure captions and delivery reviewed. Local historical object identity checked where replaced or supplemented; no browser playback or rendered mobile inspection."
+    },
+    {
+      "article": "legacy-bath-jacob",
+      "title": "Bath Fountain: remembering Jacob beyond the discovery story",
+      "before": {
+        "images": 1,
+        "diagrams": 0,
+        "videos": 0,
+        "audio": 0
+      },
+      "newMediaRecords": [
+        "source-1",
+        "source-19"
+      ],
+      "review": "Source markup, existing figure captions and delivery reviewed. Local historical object identity checked where replaced or supplemented; no browser playback or rendered mobile inspection."
+    },
+    {
+      "article": "legacy-daddy-rock",
+      "title": "Daddy Rock, Woodside: bringing enslaved ancestors back into view",
+      "before": {
+        "images": 1,
+        "diagrams": 0,
+        "videos": 0,
+        "audio": 0
+      },
+      "newMediaRecords": [
+        "source-3"
+      ],
+      "review": "Source markup, existing figure captions and delivery reviewed. Local historical object identity checked where replaced or supplemented; no browser playback or rendered mobile inspection."
+    },
+    {
+      "article": "legacy-drax",
+      "title": "Drax Hall: the waterwheel and the workers’ household",
+      "before": {
+        "images": 1,
+        "diagrams": 0,
+        "videos": 0,
+        "audio": 0
+      },
+      "newMediaRecords": [
+        "new-12"
+      ],
+      "review": "Source markup, existing figure captions and delivery reviewed. Local historical object identity checked where replaced or supplemented; no browser playback or rendered mobile inspection."
+    },
+    {
+      "article": "legacy-fairfield",
+      "title": "Fairfield: a mission inherited from the plantation world",
+      "before": {
+        "images": 0,
+        "diagrams": 1,
+        "videos": 0,
+        "audio": 0
+      },
+      "newMediaRecords": [
+        "new-1"
+      ],
+      "review": "Source markup, existing figure captions and delivery reviewed. Local historical object identity checked where replaced or supplemented; no browser playback or rendered mobile inspection."
+    },
+    {
+      "article": "legacy-hellshire",
+      "title": "Hellshire’s refuge landscape: escape and the cost of control",
+      "before": {
+        "images": 0,
+        "diagrams": 1,
+        "videos": 0,
+        "audio": 0
+      },
+      "newMediaRecords": [
+        "source-7",
+        "jamaica-map-1755"
+      ],
+      "review": "Source markup, existing figure captions and delivery reviewed. Local historical object identity checked where replaced or supplemented; no browser playback or rendered mobile inspection."
+    },
+    {
+      "article": "legacy-hibbert",
+      "title": "Hibbert House: the slave trade behind a Kingston landmark",
+      "before": {
+        "images": 0,
+        "diagrams": 1,
+        "videos": 0,
+        "audio": 0
+      },
+      "newMediaRecords": [
+        "new-0",
+        "new-2",
+        "source-0"
+      ],
+      "review": "Source markup, existing figure captions and delivery reviewed. Local historical object identity checked where replaced or supplemented; no browser playback or rendered mobile inspection."
+    },
+    {
+      "article": "legacy-hope",
+      "title": "Hope Aqueduct: water carried into the slavery economy",
+      "before": {
+        "images": 1,
+        "diagrams": 0,
+        "videos": 0,
+        "audio": 0
+      },
+      "newMediaRecords": [
+        "new-8",
+        "source-17",
+        "source-18"
+      ],
+      "review": "Source markup, existing figure captions and delivery reviewed. Local historical object identity checked where replaced or supplemented; no browser playback or rendered mobile inspection."
+    },
+    {
+      "article": "legacy-kromanti",
+      "title": "Kromanti in Moore Town: a living inheritance of resistance",
+      "before": {
+        "images": 1,
+        "diagrams": 0,
+        "videos": 0,
+        "audio": 0
+      },
+      "newMediaRecords": [
+        "source-2",
+        "kromanti-film"
+      ],
+      "review": "Source markup, existing figure captions and delivery reviewed. Local historical object identity checked where replaced or supplemented; no browser playback or rendered mobile inspection."
+    },
+    {
+      "article": "legacy-munro",
+      "title": "Munro’s bequest: slavery wealth carried into education",
+      "before": {
+        "images": 1,
+        "diagrams": 0,
+        "videos": 0,
+        "audio": 0
+      },
+      "newMediaRecords": [
+        "source-6",
+        "source-15",
+        "source-16"
+      ],
+      "review": "Source markup, existing figure captions and delivery reviewed. Local historical object identity checked where replaced or supplemented; no browser playback or rendered mobile inspection."
+    },
+    {
+      "article": "legacy-orange-valley",
+      "title": "Orange Valley hospital: care inside a coercive estate",
+      "before": {
+        "images": 0,
+        "diagrams": 1,
+        "videos": 0,
+        "audio": 0
+      },
+      "newMediaRecords": [
+        "source-14"
+      ],
+      "review": "Source markup, existing figure captions and delivery reviewed. Local historical object identity checked where replaced or supplemented; no browser playback or rendered mobile inspection."
+    },
+    {
+      "article": "legacy-salters",
+      "title": "Salter’s Hill: a church built by enslaved Africans",
+      "before": {
+        "images": 1,
+        "diagrams": 0,
+        "videos": 0,
+        "audio": 0
+      },
+      "newMediaRecords": [
+        "source-4"
+      ],
+      "review": "Source markup, existing figure captions and delivery reviewed. Local historical object identity checked where replaced or supplemented; no browser playback or rendered mobile inspection."
+    },
+    {
+      "article": "legacy-suttons",
+      "title": "Suttons: the plantation name and the memory of resistance",
+      "before": {
+        "images": 0,
+        "diagrams": 1,
+        "videos": 0,
+        "audio": 0
+      },
+      "newMediaRecords": [
+        "jamaica-map-1755"
+      ],
+      "review": "Source markup, existing figure captions and delivery reviewed. Local historical object identity checked where replaced or supplemented; no browser playback or rendered mobile inspection."
+    },
+    {
+      "article": "legacy-tryall",
+      "title": "Tryall’s waterwheel: the work behind an estate landmark",
+      "before": {
+        "images": 1,
+        "diagrams": 0,
+        "videos": 0,
+        "audio": 0
+      },
+      "newMediaRecords": [
+        "source-5",
+        "source-20"
+      ],
+      "review": "Source markup, existing figure captions and delivery reviewed. Local historical object identity checked where replaced or supplemented; no browser playback or rendered mobile inspection."
+    },
+    {
+      "article": "object-banana",
+      "title": "The people inside a banana photograph",
+      "before": {
+        "images": 1,
+        "diagrams": 0,
+        "videos": 0,
+        "audio": 1
+      },
+      "newMediaRecords": [
+        "new-6",
+        "media-existing-c18b1703c75b.base64"
+      ],
+      "review": "Source markup, existing figure captions and delivery reviewed. Local historical object identity checked where replaced or supplemented; no browser playback or rendered mobile inspection."
+    },
+    {
+      "article": "object-independence",
+      "title": "Two dates on one page: the Independence Act, 1962",
+      "before": {
+        "images": 1,
+        "diagrams": 0,
+        "videos": 1,
+        "audio": 0
+      },
+      "newMediaRecords": [],
+      "review": "Source markup, existing figure captions and delivery reviewed. Local historical object identity checked where replaced or supplemented; no browser playback or rendered mobile inspection."
+    },
+    {
+      "article": "object-market",
+      "title": "A market photograph and a song: Linstead, 1891",
+      "before": {
+        "images": 1,
+        "diagrams": 0,
+        "videos": 1,
+        "audio": 0
+      },
+      "newMediaRecords": [
+        "new-16",
+        "media-existing-d71b51b1304a.base64",
+        "source-22"
+      ],
+      "review": "Source markup, existing figure captions and delivery reviewed. Local historical object identity checked where replaced or supplemented; no browser playback or rendered mobile inspection."
+    },
+    {
+      "article": "object-negro-world",
+      "title": "A newspaper made the movement visible: Negro World, 1920",
+      "before": {
+        "images": 1,
+        "diagrams": 0,
+        "videos": 0,
+        "audio": 1
+      },
+      "newMediaRecords": [],
+      "review": "Source markup, existing figure captions and delivery reviewed. Local historical object identity checked where replaced or supplemented; no browser playback or rendered mobile inspection."
+    },
+    {
+      "article": "parish-accompong",
+      "title": "Accompong: read the treaty, hear the community",
+      "before": {
+        "images": 2,
+        "diagrams": 0,
+        "videos": 0,
+        "audio": 0
+      },
+      "newMediaRecords": [
+        "media-existing-cbd5469e53f2.base64"
+      ],
+      "review": "Source markup, existing figure captions and delivery reviewed. Local historical object identity checked where replaced or supplemented; no browser playback or rendered mobile inspection."
+    },
+    {
+      "article": "parish-alley",
+      "title": "Alley: whose names survive in the church?",
+      "before": {
+        "images": 1,
+        "diagrams": 0,
+        "videos": 0,
+        "audio": 0
+      },
+      "newMediaRecords": [],
+      "review": "Source markup, existing figure captions and delivery reviewed. Local historical object identity checked where replaced or supplemented; no browser playback or rendered mobile inspection."
+    },
+    {
+      "article": "parish-bath-gardens",
+      "title": "Bath Gardens: the travelling history of Jamaican food plants",
+      "before": {
+        "images": 1,
+        "diagrams": 0,
+        "videos": 0,
+        "audio": 0
+      },
+      "newMediaRecords": [],
+      "review": "Source markup, existing figure captions and delivery reviewed. Local historical object identity checked where replaced or supplemented; no browser playback or rendered mobile inspection."
+    },
+    {
+      "article": "parish-blackriver",
+      "title": "Black River: read the port in its houses and warehouses",
+      "before": {
+        "images": 1,
+        "diagrams": 0,
+        "videos": 0,
+        "audio": 0
+      },
+      "newMediaRecords": [],
+      "review": "Source markup, existing figure captions and delivery reviewed. Local historical object identity checked where replaced or supplemented; no browser playback or rendered mobile inspection."
+    },
+    {
+      "article": "parish-blenheim",
+      "title": "Blenheim: Bustamante’s beginnings and a reconstructed house",
+      "before": {
+        "images": 1,
+        "diagrams": 0,
+        "videos": 0,
+        "audio": 0
+      },
+      "newMediaRecords": [],
+      "review": "Source markup, existing figure captions and delivery reviewed. Local historical object identity checked where replaced or supplemented; no browser playback or rendered mobile inspection."
+    },
+    {
+      "article": "parish-burchell",
+      "title": "Burchell Memorial: a congregation, an uprising and the work of rebuilding",
+      "before": {
+        "images": 1,
+        "diagrams": 0,
+        "videos": 0,
+        "audio": 0
+      },
+      "newMediaRecords": [
+        "source-4"
+      ],
+      "review": "Source markup, existing figure captions and delivery reviewed. Local historical object identity checked where replaced or supplemented; no browser playback or rendered mobile inspection."
+    },
+    {
+      "article": "parish-chapelton",
+      "title": "Chapelton: a clock, a war memorial and an inland town’s public life",
+      "before": {
+        "images": 1,
+        "diagrams": 0,
+        "videos": 0,
+        "audio": 0
+      },
+      "newMediaRecords": [],
+      "review": "Source markup, existing figure captions and delivery reviewed. Local historical object identity checked where replaced or supplemented; no browser playback or rendered mobile inspection."
+    },
+    {
+      "article": "parish-cinchona",
+      "title": "Cinchona: the mountain garden built to test an agricultural future",
+      "before": {
+        "images": 1,
+        "diagrams": 0,
+        "videos": 0,
+        "audio": 0
+      },
+      "newMediaRecords": [
+        "new-14"
+      ],
+      "review": "Source markup, existing figure captions and delivery reviewed. Local historical object identity checked where replaced or supplemented; no browser playback or rendered mobile inspection."
+    },
+    {
+      "article": "parish-devon",
+      "title": "Devon House: wealth, household work and the public landmark",
+      "before": {
+        "images": 1,
+        "diagrams": 0,
+        "videos": 0,
+        "audio": 0
+      },
+      "newMediaRecords": [],
+      "review": "Source markup, existing figure captions and delivery reviewed. Local historical object identity checked where replaced or supplemented; no browser playback or rendered mobile inspection."
+    },
+    {
+      "article": "parish-flatbridge",
+      "title": "Flat Bridge: the road, the river and the labour beneath the landmark",
+      "before": {
+        "images": 1,
+        "diagrams": 0,
+        "videos": 0,
+        "audio": 0
+      },
+      "newMediaRecords": [
+        "new-18"
+      ],
+      "review": "Source markup, existing figure captions and delivery reviewed. Local historical object identity checked where replaced or supplemented; no browser playback or rendered mobile inspection."
+    },
+    {
+      "article": "parish-folly",
+      "title": "Folly: the mansion, the lighthouse and a story that outlived the evidence",
+      "before": {
+        "images": 1,
+        "diagrams": 0,
+        "videos": 0,
+        "audio": 0
+      },
+      "newMediaRecords": [
+        "new-4"
+      ],
+      "review": "Source markup, existing figure captions and delivery reviewed. Local historical object identity checked where replaced or supplemented; no browser playback or rendered mobile inspection."
+    },
+    {
+      "article": "parish-fortcharlotte",
+      "title": "Fort Charlotte: Lucea’s harbour, guns and a landscape that changed purpose",
+      "before": {
+        "images": 1,
+        "diagrams": 0,
+        "videos": 0,
+        "audio": 0
+      },
+      "newMediaRecords": [],
+      "review": "Source markup, existing figure captions and delivery reviewed. Local historical object identity checked where replaced or supplemented; no browser playback or rendered mobile inspection."
+    },
+    {
+      "article": "parish-fourpaths",
+      "title": "Four Paths: railway work, a station house and the wider Clarendon network",
+      "before": {
+        "images": 1,
+        "diagrams": 0,
+        "videos": 0,
+        "audio": 0
+      },
+      "newMediaRecords": [],
+      "review": "Source markup, existing figure captions and delivery reviewed. Local historical object identity checked where replaced or supplemented; no browser playback or rendered mobile inspection."
+    },
+    {
+      "article": "parish-frome",
+      "title": "Frome, 1938: the factory, the wages and the official story",
+      "before": {
+        "images": 1,
+        "diagrams": 0,
+        "videos": 0,
+        "audio": 0
+      },
+      "newMediaRecords": [],
+      "review": "Source markup, existing figure captions and delivery reviewed. Local historical object identity checked where replaced or supplemented; no browser playback or rendered mobile inspection."
+    },
+    {
+      "article": "parish-goodhope",
+      "title": "Good Hope: the village and works behind the great-house view",
+      "before": {
+        "images": 2,
+        "diagrams": 0,
+        "videos": 0,
+        "audio": 0
+      },
+      "newMediaRecords": [
+        "new-13",
+        "source-11"
+      ],
+      "review": "Source markup, existing figure captions and delivery reviewed. Local historical object identity checked where replaced or supplemented; no browser playback or rendered mobile inspection."
+    },
+    {
+      "article": "parish-halsehall",
+      "title": "Halse Hall: a house that changed as property became power",
+      "before": {
+        "images": 1,
+        "diagrams": 0,
+        "videos": 0,
+        "audio": 0
+      },
+      "newMediaRecords": [],
+      "review": "Source markup, existing figure captions and delivery reviewed. Local historical object identity checked where replaced or supplemented; no browser playback or rendered mobile inspection."
+    },
+    {
+      "article": "parish-kendal",
+      "title": "Kendal, 1957: a journey, a disaster and the work of remembrance",
+      "before": {
+        "images": 1,
+        "diagrams": 0,
+        "videos": 0,
+        "audio": 0
+      },
+      "newMediaRecords": [],
+      "review": "Source markup, existing figure captions and delivery reviewed. Local historical object identity checked where replaced or supplemented; no browser playback or rendered mobile inspection."
+    },
+    {
+      "article": "parish-kenilworth",
+      "title": "Kenilworth: the sugar works behind the great-house view",
+      "before": {
+        "images": 1,
+        "diagrams": 0,
+        "videos": 0,
+        "audio": 0
+      },
+      "newMediaRecords": [],
+      "review": "Source markup, existing figure captions and delivery reviewed. Local historical object identity checked where replaced or supplemented; no browser playback or rendered mobile inspection."
+    },
+    {
+      "article": "parish-kingston-rail",
+      "title": "Kingston railway station: the city facing its tracks",
+      "before": {
+        "images": 1,
+        "diagrams": 0,
+        "videos": 0,
+        "audio": 0
+      },
+      "newMediaRecords": [],
+      "review": "Source markup, existing figure captions and delivery reviewed. Local historical object identity checked where replaced or supplemented; no browser playback or rendered mobile inspection."
+    },
+    {
+      "article": "parish-kumina",
+      "title": "Kumina in St. Thomas: ancestry, community and the work of listening",
+      "before": {
+        "images": 0,
+        "diagrams": 0,
+        "videos": 1,
+        "audio": 1
+      },
+      "newMediaRecords": [
+        "source-21"
+      ],
+      "review": "Source markup, existing figure captions and delivery reviewed. Local historical object identity checked where replaced or supplemented; no browser playback or rendered mobile inspection."
+    },
+    {
+      "article": "parish-lacovia",
+      "title": "Lacovia: an earlier capital, two stones and a story that needs testing",
+      "before": {
+        "images": 1,
+        "diagrams": 0,
+        "videos": 0,
+        "audio": 0
+      },
+      "newMediaRecords": [
+        "new-17"
+      ],
+      "review": "Source markup, existing figure captions and delivery reviewed. Local historical object identity checked where replaced or supplemented; no browser playback or rendered mobile inspection."
+    },
+    {
+      "article": "parish-libertyhall",
+      "title": "Liberty Hall: owning a place for Black public life",
+      "before": {
+        "images": 1,
+        "diagrams": 0,
+        "videos": 0,
+        "audio": 1
+      },
+      "newMediaRecords": [],
+      "review": "Source markup, existing figure captions and delivery reviewed. Local historical object identity checked where replaced or supplemented; no browser playback or rendered mobile inspection."
+    },
+    {
+      "article": "parish-lucea",
+      "title": "Lucea: a harbour, a fort and a museum made from confinement",
+      "before": {
+        "images": 1,
+        "diagrams": 0,
+        "videos": 0,
+        "audio": 0
+      },
+      "newMediaRecords": [],
+      "review": "Source markup, existing figure captions and delivery reviewed. Local historical object identity checked where replaced or supplemented; no browser playback or rendered mobile inspection."
+    },
+    {
+      "article": "parish-maidstone",
+      "title": "Maidstone: freedom bought in instalments",
+      "before": {
+        "images": 1,
+        "diagrams": 0,
+        "videos": 0,
+        "audio": 0
+      },
+      "newMediaRecords": [],
+      "review": "Source markup, existing figure captions and delivery reviewed. Local historical object identity checked where replaced or supplemented; no browser playback or rendered mobile inspection."
+    },
+    {
+      "article": "parish-mandeville",
+      "title": "Mandeville courthouse: who built the house of justice?",
+      "before": {
+        "images": 1,
+        "diagrams": 0,
+        "videos": 0,
+        "audio": 0
+      },
+      "newMediaRecords": [
+        "new-16"
+      ],
+      "review": "Source markup, existing figure captions and delivery reviewed. Local historical object identity checked where replaced or supplemented; no browser playback or rendered mobile inspection."
+    },
+    {
+      "article": "parish-marshallspen",
+      "title": "Marshall’s Pen: coffee work, household yards and a birding landscape",
+      "before": {
+        "images": 2,
+        "diagrams": 0,
+        "videos": 0,
+        "audio": 0
+      },
+      "newMediaRecords": [],
+      "review": "Source markup, existing figure captions and delivery reviewed. Local historical object identity checked where replaced or supplemented; no browser playback or rendered mobile inspection."
+    },
+    {
+      "article": "parish-masonriver",
+      "title": "Mason River: a border community and the history of protecting an inland wetland",
+      "before": {
+        "images": 1,
+        "diagrams": 0,
+        "videos": 0,
+        "audio": 0
+      },
+      "newMediaRecords": [
+        "source-10"
+      ],
+      "review": "Source markup, existing figure captions and delivery reviewed. Local historical object identity checked where replaced or supplemented; no browser playback or rendered mobile inspection."
+    },
+    {
+      "article": "parish-mckay",
+      "title": "Claude McKay: Clarendon’s fields inside an international literary life",
+      "before": {
+        "images": 1,
+        "diagrams": 0,
+        "videos": 0,
+        "audio": 0
+      },
+      "newMediaRecords": [],
+      "review": "Source markup, existing figure captions and delivery reviewed. Local historical object identity checked where replaced or supplemented; no browser playback or rendered mobile inspection."
+    },
+    {
+      "article": "parish-milkriver",
+      "title": "Milk River: a public bath, an inherited story and the business of visiting",
+      "before": {
+        "images": 1,
+        "diagrams": 0,
+        "videos": 0,
+        "audio": 0
+      },
+      "newMediaRecords": [
+        "new-3"
+      ],
+      "review": "Source markup, existing figure captions and delivery reviewed. Local historical object identity checked where replaced or supplemented; no browser playback or rendered mobile inspection."
+    },
+    {
+      "article": "parish-mona",
+      "title": "Mona: plantation water, wartime shelter and the making of a university",
+      "before": {
+        "images": 2,
+        "diagrams": 0,
+        "videos": 0,
+        "audio": 0
+      },
+      "newMediaRecords": [],
+      "review": "Source markup, existing figure captions and delivery reviewed. Local historical object identity checked where replaced or supplemented; no browser playback or rendered mobile inspection."
+    },
+    {
+      "article": "parish-mooretown",
+      "title": "Moore Town: a living Maroon community, heard on its own terms",
+      "before": {
+        "images": 1,
+        "diagrams": 0,
+        "videos": 0,
+        "audio": 0
+      },
+      "newMediaRecords": [
+        "new-19",
+        "source-2"
+      ],
+      "review": "Source markup, existing figure captions and delivery reviewed. Local historical object identity checked where replaced or supplemented; no browser playback or rendered mobile inspection."
+    },
+    {
+      "article": "parish-morantpoint",
+      "title": "Morant Point: an iron lighthouse and the people behind the landmark",
+      "before": {
+        "images": 1,
+        "diagrams": 0,
+        "videos": 0,
+        "audio": 0
+      },
+      "newMediaRecords": [],
+      "review": "Source markup, existing figure captions and delivery reviewed. Local historical object identity checked where replaced or supplemented; no browser playback or rendered mobile inspection."
+    },
+    {
+      "article": "parish-roxborough",
+      "title": "Roxborough: the birthplace and the history made around it",
+      "before": {
+        "images": 1,
+        "diagrams": 0,
+        "videos": 0,
+        "audio": 0
+      },
+      "newMediaRecords": [],
+      "review": "Source markup, existing figure captions and delivery reviewed. Local historical object identity checked where replaced or supplemented; no browser playback or rendered mobile inspection."
+    },
+    {
+      "article": "parish-samsharpe",
+      "title": "Sam Sharpe Square: judgment, confinement and remembrance",
+      "before": {
+        "images": 1,
+        "diagrams": 0,
+        "videos": 0,
+        "audio": 0
+      },
+      "newMediaRecords": [
+        "source-4"
+      ],
+      "review": "Source markup, existing figure captions and delivery reviewed. Local historical object identity checked where replaced or supplemented; no browser playback or rendered mobile inspection."
+    },
+    {
+      "article": "parish-savannalamar",
+      "title": "Savanna-la-Mar: an unfinished fort in a town repeatedly rebuilt",
+      "before": {
+        "images": 1,
+        "diagrams": 0,
+        "videos": 0,
+        "audio": 0
+      },
+      "newMediaRecords": [],
+      "review": "Source markup, existing figure captions and delivery reviewed. Local historical object identity checked where replaced or supplemented; no browser playback or rendered mobile inspection."
+    },
+    {
+      "article": "parish-seaford",
+      "title": "Seaford Town: migration inside the emancipation story",
+      "before": {
+        "images": 1,
+        "diagrams": 0,
+        "videos": 0,
+        "audio": 0
+      },
+      "newMediaRecords": [],
+      "review": "Source markup, existing figure captions and delivery reviewed. Local historical object identity checked where replaced or supplemented; no browser playback or rendered mobile inspection."
+    },
+    {
+      "article": "parish-sligoville",
+      "title": "Sligoville: buying land before apprenticeship ended",
+      "before": {
+        "images": 1,
+        "diagrams": 0,
+        "videos": 0,
+        "audio": 0
+      },
+      "newMediaRecords": [],
+      "review": "Source markup, existing figure captions and delivery reviewed. Local historical object identity checked where replaced or supplemented; no browser playback or rendered mobile inspection."
+    },
+    {
+      "article": "parish-spanishtown",
+      "title": "Spanish Town’s square: government, emancipation and the memory of empire",
+      "before": {
+        "images": 1,
+        "diagrams": 0,
+        "videos": 0,
+        "audio": 0
+      },
+      "newMediaRecords": [],
+      "review": "Source markup, existing figure captions and delivery reviewed. Local historical object identity checked where replaced or supplemented; no browser playback or rendered mobile inspection."
+    },
+    {
+      "article": "parish-stokeshall",
+      "title": "Stokes Hall: fortified walls, an uncertain builder and a long colonial shadow",
+      "before": {
+        "images": 1,
+        "diagrams": 0,
+        "videos": 0,
+        "audio": 0
+      },
+      "newMediaRecords": [],
+      "review": "Source markup, existing figure captions and delivery reviewed. Local historical object identity checked where replaced or supplemented; no browser playback or rendered mobile inspection."
+    },
+    {
+      "article": "parish-stonygut",
+      "title": "Stony Gut: the village behind Paul Bogle’s public life",
+      "before": {
+        "images": 1,
+        "diagrams": 0,
+        "videos": 0,
+        "audio": 0
+      },
+      "newMediaRecords": [
+        "source-9"
+      ],
+      "review": "Source markup, existing figure captions and delivery reviewed. Local historical object identity checked where replaced or supplemented; no browser playback or rendered mobile inspection."
+    },
+    {
+      "article": "parish-titchfield",
+      "title": "Titchfield: houses between two harbours",
+      "before": {
+        "images": 1,
+        "diagrams": 0,
+        "videos": 0,
+        "audio": 0
+      },
+      "newMediaRecords": [
+        "new-6"
+      ],
+      "review": "Source markup, existing figure captions and delivery reviewed. Local historical object identity checked where replaced or supplemented; no browser playback or rendered mobile inspection."
+    },
+    {
+      "article": "parish-ward",
+      "title": "Ward Theatre: the city learned to see itself on stage",
+      "before": {
+        "images": 1,
+        "diagrams": 0,
+        "videos": 0,
+        "audio": 0
+      },
+      "newMediaRecords": [],
+      "review": "Source markup, existing figure captions and delivery reviewed. Local historical object identity checked where replaced or supplemented; no browser playback or rendered mobile inspection."
+    },
+    {
+      "article": "parish-yallahs",
+      "title": "Yallahs: the river landscape behind the city’s water",
+      "before": {
+        "images": 0,
+        "diagrams": 1,
+        "videos": 0,
+        "audio": 0
+      },
+      "newMediaRecords": [
+        "new-11",
+        "yallahs-1988",
+        "source-8"
+      ],
+      "review": "Source markup, existing figure captions and delivery reviewed. Local historical object identity checked where replaced or supplemented; no browser playback or rendered mobile inspection."
+    },
+    {
+      "article": "read-barclay",
+      "title": "A. A. Barclay: the land, the bank and the banana ships",
+      "before": {
+        "images": 2,
+        "diagrams": 0,
+        "videos": 0,
+        "audio": 0
+      },
+      "newMediaRecords": [],
+      "review": "Source markup, existing figure captions and delivery reviewed. Local historical object identity checked where replaced or supplemented; no browser playback or rendered mobile inspection."
+    },
+    {
+      "article": "read-church",
+      "title": "Church, colony and congregation: who held religious power in Jamaica?",
+      "before": {
+        "images": 4,
+        "diagrams": 0,
+        "videos": 0,
+        "audio": 0
+      },
+      "newMediaRecords": [
+        "new-15",
+        "media-existing-873e547d86f2.base64",
+        "media-existing-ba39c9f586f9.base64",
+        "media-existing-5864d19b03c2.base64",
+        "media-existing-ff96c2fdbba1.base64"
+      ],
+      "review": "Source markup, existing figure captions and delivery reviewed. Local historical object identity checked where replaced or supplemented; no browser playback or rendered mobile inspection."
+    },
+    {
+      "article": "read-court",
+      "title": "St. Ann’s slave court: the plantation economy on trial, through the colony’s own pen",
+      "before": {
+        "images": 1,
+        "diagrams": 0,
+        "videos": 0,
+        "audio": 0
+      },
+      "newMediaRecords": [
+        "media-existing-ab2380e6c845.base64"
+      ],
+      "review": "Source markup, existing figure captions and delivery reviewed. Local historical object identity checked where replaced or supplemented; no browser playback or rendered mobile inspection."
+    },
+    {
+      "article": "read-culture",
+      "title": "Jamaican culture is social history you can hear",
+      "before": {
+        "images": 2,
+        "diagrams": 0,
+        "videos": 1,
+        "audio": 0
+      },
+      "newMediaRecords": [
+        "media-existing-46a26c63f4e3.base64",
+        "media-existing-2b251bb957ef.base64",
+        "sound-system-2009"
+      ],
+      "review": "Source markup, existing figure captions and delivery reviewed. Local historical object identity checked where replaced or supplemented; no browser playback or rendered mobile inspection."
+    },
+    {
+      "article": "read-garvey",
+      "title": "Marcus Garvey: from St. Ann’s Bay to a worldwide movement",
+      "before": {
+        "images": 1,
+        "diagrams": 0,
+        "videos": 1,
+        "audio": 1
+      },
+      "newMediaRecords": [
+        "media-existing-8f0de36d9114.base64"
+      ],
+      "review": "Source markup, existing figure captions and delivery reviewed. Local historical object identity checked where replaced or supplemented; no browser playback or rendered mobile inspection."
+    },
+    {
+      "article": "read-maroon",
+      "title": "The Maroon treaty: freedom negotiated inside a slave colony",
+      "before": {
+        "images": 1,
+        "diagrams": 0,
+        "videos": 2,
+        "audio": 0
+      },
+      "newMediaRecords": [
+        "media-existing-3237123871de.base64"
+      ],
+      "review": "Source markup, existing figure captions and delivery reviewed. Local historical object identity checked where replaced or supplemented; no browser playback or rendered mobile inspection."
+    },
+    {
+      "article": "read-names",
+      "title": "Two family histories inside the estate record: Kidston, land and the people held in slavery",
+      "before": {
+        "images": 1,
+        "diagrams": 0,
+        "videos": 0,
+        "audio": 0
+      },
+      "newMediaRecords": [
+        "media-existing-873e547d86f2.base64"
+      ],
+      "review": "Source markup, existing figure captions and delivery reviewed. Local historical object identity checked where replaced or supplemented; no browser playback or rendered mobile inspection."
+    },
+    {
+      "article": "read-seville",
+      "title": "Seville: Indigenous settlement, colonial conquest and the homes behind the great house",
+      "before": {
+        "images": 1,
+        "diagrams": 0,
+        "videos": 1,
+        "audio": 0
+      },
+      "newMediaRecords": [
+        "media-existing-3cd0eeb24d64.base64",
+        "source-11"
+      ],
+      "review": "Source markup, existing figure captions and delivery reviewed. Local historical object identity checked where replaced or supplemented; no browser playback or rendered mobile inspection."
+    },
+    {
+      "article": "read-town",
+      "title": "Before the resort coast: land, estates and the towns on Jamaica’s maps",
+      "before": {
+        "images": 3,
+        "diagrams": 0,
+        "videos": 0,
+        "audio": 0
+      },
+      "newMediaRecords": [
+        "media-existing-ab2380e6c845.base64",
+        "media-existing-d2f35a11741e.base64",
+        "media-existing-e53b6d9b2cdf.base64"
+      ],
+      "review": "Source markup, existing figure captions and delivery reviewed. Local historical object identity checked where replaced or supplemented; no browser playback or rendered mobile inspection."
+    },
+    {
+      "article": "read-villages",
+      "title": "After emancipation: how land made freedom more usable",
+      "before": {
+        "images": 1,
+        "diagrams": 0,
+        "videos": 0,
+        "audio": 0
+      },
+      "newMediaRecords": [
+        "media-existing-ab2380e6c845.base64"
+      ],
+      "review": "Source markup, existing figure captions and delivery reviewed. Local historical object identity checked where replaced or supplemented; no browser playback or rendered mobile inspection."
+    }
+  ],
+  "unresolved": [
+    "Existing JNHT reproductions retain unresolved permission status from the published collection.",
+    "NLJ/UCF and noncommercial Flickr material added as outbound links, not reproduced.",
+    "Facebook/Pinterest may require login. JIS and UNESCO sometimes block automated requests; these links are not certified playback.",
+    "Some archive dates and precise filming localities remain unspecified and are visibly labelled.",
+    "Existing archive public-domain labels were retained; no legal adjudication of every historical photographer’s rights.",
+    "Fifteen articles per parish programme remains incomplete."
+  ],
+  "rejectedCandidates": [
+    {
+      "subject": "Orange Valley cane workers, St. Ann",
+      "reason": "Different estate and parish from Orange Valley hospital, Trelawny; not used in hospital story."
+    },
+    {
+      "subject": "Fairfield Moravian Settlement, England",
+      "reason": "Different country; not used as Jamaican mission."
+    },
+    {
+      "subject": "Woodside Taíno carving",
+      "reason": "Not Daddy Rock; not used as ancestral plaques."
+    },
+    {
+      "subject": "J.W. Cleary earthquake refugees",
+      "reason": "Title says 1907 but extracted Commons date metadata says circa 1930; not newly reproduced pending reconciliation."
+    }
+  ],
+  "discoveryLeads": [
+    {
+      "url": "https://www.pinterest.com/pin/459296862016106736/",
+      "role": "1891 photo-collection discovery link; not treated as primary evidence or a licence."
+    },
+    {
+      "url": "https://www.flickr.com/photos/caribbeanphotoarchive/albums/72157627362611441/",
+      "role": "James Johnston historic photograph album; each selected item retains its Commons/original record."
+    }
+  ],
+  "providerAvailabilityChecks": [
+    {
+      "id": "cjKsRGgUa-c",
+      "status": 200,
+      "title": "Hello! West Indies (1943)",
+      "publisher": "BFI"
+    },
+    {
+      "id": "QDH4IBeZF-M",
+      "status": 200,
+      "title": "Pathe Reporter Meets (1948)",
+      "publisher": "British Pathé"
+    },
+    {
+      "id": "fbD1lwWHgFs",
+      "status": 200,
+      "title": "JIS TV |Emancipation Jubilee at the Seville Heritage Park in St. Ann",
+      "publisher": "Jamaica Information Service"
+    },
+    {
+      "id": "G3xW808tdJE",
+      "status": 200,
+      "title": "The Maroon Heritage of Moore Town",
+      "publisher": "UNESCO"
+    },
+    {
+      "id": "EVxV1cR0Ogg",
+      "status": 200,
+      "title": "Kumina - JIS",
+      "publisher": "Jamaica Information Service"
+    },
+    {
+      "id": "UhHm6WaP0ls",
+      "status": 200,
+      "title": "Marcus Garvey 128th Birthday Celebration - August 21, 2015",
+      "publisher": "Jamaica Information Service"
+    },
+    {
+      "id": "TBKoDaR12UQ",
+      "status": 200,
+      "title": "The Kromanti Language of the Jamaican Maroons (Final edit)",
+      "publisher": "jamaicanlanguageunit"
+    },
+    {
+      "id": "Un9Jbb4V5J4",
+      "status": 200,
+      "title": "A Popular Djembe Rhythm, \"Burru\" with Joakim Lartey @ Tribal Rhyhtm Gathering 2018",
+      "publisher": "Didge Project"
+    },
+    {
+      "id": "HL9JTlYJefk",
+      "status": 200,
+      "title": "Jamaica Traditional Folk Form Dinki Mini",
+      "publisher": "Jamaica Information Service"
+    },
+    {
+      "id": "9sRP-HgeNaI",
+      "status": 200,
+      "title": "Joakim Lartey and Jamiles Lartey playing Burru",
+      "publisher": "Joakim Lartey"
+    },
+    {
+      "id": "oQ3WfgEoLbw",
+      "status": 200,
+      "title": "Jamaica Traditional Folk Forms Quadrille & Maypole",
+      "publisher": "Jamaica Information Service"
+    },
+    {
+      "id": "R0apj4Rybb4",
+      "status": 200,
+      "title": "Jamaican Revival in Watt Town",
+      "publisher": "Aston Cooke"
+    },
+    {
+      "id": "Kd5mRlmrxNI",
+      "status": 200,
+      "title": "An Interview with Professor Silvia Kouwenburg",
+      "publisher": "UWI MonaMedia"
+    },
+    {
+      "id": "RJFD_YKJ5-o",
+      "status": 200,
+      "title": "Rukumbine",
+      "publisher": "JollyBoysMusic"
+    },
+    {
+      "id": "BzAZ7v1z-8o",
+      "status": 200,
+      "title": "Jamaican Independence (1962)",
+      "publisher": "British Pathé"
+    },
+    {
+      "kind": "audio",
+      "url": "https://folkways-media.si.edu/audio/samples/folkways/FW04533/FW04533_04.mp3",
+      "status": 206,
+      "type": "audio/mpeg",
+      "bytes": 1024
+    },
+    {
+      "kind": "audio",
+      "url": "https://folkways-media.si.edu/audio/samples/folkways/FW04602/FW04602_1_15.mp3",
+      "status": 206,
+      "type": "audio/mpeg",
+      "bytes": 1024
+    },
+    {
+      "kind": "audio",
+      "url": "https://folkways-media.si.edu/audio/samples/folkways/FW04232/FW04232_01.mp3",
+      "status": 206,
+      "type": "audio/mpeg",
+      "bytes": 1024
+    },
+    {
+      "kind": "audio",
+      "url": "https://folkways-media.si.edu/audio/samples/folkways/FW04232/FW04232_09.mp3",
+      "status": 206,
+      "type": "audio/mpeg",
+      "bytes": 1024
+    },
+    {
+      "kind": "audio",
+      "url": "https://folkways-media.si.edu/audio/samples/folkways/FW04461/FW04461_15.mp3",
+      "status": 206,
+      "type": "audio/mpeg",
+      "bytes": 1024
+    },
+    {
+      "kind": "audio",
+      "url": "https://folkways-media.si.edu/audio/samples/folkways/FW04453/FW04453_14.mp3",
+      "status": 206,
+      "type": "audio/mpeg",
+      "bytes": 1024
+    },
+    {
+      "kind": "audio",
+      "url": "https://folkways-media.si.edu/audio/samples/folkways/FW04232/FW04232_05.mp3",
+      "status": 206,
+      "type": "audio/mpeg",
+      "bytes": 1024
+    },
+    {
+      "kind": "audio",
+      "url": "https://mads.si.edu/mads/id/NMNH-sinaa_2008-22_cassidy_sr_side_7a-000001/NMNH-sinaa_2008-22_cassidy_sr_side_7a-000001.mp3",
+      "status": 206,
+      "type": "audio/mpeg",
+      "bytes": 1024
+    },
+    {
+      "kind": "audio",
+      "url": "https://mads.si.edu/mads/id/NMNH-sinaa_2008-22_cassidy_sr_side_2b/NMNH-sinaa_2008-22_cassidy_sr_side_2b.mp3",
+      "status": 206,
+      "type": "audio/mpeg",
+      "bytes": 1024
+    },
+    {
+      "kind": "audio",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/7/7c/Marcus_Garvey%2C_speech%2C_1921.ogg",
+      "status": 206,
+      "type": "application/ogg",
+      "bytes": 1024
+    },
+    {
+      "kind": "audio",
+      "url": "https://jis.gov.jm/media/2024/02/REGGAE-SOUND-SYSTEM-Pt-1-20240209-AS.mp3",
+      "status": 206,
+      "type": "audio/mpeg",
+      "bytes": 1024
+    }
+  ],
+  "providerCheckMeaning": "15 unique YouTube publisher oEmbed records returned HTTP200; 11 unique direct audio URLs returned audio data. These are availability/identity checks, not proof of audible playback or embeddability in every visitor browser."
+}
