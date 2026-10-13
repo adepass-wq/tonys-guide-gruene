@@ -1,0 +1,313 @@
+{
+  "review_date": "2026-10-13",
+  "base_staging_commit": "9cda33ced61cb48117a0dc07da641aa084a49fa9",
+  "publication": "not published",
+  "articles": [
+    {
+      "id": "legacy-hibbert",
+      "parish": "Kingston",
+      "title": "Hibbert House: the slave trade behind a Kingston landmark",
+      "sources": [
+        [
+          "JNHT: Headquarters House",
+          "https://www.jnht.com/headquarters_house.php"
+        ],
+        [
+          "Scholarly study: Slaves and Slavery in Kingston, 1770–1815",
+          "https://www.cambridge.org/core/journals/international-review-of-social-history/article/slaves-and-slavery-in-kingston-17701815/A7E958558A63A7DC296C3892960B09ED"
+        ]
+      ],
+      "asset": null,
+      "caption": null,
+      "image_rights": "Original editorial SVG; no third-party image reproduced. Orange Valley archival photograph is linked only."
+    },
+    {
+      "id": "legacy-hope",
+      "parish": "St. Andrew",
+      "title": "Hope Aqueduct: water carried into the slavery economy",
+      "sources": [
+        [
+          "JNHT: Hope Aqueduct",
+          "https://www.jnht.com/site_hope_aqueduct.php"
+        ],
+        [
+          "JNHT: Sugar Works",
+          "https://jnht.com/sugar_works.php"
+        ]
+      ],
+      "asset": "andrew",
+      "caption": "Hope Aqueduct, St. Andrew, in JNHT’s later photograph. Maker and capture date unspecified. The plaque’s historical date is not the photograph’s date.",
+      "image_rights": "JNHT photograph: no open licence or permission grant established; resolve before public reproduction."
+    },
+    {
+      "id": "legacy-bath-jacob",
+      "parish": "St. Thomas",
+      "title": "Bath Fountain: remembering Jacob beyond the discovery story",
+      "sources": [
+        [
+          "Ministry of Tourism: Bath Fountain Hotel",
+          "https://www.mot.gov.jm/agency/bath-fountain-hotel"
+        ],
+        [
+          "JN Foundation: History of St. Thomas",
+          "https://www.parishhistoriesofjamaica.org/wp-content/uploads/2017/06/A-HISTORY-OF-ST.THOMAS-PARISH-HISTORYPROJECT-JN-FOUNDATION.pdf"
+        ],
+        [
+          "JNHT: Bath Mineral Spa",
+          "https://jnht.com/site_bath_mineral_spa.php"
+        ]
+      ],
+      "asset": "thomas",
+      "caption": "Bath Mineral Spa buildings, St. Thomas, in JNHT’s later photograph. Maker and capture date unspecified. These are not structures photographed during Jacob’s lifetime.",
+      "image_rights": "JNHT photograph: no open licence or permission grant established; resolve before public reproduction."
+    },
+    {
+      "id": "legacy-kromanti",
+      "parish": "Portland",
+      "title": "Kromanti in Moore Town: a living inheritance of resistance",
+      "sources": [
+        [
+          "UNESCO: Maroon heritage of Moore Town",
+          "https://ich.unesco.org/en/RL/maroon-heritage-of-moore-town-00053"
+        ],
+        [
+          "UNESCO: Blue and John Crow Mountains",
+          "https://www.unesco.org/en/articles/blue-and-john-crow-mountains-jamaica"
+        ],
+        [
+          "UNESCO: safeguarding action plan, 2005–2008",
+          "https://ich.unesco.org/en/projects/action-plan-for-safeguarding-the-maroon-heritage-of-moore-town-00058"
+        ]
+      ],
+      "asset": "existing:parish-moore_town",
+      "caption": "Moore Town, Portland: later Nanny memorial in JNHT’s source photograph. Maker and capture date unspecified. This monument is not an image of a Kromanti ceremony.",
+      "image_rights": "JNHT photograph: no open licence or permission grant established; resolve before public reproduction."
+    },
+    {
+      "id": "legacy-daddy-rock",
+      "parish": "St. Mary",
+      "title": "Daddy Rock, Woodside: bringing enslaved ancestors back into view",
+      "sources": [
+        [
+          "JNHT: Woodside, including Daddy Rock and 1817 returns",
+          "https://www.jnht.com/site_woodside.php"
+        ],
+        [
+          "Erna Brodber: Woodside, Pear Tree Grove P.O., book record",
+          "https://books.google.com/books/about/Woodside_Pear_Tree_Grove_P_O.html?id=fumNByuLk7gC"
+        ],
+        [
+          "2012 account: Establishing Blackspace in Woodside",
+          "https://iandiyanola.wordpress.com/2012/08/27/establishing-blackspace-emancipation-in-woodside-st-marysja/"
+        ]
+      ],
+      "asset": "mary",
+      "caption": "St. Gabriel’s Anglican Church, Woodside, St. Mary, in JNHT’s later photograph. This is the church associated with the former plantation house, not Daddy Rock or Taíno rock art. Maker and capture date unspecified.",
+      "image_rights": "JNHT photograph: no open licence or permission grant established; resolve before public reproduction."
+    },
+    {
+      "id": "legacy-drax",
+      "parish": "St. Ann",
+      "title": "Drax Hall: the waterwheel and the workers’ household",
+      "sources": [
+        [
+          "JNHT: Drax Hall Waterwheel",
+          "https://www.jnht.com/site_drax_hall_waterwheel.php"
+        ],
+        [
+          "Armstrong: The Old Village and the Great House, bibliographic record",
+          "https://search.worldcat.org/title/19555645"
+        ],
+        [
+          "DAACS: Seville House 16, comparison site",
+          "https://www.daacs.org/sites/seville-house-16/"
+        ]
+      ],
+      "asset": "ann",
+      "caption": "Drax Hall waterwheel, St. Ann, in JNHT’s later photograph. Maker and capture date unspecified. This is a surviving industrial feature, not a photograph of work during slavery.",
+      "image_rights": "JNHT photograph: no open licence or permission grant established; resolve before public reproduction."
+    },
+    {
+      "id": "legacy-orange-valley",
+      "parish": "Trelawny",
+      "title": "Orange Valley hospital: care inside a coercive estate",
+      "sources": [
+        [
+          "NLJ: Orange Valley hospital photograph, Brian J. Hudson, 1970",
+          "https://nljdigital.nlj.gov.jm/items/show/5510"
+        ],
+        [
+          "Archaeological study: Finding the Forgotten at Orange Valley",
+          "https://www.researchgate.net/publication/358087974_Not_Unmindful_of_the_Unfortunate_Finding_the_Forgotten_through_Archaeology_at_the_Orange_Valley_Hospital_for_the_Enslaved"
+        ],
+        [
+          "Monmouth University: Orange Valley research, Fall 2016 magazine",
+          "https://www.monmouth.edu/magazine/wp-content/uploads/sites/7/2016/11/MU2016Fall.pdf"
+        ],
+        [
+          "2024 study: Medicine, Reproduction, and Women’s Health at Orange Valley",
+          "https://www.tandfonline.com/doi/abs/10.1080/21619441.2024.2347082"
+        ]
+      ],
+      "asset": null,
+      "caption": null,
+      "image_rights": "Original editorial SVG; no third-party image reproduced. Orange Valley archival photograph is linked only."
+    },
+    {
+      "id": "legacy-salters",
+      "parish": "St. James",
+      "title": "Salter’s Hill: a church built by enslaved Africans",
+      "sources": [
+        [
+          "JNHT: Salter’s Hill Baptist",
+          "https://www.jnht.com/site_salters_hill_baptist.php"
+        ],
+        [
+          "Scholarly study: The Jamaica Slave Rebellion of 1831",
+          "https://www.latinamericanstudies.org/slavery/PP-1968.pdf"
+        ],
+        [
+          "JNHT: protected national monuments",
+          "https://www.jnht.com/national_monuments.php"
+        ]
+      ],
+      "asset": "james",
+      "caption": "Salter’s Hill Baptist Church ruin, St. James, in JNHT’s later photograph. Maker and capture date unspecified. This is surviving fabric, not a view of the 1831 gathering.",
+      "image_rights": "JNHT photograph: no open licence or permission grant established; resolve before public reproduction."
+    },
+    {
+      "id": "legacy-tryall",
+      "parish": "Hanover",
+      "title": "Tryall’s waterwheel: the work behind an estate landmark",
+      "sources": [
+        [
+          "JNHT: Tryall Great House and industrial remains",
+          "https://www.jnht.com/site_tryall_great_house.php"
+        ],
+        [
+          "JNHT: Sugar Works",
+          "https://jnht.com/sugar_works.php"
+        ],
+        [
+          "Colgate University: Wicked Commerce gallery guide",
+          "https://www.colgate.edu/sites/default/files/2022-09/Wicked%20Commerce%20Gallery%20Guide.pdf"
+        ]
+      ],
+      "asset": "hanover",
+      "caption": "Tryall estate house, Hanover, in JNHT’s later photograph. Maker and capture date unspecified. This photograph shows the house, not the waterwheel or the sugar workforce.",
+      "image_rights": "JNHT photograph: no open licence or permission grant established; resolve before public reproduction."
+    },
+    {
+      "id": "legacy-ackendown",
+      "parish": "Westmoreland",
+      "title": "Ackendown: a castle inscription and the people it leaves unnamed",
+      "sources": [
+        [
+          "JNHT: Ackendown Castle Ruin",
+          "https://www.jnht.com/site_ackendown_castle_ruin.php"
+        ],
+        [
+          "Transcribed 1816 Jamaica Almanac: Westmoreland",
+          "https://www.jamaicanfamilysearch.com/Members/AL15west.htm"
+        ],
+        [
+          "Transcribed 1824 Jamaica Almanac: Westmoreland",
+          "https://www.jamaicanfamilysearch.com/Members/A/AL24west.htm"
+        ]
+      ],
+      "asset": "westmoreland",
+      "caption": "Ackendown Castle ruin, Westmoreland, in JNHT’s later photograph. Maker and capture date unspecified. The visible tower is not a dated image of the estate during slavery.",
+      "image_rights": "JNHT photograph: no open licence or permission grant established; resolve before public reproduction."
+    },
+    {
+      "id": "legacy-munro",
+      "parish": "St. Elizabeth",
+      "title": "Munro’s bequest: slavery wealth carried into education",
+      "sources": [
+        [
+          "JNHT: Munro College",
+          "https://www.jnht.com/site_munro_college.php"
+        ],
+        [
+          "Ahmed Reid: Reckoning with legacies of slavery in Jamaica, 2020",
+          "https://past.jamaica-gleaner.com/article/commentary/20200712/ahmed-reid-reckoning-legacies-slavery-jamaica"
+        ],
+        [
+          "Munro College Old Boys Association: Dr. Caleb Dickenson",
+          "https://mcobajm.org/hall_of_fame/dr-caleb-dickenson/"
+        ]
+      ],
+      "asset": "elizabeth",
+      "caption": "Munro College campus, Potsdam, St. Elizabeth, in JNHT’s later photograph. Maker and capture date unspecified. The school opened after slavery; the photograph is not evidence of an 1834 school building.",
+      "image_rights": "JNHT photograph: no open licence or permission grant established; resolve before public reproduction."
+    },
+    {
+      "id": "legacy-fairfield",
+      "parish": "Manchester",
+      "title": "Fairfield: a mission inherited from the plantation world",
+      "sources": [
+        [
+          "Paul H. Williams: Moravians in Jamaica, Part 1",
+          "https://past.jamaica-gleaner.com/article/news/20160618/moravians-jamaica-1754-1834-part-1-growth-and-decline"
+        ],
+        [
+          "Moravian Church: role in emancipation, historical reflection",
+          "https://www.moravians.net/en/about-us/34-moravian-moments/284-moravian-moment-177-the-role-of-the-moravian-church-in-emancipation"
+        ],
+        [
+          "Transcribed 1851 Jamaica Almanac: religious denominations",
+          "https://www.jamaicanfamilysearch.com/Members/1851al06.htm"
+        ],
+        [
+          "Transcribed 1877 Jamaica Almanac: ecclesiastical and education",
+          "https://www.jamaicanfamilysearch.com/Members/a1877eccles.htm"
+        ]
+      ],
+      "asset": null,
+      "caption": null,
+      "image_rights": "Original editorial SVG; no third-party image reproduced. Orange Valley archival photograph is linked only."
+    },
+    {
+      "id": "legacy-suttons",
+      "parish": "Clarendon",
+      "title": "Suttons: the plantation name and the memory of resistance",
+      "sources": [
+        [
+          "Government heritage account: Clarendon history",
+          "https://jamaica55.gov.jm/clarendon/clarendon-history/"
+        ],
+        [
+          "Transcribed 1825 Jamaica Almanac: Clarendon, Manchester and Vere, returns for 1824",
+          "https://www.jamaicanfamilysearch.com/Members/A/a1825_03.htm"
+        ]
+      ],
+      "asset": null,
+      "caption": null,
+      "image_rights": "Original editorial SVG; no third-party image reproduced. Orange Valley archival photograph is linked only."
+    },
+    {
+      "id": "legacy-hellshire",
+      "parish": "St. Catherine",
+      "title": "Hellshire’s refuge landscape: escape and the cost of control",
+      "sources": [
+        [
+          "Aaron Graham: scholarly study and abstract, Atlantic Studies",
+          "https://discovery.ucl.ac.uk/id/eprint/10046315/"
+        ],
+        [
+          "Author’s accepted manuscript: A descent into Hellshire",
+          "https://discovery.ucl.ac.uk/id/eprint/10046315/1/Graham_Descent_Hellshire.pdf"
+        ]
+      ],
+      "asset": null,
+      "caption": null,
+      "image_rights": "Original editorial SVG; no third-party image reproduced. Orange Valley archival photograph is linked only."
+    }
+  ],
+  "source_http_checks": {
+    "date": "2026-10-13",
+    "requests": 39,
+    "http_200": 34,
+    "limits": "Google Books rate-limited; two Gleaner direct requests timed out after successful web retrieval; two publisher DOI/abstract requests blocked automated access. Hellshire now links to the open UCL manuscript instead of the blocked publisher page."
+  }
+}

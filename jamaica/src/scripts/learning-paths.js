@@ -1,5 +1,5 @@
 (function(){
-const paths=JSON.parse(document.getElementById('learning-path-data').textContent),rows={{generated "story-index"}},byId=new Map(rows.map(r=>[r.id,r])),E=id=>document.getElementById(id);
+const paths=JSON.parse(document.getElementById('learning-path-data').textContent),rows=JSON.parse(document.getElementById('history-article-data').textContent),byId=new Map(rows.map(r=>[r.id,r])),E=id=>document.getElementById(id);
 const esc=s=>String(s).replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
 const key='tg-jamaica-learning-v1';let state={done:[],notes:{},path:null};
 try{const saved=JSON.parse(localStorage.getItem(key));if(saved&&Array.isArray(saved.done)&&saved.notes&&typeof saved.notes==='object')state={...state,...saved};}catch(e){}

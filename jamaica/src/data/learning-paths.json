@@ -222,5 +222,35 @@
       "parish-masonriver",
       "parish-halsehall"
     ]
+  },
+  {
+    "id": "slavery-built-records",
+    "title": "Slavery’s legacies: buildings, records and wealth",
+    "question": "What survives materially, and whose lives do the records make visible?",
+    "bestFor": "Seven local studies across Jamaica. Read as comparisons; this is not one driving circuit.",
+    "articles": [
+      "legacy-hibbert",
+      "legacy-hope",
+      "legacy-drax",
+      "legacy-orange-valley",
+      "legacy-tryall",
+      "legacy-ackendown",
+      "legacy-munro"
+    ]
+  },
+  {
+    "id": "slavery-community-memory",
+    "title": "Slavery’s legacies: community, resistance and memory",
+    "question": "How do people carry freedom struggles, inherited practices and remembrance into later life?",
+    "bestFor": "Seven parish studies with exercises and local connections. Living traditions are shared on communities’ terms.",
+    "articles": [
+      "legacy-bath-jacob",
+      "legacy-kromanti",
+      "legacy-daddy-rock",
+      "legacy-salters",
+      "legacy-fairfield",
+      "legacy-suttons",
+      "legacy-hellshire"
+    ]
   }
 ]

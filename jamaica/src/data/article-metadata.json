@@ -1001,5 +1001,145 @@
     ],
     "summary": "Near Kellits at the Clarendon–St. Ann boundary, a peat bog connects scientific recognition, government acquisition, conservation and community life.",
     "era": "1900s–today"
+  },
+  {
+    "id": "legacy-hibbert",
+    "theme": "Freedom & land",
+    "parish": "Kingston",
+    "parishes": [
+      "Kingston"
+    ],
+    "summary": "At 79 Duke Street, an elegant merchant’s house carries a harder history: confinement, sale, colonial command and the power to decide whose past gets preserved.",
+    "era": "1755–present"
+  },
+  {
+    "id": "legacy-hope",
+    "theme": "Freedom & land",
+    "parish": "St. Andrew",
+    "parishes": [
+      "St. Andrew"
+    ],
+    "summary": "An arch beside a modern city can reveal how law, water and machinery served a sugar estate—and how infrastructure outlived the system that built it.",
+    "era": "1752–present"
+  },
+  {
+    "id": "legacy-bath-jacob",
+    "theme": "Freedom & land",
+    "parish": "St. Thomas",
+    "parishes": [
+      "St. Thomas"
+    ],
+    "summary": "A spring’s origin story names an enslaved fugitive. Follow what the story preserves, what the public institution records, and what remains unknown about the man himself.",
+    "era": "1690s–present"
+  },
+  {
+    "id": "legacy-kromanti",
+    "theme": "Freedom & land",
+    "parish": "Portland",
+    "parishes": [
+      "Portland"
+    ],
+    "summary": "Ceremony, language, ancestral knowledge and communal land connect a Portland community with its struggle against slavery. Survival here means transmission, not a culture frozen in time.",
+    "era": "1700s–present"
+  },
+  {
+    "id": "legacy-daddy-rock",
+    "theme": "Freedom & land",
+    "parish": "St. Mary",
+    "parishes": [
+      "St. Mary"
+    ],
+    "summary": "A community’s place of remembrance connects a plantation register with family names, gathering and the work of emancipation memory.",
+    "era": "1817–present"
+  },
+  {
+    "id": "legacy-drax",
+    "theme": "Freedom & land",
+    "parish": "St. Ann",
+    "parishes": [
+      "St. Ann"
+    ],
+    "summary": "A surviving industrial feature and an excavated village tell different sides of a north-coast sugar estate. Read them together.",
+    "era": "1669–1900s"
+  },
+  {
+    "id": "legacy-orange-valley",
+    "theme": "Freedom & land",
+    "parish": "Trelawny",
+    "parishes": [
+      "Trelawny"
+    ],
+    "summary": "Hospital ruins preserve a difficult question: what did treatment mean when the patient was legally enslaved and the proprietor depended on their labour?",
+    "era": "1797–present"
+  },
+  {
+    "id": "legacy-salters",
+    "theme": "Freedom & land",
+    "parish": "St. James",
+    "parishes": [
+      "St. James"
+    ],
+    "summary": "Rural church ruins carry the history of people creating a congregation under slavery, then confronting the unfinished questions of freedom and land.",
+    "era": "1825–present"
+  },
+  {
+    "id": "legacy-tryall",
+    "theme": "Freedom & land",
+    "parish": "Hanover",
+    "parishes": [
+      "Hanover"
+    ],
+    "summary": "The waterwheel carries Hanover’s sugar history into a landscape now associated with recreation. Follow the channel, the industrial remains and the labour the scenery can conceal.",
+    "era": "1700s–present"
+  },
+  {
+    "id": "legacy-ackendown",
+    "theme": "Freedom & land",
+    "parish": "Westmoreland",
+    "parishes": [
+      "Westmoreland"
+    ],
+    "summary": "A proprietor’s name survives in stone. An estate return supplies another part of the history: the people held in slavery behind the monument.",
+    "era": "1800s–present"
+  },
+  {
+    "id": "legacy-munro",
+    "theme": "Freedom & land",
+    "parish": "St. Elizabeth",
+    "parishes": [
+      "St. Elizabeth"
+    ],
+    "summary": "A school founded after emancipation can still inherit resources accumulated under slavery. Follow the trust, the timing and the distinction between its origins and later students’ achievements.",
+    "era": "1834–present"
+  },
+  {
+    "id": "legacy-fairfield",
+    "theme": "Freedom & land",
+    "parish": "Manchester",
+    "parishes": [
+      "Manchester"
+    ],
+    "summary": "Manchester’s Moravian history joins a former estate, worship, schooling and uneasy relations between missionaries and people seeking freedom.",
+    "era": "1823–present"
+  },
+  {
+    "id": "legacy-suttons",
+    "theme": "Freedom & land",
+    "parish": "Clarendon",
+    "parishes": [
+      "Clarendon"
+    ],
+    "summary": "A place-name in Clarendon carries more than ownership. It opens a history of enslavement, an early uprising and the challenge of recovering people behind an estate label.",
+    "era": "1690–present"
+  },
+  {
+    "id": "legacy-hellshire",
+    "theme": "Freedom & land",
+    "parish": "St. Catherine",
+    "parishes": [
+      "St. Catherine"
+    ],
+    "summary": "Beyond a familiar coast lies a history of people escaping slavery, colonial pursuit and a landscape that made freedom possible—and dangerous.",
+    "era": "1819–present"
   }
 ]
