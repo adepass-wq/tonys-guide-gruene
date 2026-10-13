@@ -1,0 +1,232 @@
+{
+  "checked": "2026-10-13",
+  "publication": "STAGED ONLY — do not deploy without a later instruction",
+  "newArticles": [
+    {
+      "id": "parish-stonygut",
+      "parish": "St. Thomas",
+      "parishes": [
+        "St. Thomas"
+      ],
+      "title": "Stony Gut: the village behind Paul Bogle’s public life",
+      "sources": [
+        [
+          "JNHT: Stony Gut",
+          "https://www.jnht.com/site_stony_gut.php"
+        ],
+        [
+          "JNHT: Remembering the Morant Bay Uprising, 2020",
+          "https://www.jnht.com/documents/Remembering-the-Morant-Bay-Uprising-article.pdf"
+        ],
+        [
+          "JNHT: protected sites inventory, October 2017",
+          "https://www.jnht.com/documents/Protected_Sites-updated_041017.pdf"
+        ]
+      ]
+    },
+    {
+      "id": "parish-kumina",
+      "parish": "St. Thomas",
+      "parishes": [
+        "St. Thomas"
+      ],
+      "title": "Kumina in St. Thomas: ancestry, community and the work of listening",
+      "sources": [
+        [
+          "National Library of Jamaica: Kumina history notes",
+          "https://nlj.gov.jm/history-notes-jamaica/"
+        ],
+        [
+          "Smithsonian Folklife: the re-communalization of a Jamaican Kumina drum, 2014",
+          "https://folklife.si.edu/talkstory/2014/re-communalization-of-a-jamaican-kumina-drum"
+        ],
+        [
+          "JIS: Kumina, published 31 March 2026",
+          "https://jis.gov.jm/videos/kumina-jis/"
+        ],
+        [
+          "Smithsonian Folkways: Kumina Dance — Jamaica",
+          "https://folkways.si.edu/kumina-dance/caribbean-world/music/track/smithsonian"
+        ]
+      ]
+    },
+    {
+      "id": "parish-yallahs",
+      "parish": "St. Thomas",
+      "parishes": [
+        "St. Thomas"
+      ],
+      "title": "Yallahs: the river landscape behind the city’s water",
+      "sources": [
+        [
+          "National Water Commission: Yallahs Pipeline Scheme",
+          "https://www.nwcjamaica.com/facility_operation.php/nwc-wave-newsletter.php"
+        ],
+        [
+          "Inter-American Development Bank: restoring water resources with farmers, 2021",
+          "https://www.iadb.org/en/blog/improving-lives/restoring-jamaicas-water-resources-help-farmers"
+        ],
+        [
+          "Global Environment Facility: Yallahs–Hope watershed project, 4454",
+          "https://www.thegef.org/projects-operations/projects/4454"
+        ]
+      ]
+    },
+    {
+      "id": "parish-chapelton",
+      "parish": "Clarendon",
+      "parishes": [
+        "Clarendon"
+      ],
+      "title": "Chapelton: a clock, a war memorial and an inland town’s public life",
+      "sources": [
+        [
+          "JNHT: Chapelton Clock Tower and War Memorial",
+          "https://jnht.com/site_Chapelton_Clock_Tower.php"
+        ],
+        [
+          "JNHT: World War I monuments, Duane Harris, 2019",
+          "https://www.jnht.com/documents/War-Monuments-In-Jamaica.pdf"
+        ],
+        [
+          "National Library of Jamaica: railway chronology and the Chapelton branch",
+          "https://nlj.gov.jm/history-notes-jamaica/"
+        ]
+      ]
+    },
+    {
+      "id": "parish-fourpaths",
+      "parish": "Clarendon",
+      "parishes": [
+        "Clarendon"
+      ],
+      "title": "Four Paths: railway work, a station house and the wider Clarendon network",
+      "sources": [
+        [
+          "JNHT: Four Paths Railway Station",
+          "https://www.jnht.com/site_four_paths_railway_station.php"
+        ],
+        [
+          "JNHT: Suttons Railway Station",
+          "https://www.jnht.com/site_suttons_railway_station.php"
+        ],
+        [
+          "National Library of Jamaica: history of the railway",
+          "https://nlj.gov.jm/history-notes-jamaica/"
+        ]
+      ]
+    },
+    {
+      "id": "parish-milkriver",
+      "parish": "Clarendon",
+      "parishes": [
+        "Clarendon"
+      ],
+      "title": "Milk River: a public bath, an inherited story and the business of visiting",
+      "sources": [
+        [
+          "Ministry of Tourism: Milk River Hotel and Spa",
+          "https://www.mot.gov.jm/agency/milk-river-hotel-and-spa"
+        ],
+        [
+          "Jamaica Tourist Board: What to see — Milk River Bath",
+          "https://www.visitjamaica.com/blog/post/what-to-see-milk-river-bath/"
+        ],
+        [
+          "JNHT: Milk River Spa",
+          "https://www.jnht.com/site_milk_river_spa.php"
+        ],
+        [
+          "Ministry of Justice: The Milk River Bath statute",
+          "https://laws.moj.gov.jm/library/statute/the-milk-river-bath"
+        ]
+      ]
+    },
+    {
+      "id": "parish-masonriver",
+      "parish": "Clarendon",
+      "parishes": [
+        "Clarendon",
+        "St. Ann"
+      ],
+      "title": "Mason River: a border community and the history of protecting an inland wetland",
+      "sources": [
+        [
+          "Natural History Museum of Jamaica: Mason River protected area",
+          "https://nhmj-ioj.org.jm/mason-river-protected-area-game-sanctuary-ramsar-site/"
+        ],
+        [
+          "Ramsar information sheet: Mason River, site 1990",
+          "https://rsis.ramsar.org/RISapp/files/RISrep/JM1990RIS.pdf"
+        ],
+        [
+          "JNHT/NEPA management plan for Mason River, 2014–2019",
+          "https://websitearchive2020.nepa.gov.jm/new/services_products/publications/docs/Mason%20River%20Protected%20Area%20Management%20Plan%20-%20Final.pdf"
+        ]
+      ]
+    }
+  ],
+  "media": [
+    {
+      "article": "parish-stonygut",
+      "source": "https://www.jnht.com/site_stony_gut.php",
+      "captureDate": "Not supplied",
+      "creator": "Not supplied",
+      "reproductionPermission": "Unresolved; public-source access is not a reproduction licence"
+    },
+    {
+      "article": "parish-chapelton",
+      "source": "https://jnht.com/site_Chapelton_Clock_Tower.php",
+      "captureDate": "Not supplied",
+      "creator": "Not supplied",
+      "reproductionPermission": "Unresolved; public-source access is not a reproduction licence"
+    },
+    {
+      "article": "parish-fourpaths",
+      "source": "https://www.jnht.com/site_four_paths_railway_station.php",
+      "captureDate": "Not supplied",
+      "creator": "Not supplied",
+      "reproductionPermission": "Unresolved; public-source access is not a reproduction licence"
+    },
+    {
+      "article": "parish-milkriver",
+      "source": "https://www.jnht.com/site_milk_river_spa.php",
+      "captureDate": "Not supplied",
+      "creator": "Not supplied",
+      "reproductionPermission": "Unresolved; public-source access is not a reproduction licence"
+    },
+    {
+      "article": "parish-masonriver",
+      "source": "https://nhmj-ioj.org.jm/mason-river-protected-area-game-sanctuary-ramsar-site/",
+      "captureDate": "Not supplied",
+      "creator": "Not supplied",
+      "reproductionPermission": "Unresolved; public-source access is not a reproduction licence"
+    }
+  ],
+  "events": {
+    "newDatedListing": {
+      "id": "local-kitchen-argentina",
+      "name": "Shaken + Swirled: A Journey to Argentina",
+      "start": "2026-10-14",
+      "end": "2026-10-14",
+      "area": "Elsewhere in Jamaica",
+      "genre": "Food & music",
+      "location": "Jamaica Food & Drink Kitchen, Liguanea, St. Andrew",
+      "description": "The organiser’s dated booking page lists 14 October 2026, 6:30–9:30 p.m. Jamaica time: a food and drink pairing session.",
+      "call": "Reserve the specific session and confirm availability, dietary needs and a return ride. This is an international-cuisine experience, not a Jamaican culinary-history lesson.",
+      "cost": "Booking page showed JMD 10,000 on 13 October; confirm the current total and availability.",
+      "source": "https://jamaicafoodanddrinkkitchen.com/the-calendar/shaken-swirled-a-journey-to-argentina/",
+      "verify": "https://jamaicafoodanddrinkkitchen.com/events/",
+      "map": "Jamaica Food and Drink Kitchen, Liguanea, Jamaica",
+      "parishes": [
+        "St. Andrew"
+      ],
+      "checked": "2026-10-13"
+    },
+    "contactSources": 13,
+    "recurringProgramme": "NHMJ third-Wednesday programme; edition requires confirmation",
+    "searchLimits": "JCDC October 2026 calendar and parish-office directory; JIS, institutional and organiser searches. No new confirmed future St. Thomas or Clarendon date verified within that scope. The empty findings do not establish absence of local events.",
+    "excluded": "2025 parish Heritage Week schedules, undated office notices and conflicting calendar/individual-event dates were not converted into current dated events."
+  },
+  "verificationLimits": "Downloaded source photographs inspected and decoded. Desktop/mobile browser and audible playback verification unavailable. Source and catalogue checks do not confirm a physical visit."
+}

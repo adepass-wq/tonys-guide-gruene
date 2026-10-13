@@ -312,5 +312,24 @@
       "St. Andrew"
     ],
     "checked": "2026-10-13"
+  },
+  {
+    "id": "local-kitchen-argentina",
+    "name": "Shaken + Swirled: A Journey to Argentina",
+    "start": "2026-10-14",
+    "end": "2026-10-14",
+    "area": "Elsewhere in Jamaica",
+    "genre": "Food & music",
+    "location": "Jamaica Food & Drink Kitchen, Liguanea, St. Andrew",
+    "description": "The organiser’s dated booking page lists 14 October 2026, 6:30–9:30 p.m. Jamaica time: a food and drink pairing session.",
+    "call": "Reserve the specific session and confirm availability, dietary needs and a return ride. This is an international-cuisine experience, not a Jamaican culinary-history lesson.",
+    "cost": "Booking page showed JMD 10,000 on 13 October; confirm the current total and availability.",
+    "source": "https://jamaicafoodanddrinkkitchen.com/the-calendar/shaken-swirled-a-journey-to-argentina/",
+    "verify": "https://jamaicafoodanddrinkkitchen.com/events/",
+    "map": "Jamaica Food and Drink Kitchen, Liguanea, Jamaica",
+    "parishes": [
+      "St. Andrew"
+    ],
+    "checked": "2026-10-13"
   }
 ]

@@ -9,6 +9,7 @@ if(typeof module!=='undefined'&&module.exports)module.exports={norm,matches,budg
 if(typeof document==='undefined')return;
 const P=JSON.parse(document.getElementById('travel-place-data').textContent),EV=JSON.parse(document.getElementById('travel-event-data').textContent),R=JSON.parse(document.getElementById('travel-resource-data').textContent);
 const $=id=>document.getElementById(id),esc=s=>String(s).replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c])),byid=new Map(P.map(p=>[p.id,p]));
+const eventGenres=[...new Set([...EV.map(e=>e.genre),...JSON.parse($('local-programme-data').textContent).map(e=>e.genre)])];$('events-genre').innerHTML='<option value="all">All genres</option>'+eventGenres.map(g=>'<option>'+esc(g)+'</option>').join('');
 const today=()=>new Intl.DateTimeFormat('en-CA',{timeZone:'America/Jamaica',year:'numeric',month:'2-digit',day:'2-digit'}).format(new Date());
 let saved=[],canSave=true;try{const raw=JSON.parse(localStorage.getItem('tg-jamaica-travel-v1')||'[]');if(Array.isArray(raw))saved=[...new Set(raw)].filter(id=>byid.has(id));}catch(e){canSave=false;}
 function persist(){try{localStorage.setItem('tg-jamaica-travel-v1',JSON.stringify(saved))}catch(e){canSave=false;$('trip-save-status').textContent='Saved for this tab only; browser storage is unavailable.'}}

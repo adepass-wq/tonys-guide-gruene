@@ -1,5 +1,5 @@
 {
-  "date": "2026-10-12",
+  "date": "2026-10-13",
   "target": 210,
   "counting_rule": "At least 15 substantive parish-specific articles per parish. Islandwide stories, incidental mentions, activity cards and proposed subjects do not count. Existing substantive local histories may satisfy a mapped subject after editorial review.",
   "standard": [
@@ -693,9 +693,10 @@
           "article_id": null
         },
         {
-          "title": "Chapelton and the inland market",
-          "status": "research-proposed",
-          "article_id": null
+          "title": "Chapelton: inland public life and the war memorial",
+          "status": "staged-first-draft",
+          "article_id": "parish-chapelton",
+          "next_review": "Current access, reproduction permissions and real-browser media/layout verification remain outstanding; further local archival/community evidence can deepen this narrative."
         },
         {
           "title": "Halse Hall: property and labour",
@@ -711,8 +712,9 @@
         },
         {
           "title": "Milk River: mineral waters and public history",
-          "status": "research-proposed",
-          "article_id": null
+          "status": "staged-first-draft",
+          "article_id": "parish-milkriver",
+          "next_review": "Current access, reproduction permissions and real-browser media/layout verification remain outstanding; further local archival/community evidence can deepen this narrative."
         },
         {
           "title": "Vere plains: sugar and irrigation",
@@ -721,8 +723,9 @@
         },
         {
           "title": "Four Paths and rail-linked settlement",
-          "status": "research-proposed",
-          "article_id": null
+          "status": "staged-first-draft",
+          "article_id": "parish-fourpaths",
+          "next_review": "Current access, reproduction permissions and real-browser media/layout verification remain outstanding; further local archival/community evidence can deepen this narrative."
         },
         {
           "title": "Suttons station and agricultural transport",
@@ -736,8 +739,9 @@
         },
         {
           "title": "Mason River and changing land use",
-          "status": "research-proposed",
-          "article_id": null
+          "status": "staged-first-draft",
+          "article_id": "parish-masonriver",
+          "next_review": "Current access, reproduction permissions and real-browser media/layout verification remain outstanding; further local archival/community evidence can deepen this narrative."
         },
         {
           "title": "Bull Head and island geography",
@@ -1114,8 +1118,9 @@
         },
         {
           "title": "Stony Gut and Paul Bogle",
-          "status": "research-proposed",
-          "article_id": null
+          "status": "staged-first-draft",
+          "article_id": "parish-stonygut",
+          "next_review": "Current access, reproduction permissions and real-browser media/layout verification remain outstanding; further local archival/community evidence can deepen this narrative."
         },
         {
           "title": "Morant Bay courthouse and remembrance",
@@ -1141,8 +1146,9 @@
         },
         {
           "title": "Yallahs and the working river landscape",
-          "status": "research-proposed",
-          "article_id": null
+          "status": "staged-first-draft",
+          "article_id": "parish-yallahs",
+          "next_review": "Current access, reproduction permissions and real-browser media/layout verification remain outstanding; further local archival/community evidence can deepen this narrative."
         },
         {
           "title": "Serge Island and agricultural change",
@@ -1151,8 +1157,9 @@
         },
         {
           "title": "Kumina: religion, ancestry and community",
-          "status": "research-proposed",
-          "article_id": null
+          "status": "staged-first-draft",
+          "article_id": "parish-kumina",
+          "next_review": "Current access, reproduction permissions and real-browser media/layout verification remain outstanding; further local archival/community evidence can deepen this narrative."
         },
         {
           "title": "Lyssons and coastal histories",
@@ -1183,16 +1190,17 @@
     }
   ],
   "progress": {
-    "new_staged_narratives": 36,
+    "new_staged_narratives": 43,
     "complete_15_per_parish": false,
-    "note": "The 210 topics are an editorial programme, not 210 completed articles. First drafts and existing narratives need review against the depth standard.",
+    "note": "The 210 subjects remain a programme, not 210 completed articles. Mason River is one shared boundary article, not two parish articles; staged drafts require editorial review.",
     "latest_batch_articles": [
-      "parish-libertyhall",
-      "parish-halsehall",
-      "parish-marshallspen",
-      "parish-savannalamar",
-      "parish-lacovia",
-      "parish-blenheim"
+      "parish-stonygut",
+      "parish-kumina",
+      "parish-yallahs",
+      "parish-chapelton",
+      "parish-fourpaths",
+      "parish-milkriver",
+      "parish-masonriver"
     ]
   }
 }

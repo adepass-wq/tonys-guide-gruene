@@ -930,5 +930,76 @@
     ],
     "summary": "A rural Hanover birthplace connects a national political life with the later decisions involved in preserving and presenting a home.",
     "era": "Across periods"
+  },
+  {
+    "id": "parish-stonygut",
+    "theme": "Freedom & land",
+    "parish": "St. Thomas",
+    "parishes": [
+      "St. Thomas"
+    ],
+    "summary": "Begin in the village, not at the courthouse: congregation, land, collective action and the later work of remembering 1865.",
+    "era": "1800s"
+  },
+  {
+    "id": "parish-kumina",
+    "theme": "Music & ritual",
+    "parish": "St. Thomas",
+    "parishes": [
+      "St. Thomas"
+    ],
+    "summary": "Kumina is a living religious and cultural practice. Listen to the relationship between voices and drums without reducing a ceremony to entertainment.",
+    "era": "Across periods"
+  },
+  {
+    "id": "parish-yallahs",
+    "theme": "Towns & trade",
+    "parish": "St. Thomas",
+    "parishes": [
+      "St. Thomas"
+    ],
+    "summary": "A St. Thomas watershed connects farming, forest cover, engineering and water use beyond the parish. Follow those connections rather than treating the river as scenery.",
+    "era": "1900s–today"
+  },
+  {
+    "id": "parish-chapelton",
+    "theme": "Home & daily life",
+    "parish": "Clarendon",
+    "parishes": [
+      "Clarendon"
+    ],
+    "summary": "An inland Clarendon landmark connects public time, local organising and remembrance of the First World War. Read the memorial before inventing a story from its shape.",
+    "era": "1900s–today"
+  },
+  {
+    "id": "parish-fourpaths",
+    "theme": "Towns & trade",
+    "parish": "Clarendon",
+    "parishes": [
+      "Clarendon"
+    ],
+    "summary": "The station’s upper living quarters and lower public spaces make transport history tangible. Compare a building’s approximate date with the chronology of the line.",
+    "era": "1800s–1900s"
+  },
+  {
+    "id": "parish-milkriver",
+    "theme": "Home & daily life",
+    "parish": "Clarendon",
+    "parishes": [
+      "Clarendon"
+    ],
+    "summary": "The 1794 baths give Clarendon a long history of public visiting. Separate an institution’s history, an origin story and claims about the water.",
+    "era": "Across periods"
+  },
+  {
+    "id": "parish-masonriver",
+    "theme": "Towns & trade",
+    "parish": "Clarendon & St. Ann",
+    "parishes": [
+      "Clarendon",
+      "St. Ann"
+    ],
+    "summary": "Near Kellits at the Clarendon–St. Ann boundary, a peat bog connects scientific recognition, government acquisition, conservation and community life.",
+    "era": "1900s–today"
   }
 ]

@@ -15,7 +15,9 @@
       "misst",
       "stush"
     ],
-    "heritage": [],
+    "heritage": [
+      "parish-masonriver"
+    ],
     "branches": [
       [
         "Western St. Ann",
@@ -247,7 +249,8 @@
     ],
     "heritage": [
       "parish-morantpoint",
-      "parish-stokeshall"
+      "parish-stokeshall",
+      "parish-stonygut"
     ],
     "branches": [
       [
@@ -344,7 +347,11 @@
       "parish-maidstone",
       "parish-mandeville",
       "parish-spanishtown",
-      "parish-halsehall"
+      "parish-halsehall",
+      "parish-chapelton",
+      "parish-fourpaths",
+      "parish-milkriver",
+      "parish-masonriver"
     ],
     "branches": [
       [

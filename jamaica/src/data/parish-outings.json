@@ -427,5 +427,71 @@
     "source": "https://www.jnht.com/site_blenheim.php",
     "status": "Arrange access before travelling",
     "current_service_verified": false
+  },
+  {
+    "id": "parish-stonygut",
+    "name": "Stony Gut: the village behind Paul Bogle’s public life",
+    "parishes": [
+      "St. Thomas"
+    ],
+    "article": "parish-stonygut",
+    "summary": "Begin in the village, not at the courthouse: congregation, land, collective action and the later work of remembering 1865.",
+    "practical": "Arrange a locally informed Stony Gut visit before leaving your southeastern base. Confirm lawful entry, guide availability, road approach, walking surfaces, seating and toilets. Allow 60–90 minutes for an agreed visit as a planning estimate; this is not a booked tour or a verified step-free route.",
+    "source": "https://www.jnht.com/site_stony_gut.php",
+    "status": "Arrange access before travelling",
+    "current_service_verified": false
+  },
+  {
+    "id": "parish-chapelton",
+    "name": "Chapelton: a clock, a war memorial and an inland town’s public life",
+    "parishes": [
+      "Clarendon"
+    ],
+    "article": "parish-chapelton",
+    "summary": "An inland Clarendon landmark connects public time, local organising and remembrance of the First World War. Read the memorial before inventing a story from its shape.",
+    "practical": "Plan a short, locally informed daytime Chapelton visit. Confirm park access, traffic crossings, seating, toilets and any guided interpretation. Allow 45–90 minutes as a planning estimate, with the actual transfer from your base kept separate.",
+    "source": "https://jnht.com/site_Chapelton_Clock_Tower.php",
+    "status": "Arrange access before travelling",
+    "current_service_verified": false
+  },
+  {
+    "id": "parish-fourpaths",
+    "name": "Four Paths: railway work, a station house and the wider Clarendon network",
+    "parishes": [
+      "Clarendon"
+    ],
+    "article": "parish-fourpaths",
+    "summary": "The station’s upper living quarters and lower public spaces make transport history tangible. Compare a building’s approximate date with the chronology of the line.",
+    "practical": "Ask JNHT or the relevant property authority about lawful exterior viewing or an arranged heritage visit. No current passenger service, museum opening or interior admission is implied. Keep clear of tracks and working property; confirm a safe waiting and pickup point.",
+    "source": "https://www.jnht.com/site_four_paths_railway_station.php",
+    "status": "Arrange access before travelling",
+    "current_service_verified": false
+  },
+  {
+    "id": "parish-milkriver",
+    "name": "Milk River: a public bath, an inherited story and the business of visiting",
+    "parishes": [
+      "Clarendon"
+    ],
+    "article": "parish-milkriver",
+    "summary": "The 1794 baths give Clarendon a long history of public visiting. Separate an institution’s history, an origin story and claims about the water.",
+    "practical": "Confirm the actual bath or hotel service, booking, price, duration, changing facilities, steps and assistance with the operator. Use an appropriate qualified source for personal health suitability. Allow the booked service and your real transfer to determine the day; no therapeutic result is promised.",
+    "source": "https://www.mot.gov.jm/agency/milk-river-hotel-and-spa",
+    "status": "Arrange access before travelling",
+    "current_service_verified": false
+  },
+  {
+    "id": "parish-masonriver",
+    "name": "Mason River: a border community and the history of protecting an inland wetland",
+    "parishes": [
+      "Clarendon",
+      "St. Ann"
+    ],
+    "article": "parish-masonriver",
+    "summary": "Near Kellits at the Clarendon–St. Ann boundary, a peat bog connects scientific recognition, government acquisition, conservation and community life.",
+    "practical": "Ask the Natural History Museum about current hosted visits to Mason River, including location, charges, trail condition, boots or footwear, toilets, shade and assistance. Confirm access before travelling; museum office hours are not reserve opening hours. Keep to the agreed route.",
+    "source": "https://nhmj-ioj.org.jm/mason-river-protected-area-game-sanctuary-ramsar-site/",
+    "status": "Arrange access before travelling",
+    "current_service_verified": false
   }
 ]

@@ -1,0 +1,185 @@
+[
+  {
+    "id": "jcdc-0",
+    "name": "Kingston & St. Andrew — JCDC local programme desk",
+    "parishes": [
+      "Kingston",
+      "St. Andrew"
+    ],
+    "location": "Kingston",
+    "phone": "876-920-4566",
+    "email": "kingston@jcdc.gov.jm",
+    "source": "https://www.jcdc.gov.jm/parish-offices",
+    "calendar": "https://jcdc.gov.jm/events",
+    "checked": "2026-10-13",
+    "description": "Ask for currently announced public culture, music and heritage programmes, with the actual date, venue, admission and access arrangements. Contact listing is verified; a particular forthcoming event or response is not asserted."
+  },
+  {
+    "id": "jcdc-1",
+    "name": "St. Catherine — JCDC local programme desk",
+    "parishes": [
+      "St. Catherine"
+    ],
+    "location": "Spanish Town",
+    "phone": "876-984-4244",
+    "email": "st.catherine@jcdc.gov.jm",
+    "source": "https://www.jcdc.gov.jm/parish-offices",
+    "calendar": "https://jcdc.gov.jm/events",
+    "checked": "2026-10-13",
+    "description": "Ask for currently announced public culture, music and heritage programmes, with the actual date, venue, admission and access arrangements. Contact listing is verified; a particular forthcoming event or response is not asserted."
+  },
+  {
+    "id": "jcdc-2",
+    "name": "St. Thomas — JCDC local programme desk",
+    "parishes": [
+      "St. Thomas"
+    ],
+    "location": "14 Church Street, Morant Bay",
+    "phone": "876-982-1059",
+    "email": "st.thomas@jcdc.gov.jm",
+    "source": "https://www.jcdc.gov.jm/parish-offices",
+    "calendar": "https://jcdc.gov.jm/events",
+    "checked": "2026-10-13",
+    "description": "Ask for currently announced public culture, music and heritage programmes, with the actual date, venue, admission and access arrangements. Contact listing is verified; a particular forthcoming event or response is not asserted."
+  },
+  {
+    "id": "jcdc-3",
+    "name": "St. Mary — JCDC local programme desk",
+    "parishes": [
+      "St. Mary"
+    ],
+    "location": "Port Maria",
+    "phone": "876-725-4409",
+    "email": "st.mary@jcdc.gov.jm",
+    "source": "https://www.jcdc.gov.jm/parish-offices",
+    "calendar": "https://jcdc.gov.jm/events",
+    "checked": "2026-10-13",
+    "description": "Ask for currently announced public culture, music and heritage programmes, with the actual date, venue, admission and access arrangements. Contact listing is verified; a particular forthcoming event or response is not asserted."
+  },
+  {
+    "id": "jcdc-4",
+    "name": "St. Ann — JCDC local programme desk",
+    "parishes": [
+      "St. Ann"
+    ],
+    "location": "St. Ann’s Bay",
+    "phone": "876-794-8597",
+    "email": "st.ann@jcdc.gov.jm",
+    "source": "https://www.jcdc.gov.jm/parish-offices",
+    "calendar": "https://jcdc.gov.jm/events",
+    "checked": "2026-10-13",
+    "description": "Ask for currently announced public culture, music and heritage programmes, with the actual date, venue, admission and access arrangements. Contact listing is verified; a particular forthcoming event or response is not asserted."
+  },
+  {
+    "id": "jcdc-5",
+    "name": "Portland — JCDC local programme desk",
+    "parishes": [
+      "Portland"
+    ],
+    "location": "Port Antonio",
+    "phone": "876-993-2288",
+    "email": "portland@jcdc.gov.jm",
+    "source": "https://www.jcdc.gov.jm/parish-offices",
+    "calendar": "https://jcdc.gov.jm/events",
+    "checked": "2026-10-13",
+    "description": "Ask for currently announced public culture, music and heritage programmes, with the actual date, venue, admission and access arrangements. Contact listing is verified; a particular forthcoming event or response is not asserted."
+  },
+  {
+    "id": "jcdc-6",
+    "name": "Clarendon — JCDC local programme desk",
+    "parishes": [
+      "Clarendon"
+    ],
+    "location": "1 Brooks Avenue, May Pen",
+    "phone": "876-986-9075",
+    "email": "clarendon@jcdc.gov.jm",
+    "source": "https://www.jcdc.gov.jm/parish-offices",
+    "calendar": "https://jcdc.gov.jm/events",
+    "checked": "2026-10-13",
+    "description": "Ask for currently announced public culture, music and heritage programmes, with the actual date, venue, admission and access arrangements. Contact listing is verified; a particular forthcoming event or response is not asserted."
+  },
+  {
+    "id": "jcdc-7",
+    "name": "Manchester — JCDC local programme desk",
+    "parishes": [
+      "Manchester"
+    ],
+    "location": "Mandeville",
+    "phone": "876-962-2398",
+    "email": "manchester@jcdc.gov.jm",
+    "source": "https://www.jcdc.gov.jm/parish-offices",
+    "calendar": "https://jcdc.gov.jm/events",
+    "checked": "2026-10-13",
+    "description": "Ask for currently announced public culture, music and heritage programmes, with the actual date, venue, admission and access arrangements. Contact listing is verified; a particular forthcoming event or response is not asserted."
+  },
+  {
+    "id": "jcdc-8",
+    "name": "St. Elizabeth — JCDC local programme desk",
+    "parishes": [
+      "St. Elizabeth"
+    ],
+    "location": "Santa Cruz",
+    "phone": "876-966-2468",
+    "email": "st.elizabeth@jcdc.gov.jm",
+    "source": "https://www.jcdc.gov.jm/parish-offices",
+    "calendar": "https://jcdc.gov.jm/events",
+    "checked": "2026-10-13",
+    "description": "Ask for currently announced public culture, music and heritage programmes, with the actual date, venue, admission and access arrangements. Contact listing is verified; a particular forthcoming event or response is not asserted."
+  },
+  {
+    "id": "jcdc-9",
+    "name": "St. James — JCDC local programme desk",
+    "parishes": [
+      "St. James"
+    ],
+    "location": "Montego Bay",
+    "phone": "876-952-1134",
+    "email": "st.james@jcdc.gov.jm",
+    "source": "https://www.jcdc.gov.jm/parish-offices",
+    "calendar": "https://jcdc.gov.jm/events",
+    "checked": "2026-10-13",
+    "description": "Ask for currently announced public culture, music and heritage programmes, with the actual date, venue, admission and access arrangements. Contact listing is verified; a particular forthcoming event or response is not asserted."
+  },
+  {
+    "id": "jcdc-10",
+    "name": "Hanover — JCDC local programme desk",
+    "parishes": [
+      "Hanover"
+    ],
+    "location": "Lucea",
+    "phone": "876-956-3898",
+    "email": "hanover@jcdc.gov.jm",
+    "source": "https://www.jcdc.gov.jm/parish-offices",
+    "calendar": "https://jcdc.gov.jm/events",
+    "checked": "2026-10-13",
+    "description": "Ask for currently announced public culture, music and heritage programmes, with the actual date, venue, admission and access arrangements. Contact listing is verified; a particular forthcoming event or response is not asserted."
+  },
+  {
+    "id": "jcdc-11",
+    "name": "Westmoreland — JCDC local programme desk",
+    "parishes": [
+      "Westmoreland"
+    ],
+    "location": "Great George Street",
+    "phone": "876-955-4045",
+    "email": "westmoreland@jcdc.gov.jm",
+    "source": "https://www.jcdc.gov.jm/parish-offices",
+    "calendar": "https://jcdc.gov.jm/events",
+    "checked": "2026-10-13",
+    "description": "Ask for currently announced public culture, music and heritage programmes, with the actual date, venue, admission and access arrangements. Contact listing is verified; a particular forthcoming event or response is not asserted."
+  },
+  {
+    "id": "jcdc-12",
+    "name": "Trelawny — JCDC local programme desk",
+    "parishes": [
+      "Trelawny"
+    ],
+    "location": "Falmouth",
+    "phone": "876-617-1871",
+    "email": "trelawny@jcdc.gov.jm",
+    "source": "https://www.jcdc.gov.jm/parish-offices",
+    "calendar": "https://jcdc.gov.jm/events",
+    "checked": "2026-10-13",
+    "description": "Ask for currently announced public culture, music and heritage programmes, with the actual date, venue, admission and access arrangements. Contact listing is verified; a particular forthcoming event or response is not asserted."
+  }
+]

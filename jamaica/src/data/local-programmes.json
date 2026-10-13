@@ -281,5 +281,24 @@
     "parishes": [
       "Westmoreland"
     ]
+  },
+  {
+    "id": "local-scientist",
+    "name": "An Afternoon with a Scientist — NHMJ",
+    "days": [
+      3
+    ],
+    "monthly": "third",
+    "schedule": "Third Wednesday monthly; confirm the next edition, time and format",
+    "description": "The museum publishes this recurring educational programme. A calendar-derived date is a planning lead, not independent confirmation that the session runs. Ask the museum about the current speaker, registration, audience and whether participation is on site or online.",
+    "location": "Natural History Museum of Jamaica, Kingston; confirm this session’s venue or online format",
+    "source": "https://nhmj-ioj.org.jm/education/",
+    "genre": "Learning & business",
+    "area": "Elsewhere in Jamaica",
+    "checked": "2026-10-13",
+    "recheckAfter": "2026-11-13",
+    "parishes": [
+      "Kingston"
+    ]
   }
 ]

@@ -196,5 +196,31 @@
       "parish-lacovia",
       "parish-blenheim"
     ]
+  },
+  {
+    "id": "thomas-community-water",
+    "title": "St. Thomas: community, ancestry and water",
+    "question": "How do local organising, religious practice and a watershed connect parish lives with wider Jamaican history?",
+    "bestFor": "Read St. Thomas in depth; choose a locally arranged visit separately from this learning sequence.",
+    "articles": [
+      "parish-stonygut",
+      "history-morant",
+      "parish-kumina",
+      "parish-yallahs",
+      "parish-bath-gardens"
+    ]
+  },
+  {
+    "id": "clarendon-public-life",
+    "title": "Clarendon: public time, journeys, water and conservation",
+    "question": "How do a war memorial, station, public bath and protected wetland illuminate changing public responsibilities?",
+    "bestFor": "A Clarendon reading pathway with a shared Clarendon–St. Ann boundary story; not a single driving circuit.",
+    "articles": [
+      "parish-chapelton",
+      "parish-fourpaths",
+      "parish-milkriver",
+      "parish-masonriver",
+      "parish-halsehall"
+    ]
   }
 ]
