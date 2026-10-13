@@ -20,7 +20,7 @@ test('all fourteen parish journeys reach the staged article, save notes, progres
 });
 test('new legacy articles retain specific evidence, actual image identities and the incomplete parish programme',()=>{
  const s=site();try{
- const metadata=JSON.parse(fs.readFileSync('jamaica/src/data/article-metadata.json'));assert.equal(metadata.length,111);assert.equal(JSON.parse(s.E("history-article-data").textContent).length,111);
+ const metadata=JSON.parse(fs.readFileSync('jamaica/src/data/article-metadata.json'));assert.equal(metadata.length,s.d.querySelectorAll(".reading-article").length);assert.equal(JSON.parse(s.E("history-article-data").textContent).length,metadata.length);
  const programme=JSON.parse(fs.readFileSync('jamaica/src/data/parish-editorial-programme.json'));assert.equal(programme.progress.complete_15_per_parish,false);
  assert.equal(programme.parishes.reduce((n,p)=>n+p.subjects.length,0),210);
  for(const row of batch){const a=s.E(row.id),m=metadata.find(x=>x.id===row.id);assert.deepEqual(m.parishes,[row.parish]);

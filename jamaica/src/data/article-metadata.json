@@ -1141,5 +1141,15 @@
     ],
     "summary": "Beyond a familiar coast lies a history of people escaping slavery, colonial pursuit and a landscape that made freedom possible—and dangerous.",
     "era": "1819–present"
+  },
+  {
+    "id": "language-geography-class",
+    "theme": "Language",
+    "parish": "Islandwide",
+    "parishes": [
+      "Islandwide"
+    ],
+    "summary": "Jamaican dialect, Patwa and English through geography, class, education, country/town expectations and twang. A substantial research article with six occupational field recordings, four photographs and a listening notebook.",
+    "era": "colonial period–present; recordings 1952"
   }
 ]

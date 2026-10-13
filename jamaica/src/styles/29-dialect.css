@@ -1,0 +1,18 @@
+#language-geography-class .dialect-listening-stop{background:#eef4ee;border:1px solid #bdd0bf;border-radius:16px;padding:clamp(18px,3vw,28px);margin:30px 0;scroll-margin-top:110px}
+#language-geography-class .dialect-listening-stop h3{font:700 25px/1.25 'Libre Caslon Display',Georgia,serif;color:#174c3d;margin:10px 0}
+#language-geography-class audio{display:block;width:100%;max-width:100%;margin:18px 0}
+#language-geography-class .dialect-place-photo img{width:100%;height:auto;display:block;border-radius:12px}
+#language-geography-class .dialect-place-photo figcaption{line-height:1.65;font-size:13px;margin-top:12px}
+#language-geography-class .dialect-table-wrap{overflow-x:auto;max-width:100%;margin:25px 0}
+#language-geography-class table{border-collapse:collapse;min-width:520px;width:100%;font-size:15px;line-height:1.6}
+#language-geography-class caption{text-align:left;font-weight:700;padding:12px 0;color:#174c3d}
+#language-geography-class th,#language-geography-class td{padding:13px;border:1px solid #cedbcc;text-align:left;vertical-align:top}
+#language-geography-class thead{background:#e8eee4}
+#language-geography-class .dialect-notebook{border:1px solid #c4d1bf;background:#f5f1e6;border-radius:16px;padding:24px;margin:30px 0}
+#language-geography-class .dialect-notebook label{display:block;font-weight:700;font-size:15px;margin:14px 0}
+#language-geography-class textarea{box-sizing:border-box;width:100%;max-width:100%;resize:vertical;border:1px solid #819d83;border-radius:12px;padding:15px;font:16px/1.7 'DM Sans',system-ui,sans-serif;background:#fffdf8;color:#203c2e}
+#language-geography-class .dialect-notes-actions{display:flex;flex-wrap:wrap;align-items:center;gap:12px;margin-top:14px}
+#language-geography-class .dialect-notes-actions button{min-height:44px;padding:12px 16px;border:1px solid #58795d;border-radius:10px;background:#fffdf8;color:#174c3d;font:700 14px 'DM Sans',system-ui,sans-serif;cursor:pointer}
+.dialect-feature-link{box-sizing:border-box;background:#f3eedf;border:1px solid #d8d4bb;border-radius:16px;padding:24px;margin-bottom:28px}
+.dialect-feature-link h2{font:700 clamp(25px,4vw,35px)/1.2 'Libre Caslon Display',Georgia,serif;color:#174c3d}
+@media(max-width:600px){#language-geography-class .dialect-notebook{padding:18px}#language-geography-class .dialect-notes-actions button{width:100%}.dialect-feature-link{width:calc(100% - 32px);padding:20px}#language-geography-class th,#language-geography-class td{padding:10px}}

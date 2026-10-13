@@ -1,0 +1,56 @@
+{
+  "article": "language-geography-class",
+  "research_checked": "2026-10-13",
+  "recordings": [
+    "sr2sideb",
+    "sr3sideb",
+    "sr7",
+    "sr9sidea",
+    "sr13sidea",
+    "sr15sideb"
+  ],
+  "audio_check": {
+    "status": 206,
+    "content_type": "audio/mpeg",
+    "range_bytes": 131072,
+    "decoded_sample": {
+      "recording": "sr7",
+      "codec": "mp3",
+      "sample_rate": 32000,
+      "channels": 1
+    },
+    "heard_playback_verified": false,
+    "naturalness_individually_verified": false,
+    "decoded_recordings": [
+      "sr2sideb",
+      "sr3sideb",
+      "sr7",
+      "sr9sidea",
+      "sr13sidea",
+      "sr15sideb"
+    ]
+  },
+  "catalogue": "https://sirismm.si.edu/EADs/NAA.2008-22-ead.xml",
+  "catalogue_checked_refs": [
+    "ref16",
+    "ref18",
+    "ref26",
+    "ref30",
+    "ref36",
+    "ref40"
+  ],
+  "image_assets": [
+    "media-existing-d71b51b1304a.base64",
+    "media-existing-b158c98f5727.base64",
+    "media-new-16.base64",
+    "media-new-6.base64"
+  ],
+  "images_visually_checked": true,
+  "browser_visual_review_verified": false,
+  "reason": "Managed preview requires control-browser, which is unavailable.",
+  "limitations": [
+    "Historical occupational field recordings; not a balanced contemporary corpus by geography and class.",
+    "No fabricated transcripts, exact segment timestamps or speaker class labels.",
+    "Mandeville catalogue date remains an estimate; original image record blocked retrieval in this session."
+  ]
+}
