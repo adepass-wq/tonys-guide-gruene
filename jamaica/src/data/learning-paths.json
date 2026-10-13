@@ -1,5 +1,20 @@
 [
   {
+    "id": "reconsidered-more",
+    "title": "History Reconsidered: seven further investigations",
+    "question": "What changes when we examine the category, the geographical frame and the people outside the familiar account?",
+    "bestFor": "The second run: Indigenous heritage, revolt, women, religion, migration and tourism.",
+    "articles": [
+      "reconsidered-taino",
+      "reconsidered-tacky-atlantic",
+      "reconsidered-women-1938",
+      "reconsidered-obeah",
+      "reconsidered-black-christianity",
+      "reconsidered-before-windrush",
+      "reconsidered-tourist-postcard"
+    ]
+  },
+  {
     "id": "reconsidered",
     "title": "Jamaica, reconsidered: seven histories worth questioning",
     "question": "Which familiar account changes when we examine the document, the scholar’s method and the people left outside the frame?",

@@ -1222,5 +1222,80 @@
     ],
     "era": "nineteenth century–present",
     "summary": "Mento’s marketing names, imported records, local ritual, sound-system competition and Chinese-Jamaican studio networks complicate a pure, single-line history. The surprise is how much Jamaican originality depended on transforming connections."
+  },
+  {
+    "id": "reconsidered-taino",
+    "theme": "Objects & archives",
+    "parish": "Islandwide",
+    "parishes": [
+      "St. Catherine",
+      "St. Ann"
+    ],
+    "era": "Before conquest–present",
+    "summary": "Archaeology, living heritage and genetic research ask different questions. Treating them as one verdict obscures both colonial catastrophe and the limits of what we know about Jamaica."
+  },
+  {
+    "id": "reconsidered-tacky-atlantic",
+    "theme": "Freedom & land",
+    "parish": "Islandwide",
+    "parishes": [
+      "St. Mary",
+      "Westmoreland"
+    ],
+    "era": "1760–1761",
+    "summary": "Vincent Brown’s interpretation moves beyond one leader and one parish to examine African politics, Jamaican terrain and imperial conflict together."
+  },
+  {
+    "id": "reconsidered-women-1938",
+    "theme": "Towns & trade",
+    "parish": "Islandwide",
+    "parishes": [
+      "Westmoreland",
+      "Kingston"
+    ],
+    "era": "1938–1985",
+    "summary": "Party leaders, wage records, oral testimony and Sistren’s theatre offer different views of the upheaval. Recovering women requires more than adding a heroine to the familiar political story."
+  },
+  {
+    "id": "reconsidered-obeah",
+    "theme": "Faith & family",
+    "parish": "Islandwide",
+    "parishes": [
+      "Islandwide"
+    ],
+    "era": "Eighteenth–twentieth centuries",
+    "summary": "Court categories and colonial ideas shaped what counted as Obeah. Diana Paton’s research asks us to investigate the label as well as the people placed beneath it."
+  },
+  {
+    "id": "reconsidered-black-christianity",
+    "theme": "Faith & family",
+    "parish": "Islandwide",
+    "parishes": [
+      "Kingston",
+      "St. James"
+    ],
+    "era": "1780s–nineteenth century",
+    "summary": "George Liele, Moses Baker and Black congregations complicate a story in which Europeans supplied religion and Jamaicans merely received it."
+  },
+  {
+    "id": "reconsidered-before-windrush",
+    "theme": "Towns & trade",
+    "parish": "Islandwide",
+    "parishes": [
+      "Islandwide"
+    ],
+    "era": "Post-emancipation–1948",
+    "summary": "Panama and the wider Caribbean basin restore a migration history that a Windrush-only narrative compresses. Work records reveal both movement and unequal treatment."
+  },
+  {
+    "id": "reconsidered-tourist-postcard",
+    "theme": "Objects & archives",
+    "parish": "Islandwide",
+    "parishes": [
+      "St. Ann",
+      "Kingston"
+    ],
+    "era": "1880s–present",
+    "summary": "Krista Thompson’s work shows how photographs helped construct the tropical destination. Historical pictures must be read as authored evidence rather than transparent windows."
   }
 ]

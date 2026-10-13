@@ -1,0 +1,95 @@
+{
+  "title": "History Reconsidered: the second run",
+  "checked": "2026-10-13",
+  "articles": [
+    {
+      "id": "reconsidered-taino",
+      "title": "The Taíno story does not end neatly with “extinction.”",
+      "kind": "History reconsidered",
+      "theme": "Objects & archives",
+      "parish": "Islandwide",
+      "parishes": [
+        "St. Catherine",
+        "St. Ann"
+      ],
+      "era": "Before conquest–present",
+      "summary": "Archaeology, living heritage and genetic research ask different questions. Treating them as one verdict obscures both colonial catastrophe and the limits of what we know about Jamaica."
+    },
+    {
+      "id": "reconsidered-tacky-atlantic",
+      "title": "Tacky’s revolt was a war with more than one front.",
+      "kind": "History reconsidered",
+      "theme": "Freedom & land",
+      "parish": "Islandwide",
+      "parishes": [
+        "St. Mary",
+        "Westmoreland"
+      ],
+      "era": "1760–1761",
+      "summary": "Vincent Brown’s interpretation moves beyond one leader and one parish to examine African politics, Jamaican terrain and imperial conflict together."
+    },
+    {
+      "id": "reconsidered-women-1938",
+      "title": "1938 was made by workers. Women belong in the account.",
+      "kind": "History reconsidered",
+      "theme": "Towns & trade",
+      "parish": "Islandwide",
+      "parishes": [
+        "Westmoreland",
+        "Kingston"
+      ],
+      "era": "1938–1985",
+      "summary": "Party leaders, wage records, oral testimony and Sistren’s theatre offer different views of the upheaval. Recovering women requires more than adding a heroine to the familiar political story."
+    },
+    {
+      "id": "reconsidered-obeah",
+      "title": "Obeah: the accusation has a history too.",
+      "kind": "History reconsidered",
+      "theme": "Faith & family",
+      "parish": "Islandwide",
+      "parishes": [
+        "Islandwide"
+      ],
+      "era": "Eighteenth–twentieth centuries",
+      "summary": "Court categories and colonial ideas shaped what counted as Obeah. Diana Paton’s research asks us to investigate the label as well as the people placed beneath it."
+    },
+    {
+      "id": "reconsidered-black-christianity",
+      "title": "Black Jamaicans helped make Christianity their own.",
+      "kind": "History reconsidered",
+      "theme": "Faith & family",
+      "parish": "Islandwide",
+      "parishes": [
+        "Kingston",
+        "St. James"
+      ],
+      "era": "1780s–nineteenth century",
+      "summary": "George Liele, Moses Baker and Black congregations complicate a story in which Europeans supplied religion and Jamaicans merely received it."
+    },
+    {
+      "id": "reconsidered-before-windrush",
+      "title": "The Jamaican diaspora did not begin at Tilbury.",
+      "kind": "History reconsidered",
+      "theme": "Towns & trade",
+      "parish": "Islandwide",
+      "parishes": [
+        "Islandwide"
+      ],
+      "era": "Post-emancipation–1948",
+      "summary": "Panama and the wider Caribbean basin restore a migration history that a Windrush-only narrative compresses. Work records reveal both movement and unequal treatment."
+    },
+    {
+      "id": "reconsidered-tourist-postcard",
+      "title": "The postcard Jamaica was made, not simply found.",
+      "kind": "History reconsidered",
+      "theme": "Objects & archives",
+      "parish": "Islandwide",
+      "parishes": [
+        "St. Ann",
+        "Kingston"
+      ],
+      "era": "1880s–present",
+      "summary": "Krista Thompson’s work shows how photographs helped construct the tropical destination. Historical pictures must be read as authored evidence rather than transparent windows."
+    }
+  ]
+}
