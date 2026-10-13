@@ -5407,4 +5407,30 @@ window.addEventListener('hashchange',articleContext);render();articleContext();
  function routeKey(){let id;try{id=decodeURIComponent(location.hash.slice(1));}catch(e){return 'home';}const t=E(id);return t?.closest('.reading-article')?.id||t?.closest('.guide-page')?.id||'home';}
  let previous=routeKey();window.addEventListener('hashchange',()=>{const next=routeKey();if(next!==previous)reset(previous);previous=next;});stop.addEventListener('click',()=>reset());document.addEventListener('visibilitychange',()=>{if(document.hidden)reset();});
 })();
+</script><p style="max-width:1100px;margin:1rem auto;padding:0 1rem;font-size:.85rem">Analytics: this guide uses Google Analytics to understand page and article use. Saved notes and contact details are not sent by this tracking code. Browser Do Not Track and Global Privacy Control signals are respected.</p>
+<script id="tg-edition-analytics">
+(function () {
+  if (location.hostname !== 'jamaica.tonysguide.com' || window.tgEditionAnalyticsReady) return;
+  if (navigator.globalPrivacyControl === true || navigator.doNotTrack === '1' || window.doNotTrack === '1') return;
+  window.tgEditionAnalyticsReady = true;
+  const measurementId = 'G-XPK1GLWGMK', edition = 'jamaica';
+  window.dataLayer = window.dataLayer || [];
+  window.gtag = window.gtag || function () { window.dataLayer.push(arguments); };
+  window.gtag('consent', 'default', {analytics_storage:'granted', ad_storage:'denied', ad_user_data:'denied', ad_personalization:'denied'});
+  window.gtag('js', new Date());
+  window.gtag('config', measurementId, {send_page_view:false, allow_google_signals:false, allow_ad_personalization_signals:false, guide_edition:edition});
+  let previous;
+  function pageView() {
+    const raw = location.hash.slice(1);
+    const route = /^[a-z0-9-]+$/i.test(raw) && document.getElementById(raw) ? raw : 'home';
+    if (route === previous) return;
+    previous = route;
+    window.gtag('event', 'page_view', {send_to:measurementId, page_location:location.origin + location.pathname + '#' + route, page_title:document.title, guide_edition:edition});
+  }
+  pageView();
+  window.addEventListener('hashchange', function () { requestAnimationFrame(pageView); });
+  const tag = document.createElement('script'); tag.async = true;
+  tag.src = 'https://www.googletagmanager.com/gtag/js?id=' + measurementId;
+  document.head.appendChild(tag);
+})();
 </script></body></html>
