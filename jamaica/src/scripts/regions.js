@@ -1,0 +1,1 @@
+(function(){const regions=JSON.parse(document.getElementById('region-data').textContent),map=new Map(regions.map(r=>[r.id,r]));window.TGRegions={regions,matches:(id,parishes)=>id==='all'||(map.has(id)&&parishes.some(p=>map.get(id).parishes.includes(p))),note:id=>map.get(id)?.note||'Browse all regions. Regional groupings overlap; parish filters narrow the results.'};})();

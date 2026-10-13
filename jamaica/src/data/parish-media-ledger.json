@@ -1,0 +1,704 @@
+{
+  "checked": "2026-10-12",
+  "records": [
+    {
+      "title": "Maidstone",
+      "source": "https://www.jnht.com/site_maidstone.php",
+      "image_url": "https://www.jnht.com/_images/Maidstone.jpg",
+      "asset": "parish-maidstone.base64",
+      "dimensions": [
+        250,
+        187
+      ],
+      "capture_date": "Not supplied by source",
+      "creator": "Photographer not identified; published by Jamaica National Heritage Trust",
+      "rights": "Source copyright retained; no open licence asserted",
+      "verified": "HTTP image download and image decoding succeeded",
+      "slug": "maidstone",
+      "article": "parish-maidstone",
+      "visually_inspected": true,
+      "inspection": "Subject thumbnails inspected together; correct building or community retained in caption. Low-resolution source images are not enlarged as detailed architectural surveys."
+    },
+    {
+      "title": "Mandeville Court House",
+      "source": "https://www.jnht.com/site_mandeville_court_house.php",
+      "image_url": "https://www.jnht.com/_images/mandeville_courthouse.jpg",
+      "asset": "parish-mandeville_court_house.base64",
+      "dimensions": [
+        250,
+        208
+      ],
+      "capture_date": "Not supplied by source",
+      "creator": "Photographer not identified; published by Jamaica National Heritage Trust",
+      "rights": "Source copyright retained; no open licence asserted",
+      "verified": "HTTP image download and image decoding succeeded",
+      "slug": "mandeville_court_house",
+      "article": "parish-mandeville",
+      "visually_inspected": true,
+      "inspection": "Subject thumbnails inspected together; correct building or community retained in caption. Low-resolution source images are not enlarged as detailed architectural surveys."
+    },
+    {
+      "title": "St. Peter's Church (Alley)",
+      "source": "https://www.jnht.com/site_st_peters_church_alley.php",
+      "image_url": "https://www.jnht.com/_images/st_peters_church_alley_.jpg",
+      "asset": "parish-st_peters_church_alley.base64",
+      "dimensions": [
+        250,
+        174
+      ],
+      "capture_date": "Not supplied by source",
+      "creator": "Photographer not identified; published by Jamaica National Heritage Trust",
+      "rights": "Source copyright retained; no open licence asserted",
+      "verified": "HTTP image download and image decoding succeeded",
+      "slug": "st_peters_church_alley",
+      "article": "parish-alley",
+      "visually_inspected": true,
+      "inspection": "Subject thumbnails inspected together; correct building or community retained in caption. Low-resolution source images are not enlarged as detailed architectural surveys."
+    },
+    {
+      "title": "Sligoville",
+      "source": "https://www.jnht.com/site_sligoville.php",
+      "image_url": "https://www.jnht.com/IMAGES/sligoville.jpg",
+      "asset": "parish-sligoville.base64",
+      "dimensions": [
+        300,
+        176
+      ],
+      "capture_date": "Not supplied by source",
+      "creator": "Photographer not identified; published by Jamaica National Heritage Trust",
+      "rights": "Source copyright retained; no open licence asserted",
+      "verified": "HTTP image download and image decoding succeeded",
+      "slug": "sligoville",
+      "article": "parish-sligoville",
+      "visually_inspected": true,
+      "inspection": "Subject thumbnails inspected together; correct building or community retained in caption. Low-resolution source images are not enlarged as detailed architectural surveys."
+    },
+    {
+      "title": "Seaford Town",
+      "source": "https://www.jnht.com/site_seaford_town.php",
+      "image_url": "https://www.jnht.com/_images/whitehouse.jpg",
+      "asset": "parish-seaford_town.base64",
+      "dimensions": [
+        200,
+        142
+      ],
+      "capture_date": "Not supplied by source",
+      "creator": "Photographer not identified; published by Jamaica National Heritage Trust",
+      "rights": "Source copyright retained; no open licence asserted",
+      "verified": "HTTP image download and image decoding succeeded",
+      "slug": "seaford_town",
+      "article": "parish-seaford",
+      "visually_inspected": true,
+      "inspection": "Subject thumbnails inspected together; correct building or community retained in caption. Low-resolution source images are not enlarged as detailed architectural surveys."
+    },
+    {
+      "title": "Black River",
+      "source": "https://www.jnht.com/site_black_river.php",
+      "image_url": "https://www.jnht.com/_images/waterloo_guest_house.JPG",
+      "asset": "parish-black_river.base64",
+      "dimensions": [
+        250,
+        188
+      ],
+      "capture_date": "Not supplied by source",
+      "creator": "Photographer not identified; published by Jamaica National Heritage Trust",
+      "rights": "Source copyright retained; no open licence asserted",
+      "verified": "HTTP image download and image decoding succeeded",
+      "slug": "black_river",
+      "article": "parish-blackriver",
+      "visually_inspected": true,
+      "inspection": "Subject thumbnails inspected together; correct building or community retained in caption. Low-resolution source images are not enlarged as detailed architectural surveys."
+    },
+    {
+      "article": "parish-lucea",
+      "source": "https://www.jnht.com/site_fort_charlotte.php",
+      "asset": "parish-fort_charlotte.base64",
+      "capture_date": "Not supplied",
+      "creator": "Photographer unspecified; JNHT",
+      "rights": "No open licence asserted",
+      "visually_inspected": true
+    },
+    {
+      "title": "Sam Sharpe Square",
+      "source": "https://www.jnht.com/site_sam_sharpe_square.php",
+      "image_url": "https://www.jnht.com/_images/freedom_monument.jpg",
+      "asset": "parish-sam_sharpe_square.base64",
+      "dimensions": [
+        480,
+        640
+      ],
+      "capture_date": "Not supplied by source",
+      "creator": "Photographer not identified; published by Jamaica National Heritage Trust",
+      "rights": "Source copyright retained; no open licence asserted",
+      "verified": "HTTP image download and image decoding succeeded",
+      "slug": "sam_sharpe_square",
+      "article": "parish-samsharpe",
+      "visually_inspected": true,
+      "inspection": "Subject thumbnails inspected together; correct building or community retained in caption. Low-resolution source images are not enlarged as detailed architectural surveys."
+    },
+    {
+      "title": "Kingston Railway Station",
+      "source": "https://www.jnht.com/site_kingston_railway_station.php",
+      "image_url": "https://www.jnht.com/_images/kingston_railway_station.jpg",
+      "asset": "parish-kingston_railway_station.base64",
+      "dimensions": [
+        250,
+        141
+      ],
+      "capture_date": "Not supplied by source",
+      "creator": "Photographer not identified; published by Jamaica National Heritage Trust",
+      "rights": "Source copyright retained; no open licence asserted",
+      "verified": "HTTP image download and image decoding succeeded",
+      "slug": "kingston_railway_station",
+      "article": "parish-kingston-rail",
+      "visually_inspected": true,
+      "inspection": "Subject thumbnails inspected together; correct building or community retained in caption. Low-resolution source images are not enlarged as detailed architectural surveys."
+    },
+    {
+      "title": "Devon House",
+      "source": "https://www.jnht.com/site_devon_house.php",
+      "image_url": "https://www.jnht.com/_images/devon_house.jpg",
+      "asset": "parish-devon_house.base64",
+      "dimensions": [
+        300,
+        224
+      ],
+      "capture_date": "Not supplied by source",
+      "creator": "Photographer not identified; published by Jamaica National Heritage Trust",
+      "rights": "Source copyright retained; no open licence asserted",
+      "verified": "HTTP image download and image decoding succeeded",
+      "slug": "devon_house",
+      "article": "parish-devon",
+      "visually_inspected": true,
+      "inspection": "Subject thumbnails inspected together; correct building or community retained in caption. Low-resolution source images are not enlarged as detailed architectural surveys."
+    },
+    {
+      "title": "Titchfield Peninsula",
+      "source": "https://www.jnht.com/site_titchfield_peninsula.php",
+      "image_url": "https://www.jnht.com/_images/demontevin_lodge.jpg",
+      "asset": "parish-titchfield_peninsula.base64",
+      "dimensions": [
+        250,
+        175
+      ],
+      "capture_date": "Not supplied by source",
+      "creator": "Photographer not identified; published by Jamaica National Heritage Trust",
+      "rights": "Source copyright retained; no open licence asserted",
+      "verified": "HTTP image download and image decoding succeeded",
+      "slug": "titchfield_peninsula",
+      "article": "parish-titchfield",
+      "visually_inspected": true,
+      "inspection": "Subject thumbnails inspected together; correct building or community retained in caption. Low-resolution source images are not enlarged as detailed architectural surveys."
+    },
+    {
+      "title": "Bath Botanic Garden",
+      "source": "https://www.jnht.com/site_Bath_Botanic_Garden.php",
+      "image_url": "https://www.jnht.com/_images/bath_botanic_garden.JPG",
+      "asset": "parish-Bath_Botanic_Garden.base64",
+      "dimensions": [
+        247,
+        158
+      ],
+      "capture_date": "Not supplied by source",
+      "creator": "Photographer not identified; published by Jamaica National Heritage Trust",
+      "rights": "Source copyright retained; no open licence asserted",
+      "verified": "HTTP image download and image decoding succeeded",
+      "slug": "Bath_Botanic_Garden",
+      "article": "parish-bath-gardens",
+      "visually_inspected": true
+    },
+    {
+      "source": "https://api.parliament.uk/historic-hansard/commons/1938/may/04/jamaica",
+      "asset": "parish-frome-chronology.base64",
+      "type": "Editorial SVG chronology, not a photograph",
+      "article": "parish-frome",
+      "visually_inspected": false,
+      "rights": "Original editorial vector graphic"
+    },
+    {
+      "source": "https://www.jnht.com/site_kendal_railway_tragedy.php",
+      "image_url": "https://www.jnht.com/_images/kendal_train_crash.jpg",
+      "asset": "parish-kendal_railway_tragedy.base64",
+      "slug": "kendal_railway_tragedy",
+      "dimensions": [
+        306,
+        152
+      ],
+      "capture_date": "Not supplied by source",
+      "photographer": "Not identified; JNHT publisher",
+      "visually_inspected": true,
+      "article": "parish-kendal",
+      "rights": "JNHT publisher credit preserved; no open licence asserted"
+    },
+    {
+      "source": "https://www.jnht.com/site_Kenilworth_Ruins.php",
+      "image_url": "https://www.jnht.com/_images/Kenilworth-ruins.jpg",
+      "asset": "parish-Kenilworth_Ruins.base64",
+      "slug": "Kenilworth_Ruins",
+      "dimensions": [
+        1065,
+        803
+      ],
+      "capture_date": "Not supplied by source",
+      "photographer": "Not identified; JNHT publisher",
+      "visually_inspected": true,
+      "article": "parish-kenilworth",
+      "rights": "JNHT publisher credit preserved; no open licence asserted",
+      "embedded_dimensions": [
+        1000,
+        754
+      ],
+      "web_asset_processing": "Downscaled within 1000 × 850 pixels; JPEG quality 82. Original source identity and dimensions retained."
+    },
+    {
+      "source": "https://www.jnht.com/site_claude_mckays_birthplace.php",
+      "image_url": "https://www.jnht.com/_images/claude_mckay_birthplace.jpg",
+      "asset": "parish-claude_mckays_birthplace.base64",
+      "slug": "claude_mckays_birthplace",
+      "dimensions": [
+        170,
+        107
+      ],
+      "capture_date": "Not supplied by source",
+      "photographer": "Not identified; JNHT publisher",
+      "visually_inspected": true,
+      "article": "parish-mckay",
+      "rights": "JNHT publisher credit preserved; no open licence asserted"
+    },
+    {
+      "source": "https://www.jnht.com/site_roxborough.php",
+      "image_url": "https://www.jnht.com/_images/roxborough_000.jpg",
+      "asset": "parish-roxborough.base64",
+      "slug": "roxborough",
+      "dimensions": [
+        2048,
+        1536
+      ],
+      "capture_date": "Not supplied by source",
+      "photographer": "Not identified; JNHT publisher",
+      "visually_inspected": true,
+      "article": "parish-roxborough",
+      "rights": "JNHT publisher credit preserved; no open licence asserted",
+      "embedded_dimensions": [
+        1000,
+        750
+      ],
+      "web_asset_processing": "Downscaled within 1000 × 850 pixels; JPEG quality 82. Original source identity and dimensions retained."
+    },
+    {
+      "source": "https://www.jnht.com/site_accompong.php",
+      "image_url": "https://www.jnht.com/_images/accompong.jpg",
+      "asset": "parish-accompong.base64",
+      "slug": "accompong",
+      "dimensions": [
+        300,
+        224
+      ],
+      "capture_date": "Not supplied by source",
+      "photographer": "Not identified; JNHT publisher",
+      "visually_inspected": true,
+      "article": "parish-accompong",
+      "rights": "JNHT publisher credit preserved; no open licence asserted"
+    },
+    {
+      "article": "parish-accompong",
+      "source": "https://commons.wikimedia.org/wiki/File:Accompong,_Jamaica,_early_20th_century_(imp-cswc-GB-237-CSWC47-LS12-015).jpg",
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b2/Accompong%2C_Jamaica%2C_early_20th_century_%28imp-cswc-GB-237-CSWC47-LS12-015%29.jpg/960px-Accompong%2C_Jamaica%2C_early_20th_century_%28imp-cswc-GB-237-CSWC47-LS12-015%29.jpg",
+      "capture_date": "After 1900 / early twentieth century, exact year unknown",
+      "rights": "Commons public-domain label; original repository contact note exists",
+      "visually_inspected": false,
+      "technical_check": "Web retrieval returned an image; direct local download returned 403. External image has an explicit fallback to the archive description. Real-browser loading unverified."
+    },
+    {
+      "source": "https://www.jnht.com/site_cinchona_botanical_garden.php",
+      "image_url": "https://www.jnht.com/_images/cinchona_botanical_garden.jpg",
+      "asset": "parish-cinchona_botanical_garden.base64",
+      "slug": "cinchona_botanical_garden",
+      "dimensions": [
+        250,
+        187
+      ],
+      "embedded_dimensions": [
+        250,
+        187
+      ],
+      "capture_date": "Not supplied",
+      "photographer": "Not identified; JNHT publisher",
+      "rights": "Credit retained; no open licence asserted",
+      "article": "parish-cinchona",
+      "visually_inspected": true,
+      "technical_check": "Source photograph downloaded, decoded and visually inspected. Embedded inline, not an external image dependency. Real-browser appearance remains unverified."
+    },
+    {
+      "source": "https://www.jnht.com/site_mona_great_house.php",
+      "image_url": "https://www.jnht.com/_images/mona_great_house.jpg",
+      "asset": "parish-mona_great_house.base64",
+      "slug": "mona_great_house",
+      "dimensions": [
+        145,
+        92
+      ],
+      "embedded_dimensions": [
+        145,
+        92
+      ],
+      "capture_date": "Not supplied",
+      "photographer": "Not identified; JNHT publisher",
+      "rights": "Credit retained; no open licence asserted",
+      "article": "parish-mona",
+      "visually_inspected": true,
+      "technical_check": "Source photograph downloaded, decoded and visually inspected. Embedded inline, not an external image dependency. Real-browser appearance remains unverified."
+    },
+    {
+      "source": "https://www.jnht.com/site_stokes_hall_great_house.php",
+      "image_url": "https://www.jnht.com/_images/stokes_hall.JPG",
+      "asset": "parish-stokes_hall_great_house.base64",
+      "slug": "stokes_hall_great_house",
+      "dimensions": [
+        145,
+        108
+      ],
+      "embedded_dimensions": [
+        145,
+        108
+      ],
+      "capture_date": "Not supplied",
+      "photographer": "Not identified; JNHT publisher",
+      "rights": "Credit retained; no open licence asserted",
+      "article": "parish-stokeshall",
+      "visually_inspected": true,
+      "technical_check": "Source photograph downloaded, decoded and visually inspected. Embedded inline, not an external image dependency. Real-browser appearance remains unverified."
+    },
+    {
+      "source": "https://www.jnht.com/site_moore_town.php",
+      "image_url": "https://www.jnht.com/_images/moore_townbump_grave3.JPG",
+      "asset": "parish-moore_town.base64",
+      "slug": "moore_town",
+      "dimensions": [
+        145,
+        193
+      ],
+      "embedded_dimensions": [
+        145,
+        193
+      ],
+      "capture_date": "Not supplied",
+      "photographer": "Not identified; JNHT publisher",
+      "rights": "Credit retained; no open licence asserted",
+      "article": "parish-mooretown",
+      "visually_inspected": true,
+      "technical_check": "Source photograph downloaded, decoded and visually inspected. Embedded inline, not an external image dependency. Real-browser appearance remains unverified."
+    },
+    {
+      "source": "https://www.jnht.com/site_morant_point_lighthouse.php",
+      "image_url": "https://www.jnht.com/_images/morant_point_lighthouse.jpg",
+      "asset": "parish-morant_point_lighthouse.base64",
+      "slug": "morant_point_lighthouse",
+      "dimensions": [
+        225,
+        300
+      ],
+      "embedded_dimensions": [
+        225,
+        300
+      ],
+      "capture_date": "Not supplied",
+      "photographer": "Not identified; JNHT publisher",
+      "rights": "Credit retained; no open licence asserted",
+      "article": "parish-morantpoint",
+      "visually_inspected": true,
+      "technical_check": "Source photograph downloaded, decoded and visually inspected. Embedded inline, not an external image dependency. Real-browser appearance remains unverified."
+    },
+    {
+      "source": "https://www.flickr.com/photos/nationalarchives/7642919854/",
+      "image_url": "https://live.staticflickr.com/7119/7642919854_f3a4533bc5_b.jpg",
+      "asset": "parish-gibraltar-camp.base64",
+      "slug": "gibraltar-camp",
+      "dimensions": [
+        927,
+        860
+      ],
+      "embedded_dimensions": [
+        916,
+        850
+      ],
+      "capture_date": "1940–1941, archive date range",
+      "photographer": "Unidentified; The National Archives UK publisher",
+      "identifier": "CO 1069/371, item 76",
+      "rights": "Flickr Commons: no known copyright restrictions",
+      "article": "parish-mona",
+      "visually_inspected": true,
+      "technical_check": "Source photograph downloaded, decoded and visually inspected. Embedded inline, not an external image dependency. Real-browser appearance remains unverified."
+    },
+    {
+      "source": "https://www.jnht.com/site_folly_point_lighthouse.php",
+      "image_url": "https://www.jnht.com/_images/foll_point.jpg",
+      "asset": "parish-folly_point_lighthouse.base64",
+      "slug": "folly_point_lighthouse",
+      "dimensions": [
+        209,
+        250
+      ],
+      "capture_date": "Not supplied",
+      "photographer": "Not identified; JNHT publisher",
+      "rights": "Credit retained; no open licence asserted",
+      "article": "parish-folly",
+      "visually_inspected": true,
+      "technical_check": "Source photograph downloaded, decoded and visually inspected. Embedded inline, not an external image dependency. Real-browser appearance remains unverified."
+    },
+    {
+      "slug": "fort_charlotte",
+      "source": "https://www.jnht.com/site_fort_charlotte.php",
+      "text": "",
+      "image_url": "https://www.jnht.com/_images/fort_charlotte.jpg",
+      "asset": "parish-fort_charlotte.base64",
+      "dimensions": [
+        250,
+        176
+      ],
+      "capture_date": "Not supplied",
+      "photographer": "Unidentified; JNHT publisher",
+      "rights": "Publisher credit retained; no open licence asserted",
+      "article": "parish-fortcharlotte",
+      "visually_inspected": true,
+      "technical_check": "Downloaded, decoded and visually inspected locally; inline embedded source photo. Real-browser appearance not independently verified."
+    },
+    {
+      "slug": "flat_bridge",
+      "source": "https://www.jnht.com/site_flat_bridge.php",
+      "text": "",
+      "image_url": "https://www.jnht.com/_images/flat_bridge2.jpg",
+      "asset": "parish-flat_bridge.base64",
+      "dimensions": [
+        200,
+        150
+      ],
+      "capture_date": "Not supplied",
+      "photographer": "Unidentified; JNHT publisher",
+      "rights": "Publisher credit retained; no open licence asserted",
+      "article": "parish-flatbridge",
+      "visually_inspected": true,
+      "technical_check": "Downloaded, decoded and visually inspected locally; inline embedded source photo. Real-browser appearance not independently verified."
+    },
+    {
+      "slug": "good_hope_great_house",
+      "source": "https://www.jnht.com/site_good_hope_great_house.php",
+      "text": "",
+      "image_url": "https://www.jnht.com/_images/good_hope_great_house.jpg",
+      "asset": "parish-good_hope_great_house.base64",
+      "dimensions": [
+        250,
+        188
+      ],
+      "capture_date": "Not supplied",
+      "photographer": "Unidentified; JNHT publisher",
+      "rights": "Publisher credit retained; no open licence asserted",
+      "article": "parish-goodhope",
+      "visually_inspected": true,
+      "technical_check": "Downloaded, decoded and visually inspected locally; inline embedded source photo. Real-browser appearance not independently verified."
+    },
+    {
+      "slug": "ward_theatre",
+      "source": "https://www.jnht.com/site_ward_theatre.php",
+      "text": "",
+      "image_url": "https://www.jnht.com/_images/ward_theatre_kingston.jpg",
+      "asset": "parish-ward_theatre.base64",
+      "dimensions": [
+        250,
+        164
+      ],
+      "capture_date": "Not supplied",
+      "photographer": "Unidentified; JNHT publisher",
+      "rights": "Publisher credit retained; no open licence asserted",
+      "article": "parish-ward",
+      "visually_inspected": true,
+      "technical_check": "Downloaded, decoded and visually inspected locally; inline embedded source photo. Real-browser appearance not independently verified."
+    },
+    {
+      "slug": "spanish_town",
+      "source": "https://www.jnht.com/tours_spanish_town.php",
+      "image_url": "https://www.jnht.com/_images/spanish_town_kings_house.jpg",
+      "asset": "parish-spanish_town.base64",
+      "capture_date": "Unspecified",
+      "photographer": "Unidentified; JNHT publisher",
+      "rights": "Publisher credit retained; no open licence asserted",
+      "article": "parish-spanishtown",
+      "visually_inspected": true,
+      "technical_check": "Downloaded, decoded and visually inspected locally; inline embedded source photo. Real-browser appearance not independently verified."
+    },
+    {
+      "slug": "burchell_memorial",
+      "source": "https://www.jnht.com/site_burchell_memorial.php",
+      "image_url": "https://www.jnht.com/IMAGES/BurchellMemorialChurch.JPG",
+      "asset": "parish-burchell_memorial.base64",
+      "capture_date": "Unspecified",
+      "photographer": "Unidentified; JNHT publisher",
+      "rights": "Publisher credit retained; no open licence asserted",
+      "article": "parish-burchell",
+      "visually_inspected": true,
+      "technical_check": "Downloaded, decoded and visually inspected locally; inline embedded source photo. Real-browser appearance not independently verified."
+    },
+    {
+      "article": "parish-goodhope",
+      "image_url": "https://www.daacs.org/wp-content/uploads/2015/03/GoodHopeSlaveHospital2006.jpg",
+      "source": "https://www.daacs.org/plantations/good-hope-estate/",
+      "capture_date": "March 2006",
+      "photographer": "Jillian Galle",
+      "rights": "DAACS source credit retained; no open licence asserted",
+      "visually_inspected": false,
+      "technical_check": "Web image retrieval returned a research image reference; local download returned HTTP403. External illustration has explicit fallback and source link. Browser rendering unverified."
+    },
+    {
+      "slug": "lacovia_tombstones",
+      "source": "https://www.jnht.com/site_lacovia_tombstones.php",
+      "text": "",
+      "image_url": "https://www.jnht.com/_images/lacovia_tumbstones.jpg",
+      "asset": "parish-lacovia_tombstones.base64",
+      "dimensions": [
+        250,
+        187
+      ],
+      "capture_date": "Not supplied",
+      "photographer": "Unidentified; JNHT publisher",
+      "rights": "Publisher credit retained; no open licence asserted",
+      "article": "parish-lacovia",
+      "visually_inspected": true,
+      "technical_check": "Downloaded, decoded and locally visually inspected; inline embedded. Real-browser appearance and image reuse permissions not independently verified."
+    },
+    {
+      "slug": "marshalls_pen_great_house",
+      "source": "https://www.jnht.com/site_marshalls_pen_great_house.php",
+      "text": "",
+      "image_url": "https://www.jnht.com/_images/marshalls_pen_great_house.jpg",
+      "asset": "parish-marshalls_pen_great_house.base64",
+      "dimensions": [
+        250,
+        168
+      ],
+      "capture_date": "Not supplied",
+      "photographer": "Unidentified; JNHT publisher",
+      "rights": "Publisher credit retained; no open licence asserted",
+      "article": "parish-marshallspen",
+      "visually_inspected": true,
+      "technical_check": "Downloaded, decoded and locally visually inspected; inline embedded. Real-browser appearance and image reuse permissions not independently verified."
+    },
+    {
+      "slug": "liberty_hall",
+      "source": "https://www.jnht.com/site_liberty_hall.php",
+      "text": "",
+      "image_url": "https://www.jnht.com/_images/liberty_hall__kingston_jamaica.jpg",
+      "asset": "parish-liberty_hall.base64",
+      "dimensions": [
+        300,
+        225
+      ],
+      "capture_date": "Not supplied",
+      "photographer": "Unidentified; JNHT publisher",
+      "rights": "Publisher credit retained; no open licence asserted",
+      "article": "parish-libertyhall",
+      "visually_inspected": true,
+      "technical_check": "Downloaded, decoded and locally visually inspected; inline embedded. Real-browser appearance and image reuse permissions not independently verified."
+    },
+    {
+      "slug": "halse_hall_great_house",
+      "source": "https://www.jnht.com/site_halse_hall_great_house.php",
+      "text": "",
+      "image_url": "https://www.jnht.com/_images/halse_hall.jpg",
+      "asset": "parish-halse_hall_great_house.base64",
+      "dimensions": [
+        250,
+        175
+      ],
+      "capture_date": "Not supplied",
+      "photographer": "Unidentified; JNHT publisher",
+      "rights": "Publisher credit retained; no open licence asserted",
+      "article": "parish-halsehall",
+      "visually_inspected": true,
+      "technical_check": "Downloaded, decoded and locally visually inspected; inline embedded. Real-browser appearance and image reuse permissions not independently verified."
+    },
+    {
+      "slug": "blenheim",
+      "source": "https://www.jnht.com/site_blenheim.php",
+      "text": "",
+      "image_url": "https://www.jnht.com/_images/blenheim_000.jpg",
+      "asset": "parish-blenheim.base64",
+      "dimensions": [
+        640,
+        480
+      ],
+      "capture_date": "Not supplied",
+      "photographer": "Unidentified; JNHT publisher",
+      "rights": "Publisher credit retained; no open licence asserted",
+      "article": "parish-blenheim",
+      "visually_inspected": true,
+      "technical_check": "Downloaded, decoded and locally visually inspected; inline embedded. Real-browser appearance and image reuse permissions not independently verified."
+    },
+    {
+      "slug": "savanna_la_mar_fort",
+      "source": "https://www.jnht.com/site_savanna_la_mar_fort.php",
+      "image_url": "https://www.jnht.com/_images/savlarmar_fort.jpg",
+      "asset": "parish-savanna_la_mar_fort.base64",
+      "capture_date": "Unspecified",
+      "photographer": "Unidentified; JNHT publisher",
+      "rights": "Credit retained; no open licence asserted",
+      "article": "parish-savannalamar",
+      "visually_inspected": true,
+      "technical_check": "Downloaded, decoded and locally visually inspected; inline embedded. Real-browser appearance and image reuse permissions not independently verified."
+    },
+    {
+      "slug": "marshall-owl",
+      "source": "https://www.annsuttonja.com/new-page-1",
+      "image_url": "https://images.squarespace-cdn.com/content/v1/5802a92115d5db9c8620cf93/1488662468743-4HJZQRK4A9YSUYQAIQ0N/image-asset.jpeg",
+      "asset": "parish-marshall-owl.base64",
+      "capture_date": "March 2017, source caption",
+      "photographer": "Not identified; Ann M. Haynes-Sutton publisher",
+      "rights": "Publisher credit retained; no open licence asserted",
+      "article": "parish-marshallspen",
+      "visually_inspected": true,
+      "technical_check": "Downloaded, decoded and locally visually inspected; inline embedded. Real-browser appearance and image reuse permissions not independently verified."
+    }
+  ],
+  "discovery": [
+    {
+      "source": "https://kr.pinterest.com/pin/493847915370618330/",
+      "subject": "Lucea historical image",
+      "status": "Pin inaccessible; no uncredited copy used"
+    },
+    {
+      "source": "https://www.flickr.com/photos/28320522@N08/5286468110/",
+      "subject": "Black River archive comparison",
+      "status": "Linked for examination at original source; explicit reproduction permission required, no local copy embedded"
+    }
+  ],
+  "source_cautions": [
+    "Fort Charlotte accounts contain differing date/reign descriptions; article retains broad eighteenth-century dating rather than resolving the discrepancy without further records.",
+    "Montego Bay Cultural Centre homepage search text incorrectly states 1938 for full emancipation; that sentence was not used.",
+    "Seaford Town summaries give different counts of German arrivals with different apparent scopes; no aggregate figure is asserted.",
+    "JNHT photographs are attributed source illustrations. No open licence or verified capture date is asserted. NLJ Flickr image with explicit permission terms remains a source-page link.",
+    "Frome: parliamentary reply dated 4 May 1938 reports a 2 May clash, 4 dead, 9 wounded and 93 arrests; NLJ retrospective Flickr account gives 3 May, 4 dead, 13 wounded and over 100 arrests. Both are attributed; definitive reconciliation not claimed.",
+    "Kendal: Strictly Facts page wrongly calls 1,600 the death toll. Not repeated as fact. JIS memorial account gives 187 deaths; JNHT about 1,600 passengers and near 200 deaths.",
+    "Accompong: January observance is not substituted for the primary treaty document’s 1 March 1738–9 date. Family-origin claims in the short JNHT page are not independently established or repeated.",
+    "Roxborough: JNHT text describes original house destruction in 1968 and a restoration proposal; its later site photograph is not labelled the intact original house.",
+    "McKay: JNHT and NLJ early employment timelines differ. No precise reconciliation is asserted.",
+    "NYPL full McKay finding aid was retrieved as a valid PDF from its archive bucket. Its 1909 Songs of Jamaica date conflicts with the 1912 edition and other institutional records; only the supported family-background finding is used from that paragraph. The old NYPL URL returned a non-PDF response and was replaced.",
+    "Folly mansion: government chronology distinguished from the young-bride legend. Structural explanation remains attributed belief, not a reproduced engineering finding. Inline tower photo is the separate Folly Point lighthouse. NLJ house images and copyrighted Flickr postcard are linked for examination, not embedded as freely licensed media.",
+    "Mona: great house, estate aqueduct, Gibraltar Camp and relocated chapel are distinct. Chapel fabric originated in Gale’s Valley, Trelawny; 1940–1941 camp photograph date is a range. Photograph retains whole album page and CO 1069/371 item 76 identifier.",
+    "Moore Town: Smithsonian identifies musicians, track and album release in 1992; exact session date not established. Kromanti tradition title is not treated as proof of the language of every lyric. Community site supplies an attributed contemporary voice. UNESCO direct retrieval encountered a challenge wall; its challenge media are not used.",
+    "Stokes Hall: 1656 Stokes arrival is not substituted for a settled construction date. JNHT association and broad NLJ century attribution are preserved rather than claiming a reconciled builder.",
+    "Morant Point: African Kru workers are acknowledged from JNHT’s account; individual names and employment conditions are not invented. Historic light characteristics are not current navigation advice.",
+    "Ward: JNHT theatre-site chronology starts in the 1770s; municipality gives an earlier date. Precise reconciliation not claimed. LTM first pantomime is 1941, not the municipal Ward page’s 1951 sentence. Production credits come from LTM first-decade records.",
+    "Ward: Steven Brandist Flickr photo is dated 18 January 2025, all rights reserved, linked for comparison without copying. Photographer’s quoted commentary is not treated as independent historical evidence.",
+    "Flat Bridge: construction date uncertain, after1724; Long description published1774 is not an opening date. Labour quota not converted into an invented head count. NWA modern superstructure category not substituted for original materials.",
+    "Burchell: congregation, original destroyed church, successor building and former manse are distinct. The inline JNHT image is sanctuary interior, not the manse or the 1831 original.",
+    "Good Hope: DAACS archaeological account develops household/industrial history separately from JNHT’s owner-centred summary. Speculative family scandal and monetary claims are not repeated. DAACS hospital image remains external with a fallback after local403.",
+    "Spanish Town: surviving King’s House facade is distinguished from complete residence. National Archives Flickr CO1069/369 image names Kingston and is not relabelled as Spanish Town; not used as a square illustration.",
+    "Fort Charlotte: broad eighteenth-century date retained; mid-century wording/GeorgeIII context not converted into an exactyear. Barrack capacity distinguished from actual garrison occupancy.",
+    "Pinterest discovery search returned no authenticated original image for this bounded Ward search; this does not establish that none exist.",
+    "Marshall’s Pen: JNHT’s 1755 Balcarres-as-governor statement conflicts with owner’s early19th-century house attribution. Exact acquisition/building chronology not reconciled or silently copied. Publisher-indexed abstract supplies only the limited finding on non-uniform house-yard organisation; full chapter retrieval failed.",
+    "Lacovia: Spencer’s death in1738 cannot precede his supposed descent from the later British prime minister Winston Churchill. Claim not repeated as genealogy. Tavern fight narrative is a tale, inscription/date attributed to JNHT, not independently read from tiny source image.",
+    "Blenheim: inline birthplace image is a replica/reconstruction, not intact1884 fabric. Remembrance reports distinguished from lifetime events.",
+    "Halse Hall: grant, single-storey house at1702, late1740s enlargement, laterportico and Alcoa wing are separate phases. Enslaved workers’ names and current corporate ownership not invented.",
+    "Savanna-la-Mar: unfinished fort, equipmentrange and NLJretrospectivestormdates remainattributed; no currentrestaurant/openaccess assumed. NLJFlickralbumusedasdocumentarysource, notproofthatitsphoto rightsareunrestricted.",
+    "Liberty Hall: museum’s1923purchasedate retained, notsubstitutedwithJIS’sbuiltwording. GarveyJuly1921formalNewYorkspeech reusedfromexistingguide, notrelabeledasKingstonhallconversation. MuseumvirtualexhibitionURLcouldnotbeauthenticated; notinsertedasverifiedworkingresource."
+  ]
+}

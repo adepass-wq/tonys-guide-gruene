@@ -1,0 +1,114 @@
+{
+  "checked": "2026-10-12",
+  "scope": "Public publisher and institutional records searched at BBC, British Pathé, BFI/IWM, Indiana University, Smithsonian, National Library of Jamaica, UWI and jazz session publishers. This is a bounded online search, not an exhaustive inventory of uncatalogued or offline archives.",
+  "recordings": [
+    {
+      "id": "kildare-bregiero-1914",
+      "date": "1914-05-06",
+      "kind": "Instrumental dance-orchestra recording made abroad",
+      "performer_connection": "Kingston-born Dan Kildare; issued as Joan Sawyer’s Persian Garden Orchestra",
+      "locality": "New York, USA",
+      "catalogue": "Columbia A5572; matrix 36953–1",
+      "source": "https://78-records.com/2024/05/10/vintage-record-playlist-the-clef-club-band-leaders-on-records-1914-1922/",
+      "corroboration": "https://thedocumentrecordsstore.com/product/the-earliest-black-string-bands-vol-1/",
+      "evidence": "Collector’s original-recording page identifies specific track/date/matrix. Reissue publisher independently identifies Kingston birth and 1914 recordings. Publisher volume two dates recording debut 5 May; that is not substituted for the collector’s 6 May track date.",
+      "access": "Listen on collector’s page; audio not copied or embedded because source prohibits reposting/commercial use. Publisher volumes provide further catalog/purchase routes.",
+      "natural_conversation": false,
+      "heard_playback_verified": false,
+      "inline_player": false
+    },
+    {
+      "id": "marson-1940",
+      "date": "1940-10-10",
+      "kind": "Broadcast interview",
+      "jamaican_voice": "Una Marson, interviewer; Jamaican-born identity corroborated by English Heritage",
+      "speaker_origin_limit": "Guest Ken Johnson is not classified as Jamaican.",
+      "source": "https://www.bbc.co.uk/programmes/p06bsp3f",
+      "player": "https://www.bbc.co.uk/programmes/p06bsp3f/player",
+      "duration_seconds": 117,
+      "evidence": "BBC official clip page and player retrieved HTTP 200. BBC version JSON p06bsp3h supplies duration and title. The official history page identifies date and interviewer.",
+      "spontaneity": "Interview setting; preparation or rehearsal not established",
+      "heard_playback_verified": false
+    },
+    {
+      "id": "nurse-1941",
+      "date": "1941-01-01",
+      "kind": "Contemporary first-person account",
+      "jamaican_voice": "Unnamed Jamaican nurse, as identified by CD41 original release notes",
+      "source": "https://www.cd41recordings.com/the_blitz_vol_1_1939-1941.html",
+      "player": "https://open.spotify.com/embed/track/0TbNU0zRQSBTJTsaFIRS1o",
+      "duration_note": "Publisher 4:23; streaming edition approximately 4:24",
+      "evidence": "CD41 Disc Two track 4 notes identify the Jamaican speaker and recording date. Spotify album/track and embed metadata match the title; embed retrieved HTTP 200.",
+      "spontaneity": "Contemporary account; script/preparation not established",
+      "heard_playback_verified": false,
+      "access": "Streaming preview/full playback depends on provider, account and region"
+    },
+    {
+      "id": "windrush-1948",
+      "date": "1948-06",
+      "release_date": "1948-06-24",
+      "kind": "Edited reporter/passenger exchanges in a newsreel",
+      "source": "https://www.youtube.com/watch?v=QDH4IBeZF-M",
+      "publisher": "British Pathé",
+      "evidence": "Official YouTube oEmbed retrieved HTTP 200 and identifies British Pathé/title. Issue/release date corroborated by film researcher Luke McKernan's account.",
+      "speaker_origin_limit": "Newsreel labels do not authenticate individual birthplaces of unnamed speakers. Lord Kitchener's singing is Trinidadian performance, not a Jamaican natural-speech sample.",
+      "heard_playback_verified": false
+    },
+    {
+      "id": "swabie-1921",
+      "date": "1921",
+      "kind": "Jonkonnu song performance; comparison material",
+      "source": "https://libraries.indiana.edu/roberts-beckwith-jamaica-collections",
+      "player": "https://media.dlib.indiana.edu/master_files/k0698r79j/embed",
+      "speaker": "Mrs Swabie",
+      "locality": "Prospect, Watson's Hill, Jamaica",
+      "catalogue": "54-147-F; SCY 3841 strip 2",
+      "date_limit": "Item description January 1921; collection overview summer 1921; year retained without resolving the internal discrepancy.",
+      "evidence": "Institutional source identifies public sample; canonical embed after redirect retrieved HTTP 200.",
+      "natural_conversation": false,
+      "heard_playback_verified": false
+    },
+    {
+      "id": "drums-1921",
+      "date": "1921",
+      "kind": "Fife-and-drum instrumental performance",
+      "source": "https://libraries.indiana.edu/roberts-beckwith-jamaica-collections",
+      "player": "https://media.dlib.indiana.edu/master_files/dz0117003/embed",
+      "performers": "Unidentified",
+      "locality": "Brown's Town, Jamaica",
+      "catalogue": "54-147-F; SCY 3854 strip 1",
+      "evidence": "Institutional source identifies public sample; canonical embed after redirect retrieved HTTP 200.",
+      "natural_conversation": false,
+      "heard_playback_verified": false
+    },
+    {
+      "id": "hello-west-indies-1943",
+      "date": "1943",
+      "kind": "Stage-managed wartime broadcast film; comparison material",
+      "source": "https://www.youtube.com/watch?v=cjKsRGgUa-c",
+      "publisher": "BFI",
+      "evidence": "Official YouTube oEmbed retrieved HTTP 200 identifying BFI/title. BFI description explicitly identifies staged messages; IWM CCE 211 explains the distinct shorter cut.",
+      "natural_conversation": false,
+      "heard_playback_verified": false
+    },
+    {
+      "id": "tap-your-feet-1931",
+      "date": "1931-04-08",
+      "kind": "Jazz performance; recorded in London",
+      "performer_connection": "Leslie Thompson, trumpet",
+      "source": "https://www.fremeaux.com/en/1349-jamaica-jazz-1931-1962-3561302563626-fa5636.html",
+      "corroboration": "https://www.alphaboysschoolradio.com/leslie-thompson",
+      "evidence": "Publisher session notes identify Spike Hughes Orchestra, Thompson, Decca F.2323-A and date/place. Alpha's separate example is dated 23 January 1931 and is not conflated with this session.",
+      "natural_conversation": false,
+      "heard_playback_verified": false,
+      "inline_player": false
+    }
+  ],
+  "not_verified": [
+    "A publicly playable natural-conversation recording from 1931 was not authenticated in this search; non-discovery is not evidence of nonexistence.",
+    "UWI oral histories concerning 1938 may be later recollections; subject date is not a recording date.",
+    "Indiana University's complete 1921 collection is catalogued as sung/spoken, but the selected public examples are performances. The full catalog's authorized-user access was not bypassed.",
+    "BBC, Spotify, Indiana University and YouTube player HTTP/metadata checks do not prove audible playback in the visitor's browser.",
+    "No pre-1921 natural-conversation recording or earlier recording made in Jamaica was authenticated in this bounded search. Kildare’s recordings are overseas performances, not proof of either claim."
+  ]
+}

@@ -1,0 +1,187 @@
+{
+  "checked": "2026-10-13T02:08:00.028088+00:00",
+  "records": [
+    {
+      "kind": "image",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/62/Dunns_River_Falls_2d_Photo_Don_Ramey_Logan.jpg/960px-Dunns_River_Falls_2d_Photo_Don_Ramey_Logan.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "owner": null,
+      "http_status": 200,
+      "content_type": "image/jpeg",
+      "sample_bytes": 16384,
+      "check": "Transport only; not browser decoding or heard playback"
+    },
+    {
+      "kind": "image",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/67/Jamaica_Discovery_Bay_Green_Grotto_Caves_2.jpg/960px-Jamaica_Discovery_Bay_Green_Grotto_Caves_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "owner": null,
+      "http_status": 200,
+      "content_type": "image/jpeg",
+      "sample_bytes": 16384,
+      "check": "Transport only; not browser decoding or heard playback"
+    },
+    {
+      "kind": "image",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/9/9a/JM_Sevilla_Heritage_Park_1010_%281%29_%2817256441591%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "owner": null,
+      "http_status": 206,
+      "content_type": "image/jpeg",
+      "sample_bytes": 16384,
+      "check": "Transport only; not browser decoding or heard playback"
+    },
+    {
+      "kind": "image",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cf/Port_Maria_Mile_marker_20231007_120930.jpg/960px-Port_Maria_Mile_marker_20231007_120930.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "owner": null,
+      "http_status": 200,
+      "content_type": "image/jpeg",
+      "sample_bytes": 16384,
+      "check": "Transport only; not browser decoding or heard playback"
+    },
+    {
+      "kind": "image",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f7/View_of_the_Kingston_Waterfront.jpg/960px-View_of_the_Kingston_Waterfront.jpg",
+      "owner": null,
+      "http_status": 200,
+      "content_type": "image/jpeg",
+      "sample_bytes": 16384,
+      "check": "Transport only; not browser decoding or heard playback"
+    },
+    {
+      "kind": "image",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/68/Emancipation_Park-Statues-1.jpg/960px-Emancipation_Park-Statues-1.jpg",
+      "owner": null,
+      "http_status": 200,
+      "content_type": "image/jpeg",
+      "sample_bytes": 16384,
+      "check": "Transport only; not browser decoding or heard playback"
+    },
+    {
+      "kind": "image",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4b/Frenchman%27s_Cove_%2832306710322%29.jpg/960px-Frenchman%27s_Cove_%2832306710322%29.jpg",
+      "owner": null,
+      "http_status": 200,
+      "content_type": "image/jpeg",
+      "sample_bytes": 16384,
+      "check": "Transport only; not browser decoding or heard playback"
+    },
+    {
+      "kind": "image",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fa/Negril.jpg/960px-Negril.jpg",
+      "owner": null,
+      "http_status": 200,
+      "content_type": "image/jpeg",
+      "sample_bytes": 16384,
+      "check": "Transport only; not browser decoding or heard playback"
+    },
+    {
+      "kind": "audio",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/d/d2/Jamaicanpatois-twosentences2010.ogg",
+      "owner": null,
+      "error": "HTTP Error 429: Too many requests (f061ab2)",
+      "check": "Retrieval failure in this environment does not prove the public resource is unavailable"
+    },
+    {
+      "kind": "audio",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/7/7c/Marcus_Garvey%2C_speech%2C_1921.ogg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "owner": null,
+      "http_status": 206,
+      "content_type": "application/ogg",
+      "sample_bytes": 16384,
+      "check": "Transport only; not browser decoding or heard playback"
+    },
+    {
+      "kind": "audio",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/7/7c/Marcus_Garvey%2C_speech%2C_1921.ogg",
+      "owner": "parish-libertyhall",
+      "http_status": 206,
+      "content_type": "application/ogg",
+      "sample_bytes": 16384,
+      "check": "Transport only; not browser decoding or heard playback"
+    },
+    {
+      "kind": "player",
+      "url": "https://open.spotify.com/embed/track/3xkgbIYccnQzTCuqMhQGe4",
+      "owner": null,
+      "http_status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "sample_bytes": 10501,
+      "check": "Transport only; not browser decoding or heard playback"
+    },
+    {
+      "kind": "player",
+      "url": "https://open.spotify.com/embed/track/5KxB4hPrg0dBKaLKIdoM4W",
+      "owner": null,
+      "http_status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "sample_bytes": 10487,
+      "check": "Transport only; not browser decoding or heard playback"
+    },
+    {
+      "kind": "player",
+      "url": "https://www.youtube-nocookie.com/embed/QDH4IBeZF-M?start=43&rel=0",
+      "owner": null,
+      "error": "HTTP Error 502: Bad Gateway",
+      "check": "Retrieval failure in this environment does not prove the public resource is unavailable"
+    },
+    {
+      "kind": "player",
+      "url": "https://www.youtube-nocookie.com/embed/cjKsRGgUa-c?rel=0",
+      "owner": null,
+      "error": "IncompleteRead(5254 bytes read)",
+      "check": "Retrieval failure in this environment does not prove the public resource is unavailable"
+    },
+    {
+      "kind": "player",
+      "url": "https://www.youtube-nocookie.com/embed/TBKoDaR12UQ",
+      "owner": null,
+      "error": "HTTP Error 502: Bad Gateway",
+      "check": "Retrieval failure in this environment does not prove the public resource is unavailable"
+    },
+    {
+      "kind": "player",
+      "url": "https://www.youtube-nocookie.com/embed/G3xW808tdJE",
+      "owner": null,
+      "http_status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "sample_bytes": 16384,
+      "check": "Transport only; not browser decoding or heard playback"
+    },
+    {
+      "kind": "player",
+      "url": "https://www.youtube-nocookie.com/embed/G3xW808tdJE?rel=0",
+      "owner": "read-maroon",
+      "http_status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "sample_bytes": 16384,
+      "check": "Transport only; not browser decoding or heard playback"
+    },
+    {
+      "kind": "player",
+      "url": "https://open.spotify.com/embed/track/2JBGCsAjGjXm9ECjtpsusr",
+      "owner": "read-maroon",
+      "error": "<urlopen error Tunnel connection failed: 403 Forbidden>",
+      "check": "Retrieval failure in this environment does not prove the public resource is unavailable"
+    },
+    {
+      "kind": "archive-player",
+      "url": "https://media.dlib.indiana.edu/master_files/k0698r79j/embed",
+      "owner": "click-to-load",
+      "error": "<urlopen error Tunnel connection failed: 403 Forbidden>",
+      "check": "Retrieval failure in this environment does not prove the public resource is unavailable"
+    },
+    {
+      "kind": "archive-player",
+      "url": "https://www.bbc.co.uk/programmes/p06bsp3f/player",
+      "owner": "click-to-load",
+      "error": "<urlopen error Tunnel connection failed: 403 Forbidden>",
+      "check": "Retrieval failure in this environment does not prove the public resource is unavailable"
+    },
+    {
+      "kind": "archive-player",
+      "url": "https://open.spotify.com/embed/track/5KxB4hPrg0dBKaLKIdoM4W",
+      "owner": "click-to-load",
+      "error": "<urlopen error Tunnel connection failed: 403 Forbidden>",
+      "check": "Retrieval failure in this environment does not prove the public resource is unavailable"
+    }
+  ]
+}

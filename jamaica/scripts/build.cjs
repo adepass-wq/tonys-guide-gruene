@@ -7,7 +7,7 @@ function expand(file,stack=[]){const full=path.resolve(root,file);if(!full.start
 let html=expand(manifest.source);for(const file of [...manifest.articles,...manifest.places])if(!used.has(file))throw Error('Manifest file is not included: '+file);const dom=new JSDOM(html),d=dom.window.document,metadata=JSON.parse(fs.readFileSync(path.join(root,'data/article-metadata.json'),'utf8'));
 function article(m){const el=d.getElementById(m.id);if(!el?.matches('.reading-article'))throw Error('Missing article '+m.id);return el;}
 const generated={
- 'story-index':metadata.map(m=>{const el=article(m);return {id:m.id,title:el.querySelector('h1').textContent,theme:m.theme,parish:m.parish,lede:m.summary,text:el.textContent.trim()};}),
+ 'story-index':metadata.map(m=>{const el=article(m);return {id:m.id,title:el.querySelector('h1').textContent,theme:m.theme,parish:m.parish,parishes:m.parishes||[m.parish],lede:m.summary,text:el.textContent.trim()};}),
  'story-titles':metadata.map(m=>({id:m.id,title:article(m).querySelector('h1').textContent,era:m.era})),
  'source-index':metadata.map(m=>({id:m.id,title:article(m).querySelector('h1').textContent,sources:[...article(m).querySelectorAll('.article-citations li')].map(li=>({label:li.querySelector('a')?.textContent||li.textContent,target:li.id}))}))
 };

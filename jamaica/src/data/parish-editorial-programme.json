@@ -1,0 +1,1198 @@
+{
+  "date": "2026-10-12",
+  "target": 210,
+  "counting_rule": "At least 15 substantive parish-specific articles per parish. Islandwide stories, incidental mentions, activity cards and proposed subjects do not count. Existing substantive local histories may satisfy a mapped subject after editorial review.",
+  "standard": [
+    "Local chronology and named people or communities",
+    "Evidence tied to each historical claim; distinguish folklore and interpretation",
+    "Visuals beside the relevant passage with date, actual locality, creator and source",
+    "Relevant audio or film where available; never force an unrelated clip",
+    "A learning activity and connections to other local articles",
+    "Practical activities distinguish confirmed services from heritage sites needing arrangements"
+  ],
+  "parishes": [
+    {
+      "parish": "St. Ann",
+      "minimum_dedicated_articles": 15,
+      "subjects": [
+        {
+          "title": "Sturge Town: buying land and making a village",
+          "status": "research-proposed",
+          "article_id": null
+        },
+        {
+          "title": "Seville and the Taíno settlement",
+          "status": "research-proposed",
+          "article_id": null
+        },
+        {
+          "title": "St. Ann’s Bay as a working port",
+          "status": "research-proposed",
+          "article_id": null
+        },
+        {
+          "title": "Ocho Rios before the resort economy",
+          "status": "research-proposed",
+          "article_id": null
+        },
+        {
+          "title": "Marcus Garvey’s St. Ann beginnings",
+          "status": "research-proposed",
+          "article_id": null
+        },
+        {
+          "title": "Brown’s Town and inland markets",
+          "status": "research-proposed",
+          "article_id": null
+        },
+        {
+          "title": "Nine Mile and Bob Marley’s rural world",
+          "status": "research-proposed",
+          "article_id": null
+        },
+        {
+          "title": "Moneague: roads, lodging and the interior",
+          "status": "research-proposed",
+          "article_id": null
+        },
+        {
+          "title": "Drax Hall: sugar, water and labour",
+          "status": "research-proposed",
+          "article_id": null
+        },
+        {
+          "title": "Cardiff Hall and estate households",
+          "status": "research-proposed",
+          "article_id": null
+        },
+        {
+          "title": "Discovery Bay: arrival stories and evidence",
+          "status": "research-proposed",
+          "article_id": null
+        },
+        {
+          "title": "Dry Harbour Mountains and village life",
+          "status": "research-proposed",
+          "article_id": null
+        },
+        {
+          "title": "Pimento, food plots and small farming",
+          "status": "research-proposed",
+          "article_id": null
+        },
+        {
+          "title": "Jonkonnu and the 1921 recordings",
+          "status": "research-proposed",
+          "article_id": null
+        },
+        {
+          "title": "Church schools and emancipation",
+          "status": "research-proposed",
+          "article_id": null
+        }
+      ]
+    },
+    {
+      "parish": "St. Mary",
+      "minimum_dedicated_articles": 15,
+      "subjects": [
+        {
+          "title": "Woodside: archaeology and community memory",
+          "status": "research-proposed",
+          "article_id": null
+        },
+        {
+          "title": "Tacky’s revolt and the plantation map",
+          "status": "research-proposed",
+          "article_id": null
+        },
+        {
+          "title": "Port Maria: court, harbour and town",
+          "status": "research-proposed",
+          "article_id": null
+        },
+        {
+          "title": "Annotto Bay: rivers, trade and congregation",
+          "status": "research-proposed",
+          "article_id": null
+        },
+        {
+          "title": "Oracabessa beyond famous villas",
+          "status": "research-proposed",
+          "article_id": null
+        },
+        {
+          "title": "Highgate and the inland market",
+          "status": "research-proposed",
+          "article_id": null
+        },
+        {
+          "title": "Castleton and imperial botany",
+          "status": "research-proposed",
+          "article_id": null
+        },
+        {
+          "title": "Rio Nuevo: battle and contested possession",
+          "status": "research-proposed",
+          "article_id": null
+        },
+        {
+          "title": "Brimmer Hall: estate and worker histories",
+          "status": "research-proposed",
+          "article_id": null
+        },
+        {
+          "title": "Fort Haldane and the defended port",
+          "status": "research-proposed",
+          "article_id": null
+        },
+        {
+          "title": "Galina lighthouse and coastal navigation",
+          "status": "research-proposed",
+          "article_id": null
+        },
+        {
+          "title": "Bananas, shipping and agricultural organising",
+          "status": "research-proposed",
+          "article_id": null
+        },
+        {
+          "title": "Free villages and land ownership",
+          "status": "research-proposed",
+          "article_id": null
+        },
+        {
+          "title": "House yards and rural building traditions",
+          "status": "research-proposed",
+          "article_id": null
+        },
+        {
+          "title": "St. Mary migration and family histories",
+          "status": "research-proposed",
+          "article_id": null
+        }
+      ]
+    },
+    {
+      "parish": "Trelawny",
+      "minimum_dedicated_articles": 15,
+      "subjects": [
+        {
+          "title": "Kettering and post-emancipation settlement",
+          "status": "research-proposed",
+          "article_id": null
+        },
+        {
+          "title": "Falmouth’s port and the sugar hinterland",
+          "status": "research-proposed",
+          "article_id": null
+        },
+        {
+          "title": "Good Hope: estate, labour and water",
+          "status": "staged-first-draft",
+          "article_id": "parish-goodhope",
+          "next_review": "Develop additional named local evidence and historical/current comparisons; confirm visit access and browser presentation."
+        },
+        {
+          "title": "Green Park and plantation industry",
+          "status": "research-proposed",
+          "article_id": null
+        },
+        {
+          "title": "Stewart Castle and surviving ruins",
+          "status": "research-proposed",
+          "article_id": null
+        },
+        {
+          "title": "Rio Bueno and crossing the river",
+          "status": "research-proposed",
+          "article_id": null
+        },
+        {
+          "title": "Duncans: roads, trade and settlement",
+          "status": "research-proposed",
+          "article_id": null
+        },
+        {
+          "title": "Martha Brae: river and competing stories",
+          "status": "research-proposed",
+          "article_id": null
+        },
+        {
+          "title": "Cockpit Country and contested boundaries",
+          "status": "research-proposed",
+          "article_id": null
+        },
+        {
+          "title": "Flagstaff and Maroon histories",
+          "status": "research-proposed",
+          "article_id": null
+        },
+        {
+          "title": "Albert Town and the interior",
+          "status": "research-proposed",
+          "article_id": null
+        },
+        {
+          "title": "Falmouth Jewish cemetery and community",
+          "status": "research-proposed",
+          "article_id": null
+        },
+        {
+          "title": "Baptist congregations and emancipation",
+          "status": "research-proposed",
+          "article_id": null
+        },
+        {
+          "title": "Fishing communities beyond the cruise port",
+          "status": "research-proposed",
+          "article_id": null
+        },
+        {
+          "title": "Hurricane Melissa: damage, recovery and memory",
+          "status": "research-proposed",
+          "article_id": null
+        }
+      ]
+    },
+    {
+      "parish": "St. James",
+      "minimum_dedicated_articles": 15,
+      "subjects": [
+        {
+          "title": "Sam Sharpe Square: trial and remembrance",
+          "status": "staged-first-draft",
+          "article_id": "parish-samsharpe",
+          "next_review": "Deepen with additional local archival records and current media/access checks before counting as an editorially complete article."
+        },
+        {
+          "title": "The 1831–1832 uprising in St. James",
+          "status": "research-proposed",
+          "article_id": null
+        },
+        {
+          "title": "Burchell Memorial and Baptist organisation",
+          "status": "staged-first-draft",
+          "article_id": "parish-burchell",
+          "next_review": "Develop additional named local evidence and historical/current comparisons; confirm visit access and browser presentation."
+        },
+        {
+          "title": "Montego Bay before mass tourism",
+          "status": "research-proposed",
+          "article_id": null
+        },
+        {
+          "title": "Rose Hall: records versus legend",
+          "status": "research-proposed",
+          "article_id": null
+        },
+        {
+          "title": "Greenwood: objects and plantation ownership",
+          "status": "research-proposed",
+          "article_id": null
+        },
+        {
+          "title": "Fort Montego and the waterfront",
+          "status": "research-proposed",
+          "article_id": null
+        },
+        {
+          "title": "The Cage and colonial confinement",
+          "status": "research-proposed",
+          "article_id": null
+        },
+        {
+          "title": "Montego Bay railway and trade",
+          "status": "research-proposed",
+          "article_id": null
+        },
+        {
+          "title": "Granville and free-village settlement",
+          "status": "research-proposed",
+          "article_id": null
+        },
+        {
+          "title": "Salter’s Hill and rural congregation",
+          "status": "research-proposed",
+          "article_id": null
+        },
+        {
+          "title": "Catadupa and inland transport",
+          "status": "research-proposed",
+          "article_id": null
+        },
+        {
+          "title": "Barnett and the changing estate landscape",
+          "status": "research-proposed",
+          "article_id": null
+        },
+        {
+          "title": "Doctor’s Cave and the tourism economy",
+          "status": "research-proposed",
+          "article_id": null
+        },
+        {
+          "title": "Western Jamaican art and National Gallery West",
+          "status": "research-proposed",
+          "article_id": null
+        }
+      ]
+    },
+    {
+      "parish": "Hanover",
+      "minimum_dedicated_articles": 15,
+      "subjects": [
+        {
+          "title": "Lucea: harbour, fort and museum",
+          "status": "staged-first-draft",
+          "article_id": "parish-lucea",
+          "next_review": "Deepen with additional local archival records and current media/access checks before counting as an editorially complete article."
+        },
+        {
+          "title": "Fort Charlotte and coastal defence",
+          "status": "staged-first-draft",
+          "article_id": "parish-fortcharlotte",
+          "next_review": "Develop additional named local evidence and historical/current comparisons; confirm visit access and browser presentation."
+        },
+        {
+          "title": "Hanover Museum and the saved workhouse",
+          "status": "research-proposed",
+          "article_id": null
+        },
+        {
+          "title": "Blenheim and Bustamante’s beginnings",
+          "status": "staged-first-draft",
+          "article_id": "parish-blenheim",
+          "next_review": "Deepen named archival/community evidence; verify present access, image reuse permissions, real-browser layout and media."
+        },
+        {
+          "title": "Kenilworth: sugar works and labour",
+          "status": "staged-first-draft",
+          "article_id": "parish-kenilworth",
+          "next_review": "Expand named local/community evidence and verify current visit arrangements; media/browser review outstanding."
+        },
+        {
+          "title": "Tryall’s waterwheel and estate industry",
+          "status": "research-proposed",
+          "article_id": null
+        },
+        {
+          "title": "Lucea Parish Church and memory",
+          "status": "research-proposed",
+          "article_id": null
+        },
+        {
+          "title": "Lucea town hall and local government",
+          "status": "research-proposed",
+          "article_id": null
+        },
+        {
+          "title": "Hopewell and the coastal road",
+          "status": "research-proposed",
+          "article_id": null
+        },
+        {
+          "title": "Sandy Bay and community life",
+          "status": "research-proposed",
+          "article_id": null
+        },
+        {
+          "title": "Belvidere: plantation and changing use",
+          "status": "research-proposed",
+          "article_id": null
+        },
+        {
+          "title": "Lucea market and inland food networks",
+          "status": "research-proposed",
+          "article_id": null
+        },
+        {
+          "title": "Hanover fishing and the working shore",
+          "status": "research-proposed",
+          "article_id": null
+        },
+        {
+          "title": "Family migration from Hanover",
+          "status": "research-proposed",
+          "article_id": null
+        },
+        {
+          "title": "Resort growth and access to the coast",
+          "status": "research-proposed",
+          "article_id": null
+        }
+      ]
+    },
+    {
+      "parish": "Westmoreland",
+      "minimum_dedicated_articles": 15,
+      "subjects": [
+        {
+          "title": "Seaford Town: migration and a new village",
+          "status": "staged-first-draft",
+          "article_id": "parish-seaford",
+          "next_review": "Deepen with additional local archival records and current media/access checks before counting as an editorially complete article."
+        },
+        {
+          "title": "Savanna-la-Mar: port and parish capital",
+          "status": "staged-first-draft",
+          "article_id": "parish-savannalamar",
+          "next_review": "Deepen named archival/community evidence; verify present access, image reuse permissions, real-browser layout and media."
+        },
+        {
+          "title": "The 1938 Frome labour uprising",
+          "status": "staged-first-draft",
+          "article_id": "parish-frome",
+          "next_review": "Expand named local/community evidence and verify current visit arrangements; media/browser review outstanding."
+        },
+        {
+          "title": "Bluefields: archaeology and coastal settlement",
+          "status": "research-proposed",
+          "article_id": null
+        },
+        {
+          "title": "Belmont and Peter Tosh’s musical world",
+          "status": "research-proposed",
+          "article_id": null
+        },
+        {
+          "title": "Manning’s School and educational history",
+          "status": "research-proposed",
+          "article_id": null
+        },
+        {
+          "title": "Savanna-la-Mar Baptist Church",
+          "status": "research-proposed",
+          "article_id": null
+        },
+        {
+          "title": "Ackendown Castle and the surviving ruins",
+          "status": "research-proposed",
+          "article_id": null
+        },
+        {
+          "title": "Chebuctoo: house, estate and labour",
+          "status": "research-proposed",
+          "article_id": null
+        },
+        {
+          "title": "Negril before and after tourism",
+          "status": "research-proposed",
+          "article_id": null
+        },
+        {
+          "title": "Negril lighthouse and maritime life",
+          "status": "research-proposed",
+          "article_id": null
+        },
+        {
+          "title": "Darliston and inland markets",
+          "status": "research-proposed",
+          "article_id": null
+        },
+        {
+          "title": "Beeston Spring and Moravian settlement",
+          "status": "research-proposed",
+          "article_id": null
+        },
+        {
+          "title": "Fishing communities and coastal livelihoods",
+          "status": "research-proposed",
+          "article_id": null
+        },
+        {
+          "title": "Wetlands, the Great Morass and land use",
+          "status": "research-proposed",
+          "article_id": null
+        }
+      ]
+    },
+    {
+      "parish": "St. Elizabeth",
+      "minimum_dedicated_articles": 15,
+      "subjects": [
+        {
+          "title": "Black River: warehouses, houses and trade",
+          "status": "staged-first-draft",
+          "article_id": "parish-blackriver",
+          "next_review": "Deepen with additional local archival records and current media/access checks before counting as an editorially complete article."
+        },
+        {
+          "title": "Accompong: sovereignty, treaty and community",
+          "status": "staged-first-draft",
+          "article_id": "parish-accompong",
+          "next_review": "Expand named local/community evidence and verify current visit arrangements; media/browser review outstanding."
+        },
+        {
+          "title": "Logwood and the port economy",
+          "status": "research-proposed",
+          "article_id": null
+        },
+        {
+          "title": "Lacovia and the earlier parish capital",
+          "status": "staged-first-draft",
+          "article_id": "parish-lacovia",
+          "next_review": "Deepen named archival/community evidence; verify present access, image reuse permissions, real-browser layout and media."
+        },
+        {
+          "title": "Munro College and the bequest economy",
+          "status": "research-proposed",
+          "article_id": null
+        },
+        {
+          "title": "Hampton School and women’s education",
+          "status": "research-proposed",
+          "article_id": null
+        },
+        {
+          "title": "Malvern and highland settlement",
+          "status": "research-proposed",
+          "article_id": null
+        },
+        {
+          "title": "Balaclava and the railway",
+          "status": "research-proposed",
+          "article_id": null
+        },
+        {
+          "title": "Appleton: cane, rum and labour",
+          "status": "research-proposed",
+          "article_id": null
+        },
+        {
+          "title": "Treasure Beach’s distinct communities",
+          "status": "research-proposed",
+          "article_id": null
+        },
+        {
+          "title": "Pedro Plains and dryland farming",
+          "status": "research-proposed",
+          "article_id": null
+        },
+        {
+          "title": "Bamboo Avenue and land ownership",
+          "status": "research-proposed",
+          "article_id": null
+        },
+        {
+          "title": "Lovers’ Leap: landscape versus legend",
+          "status": "research-proposed",
+          "article_id": null
+        },
+        {
+          "title": "Black River wetlands and fishing",
+          "status": "research-proposed",
+          "article_id": null
+        },
+        {
+          "title": "Hurricane recovery and south-coast livelihoods",
+          "status": "research-proposed",
+          "article_id": null
+        }
+      ]
+    },
+    {
+      "parish": "Manchester",
+      "minimum_dedicated_articles": 15,
+      "subjects": [
+        {
+          "title": "Maidstone: freedom bought in instalments",
+          "status": "staged-first-draft",
+          "article_id": "parish-maidstone",
+          "next_review": "Deepen with additional local archival records and current media/access checks before counting as an editorially complete article."
+        },
+        {
+          "title": "Mandeville courthouse and enslaved builders",
+          "status": "staged-first-draft",
+          "article_id": "parish-mandeville",
+          "next_review": "Deepen with additional local archival records and current media/access checks before counting as an editorially complete article."
+        },
+        {
+          "title": "Roxborough and Norman Manley’s beginnings",
+          "status": "staged-first-draft",
+          "article_id": "parish-roxborough",
+          "next_review": "Expand named local/community evidence and verify current visit arrangements; media/browser review outstanding."
+        },
+        {
+          "title": "Porus and Moravian settlement",
+          "status": "research-proposed",
+          "article_id": null
+        },
+        {
+          "title": "Christiana and market networks",
+          "status": "research-proposed",
+          "article_id": null
+        },
+        {
+          "title": "Kendal: railway disaster and remembrance",
+          "status": "staged-first-draft",
+          "article_id": "parish-kendal",
+          "next_review": "Expand named local/community evidence and verify current visit arrangements; media/browser review outstanding."
+        },
+        {
+          "title": "Williamsfield and inland rail connections",
+          "status": "research-proposed",
+          "article_id": null
+        },
+        {
+          "title": "Greenvale station and town growth",
+          "status": "research-proposed",
+          "article_id": null
+        },
+        {
+          "title": "Marshall’s Pen and land use",
+          "status": "staged-first-draft",
+          "article_id": "parish-marshallspen",
+          "next_review": "Deepen named archival/community evidence; verify present access, image reuse permissions, real-browser layout and media."
+        },
+        {
+          "title": "Northern Caribbean University and education",
+          "status": "research-proposed",
+          "article_id": null
+        },
+        {
+          "title": "Manchester’s bauxite transformation",
+          "status": "research-proposed",
+          "article_id": null
+        },
+        {
+          "title": "Citrus and small-farm livelihoods",
+          "status": "research-proposed",
+          "article_id": null
+        },
+        {
+          "title": "Mandeville houses and verandahs",
+          "status": "research-proposed",
+          "article_id": null
+        },
+        {
+          "title": "Alligator Pond and the southern shore",
+          "status": "research-proposed",
+          "article_id": null
+        },
+        {
+          "title": "Returning migrants and changing households",
+          "status": "research-proposed",
+          "article_id": null
+        }
+      ]
+    },
+    {
+      "parish": "Clarendon",
+      "minimum_dedicated_articles": 15,
+      "subjects": [
+        {
+          "title": "Alley: church, memorials and the Vere landscape",
+          "status": "staged-first-draft",
+          "article_id": "parish-alley",
+          "next_review": "Deepen with additional local archival records and current media/access checks before counting as an editorially complete article."
+        },
+        {
+          "title": "May Pen and crossing the Rio Minho",
+          "status": "research-proposed",
+          "article_id": null
+        },
+        {
+          "title": "Chapelton and the inland market",
+          "status": "research-proposed",
+          "article_id": null
+        },
+        {
+          "title": "Halse Hall: property and labour",
+          "status": "staged-first-draft",
+          "article_id": "parish-halsehall",
+          "next_review": "Deepen named archival/community evidence; verify present access, image reuse permissions, real-browser layout and media."
+        },
+        {
+          "title": "Claude McKay’s Sunny Ville beginnings",
+          "status": "staged-first-draft",
+          "article_id": "parish-mckay",
+          "next_review": "Expand named local/community evidence and verify current visit arrangements; media/browser review outstanding."
+        },
+        {
+          "title": "Milk River: mineral waters and public history",
+          "status": "research-proposed",
+          "article_id": null
+        },
+        {
+          "title": "Vere plains: sugar and irrigation",
+          "status": "research-proposed",
+          "article_id": null
+        },
+        {
+          "title": "Four Paths and rail-linked settlement",
+          "status": "research-proposed",
+          "article_id": null
+        },
+        {
+          "title": "Suttons station and agricultural transport",
+          "status": "research-proposed",
+          "article_id": null
+        },
+        {
+          "title": "Portland Point: peninsula and lighthouse",
+          "status": "research-proposed",
+          "article_id": null
+        },
+        {
+          "title": "Mason River and changing land use",
+          "status": "research-proposed",
+          "article_id": null
+        },
+        {
+          "title": "Bull Head and island geography",
+          "status": "research-proposed",
+          "article_id": null
+        },
+        {
+          "title": "Clarendon bauxite and industrial change",
+          "status": "research-proposed",
+          "article_id": null
+        },
+        {
+          "title": "Fishing communities of the southern coast",
+          "status": "research-proposed",
+          "article_id": null
+        },
+        {
+          "title": "Household food, markets and migration",
+          "status": "research-proposed",
+          "article_id": null
+        }
+      ]
+    },
+    {
+      "parish": "St. Catherine",
+      "minimum_dedicated_articles": 15,
+      "subjects": [
+        {
+          "title": "Sligoville: land during apprenticeship",
+          "status": "staged-first-draft",
+          "article_id": "parish-sligoville",
+          "next_review": "Deepen with additional local archival records and current media/access checks before counting as an editorially complete article."
+        },
+        {
+          "title": "Spanish Town: the capital and the square",
+          "status": "staged-first-draft",
+          "article_id": "parish-spanishtown",
+          "next_review": "Develop additional named local evidence and historical/current comparisons; confirm visit access and browser presentation."
+        },
+        {
+          "title": "Phillippo Baptist and land organisation",
+          "status": "research-proposed",
+          "article_id": null
+        },
+        {
+          "title": "Spanish Town Cathedral and memorials",
+          "status": "research-proposed",
+          "article_id": null
+        },
+        {
+          "title": "Synagogue, police station and changing sites",
+          "status": "research-proposed",
+          "article_id": null
+        },
+        {
+          "title": "Bog Walk Gorge and river crossings",
+          "status": "research-proposed",
+          "article_id": null
+        },
+        {
+          "title": "Flat Bridge and the road network",
+          "status": "staged-first-draft",
+          "article_id": "parish-flatbridge",
+          "next_review": "Develop additional named local evidence and historical/current comparisons; confirm visit access and browser presentation."
+        },
+        {
+          "title": "Linstead: market song and actual town",
+          "status": "research-proposed",
+          "article_id": null
+        },
+        {
+          "title": "Old Harbour and maritime connections",
+          "status": "research-proposed",
+          "article_id": null
+        },
+        {
+          "title": "Colbeck Castle and plantation power",
+          "status": "research-proposed",
+          "article_id": null
+        },
+        {
+          "title": "White Marl and Taíno archaeology",
+          "status": "research-proposed",
+          "article_id": null
+        },
+        {
+          "title": "Portmore: wetlands, housing and urban growth",
+          "status": "research-proposed",
+          "article_id": null
+        },
+        {
+          "title": "Fort Augusta and defence",
+          "status": "research-proposed",
+          "article_id": null
+        },
+        {
+          "title": "Railways and the old capital",
+          "status": "research-proposed",
+          "article_id": null
+        },
+        {
+          "title": "Time and Patience: settlement after slavery",
+          "status": "research-proposed",
+          "article_id": null
+        }
+      ]
+    },
+    {
+      "parish": "Kingston",
+      "minimum_dedicated_articles": 15,
+      "subjects": [
+        {
+          "title": "Kingston railway station and the port city",
+          "status": "staged-first-draft",
+          "article_id": "parish-kingston-rail",
+          "next_review": "Deepen with additional local archival records and current media/access checks before counting as an editorially complete article."
+        },
+        {
+          "title": "Port Royal before and after 1692",
+          "status": "research-proposed",
+          "article_id": null
+        },
+        {
+          "title": "Fort Charles and naval power",
+          "status": "research-proposed",
+          "article_id": null
+        },
+        {
+          "title": "The 1907 earthquake and rebuilding",
+          "status": "research-proposed",
+          "article_id": null
+        },
+        {
+          "title": "Kingston waterfront and trade",
+          "status": "research-proposed",
+          "article_id": null
+        },
+        {
+          "title": "Ward Theatre and public performance",
+          "status": "staged-first-draft",
+          "article_id": "parish-ward",
+          "next_review": "Develop additional named local evidence and historical/current comparisons; confirm visit access and browser presentation."
+        },
+        {
+          "title": "Institute of Jamaica and collecting",
+          "status": "research-proposed",
+          "article_id": null
+        },
+        {
+          "title": "National Gallery: art and national identity",
+          "status": "research-proposed",
+          "article_id": null
+        },
+        {
+          "title": "Liberty Hall and Garvey’s organisation",
+          "status": "staged-first-draft",
+          "article_id": "parish-libertyhall",
+          "next_review": "Deepen named archival/community evidence; verify present access, image reuse permissions, real-browser layout and media."
+        },
+        {
+          "title": "East Queen Street Baptist and education",
+          "status": "research-proposed",
+          "article_id": null
+        },
+        {
+          "title": "Coke Methodist and congregation",
+          "status": "research-proposed",
+          "article_id": null
+        },
+        {
+          "title": "Jewish Kingston and community institutions",
+          "status": "research-proposed",
+          "article_id": null
+        },
+        {
+          "title": "Coronation Market and food distribution",
+          "status": "research-proposed",
+          "article_id": null
+        },
+        {
+          "title": "Trench Town: housing and music",
+          "status": "research-proposed",
+          "article_id": null
+        },
+        {
+          "title": "Downtown migration and urban livelihoods",
+          "status": "research-proposed",
+          "article_id": null
+        }
+      ]
+    },
+    {
+      "parish": "St. Andrew",
+      "minimum_dedicated_articles": 15,
+      "subjects": [
+        {
+          "title": "Devon House and George Stiebel’s wealth",
+          "status": "staged-first-draft",
+          "article_id": "parish-devon",
+          "next_review": "Deepen with additional local archival records and current media/access checks before counting as an editorially complete article."
+        },
+        {
+          "title": "Half Way Tree: routes and civic power",
+          "status": "research-proposed",
+          "article_id": null
+        },
+        {
+          "title": "Mona: sugar, water and the university",
+          "status": "staged-first-draft",
+          "article_id": "parish-mona",
+          "next_review": "Add deeper named local archival/community evidence; confirm current access and browser/media presentation."
+        },
+        {
+          "title": "Papine: estate, campus and settlement",
+          "status": "research-proposed",
+          "article_id": null
+        },
+        {
+          "title": "Hope Gardens and imperial botany",
+          "status": "research-proposed",
+          "article_id": null
+        },
+        {
+          "title": "Cinchona and mountain plant transfer",
+          "status": "staged-first-draft",
+          "article_id": "parish-cinchona",
+          "next_review": "Add deeper named local archival/community evidence; confirm current access and browser/media presentation."
+        },
+        {
+          "title": "Newcastle and military settlement",
+          "status": "research-proposed",
+          "article_id": null
+        },
+        {
+          "title": "Gordon Town and Miss Lou’s memory",
+          "status": "research-proposed",
+          "article_id": null
+        },
+        {
+          "title": "August Town and Bedward’s movement",
+          "status": "research-proposed",
+          "article_id": null
+        },
+        {
+          "title": "Emancipation Park and public sculpture",
+          "status": "research-proposed",
+          "article_id": null
+        },
+        {
+          "title": "Shortwood and teacher education",
+          "status": "research-proposed",
+          "article_id": null
+        },
+        {
+          "title": "St. Andrew Parish Church and memorials",
+          "status": "research-proposed",
+          "article_id": null
+        },
+        {
+          "title": "Blue Mountain coffee and working hills",
+          "status": "research-proposed",
+          "article_id": null
+        },
+        {
+          "title": "Holywell and mountain conservation",
+          "status": "research-proposed",
+          "article_id": null
+        },
+        {
+          "title": "Urban growth and the changing house yard",
+          "status": "research-proposed",
+          "article_id": null
+        }
+      ]
+    },
+    {
+      "parish": "Portland",
+      "minimum_dedicated_articles": 15,
+      "subjects": [
+        {
+          "title": "Titchfield: houses between two harbours",
+          "status": "staged-first-draft",
+          "article_id": "parish-titchfield",
+          "next_review": "Deepen with additional local archival records and current media/access checks before counting as an editorially complete article."
+        },
+        {
+          "title": "Port Antonio and the banana trade",
+          "status": "research-proposed",
+          "article_id": null
+        },
+        {
+          "title": "Moore Town and Maroon heritage",
+          "status": "staged-first-draft",
+          "article_id": "parish-mooretown",
+          "next_review": "Add deeper named local archival/community evidence; confirm current access and browser/media presentation."
+        },
+        {
+          "title": "Nanny Town and resistance landscapes",
+          "status": "research-proposed",
+          "article_id": null
+        },
+        {
+          "title": "Charles Town: community and ceremony",
+          "status": "research-proposed",
+          "article_id": null
+        },
+        {
+          "title": "Rio Grande: farming, transport and rafting",
+          "status": "research-proposed",
+          "article_id": null
+        },
+        {
+          "title": "Boston: jerk and public food culture",
+          "status": "research-proposed",
+          "article_id": null
+        },
+        {
+          "title": "Folly: mansion, ruins and legend",
+          "status": "staged-first-draft",
+          "article_id": "parish-folly",
+          "next_review": "Add deeper named local archival/community evidence; confirm current access and browser/media presentation."
+        },
+        {
+          "title": "Nonsuch and limestone landscapes",
+          "status": "research-proposed",
+          "article_id": null
+        },
+        {
+          "title": "Buff Bay and the eastern road",
+          "status": "research-proposed",
+          "article_id": null
+        },
+        {
+          "title": "Manchioneal and fishing livelihoods",
+          "status": "research-proposed",
+          "article_id": null
+        },
+        {
+          "title": "Seaman’s Valley and plantation histories",
+          "status": "research-proposed",
+          "article_id": null
+        },
+        {
+          "title": "Portland Parish Church and town memory",
+          "status": "research-proposed",
+          "article_id": null
+        },
+        {
+          "title": "Frenchman’s Cove and tourism change",
+          "status": "research-proposed",
+          "article_id": null
+        },
+        {
+          "title": "Hurricanes, rain and settlement resilience",
+          "status": "research-proposed",
+          "article_id": null
+        }
+      ]
+    },
+    {
+      "parish": "St. Thomas",
+      "minimum_dedicated_articles": 15,
+      "subjects": [
+        {
+          "title": "Bath Gardens: plants, empire and food",
+          "status": "staged-first-draft",
+          "article_id": "parish-bath-gardens",
+          "next_review": "Deepen with additional local archival records and current media/access checks before counting as an editorially complete article."
+        },
+        {
+          "title": "Morant Bay uprising and local grievances",
+          "status": "research-proposed",
+          "article_id": null
+        },
+        {
+          "title": "Stony Gut and Paul Bogle",
+          "status": "research-proposed",
+          "article_id": null
+        },
+        {
+          "title": "Morant Bay courthouse and remembrance",
+          "status": "research-proposed",
+          "article_id": null
+        },
+        {
+          "title": "Bath mineral waters and visitors",
+          "status": "research-proposed",
+          "article_id": null
+        },
+        {
+          "title": "Morant Point lighthouse and navigation",
+          "status": "staged-first-draft",
+          "article_id": "parish-morantpoint",
+          "next_review": "Add deeper named local archival/community evidence; confirm current access and browser/media presentation."
+        },
+        {
+          "title": "Stokes Hall and early English settlement",
+          "status": "staged-first-draft",
+          "article_id": "parish-stokeshall",
+          "next_review": "Add deeper named local archival/community evidence; confirm current access and browser/media presentation."
+        },
+        {
+          "title": "Yallahs and the working river landscape",
+          "status": "research-proposed",
+          "article_id": null
+        },
+        {
+          "title": "Serge Island and agricultural change",
+          "status": "research-proposed",
+          "article_id": null
+        },
+        {
+          "title": "Kumina: religion, ancestry and community",
+          "status": "research-proposed",
+          "article_id": null
+        },
+        {
+          "title": "Lyssons and coastal histories",
+          "status": "research-proposed",
+          "article_id": null
+        },
+        {
+          "title": "Fishing communities along the eastern shore",
+          "status": "research-proposed",
+          "article_id": null
+        },
+        {
+          "title": "Road building and changing travel",
+          "status": "research-proposed",
+          "article_id": null
+        },
+        {
+          "title": "Rural schools and local organising",
+          "status": "research-proposed",
+          "article_id": null
+        },
+        {
+          "title": "Land, food plots and post-emancipation households",
+          "status": "research-proposed",
+          "article_id": null
+        }
+      ]
+    }
+  ],
+  "progress": {
+    "new_staged_narratives": 36,
+    "complete_15_per_parish": false,
+    "note": "The 210 topics are an editorial programme, not 210 completed articles. First drafts and existing narratives need review against the depth standard.",
+    "latest_batch_articles": [
+      "parish-libertyhall",
+      "parish-halsehall",
+      "parish-marshallspen",
+      "parish-savannalamar",
+      "parish-lacovia",
+      "parish-blenheim"
+    ]
+  }
+}

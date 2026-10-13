@@ -4,356 +4,931 @@
     "theme": "Freedom & land",
     "parish": "Islandwide",
     "summary": "The agreement of 1739 secured liberty and land for Cudjoe’s community. It also required the return of future fugitives. Both provisions belong at the center of the story.",
-    "era": "1739"
+    "era": "1739",
+    "parishes": [
+      "Islandwide"
+    ]
   },
   {
     "id": "read-court",
     "theme": "Freedom & land",
     "parish": "St. Ann",
     "summary": "A surviving court book brings pimento, livestock, escape and testimony into the history of St. Ann. It shows how everyday disputes entered a legal system controlled by people with power over the accused.",
-    "era": "1787–1814"
+    "era": "1787–1814",
+    "parishes": [
+      "St. Ann"
+    ]
   },
   {
     "id": "read-villages",
     "theme": "Freedom & land",
     "parish": "St. Ann",
-    "summary": "The end of slavery did not transfer estates to the people who had worked them. In St. Ann, free villages connected legal freedom to plots, households, schools and a new bargaining position.",
-    "era": "1834–1839"
+    "summary": "From apprenticeship to household land: Sligoville, Sturge Town and Maidstone’s lots, payments, terrain and school-chapel.",
+    "era": "1834–1839",
+    "parishes": [
+      "St. Ann",
+      "St. Catherine",
+      "Manchester",
+      "Trelawny"
+    ]
   },
   {
     "id": "read-barclay",
     "theme": "Towns & trade",
     "parish": "St. Mary",
     "summary": "The identified portrait of Rev. A. A. Barclay, cooperative land and credit, United Fruit, later banana shipping and Barclay Town’s St. Mary geography.",
-    "era": "1914–1936"
+    "era": "1914–1936",
+    "parishes": [
+      "St. Mary"
+    ]
   },
   {
     "id": "read-church",
     "theme": "Faith & family",
     "parish": "Both",
     "summary": "Church history changes when public finance, slavery, Black religious leadership and family records are told together. Institutions and worshippers did not always give the same meaning to Christianity.",
-    "era": "Across periods"
+    "era": "Across periods",
+    "parishes": [
+      "St. Ann",
+      "St. Mary"
+    ]
   },
   {
     "id": "read-names",
     "theme": "Faith & family",
     "parish": "Both",
     "summary": "A proprietor’s name can survive in print while the people sustaining the property appear only as a total. Reading the records together changes whose history is visible.",
-    "era": "Across periods"
+    "era": "Across periods",
+    "parishes": [
+      "St. Ann",
+      "St. Mary"
+    ]
   },
   {
     "id": "read-seville",
     "theme": "Freedom & land",
     "parish": "St. Ann",
     "summary": "One north-coast landscape contains several histories. The visitor attraction becomes more revealing when the great house is placed beside Taíno occupation, Spanish settlement and the villages of enslaved Africans.",
-    "era": "before 1494–present"
+    "era": "before 1494–present",
+    "parishes": [
+      "St. Ann"
+    ]
   },
   {
     "id": "read-town",
     "theme": "Towns & trade",
     "parish": "Both",
     "summary": "The north coast was a working and governed landscape long before its present tourist economy. Maps and property returns show how ports, plantations, churches and smaller settlements were connected.",
-    "era": "Across periods"
+    "era": "Across periods",
+    "parishes": [
+      "St. Ann",
+      "St. Mary"
+    ]
   },
   {
     "id": "read-garvey",
     "theme": "Freedom & land",
     "parish": "St. Ann",
     "summary": "Garvey connected racial dignity to institutions: newspapers, meetings, businesses and political organization. His birthplace is the beginning of a history that crosses the Atlantic, not the whole story.",
-    "era": "1887–1940"
+    "era": "1887–1940",
+    "parishes": [
+      "St. Ann"
+    ]
   },
   {
     "id": "read-culture",
     "theme": "Music & ritual",
     "parish": "Islandwide",
-    "summary": "Songs, worship, speech and public performance are not colorful extras to the historical account. They record how people worked, mourned, judged conduct and made a place for themselves.",
-    "era": "Across periods"
+    "summary": "Follow Kingston-born Dan Kildare into 1914 overseas recordings, hear both 1921 Jamaican field samples, and connect Leslie Thompson’s 1931 jazz session with work, worship and later sound.",
+    "era": "Across periods",
+    "parishes": [
+      "Islandwide"
+    ]
   },
   {
     "id": "jh-port-maria",
     "theme": "Towns & trade",
     "parish": "St. Mary",
-    "summary": "Port Maria’s civic centre is a place to connect architecture with the changing exercise of public power. The waterfront, parish church, park and former courthouse belong to a working town, not a sealed colonial scene. Their significance becomes clearer when we follow how the civic building was obtained, used and rebuilt.",
-    "era": "Across periods"
+    "summary": "Port Maria’s property and civic authority, political trial and restoration, compared with enslaved labor behind Mandeville Court House.",
+    "era": "Across periods",
+    "parishes": [
+      "St. Mary",
+      "Manchester"
+    ]
   },
   {
     "id": "jh-annotto",
     "theme": "Towns & trade",
     "parish": "St. Mary",
     "summary": "Annotto Bay grew at the mouth of the Wag Water River and is remembered as a trading settlement tied to Grays Inn sugar estate. The physical traces of industrial production matter because the plantation economy did not stop at the field. Sugar had to be processed, loaded and sold; later agricultural commodities depended on roads, river crossings, merchants and maritime access. Who owned the mills, who labored there and who controlled prices are different questions—and all belong in the history. [1]",
-    "era": "Across periods"
+    "era": "Across periods",
+    "parishes": [
+      "St. Mary"
+    ]
   },
   {
     "id": "jh-oracabessa",
     "theme": "Towns & trade",
     "parish": "St. Mary",
     "summary": "Modern Oracabessa is often introduced through famous visitors, private estates and its scenic coast. That is part of its later story, but it is not the beginning. It is a north-coast community whose history is connected to colonial fortifications, agricultural production, ports and the movement of people. The JNHT records Fort Oracabessa, also known as Fort Littleton, as a structure erected by John Allen in 1752 during the period of imperial trade warfare. Its former grounds were later subdivided and crossed by a road. Even the land occupied by military works was repurposed. [1]",
-    "era": "Across periods"
+    "era": "Across periods",
+    "parishes": [
+      "St. Mary"
+    ]
   },
   {
     "id": "jh-castleton",
     "theme": "Towns & trade",
     "parish": "St. Mary",
     "summary": "Castleton Botanical Gardens is a rewarding landscape in its own right. Established on 19 November 1862, it developed as a major tropical botanical collection. But the history of botanical gardens is not only a catalogue of rare trees. Across the colonial world, plant collection and experimentation supported the movement of commercially valuable species and the expansion of plantation economies. A full account must examine what was cultivated at Castleton, who supplied the plant material, who maintained the grounds and which local farmers benefited. [1]",
-    "era": "Across periods"
+    "era": "Across periods",
+    "parishes": [
+      "St. Mary"
+    ]
   },
   {
     "id": "jh-highgate",
     "theme": "Towns & trade",
     "parish": "St. Mary",
     "summary": "An archival Pencar River Bridge photograph opens a history of inland St. Mary’s roads, markets and agricultural networks.",
-    "era": "Across periods"
+    "era": "Across periods",
+    "parishes": [
+      "St. Mary"
+    ]
   },
   {
     "id": "jh-stannbay",
     "theme": "Towns & trade",
     "parish": "St. Ann",
     "summary": "St. Ann's Bay is a useful starting point for understanding administrative power, religion and historical memory. Its colonial townscape includes civic institutions, a parish church and a fort: the Jamaica National Heritage Trust dates St. Ann's Bay Fort to about 1750. In any town with an eighteenth-century fort and nineteenth-century administrative buildings, a history that talks only about architectural elegance has left out the people whose labor sustained the colony. [1]",
-    "era": "Across periods"
+    "era": "Across periods",
+    "parishes": [
+      "St. Ann"
+    ]
   },
   {
     "id": "jh-1907",
     "theme": "Towns & trade",
     "parish": "Both",
     "summary": "Kingston’s destruction dominates the photographs, but contemporary reports also describe the north coast. Distinguishing the places, dates and kinds of evidence changes the account.",
-    "era": "1907"
+    "era": "1907",
+    "parishes": [
+      "St. Ann",
+      "St. Mary",
+      "Kingston"
+    ]
   },
   {
     "id": "hh-seville",
     "theme": "Home & daily life",
     "parish": "St. Ann",
     "summary": "Seville’s great house is not the whole plantation. The village sites bring the people who sustained the estate back into view. Here a house was a shelter, a working place and a small part of a community living under coercion. Its importance is not that archaeology can recreate every conversation. It is that the ground preserves evidence of lives that an owner-centred tour can overlook.",
-    "era": "Across periods"
+    "era": "Across periods",
+    "parishes": [
+      "St. Ann"
+    ]
   },
   {
     "id": "hh-food",
     "theme": "Home & daily life",
     "parish": "Both",
     "summary": "A household’s food history begins before the finished dish. Someone needed fuel, utensils and ingredients, and somewhere to prepare them. At Seville, those practical questions can be connected to excavated evidence. The result is more concrete than declaring a modern recipe an unchanged survival of an ancient cuisine.",
-    "era": "Across periods"
+    "era": "Across periods",
+    "parishes": [
+      "St. Ann",
+      "St. Mary"
+    ]
   },
   {
     "id": "hh-nine",
     "theme": "Home & daily life",
     "parish": "Both",
     "summary": "LISTEN · ORIGINAL RECORDING",
-    "era": "Across periods"
+    "era": "Across periods",
+    "parishes": [
+      "St. Ann",
+      "St. Mary"
+    ]
   },
   {
     "id": "hh-harmony",
     "theme": "Home & daily life",
     "parish": "St. Mary",
     "summary": "Harmony Hall connects agricultural property, church residence and the Jamaican art world. Its familiar ornament is only the beginning. The more revealing history is how successive users turned a house into a place where crops, religious life and cultural enterprise left different marks.",
-    "era": "Across periods"
+    "era": "Across periods",
+    "parishes": [
+      "St. Mary"
+    ]
   },
   {
     "id": "hh-build",
     "theme": "Home & daily life",
     "parish": "Both",
     "summary": "A veranda can look like a decorative detail. In a household history, it raises larger questions: who could obtain materials, who built the house, who controlled the land and how a family used the space. A building’s appearance cannot answer those questions by itself. Nor should Jamaica’s houses be arranged on a simple ladder from supposedly primitive to modern.",
-    "era": "Across periods"
+    "era": "Across periods",
+    "parishes": [
+      "St. Ann",
+      "St. Mary"
+    ]
   },
   {
     "id": "hh-sleep",
     "theme": "Home & daily life",
     "parish": "Both",
     "summary": "A small house does not tell us how small a family was. Nor does a two-room plan tell us where its children slept. At Seville, archaeology lets us describe particular domestic spaces more securely than we can identify the people who occupied each room. That distinction matters: the inhabitants deserve a history, but they do not deserve invented intimate details.",
-    "era": "Across periods"
+    "era": "Across periods",
+    "parishes": [
+      "St. Ann",
+      "St. Mary"
+    ]
   },
   {
     "id": "culture-feature-0",
     "theme": "Music & ritual",
     "parish": "Islandwide",
     "summary": "Kumina joins spiritual knowledge with drumming, singing and dance. Its history includes African continuities, migration and the people who sustained a living practice in Jamaica.",
-    "era": "Across periods"
+    "era": "Across periods",
+    "parishes": [
+      "Islandwide",
+      "St. Thomas"
+    ]
   },
   {
     "id": "culture-feature-1",
     "theme": "Music & ritual",
     "parish": "Islandwide",
     "summary": "Maroon communities across Jamaica [1]",
-    "era": "Across periods"
+    "era": "Across periods",
+    "parishes": [
+      "Islandwide",
+      "Portland",
+      "St. Elizabeth"
+    ]
   },
   {
     "id": "culture-feature-2",
     "theme": "Music & ritual",
     "parish": "Islandwide",
     "summary": "The name “African-derived dance” is too broad to explain a particular form. Ettu’s documented association with Hanover places songs, movement and transmission within a community history.",
-    "era": "Across periods"
+    "era": "Across periods",
+    "parishes": [
+      "Islandwide",
+      "Hanover"
+    ]
   },
   {
     "id": "culture-feature-3",
     "theme": "Music & ritual",
     "parish": "Islandwide",
-    "summary": "Hear two Burru demonstrations and follow the tradition through named Spring Village musicians, Clarendon masquerade and Count Ossie’s Rastafari music.",
-    "era": "Across periods"
+    "summary": "Burru’s named carriers, Christmas routes, teaching demonstrations and Count Ossie connection, with Clarendon’s land-and-work history.",
+    "era": "Across periods",
+    "parishes": [
+      "Islandwide",
+      "Clarendon",
+      "St. Catherine"
+    ]
   },
   {
     "id": "culture-feature-4",
     "theme": "Music & ritual",
     "parish": "Both",
     "summary": "St. Mary, St. Ann and eastern Jamaica [1]",
-    "era": "Across periods"
+    "era": "Across periods",
+    "parishes": [
+      "St. Ann",
+      "St. Mary",
+      "St. Andrew"
+    ]
   },
   {
     "id": "culture-feature-5",
     "theme": "Music & ritual",
     "parish": "Islandwide",
     "summary": "Revival’s nineteenth-century history joins African Jamaican religious knowledge to Christian worship. The sound is part of a community’s practice, not an isolated musical effect.",
-    "era": "1860–present"
+    "era": "1860–present",
+    "parishes": [
+      "Islandwide"
+    ]
   },
   {
     "id": "culture-feature-6",
     "theme": "Music & ritual",
     "parish": "Islandwide",
     "summary": "Across Jamaica, with regional forms [1]",
-    "era": "Across periods"
+    "era": "Across periods",
+    "parishes": [
+      "Islandwide",
+      "Kingston",
+      "St. Ann"
+    ]
   },
   {
     "id": "culture-feature-7",
     "theme": "Music & ritual",
     "parish": "Islandwide",
     "summary": "Rural Jamaica, towns and the recording era [1]",
-    "era": "Across periods"
+    "era": "Across periods",
+    "parishes": [
+      "Islandwide"
+    ]
   },
   {
     "id": "language-story",
     "theme": "Language",
     "parish": "Islandwide",
     "summary": "Jamaican Creole has history, grammar and literature. The important distinction is not between people with and without language, but between the ways Jamaicans speak and the power attached to those ways of speaking.",
-    "era": "colonial period–present"
+    "era": "colonial period–present",
+    "parishes": [
+      "Islandwide"
+    ]
   },
   {
     "id": "history-tacky",
     "theme": "Freedom & land",
     "parish": "St. Mary",
     "summary": "The revolt associated with Tacky began in St. Mary, but its history crosses the island and the Atlantic. Forts, plantations, African military experience and imperial war belong in the same account.",
-    "era": "1760–1761"
+    "era": "1760–1761",
+    "parishes": [
+      "St. Mary"
+    ]
   },
   {
     "id": "history-morant",
     "theme": "Freedom & land",
     "parish": "Islandwide",
     "summary": "Paul Bogle’s march reached a courthouse in a society where emancipation had not brought equal access to land, justice or political authority.",
-    "era": "1865–1866"
+    "era": "1865–1866",
+    "parishes": [
+      "Islandwide",
+      "St. Thomas"
+    ]
   },
   {
     "id": "history-independence",
     "theme": "Freedom & land",
     "parish": "Islandwide",
     "summary": "Labor organization, the right to vote, self-government and the decision about federation were distinct steps. Independence was built through institutions as well as celebrated through symbols.",
-    "era": "1938–1962"
+    "era": "1938–1962",
+    "parishes": [
+      "Islandwide"
+    ]
   },
   {
     "id": "history-migration",
     "theme": "Faith & family",
     "parish": "Islandwide",
     "summary": "Indenture and later migration brought new communities into an already unequal society. Their histories belong within Jamaican life, not in a footnote about colorful influences.",
-    "era": "1845–present"
+    "era": "1845–present",
+    "parishes": [
+      "Islandwide"
+    ]
   },
   {
     "id": "object-negro-world",
     "theme": "Objects & archives",
     "parish": "Islandwide",
     "summary": "Examine a real front page, then hear Garvey’s recorded voice: print, political imagination and the practical work of organising across borders.",
-    "era": "1920–1921"
+    "era": "1920–1921",
+    "parishes": [
+      "Islandwide"
+    ]
   },
   {
     "id": "object-market",
     "theme": "Objects & archives",
     "parish": "St. Catherine",
     "summary": "Look closely at a dated market photograph, then hear Miss Lou’s later Linstead Market: two different ways to preserve working life.",
-    "era": "1891–20th century"
+    "era": "1891–20th century",
+    "parishes": [
+      "St. Catherine"
+    ]
   },
   {
     "id": "object-independence",
     "theme": "Objects & archives",
     "parish": "Islandwide",
     "summary": "Examine the original statute and watch the Kingston ceremony. See how July’s legislation and August’s public celebration describe different steps.",
-    "era": "1962"
+    "era": "1962",
+    "parishes": [
+      "Islandwide"
+    ]
   },
   {
     "id": "object-banana",
     "theme": "Objects & archives",
     "parish": "Islandwide",
     "summary": "Read a historical work photograph beside the banana economy and a farmer’s later recorded explanation. Landscape, labour and organisation enter the same story.",
-    "era": "Late 19th–20th centuries"
+    "era": "Late 19th–20th centuries",
+    "parishes": [
+      "Islandwide"
+    ]
   },
   {
     "id": "history-jamaica",
     "theme": "Freedom & land",
     "parish": "Islandwide",
-    "summary": "A national history from Indigenous communities through conquest, slavery, freedom and independence—then a route into the regional histories behind the places you visit.",
-    "era": "Before 1494–present"
+    "summary": "Follow land, labor and political authority from Indigenous settlement to independence, with Spanish Town’s civic landscape and connected regional reading.",
+    "era": "Before 1494–present",
+    "parishes": [
+      "Islandwide",
+      "St. Catherine",
+      "Kingston"
+    ]
   },
   {
     "id": "history-ocho-stann",
     "theme": "Towns & trade",
     "parish": "St. Ann",
     "summary": "Seville, St. Ann’s Bay, free villages and Ocho Rios show how Indigenous settlement, plantation labor, land ownership and tourism inhabit the same north-coast landscape.",
-    "era": "Before 1494–present"
+    "era": "Before 1494–present",
+    "parishes": [
+      "St. Ann"
+    ]
   },
   {
     "id": "history-trelawny-falmouth",
     "theme": "Towns & trade",
     "parish": "Trelawny",
     "summary": "Falmouth’s Georgian buildings become more meaningful when the town is connected to enslaved labor, Martha Brae transport, inland estates, emancipation and the changing shipping economy.",
-    "era": "1770–present"
+    "era": "1770–present",
+    "parishes": [
+      "Trelawny"
+    ]
   },
   {
     "id": "history-melissa-falmouth",
     "theme": "Towns & trade",
     "parish": "Trelawny",
     "summary": "Hurricane Melissa’s October 2025 passage damaged health services and disrupted everyday life. Read the documented damage separately from today’s operating conditions.",
-    "era": "2025–2026"
+    "era": "2025–2026",
+    "parishes": [
+      "Trelawny"
+    ]
   },
   {
     "id": "history-stjames",
     "theme": "Freedom & land",
     "parish": "St. James",
     "summary": "The parish is more than a resort arrival point. Indigenous traces, plantation districts, emancipation struggle and Maroon country place Montego Bay in a deeper western-Jamaican history.",
-    "era": "Before 1494–present"
+    "era": "Before 1494–present",
+    "parishes": [
+      "St. James"
+    ]
   },
   {
     "id": "history-cockpit",
     "theme": "Freedom & land",
     "parish": "Islandwide",
     "summary": "The limestone interior is a cultural landscape as well as a forest. Its terrain shaped the struggle over freedom; its protection today involves water, biodiversity and the people who live around it.",
-    "era": "1739–present"
+    "era": "1739–present",
+    "parishes": [
+      "Islandwide",
+      "Trelawny",
+      "St. Elizabeth"
+    ]
   },
   {
     "id": "history-stmary-hills",
     "theme": "Home & daily life",
     "parish": "St. Mary",
     "summary": "Leave the coastal highway and read St. Mary through Woodside, Highgate and the routes joining farming communities to Port Maria and Annotto Bay.",
-    "era": "Before 1494–present"
+    "era": "Before 1494–present",
+    "parishes": [
+      "St. Mary"
+    ]
   },
   {
     "id": "history-housing",
     "theme": "Home & daily life",
     "parish": "Islandwide",
     "summary": "A road through Jamaica passes houses shaped by land, labor, climate, family and money. Read ordinary households alongside great houses, and resist guessing an entire life from a façade.",
-    "era": "17th–20th centuries"
+    "era": "17th–20th centuries",
+    "parishes": [
+      "Islandwide",
+      "St. Ann",
+      "Kingston",
+      "St. Catherine"
+    ]
   },
   {
     "id": "history-great-houses",
     "theme": "Objects & archives",
     "parish": "Islandwide",
     "summary": "Tour a building with its labor and land history in view. These houses offer different stories—and their current access is not interchangeable.",
-    "era": "1745–present"
+    "era": "1745–present",
+    "parishes": [
+      "Islandwide"
+    ]
   },
   {
     "id": "history-dancehall",
     "theme": "Music & ritual",
     "parish": "Islandwide",
     "summary": "Sound systems, selectors, deejays, dance, public space and the reasons music is heard across Jamaica.",
-    "era": "1940s–present"
+    "era": "1940s–present",
+    "parishes": [
+      "Islandwide"
+    ]
   },
   {
     "id": "jamaica-like-local",
     "theme": "Home & daily life",
     "parish": "Islandwide",
     "summary": "A practical guide to experiencing Jamaica through local food, transport, communities, markets and respectful everyday encounters.",
-    "era": "Present day"
+    "era": "Present day",
+    "parishes": [
+      "Islandwide"
+    ]
+  },
+  {
+    "id": "early-jamaican-voices",
+    "theme": "Language",
+    "parish": "Islandwide",
+    "parishes": [
+      "Islandwide"
+    ],
+    "era": "1921–1948",
+    "summary": "Hear Una Marson’s 1940 interview, a Jamaican nurse’s 1941 personal account and Windrush’s 1948 filmed replies; compare with clearly labelled 1921 song and 1943 broadcast material."
+  },
+  {
+    "id": "history-windrush",
+    "theme": "Towns & trade",
+    "parish": "Islandwide",
+    "parishes": [
+      "Islandwide",
+      "Portland"
+    ],
+    "era": "1947–present",
+    "summary": "Hear the 1948 Windrush interviews, then follow passenger records, Jamaican biographies, citizenship chronology and the lives beyond the gangplank."
+  },
+  {
+    "id": "history-una-marson",
+    "theme": "Language",
+    "parish": "Islandwide",
+    "parishes": [
+      "Islandwide"
+    ],
+    "era": "1928–1943",
+    "summary": "Una Marson’s journalism, organizing and broadcasting, with the 1940 interview and wartime-film comparison played within her history."
+  },
+  {
+    "id": "parish-maidstone",
+    "theme": "Freedom & land",
+    "parish": "Manchester",
+    "parishes": [
+      "Manchester"
+    ],
+    "summary": "A Manchester village makes emancipation tangible: a purchased coffee property, uneven land, household plots and the work of building institutions.",
+    "era": "Across periods"
+  },
+  {
+    "id": "parish-mandeville",
+    "theme": "Home & daily life",
+    "parish": "Manchester",
+    "parishes": [
+      "Manchester"
+    ],
+    "summary": "The staircase and limestone make an imposing town landmark. The harder history is the labour that put it there.",
+    "era": "Across periods"
+  },
+  {
+    "id": "parish-alley",
+    "theme": "Faith & family",
+    "parish": "Clarendon",
+    "parishes": [
+      "Clarendon"
+    ],
+    "summary": "St. Peter’s opens a local history of the Vere landscape through masonry, sound, elite memorials and the people missing from them.",
+    "era": "Across periods"
+  },
+  {
+    "id": "parish-sligoville",
+    "theme": "Freedom & land",
+    "parish": "St. Catherine",
+    "parishes": [
+      "St. Catherine"
+    ],
+    "summary": "A named purchaser brings St. Catherine’s first free-village story out of a list of missionary achievements and into the lives of people making decisions.",
+    "era": "Across periods"
+  },
+  {
+    "id": "parish-seaford",
+    "theme": "Freedom & land",
+    "parish": "Westmoreland",
+    "parishes": [
+      "Westmoreland"
+    ],
+    "summary": "Westmoreland’s German settlement belongs in a history of land, labour recruitment and Jamaican belonging, not a display of residents’ ancestry.",
+    "era": "Across periods"
+  },
+  {
+    "id": "parish-blackriver",
+    "theme": "Towns & trade",
+    "parish": "St. Elizabeth",
+    "parishes": [
+      "St. Elizabeth"
+    ],
+    "summary": "St. Elizabeth’s capital rewards a close look at the relationship between river, exports, merchant wealth and the people treated as cargo.",
+    "era": "Across periods"
+  },
+  {
+    "id": "parish-lucea",
+    "theme": "Towns & trade",
+    "parish": "Hanover",
+    "parishes": [
+      "Hanover"
+    ],
+    "summary": "Hanover’s capital deserves a history of its own. The waterfront, defended entrance and preserved museum site offer three different ways to read it.",
+    "era": "Across periods"
+  },
+  {
+    "id": "parish-samsharpe",
+    "theme": "Freedom & land",
+    "parish": "St. James",
+    "parishes": [
+      "St. James"
+    ],
+    "summary": "Montego Bay’s central square holds several dates at once. Read the trial site, the Cage and later memorials as different historical layers.",
+    "era": "Across periods"
+  },
+  {
+    "id": "parish-kingston-rail",
+    "theme": "Towns & trade",
+    "parish": "Kingston",
+    "parishes": [
+      "Kingston"
+    ],
+    "summary": "The station’s brickwork and covered platform lead into the history of a capital connected to places beyond its waterfront.",
+    "era": "Across periods"
+  },
+  {
+    "id": "parish-devon",
+    "theme": "Home & daily life",
+    "parish": "St. Andrew",
+    "parishes": [
+      "St. Andrew"
+    ],
+    "summary": "George Stiebel’s mansion is a St. Andrew history of ambition and domestic space. The ice cream stop is only one way to encounter it.",
+    "era": "Across periods"
+  },
+  {
+    "id": "parish-titchfield",
+    "theme": "Towns & trade",
+    "parish": "Portland",
+    "parishes": [
+      "Portland"
+    ],
+    "summary": "Port Antonio’s peninsula lets you connect a physical landform with settlement, architecture and a changing port economy.",
+    "era": "Across periods"
+  },
+  {
+    "id": "parish-bath-gardens",
+    "theme": "Home & daily life",
+    "parish": "St. Thomas",
+    "parishes": [
+      "St. Thomas"
+    ],
+    "summary": "A St. Thomas garden links plants, ships, institutions and everyday food. The attractive greenery is the doorway into that history.",
+    "era": "Across periods"
+  },
+  {
+    "id": "parish-frome",
+    "theme": "Freedom & land",
+    "parish": "Westmoreland",
+    "parishes": [
+      "Westmoreland"
+    ],
+    "summary": "Westmoreland’s labour history begins with people seeking work, a factory under construction and a wage dispute. The documents let us examine how that conflict was reported.",
+    "era": "Across periods"
+  },
+  {
+    "id": "parish-kendal",
+    "theme": "Towns & trade",
+    "parish": "Manchester",
+    "parishes": [
+      "Manchester"
+    ],
+    "summary": "A church excursion linked Kingston and Montego Bay. Its return journey ended in Manchester, leaving family histories that cannot be reduced to a railway statistic.",
+    "era": "Across periods"
+  },
+  {
+    "id": "parish-kenilworth",
+    "theme": "Freedom & land",
+    "parish": "Hanover",
+    "parishes": [
+      "Hanover"
+    ],
+    "summary": "Hanover’s surviving industrial walls lead into crop accounts, changes of land use and the difficulty of finding workers in records organised around property.",
+    "era": "Across periods"
+  },
+  {
+    "id": "parish-mckay",
+    "theme": "Language",
+    "parish": "Clarendon",
+    "parishes": [
+      "Clarendon"
+    ],
+    "summary": "Begin with James Hill and a poem about cultivating and selling bananas. McKay’s Jamaican writing deserves attention before the story moves to Harlem.",
+    "era": "Across periods"
+  },
+  {
+    "id": "parish-roxborough",
+    "theme": "Home & daily life",
+    "parish": "Manchester",
+    "parishes": [
+      "Manchester"
+    ],
+    "summary": "Norman Manley’s Manchester beginnings lead into family property, national politics and the later choices involved in preserving a hero’s birthplace.",
+    "era": "Across periods"
+  },
+  {
+    "id": "parish-accompong",
+    "theme": "Freedom & land",
+    "parish": "St. Elizabeth",
+    "parishes": [
+      "St. Elizabeth"
+    ],
+    "summary": "St. Elizabeth’s Maroon history is a story of resistance, negotiated obligations, living institutions and community-specific cultural knowledge.",
+    "era": "Across periods"
+  },
+  {
+    "id": "parish-mooretown",
+    "theme": "Language",
+    "parish": "Portland",
+    "parishes": [
+      "Portland"
+    ],
+    "summary": "Portland’s Maroon heritage is a living history of place, language and sound. Start with the community, then listen to a recording whose musicians and release date are actually identified.",
+    "era": "Across periods"
+  },
+  {
+    "id": "parish-folly",
+    "theme": "Home & daily life",
+    "parish": "Portland",
+    "parishes": [
+      "Portland"
+    ],
+    "summary": "A crumbling house near Port Antonio acquired a memorable marriage legend. The better story is what happens when photographs and dates interrupt a familiar tale.",
+    "era": "Across periods"
+  },
+  {
+    "id": "parish-morantpoint",
+    "theme": "Towns & trade",
+    "parish": "St. Thomas",
+    "parishes": [
+      "St. Thomas"
+    ],
+    "summary": "At Jamaica’s eastern point, an 1841 tower opens a history of maritime infrastructure, imported ironwork and African skilled labour.",
+    "era": "Across periods"
+  },
+  {
+    "id": "parish-stokeshall",
+    "theme": "Freedom & land",
+    "parish": "St. Thomas",
+    "parishes": [
+      "St. Thomas"
+    ],
+    "summary": "St. Thomas’s surviving great-house walls connect an early settler family with estate power and the damage of the 1907 earthquake. The chronology needs more care than a single founding date.",
+    "era": "Across periods"
+  },
+  {
+    "id": "parish-mona",
+    "theme": "Towns & trade",
+    "parish": "St. Andrew",
+    "parishes": [
+      "St. Andrew"
+    ],
+    "summary": "At Mona, a campus landscape contains several histories at once. Follow the waterworks, examine a wartime camp photograph, then distinguish reused barracks from a chapel moved from another parish.",
+    "era": "Across periods"
+  },
+  {
+    "id": "parish-cinchona",
+    "theme": "Towns & trade",
+    "parish": "St. Andrew",
+    "parishes": [
+      "St. Andrew"
+    ],
+    "summary": "High in St. Andrew, a botanical garden connects altitude, imported crops and colonial economic ambition. Its beauty becomes more interesting when we ask what it was established to do.",
+    "era": "Across periods"
+  },
+  {
+    "id": "parish-ward",
+    "theme": "Towns & trade",
+    "parish": "Kingston",
+    "parishes": [
+      "Kingston"
+    ],
+    "summary": "A downtown theatre connects rebuilding after the 1907 earthquake with pantomime, Jamaican language and the people who made public performance possible.",
+    "era": "Across periods"
+  },
+  {
+    "id": "parish-spanishtown",
+    "theme": "Towns & trade",
+    "parish": "St. Catherine",
+    "parishes": [
+      "St. Catherine"
+    ],
+    "summary": "Four sides of a civic square hold different forms of authority. Read the governor’s residence, assembly, court and naval memorial as a historical argument, not simply a collection of Georgian facades.",
+    "era": "Across periods"
+  },
+  {
+    "id": "parish-flatbridge",
+    "theme": "Towns & trade",
+    "parish": "St. Catherine",
+    "parishes": [
+      "St. Catherine"
+    ],
+    "summary": "Bog Walk Gorge holds a crossing whose construction date is uncertain but whose history of coerced work, repair and river damage deserves attention.",
+    "era": "Across periods"
+  },
+  {
+    "id": "parish-goodhope",
+    "theme": "Towns & trade",
+    "parish": "Trelawny",
+    "parishes": [
+      "Trelawny"
+    ],
+    "summary": "The Martha Brae estate becomes more revealing when the main house is read beside archaeological evidence for enslaved households, production and later changes of use.",
+    "era": "Across periods"
+  },
+  {
+    "id": "parish-burchell",
+    "theme": "Towns & trade",
+    "parish": "St. James",
+    "parishes": [
+      "St. James"
+    ],
+    "summary": "Montego Bay’s Baptist history joins an earlier Black-led religious movement, Sam Sharpe’s leadership and a church rebuilt after violent repression.",
+    "era": "Across periods"
+  },
+  {
+    "id": "parish-fortcharlotte",
+    "theme": "Towns & trade",
+    "parish": "Hanover",
+    "parishes": [
+      "Hanover"
+    ],
+    "summary": "Hanover’s coastal fort becomes a study of harbour defence, changing technology and the later reuse of a military site.",
+    "era": "Across periods"
+  },
+  {
+    "id": "parish-libertyhall",
+    "theme": "Freedom & land",
+    "parish": "Kingston",
+    "parishes": [
+      "Kingston"
+    ],
+    "summary": "At 76 King Street, a meeting place became a centre for organising, enterprise and education. Its history connects Garvey’s international arguments with a specific Kingston institution.",
+    "era": "Across periods"
+  },
+  {
+    "id": "parish-halsehall",
+    "theme": "Freedom & land",
+    "parish": "Clarendon",
+    "parishes": [
+      "Clarendon"
+    ],
+    "summary": "Clarendon’s great house carries several building phases, from a defensive estate centre to a more elaborate residence and a later industrial-company addition.",
+    "era": "Across periods"
+  },
+  {
+    "id": "parish-marshallspen",
+    "theme": "Freedom & land",
+    "parish": "Manchester",
+    "parishes": [
+      "Manchester"
+    ],
+    "summary": "Near Mandeville, an estate’s coffee remains and archaeological research sit beside a private nature reserve. The history becomes stronger when the house is only the beginning.",
+    "era": "Across periods"
+  },
+  {
+    "id": "parish-savannalamar",
+    "theme": "Towns & trade",
+    "parish": "Westmoreland",
+    "parishes": [
+      "Westmoreland"
+    ],
+    "summary": "Great George Street leads toward a coastal fort, but Westmoreland’s capital is best understood through public institutions, storms and the limits of colonial defence.",
+    "era": "Across periods"
+  },
+  {
+    "id": "parish-lacovia",
+    "theme": "Towns & trade",
+    "parish": "St. Elizabeth",
+    "parishes": [
+      "St. Elizabeth"
+    ],
+    "summary": "An inland settlement and a pair of tombstones offer different kinds of evidence for St. Elizabeth’s past. The inscription, the tale and the family claim should not be treated as equally secure.",
+    "era": "Across periods"
+  },
+  {
+    "id": "parish-blenheim",
+    "theme": "Home & daily life",
+    "parish": "Hanover",
+    "parishes": [
+      "Hanover"
+    ],
+    "summary": "A rural Hanover birthplace connects a national political life with the later decisions involved in preserving and presenting a home.",
+    "era": "Across periods"
   }
 ]

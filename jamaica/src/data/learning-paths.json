@@ -1,0 +1,200 @@
+[
+  {
+    "id": "country",
+    "title": "Start with the country",
+    "question": "How did control of land, labor and political authority change?",
+    "bestFor": "A first orientation before exploring individual parishes.",
+    "articles": [
+      "history-jamaica",
+      "read-seville",
+      "history-tacky",
+      "read-villages",
+      "history-morant",
+      "history-independence",
+      "object-independence"
+    ]
+  },
+  {
+    "id": "north-coast",
+    "title": "The north coast beyond the resort",
+    "question": "How did households, inland production and ports shape the coast visitors see?",
+    "bestFor": "A St. Ann–St. Mary trip with historical context.",
+    "articles": [
+      "history-ocho-stann",
+      "jh-stannbay",
+      "read-town",
+      "jh-port-maria",
+      "jh-annotto",
+      "jh-oracabessa",
+      "jh-highgate",
+      "history-stmary-hills",
+      "jh-castleton",
+      "read-barclay",
+      "object-banana"
+    ]
+  },
+  {
+    "id": "west",
+    "title": "Western Jamaica: freedom and a port",
+    "question": "Whose labor and resistance belong behind the architecture and landscape?",
+    "bestFor": "Falmouth, Trelawny, St. James and Cockpit Country.",
+    "articles": [
+      "history-trelawny-falmouth",
+      "history-stjames",
+      "read-maroon",
+      "history-cockpit",
+      "history-melissa-falmouth"
+    ]
+  },
+  {
+    "id": "home",
+    "title": "How people made a home",
+    "question": "What can houses, yards and objects reveal about work, privacy and resources?",
+    "bestFor": "Ordinary lives across centuries, beyond the great house.",
+    "articles": [
+      "history-housing",
+      "hh-seville",
+      "hh-build",
+      "hh-sleep",
+      "hh-food",
+      "object-market",
+      "hh-nine",
+      "history-great-houses",
+      "hh-harmony"
+    ]
+  },
+  {
+    "id": "sound",
+    "title": "Hear the history behind the sound",
+    "question": "What changes when music moves between work, worship, mourning, a stage and a recording?",
+    "bestFor": "Listening with social and historical context.",
+    "articles": [
+      "read-culture",
+      "culture-feature-0",
+      "culture-feature-2",
+      "culture-feature-3",
+      "culture-feature-4",
+      "culture-feature-5",
+      "culture-feature-6",
+      "culture-feature-7",
+      "history-dancehall"
+    ]
+  },
+  {
+    "id": "voices",
+    "title": "Language, movement and belonging",
+    "question": "How do place, migration and authority shape the way a voice is heard?",
+    "bestFor": "The language atlas, Kromanti and Jamaican speech in context.",
+    "articles": [
+      "early-jamaican-voices",
+      "history-una-marson",
+      "history-windrush",
+      "language-story",
+      "culture-feature-1",
+      "history-migration",
+      "jamaica-like-local"
+    ]
+  },
+  {
+    "id": "records",
+    "title": "Family, faith and the records",
+    "question": "Whose words and relationships become visible in an unequal archive?",
+    "bestFor": "Readers connecting community history with family research.",
+    "articles": [
+      "read-names",
+      "read-court",
+      "read-church",
+      "read-garvey",
+      "object-negro-world"
+    ]
+  },
+  {
+    "id": "change",
+    "title": "A place does not stand still",
+    "question": "How do damage, rebuilding and changes of use alter what survives?",
+    "bestFor": "Comparing historical images with living places.",
+    "articles": [
+      "jh-1907",
+      "history-melissa-falmouth",
+      "hh-harmony",
+      "history-housing",
+      "history-trelawny-falmouth"
+    ]
+  },
+  {
+    "id": "parish-first-batch",
+    "title": "Land, towns and local memory across the parishes",
+    "question": "How do different local sites reveal land ownership, institutions, migration and remembrance?",
+    "bestFor": "Compare twelve parish-specific histories without treating every place as the same story. Read at home or choose one local cluster for a visit.",
+    "articles": [
+      "parish-maidstone",
+      "parish-mandeville",
+      "parish-alley",
+      "parish-sligoville",
+      "parish-seaford",
+      "parish-blackriver",
+      "parish-lucea",
+      "parish-samsharpe",
+      "parish-kingston-rail",
+      "parish-devon",
+      "parish-titchfield",
+      "parish-bath-gardens"
+    ]
+  },
+  {
+    "id": "parish-evidence",
+    "title": "Work, journeys and the making of memory",
+    "question": "How do local records, buildings, literature and sound change what we understand about a parish?",
+    "bestFor": "A deeper study across Westmoreland, Manchester, Hanover, Clarendon and St. Elizabeth; choose a local pair when travelling.",
+    "articles": [
+      "parish-frome",
+      "parish-kendal",
+      "parish-kenilworth",
+      "parish-mckay",
+      "parish-roxborough",
+      "parish-accompong"
+    ]
+  },
+  {
+    "id": "eastern-landscapes",
+    "title": "Eastern landscapes: sound, structures and changing uses",
+    "question": "How do a community’s music, surviving buildings and historical images reveal different local histories?",
+    "bestFor": "Study Portland, St. Thomas and St. Andrew in three local pairs. This is a reading sequence, not a single driving circuit.",
+    "articles": [
+      "parish-mooretown",
+      "parish-folly",
+      "parish-morantpoint",
+      "parish-stokeshall",
+      "parish-mona",
+      "parish-cinchona"
+    ]
+  },
+  {
+    "id": "institutions-and-work",
+    "title": "Public places: performance, freedom and work",
+    "question": "How do public buildings, religious networks and infrastructure reveal who held power and who did the work?",
+    "bestFor": "Study Kingston, St. Catherine and three western parishes. Choose a local cluster for a visit; this is not a single driving circuit.",
+    "articles": [
+      "parish-ward",
+      "parish-spanishtown",
+      "parish-flatbridge",
+      "parish-goodhope",
+      "parish-burchell",
+      "parish-fortcharlotte"
+    ]
+  },
+  {
+    "id": "land-memory-and-learning",
+    "title": "Land, memory and the work of learning",
+    "question": "How do ownership, ordinary households and later remembrance change the history a place can tell?",
+    "bestFor": "Compare Kingston, Clarendon, Manchester, Westmoreland, St. Elizabeth and Hanover. Choose one local cluster; this is a reading sequence, not a driving circuit.",
+    "articles": [
+      "parish-libertyhall",
+      "parish-halsehall",
+      "parish-marshallspen",
+      "parish-savannalamar",
+      "parish-lacovia",
+      "parish-blenheim"
+    ]
+  }
+]

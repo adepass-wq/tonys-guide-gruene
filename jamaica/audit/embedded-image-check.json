@@ -1,0 +1,616 @@
+{
+  "unique_embedded_images": 68,
+  "decoded": 68,
+  "failures": [],
+  "records": [
+    {
+      "alt": "Participants prepare food at tables on Yaaman\u2019s covered veranda kitchen, with sea visible beyond the garden.",
+      "status": "decoded",
+      "dimensions": [
+        563,
+        450
+      ],
+      "bytes": 45897
+    },
+    {
+      "alt": "Island Village lawn, not boardwalk",
+      "status": "decoded",
+      "dimensions": [
+        780,
+        521
+      ],
+      "bytes": 93831
+    },
+    {
+      "alt": "Rider preparing for ATV safari",
+      "status": "decoded",
+      "dimensions": [
+        780,
+        439
+      ],
+      "bytes": 79216
+    },
+    {
+      "alt": "Horseback sea portion, St. Ann coast \u00b7 Chukka Seville/Dunn\u2019s combination gallery, capture date unspecified",
+      "status": "decoded",
+      "dimensions": [
+        780,
+        585
+      ],
+      "bytes": 48951
+    },
+    {
+      "alt": "Hermosa Cove shoreline and thatched pavilions, Ocho Rios \u00b7 operator photograph, capture date unspecified",
+      "status": "decoded",
+      "dimensions": [
+        520,
+        780
+      ],
+      "bytes": 46682
+    },
+    {
+      "alt": "Guide poling a bamboo raft with two passengers wearing life jackets on the White River",
+      "status": "decoded",
+      "dimensions": [
+        600,
+        400
+      ],
+      "bytes": 80822
+    },
+    {
+      "alt": "Blue oceanfront building with Ocean\u2019s11 Restaurant&Bar sign, seawall and water.",
+      "status": "decoded",
+      "dimensions": [
+        780,
+        439
+      ],
+      "bytes": 58742
+    },
+    {
+      "alt": "Beach sand, a blue lounger, timber deck with open thatched-roof dining structure and building behind.",
+      "status": "decoded",
+      "dimensions": [
+        780,
+        371
+      ],
+      "bytes": 57210
+    },
+    {
+      "alt": "A white plate with glazed grilled meat portions and a bowl of fries.",
+      "status": "decoded",
+      "dimensions": [
+        585,
+        780
+      ],
+      "bytes": 63102
+    },
+    {
+      "alt": "Chill Pops shop signage \u00b7 Island Village, Ocho Rios",
+      "status": "decoded",
+      "dimensions": [
+        780,
+        587
+      ],
+      "bytes": 91228
+    },
+    {
+      "alt": "Pure Chocolate packaging \u00b7 published by Island Village, Ocho Rios",
+      "status": "decoded",
+      "dimensions": [
+        780,
+        390
+      ],
+      "bytes": 67857
+    },
+    {
+      "alt": "Rolly Polly storefront \u00b7 Island Village, Ocho Rios",
+      "status": "decoded",
+      "dimensions": [
+        780,
+        390
+      ],
+      "bytes": 46409
+    },
+    {
+      "alt": "Starbucks drinks \u00b7 brand product image published by Island Village; this is not the Ocho Rios branch interior",
+      "status": "decoded",
+      "dimensions": [
+        780,
+        390
+      ],
+      "bytes": 54508
+    },
+    {
+      "alt": "Pizza Please brand logo \u00b7 published by Island Village; this is not a storefront photograph",
+      "status": "decoded",
+      "dimensions": [
+        780,
+        693
+      ],
+      "bytes": 47108
+    },
+    {
+      "alt": "Christopher\u2019s at Hermosa Cove \u00b7 Hermosa Lane, Ocho Rios",
+      "status": "decoded",
+      "dimensions": [
+        520,
+        780
+      ],
+      "bytes": 66922
+    },
+    {
+      "alt": "Ocho Rios Jerk Centre entrance \u00b7 14 DaCosta Drive, Ocho Rios",
+      "status": "decoded",
+      "dimensions": [
+        780,
+        585
+      ],
+      "bytes": 128365
+    },
+    {
+      "alt": "Actual roof/entrance bearing Smirnoff and Mongoose Jamaica Restaurant & Lounge signage and red ENTRANCE sign.",
+      "status": "decoded",
+      "dimensions": [
+        780,
+        438
+      ],
+      "bytes": 58320
+    },
+    {
+      "alt": "Collage of signed entrance, wooden bar, evening dining table and outdoor veranda tables.",
+      "status": "decoded",
+      "dimensions": [
+        550,
+        549
+      ],
+      "bytes": 80695
+    },
+    {
+      "alt": "Interior dining room with upholstered booths, set tables and railing in foreground.",
+      "status": "decoded",
+      "dimensions": [
+        780,
+        585
+      ],
+      "bytes": 71155
+    },
+    {
+      "alt": "Two fried chicken pieces, fries and Pepsi in a composite product image.",
+      "status": "decoded",
+      "dimensions": [
+        780,
+        408
+      ],
+      "bytes": 39973
+    },
+    {
+      "alt": "A golden beef patty on a white plate, cut open to reveal filling.",
+      "status": "decoded",
+      "dimensions": [
+        417,
+        400
+      ],
+      "bytes": 15628
+    },
+    {
+      "alt": "Miss T\u2019s Kitchen dining area \u00b7 65 Main Street, Ocho Rios",
+      "status": "decoded",
+      "dimensions": [
+        780,
+        520
+      ],
+      "bytes": 109856
+    },
+    {
+      "alt": "Looking toward Ocho Rios from Mystic Mountain as a rainstorm approaches, June 2016.",
+      "status": "decoded",
+      "dimensions": [
+        960,
+        720
+      ],
+      "bytes": 97355
+    },
+    {
+      "alt": "Port Maria courthouse and mile marker \u00b7 2023",
+      "status": "decoded",
+      "dimensions": [
+        960,
+        540
+      ],
+      "bytes": 137636
+    },
+    {
+      "alt": "Blenheim, Hanover: reconstruction of Alexander Bustamante\u2019s birthplace in JNHT\u2019s source photograph. It is explicitly a replica, not the intact house from 1884. Photographer and capture date unspecified.",
+      "status": "decoded",
+      "dimensions": [
+        640,
+        480
+      ],
+      "bytes": 72503
+    },
+    {
+      "alt": "Lacovia tombstone site, St. Elizabeth, in JNHT\u2019s later source photograph. Photographer and capture date unspecified; this small view cannot independently verify the complete inscription or a heraldic genealogy.",
+      "status": "decoded",
+      "dimensions": [
+        250,
+        187
+      ],
+      "bytes": 12774
+    },
+    {
+      "alt": "Savanna-la-Mar fort, Westmoreland, in JNHT\u2019s later source photograph. Photographer and capture date unspecified; surviving coastal masonry does not depict the full proposed fort or its eighteenth-century condition.",
+      "status": "decoded",
+      "dimensions": [
+        145,
+        94
+      ],
+      "bytes": 3962
+    },
+    {
+      "alt": "Marshall\u2019s Pen great house, Manchester, in JNHT\u2019s later source photograph. Photographer and capture date unspecified. The image is not a reconstruction of the enslaved village or a guarantee of present tour access.",
+      "status": "decoded",
+      "dimensions": [
+        250,
+        168
+      ],
+      "bytes": 12510
+    },
+    {
+      "alt": "Jamaican owl downy chick and adult at Marshall\u2019s Pen, Manchester, identified in the source caption as March 2017.",
+      "status": "decoded",
+      "dimensions": [
+        1000,
+        722
+      ],
+      "bytes": 144709
+    },
+    {
+      "alt": "Halse Hall great house, Clarendon, in JNHT\u2019s later source photograph. Capture date and photographer unspecified; the visible two-storey house is not the original single-storey building of Thomas Halse\u2019s lifetime.",
+      "status": "decoded",
+      "dimensions": [
+        250,
+        175
+      ],
+      "bytes": 7393
+    },
+    {
+      "alt": "Liberty Hall, 76 King Street, Kingston, in JNHT\u2019s later source photograph. Photographer and capture date unspecified. The restored facade is not a dated photograph of a 1923 meeting.",
+      "status": "decoded",
+      "dimensions": [
+        300,
+        225
+      ],
+      "bytes": 16663
+    },
+    {
+      "alt": "Fort Charlotte, Lucea, Hanover, in JNHT\u2019s undated source photograph, showing surviving masonry and a gun position. Photographer unspecified; not a reconstruction of the eighteenth-century garrison.",
+      "status": "decoded",
+      "dimensions": [
+        250,
+        176
+      ],
+      "bytes": 9086
+    },
+    {
+      "alt": "Burchell Memorial Church interior, Montego Bay, St. James, in JNHT\u2019s later source photograph. Capture date and photographer unspecified; it does not show the original sanctuary destroyed during the 1831\u20131832 conflict.",
+      "status": "decoded",
+      "dimensions": [
+        145,
+        109
+      ],
+      "bytes": 3984
+    },
+    {
+      "alt": "Good Hope great-house interior, Trelawny, in JNHT\u2019s source photograph. Capture date and photographer unspecified. Furnishings visible in this later view do not establish the room\u2019s eighteenth-century arrangement.",
+      "status": "decoded",
+      "dimensions": [
+        250,
+        188
+      ],
+      "bytes": 11114
+    },
+    {
+      "alt": "Flat Bridge over the Rio Cobre, St. Catherine, in JNHT\u2019s later source photograph. Capture date and photographer unspecified; this is not a view of the eighteenth-century timber deck.",
+      "status": "decoded",
+      "dimensions": [
+        200,
+        150
+      ],
+      "bytes": 9726
+    },
+    {
+      "alt": "Old King\u2019s House facade, Spanish Town, St. Catherine, in JNHT\u2019s source photograph. Capture date and photographer unspecified. The surviving facade is not the intact pre-1925 residence.",
+      "status": "decoded",
+      "dimensions": [
+        150,
+        100
+      ],
+      "bytes": 5451
+    },
+    {
+      "alt": "Ward Theatre, North Parade, Kingston, in JNHT\u2019s undated exterior photograph. Photographer unspecified. This is the 1912 theatre\u2019s later appearance, not an image of its destroyed predecessor.",
+      "status": "decoded",
+      "dimensions": [
+        250,
+        164
+      ],
+      "bytes": 10988
+    },
+    {
+      "alt": "Cinchona Botanical Garden, St. Andrew: terraces, planting and buildings in JNHT\u2019s source photograph. Capture date and photographer unspecified; not a guarantee of present garden or road conditions.",
+      "status": "decoded",
+      "dimensions": [
+        250,
+        187
+      ],
+      "bytes": 20210
+    },
+    {
+      "alt": "Mona great house, St. Andrew, in JNHT\u2019s source photograph. It is a separate estate residence, not the campus chapel or a Gibraltar Camp barrack. Capture date and photographer unspecified.",
+      "status": "decoded",
+      "dimensions": [
+        145,
+        92
+      ],
+      "bytes": 4819
+    },
+    {
+      "alt": "Archival album page with a photograph of buildings at Gibraltar Camp, Jamaica, dated 1940\u20131941.",
+      "status": "decoded",
+      "dimensions": [
+        916,
+        850
+      ],
+      "bytes": 85345
+    },
+    {
+      "alt": "Stokes Hall great-house ruins, St. Thomas, in JNHT\u2019s source photograph. Capture date and photographer unspecified; visible walls do not establish the complete original plan.",
+      "status": "decoded",
+      "dimensions": [
+        145,
+        108
+      ],
+      "bytes": 7033
+    },
+    {
+      "alt": "Morant Point lighthouse, St. Thomas: the tall tower in JNHT\u2019s source photograph. Capture date and photographer unspecified; the photograph does not establish present access or operating characteristics.",
+      "status": "decoded",
+      "dimensions": [
+        225,
+        300
+      ],
+      "bytes": 12930
+    },
+    {
+      "alt": "Folly Point lighthouse, Portland, in JNHT\u2019s source photograph. This is a nearby, separate landmark, not the Folly mansion. Capture date and photographer unspecified.",
+      "status": "decoded",
+      "dimensions": [
+        209,
+        250
+      ],
+      "bytes": 11418
+    },
+    {
+      "alt": "Moore Town, Portland: monument and plaque at the site associated with Nanny, in JNHT\u2019s source photograph. Capture date and photographer unspecified. The image is not a reconstruction of an eighteenth-century settlement.",
+      "status": "decoded",
+      "dimensions": [
+        145,
+        193
+      ],
+      "bytes": 9509
+    },
+    {
+      "alt": "Accompong entrance, St. Elizabeth, in JNHT\u2019s undated later photograph. Photographer unspecified; it is not an image of the eighteenth-century treaty negotiations.",
+      "status": "decoded",
+      "dimensions": [
+        300,
+        224
+      ],
+      "bytes": 32225
+    },
+    {
+      "alt": "Roxborough site, Manchester, in JNHT\u2019s undated later photograph. The visible roofed structure is not evidence that Norman Manley\u2019s original birth house survives unchanged.",
+      "status": "decoded",
+      "dimensions": [
+        1000,
+        750
+      ],
+      "bytes": 239335
+    },
+    {
+      "alt": "Building identified by JNHT as Claude McKay\u2019s birthplace, Clarendon. Photographer and image date unspecified; this photograph does not establish the building\u2019s present condition.",
+      "status": "decoded",
+      "dimensions": [
+        170,
+        107
+      ],
+      "bytes": 6190
+    },
+    {
+      "alt": "Kenilworth industrial ruins, Hanover, in JNHT\u2019s later source photograph. Photographer and capture date unspecified. The walls are not a complete reconstruction of the operating works.",
+      "status": "decoded",
+      "dimensions": [
+        1000,
+        754
+      ],
+      "bytes": 187809
+    },
+    {
+      "alt": "Kendal railway disaster, Manchester, 1957: wrecked carriage and people beside the train in the image published by JNHT. Photographer and exact capture date unspecified; not a present-day visitor scene.",
+      "status": "decoded",
+      "dimensions": [
+        306,
+        152
+      ],
+      "bytes": 13967
+    },
+    {
+      "alt": "Frome, Westmoreland: an editorial chronology constructed from the 4 May 1938 parliamentary report and NLJ\u2019s Labour Day history. This is a learning graphic, not a period photograph.",
+      "status": "decoded",
+      "dimensions": "SVG",
+      "bytes": 1944
+    },
+    {
+      "alt": "Entrance to Bath Botanical Gardens, St. Thomas, in JNHT\u2019s source photograph. Photographer and capture date unspecified. The gate image does not establish current opening or plant identification.",
+      "status": "decoded",
+      "dimensions": [
+        247,
+        158
+      ],
+      "bytes": 14976
+    },
+    {
+      "alt": "DeMontevin Lodge on Titchfield Peninsula, Port Antonio, Portland, identified on JNHT\u2019s district page. Photographer and capture date unspecified; the image does not establish current accommodation or interior access.",
+      "status": "decoded",
+      "dimensions": [
+        250,
+        175
+      ],
+      "bytes": 11647
+    },
+    {
+      "alt": "Devon House, St. Andrew, in the JNHT source photograph. Photographer and capture date unspecified. A restored exterior does not show the complete 1881 household.",
+      "status": "decoded",
+      "dimensions": [
+        300,
+        224
+      ],
+      "bytes": 23735
+    },
+    {
+      "alt": "Kingston Railway Station, Kingston parish. Later exterior photograph published by JNHT; photographer and capture date unspecified. The image does not establish present rail service or public access.",
+      "status": "decoded",
+      "dimensions": [
+        250,
+        141
+      ],
+      "bytes": 11395
+    },
+    {
+      "alt": "Freedom Monument in Sam Sharpe Square, Montego Bay, St. James. JNHT photograph, capture date and photographer unspecified. This is a later memorial, not the site as it appeared in 1832.",
+      "status": "decoded",
+      "dimensions": [
+        480,
+        640
+      ],
+      "bytes": 60951
+    },
+    {
+      "alt": "Waterloo House on High Street, Black River, St. Elizabeth. JNHT photograph, photographer and capture date unspecified. This later view does not establish present condition or visitor access.",
+      "status": "decoded",
+      "dimensions": [
+        250,
+        188
+      ],
+      "bytes": 13857
+    },
+    {
+      "alt": "Seaford Town villa, Westmoreland, identified by JNHT as a former convent. Photographer and capture date unspecified; the image does not establish the building\u2019s original construction date.",
+      "status": "decoded",
+      "dimensions": [
+        200,
+        142
+      ],
+      "bytes": 9403
+    },
+    {
+      "alt": "Sligoville, St. Catherine: a later street scene published by JNHT, photographer and capture date unspecified. It is not an image of the 1835 purchase.",
+      "status": "decoded",
+      "dimensions": [
+        300,
+        176
+      ],
+      "bytes": 18280
+    },
+    {
+      "alt": "St. Peter\u2019s Church at Alley, Clarendon. JNHT source photograph, date and photographer unspecified. The building shown is not the original 1671 structure.",
+      "status": "decoded",
+      "dimensions": [
+        250,
+        174
+      ],
+      "bytes": 8439
+    },
+    {
+      "alt": "Mandeville Court House, Manchester, in the JNHT photograph. Photographer and capture date unspecified; this later exterior is not a picture of the 1817 construction.",
+      "status": "decoded",
+      "dimensions": [
+        250,
+        208
+      ],
+      "bytes": 12404
+    },
+    {
+      "alt": "Maidstone entrance, Manchester. Photograph published by JNHT; photographer and capture date unspecified. This is a later view of the community, not an image made in 1840.",
+      "status": "decoded",
+      "dimensions": [
+        250,
+        187
+      ],
+      "bytes": 18355
+    },
+    {
+      "alt": "Identified portrait of Reverend A. A. Barclay, wearing glasses and a clerical collar",
+      "status": "decoded",
+      "dimensions": [
+        768,
+        1013
+      ],
+      "bytes": 85681
+    },
+    {
+      "alt": "An unnamed worker beside a suspended banana bunch, with harvested bunches lined on the ground, Jamaica, 1940",
+      "status": "decoded",
+      "dimensions": [
+        800,
+        603
+      ],
+      "bytes": 125577
+    },
+    {
+      "alt": "River landscape photographed from Wag Water Bridge, archive dated 1900\u20131910",
+      "status": "decoded",
+      "dimensions": [
+        488,
+        354
+      ],
+      "bytes": 34452
+    },
+    {
+      "alt": "Pencar River Bridge and its dirt-road approach with coconut palms, St. Mary, 1890\u20131895",
+      "status": "decoded",
+      "dimensions": [
+        1024,
+        873
+      ],
+      "bytes": 135408
+    },
+    {
+      "alt": "Front page of Negro World, 31 July 1920, announcing a world convention and a constitution of liberty",
+      "status": "decoded",
+      "dimensions": [
+        585,
+        760
+      ],
+      "bytes": 154341
+    },
+    {
+      "alt": "Original first page of the Jamaica Independence Act 1962, Chapter 40, showing the 19 July date and section one appointing 6 August",
+      "status": "decoded",
+      "dimensions": [
+        1117,
+        1800
+      ],
+      "bytes": 357341
+    },
+    {
+      "alt": "Album page with Old Government House at left and a memorial at right, Spanish Town, 1930\u20131939",
+      "status": "decoded",
+      "dimensions": [
+        1024,
+        792
+      ],
+      "bytes": 138919
+    }
+  ]
+}

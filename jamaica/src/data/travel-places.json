@@ -22,7 +22,11 @@
     "status": "JTB lists open",
     "water": true,
     "book": false,
-    "discoveryCategory": "water"
+    "discoveryCategory": "water",
+    "parishes": [
+      "St. Ann"
+    ],
+    "parishBasis": "Destination-area grouping for regional discovery; a boundary-spanning activity is not assigned a single inferred entrance parish."
   },
   {
     "id": "blue",
@@ -47,7 +51,11 @@
     "status": "JTB lists open",
     "water": true,
     "book": false,
-    "discoveryCategory": "water"
+    "discoveryCategory": "water",
+    "parishes": [
+      "St. Ann"
+    ],
+    "parishBasis": "Destination-area grouping for regional discovery; a boundary-spanning activity is not assigned a single inferred entrance parish."
   },
   {
     "id": "konoko",
@@ -72,7 +80,11 @@
     "status": "JTB lists open; schedule needs confirmation",
     "water": false,
     "book": false,
-    "discoveryCategory": "nature"
+    "discoveryCategory": "nature",
+    "parishes": [
+      "St. Ann"
+    ],
+    "parishBasis": "Destination-area grouping for regional discovery; a boundary-spanning activity is not assigned a single inferred entrance parish."
   },
   {
     "id": "mystic",
@@ -97,7 +109,11 @@
     "status": "JTB lists open",
     "water": false,
     "book": true,
-    "discoveryCategory": "nature"
+    "discoveryCategory": "nature",
+    "parishes": [
+      "St. Ann"
+    ],
+    "parishBasis": "Destination-area grouping for regional discovery; a boundary-spanning activity is not assigned a single inferred entrance parish."
   },
   {
     "id": "caves",
@@ -122,7 +138,11 @@
     "status": "JTB lists open",
     "water": false,
     "book": true,
-    "discoveryCategory": "nature"
+    "discoveryCategory": "nature",
+    "parishes": [
+      "St. Ann"
+    ],
+    "parishBasis": "Destination-area grouping for regional discovery; a boundary-spanning activity is not assigned a single inferred entrance parish."
   },
   {
     "id": "seville",
@@ -147,7 +167,11 @@
     "status": "JTB lists open; weekday tours",
     "water": false,
     "book": true,
-    "discoveryCategory": "culture"
+    "discoveryCategory": "culture",
+    "parishes": [
+      "St. Ann"
+    ],
+    "parishBasis": "Destination-area grouping for regional discovery; a boundary-spanning activity is not assigned a single inferred entrance parish."
   },
   {
     "id": "nine",
@@ -172,7 +196,11 @@
     "status": "JTB lists open",
     "water": false,
     "book": true,
-    "discoveryCategory": "culture"
+    "discoveryCategory": "culture",
+    "parishes": [
+      "St. Ann"
+    ],
+    "parishBasis": "Destination-area grouping for regional discovery; a boundary-spanning activity is not assigned a single inferred entrance parish."
   },
   {
     "id": "baybeach",
@@ -197,7 +225,11 @@
     "status": "Confirm gate arrangements",
     "water": true,
     "book": false,
-    "discoveryCategory": "water"
+    "discoveryCategory": "water",
+    "parishes": [
+      "St. Ann"
+    ],
+    "parishBasis": "Destination-area grouping for regional discovery; a boundary-spanning activity is not assigned a single inferred entrance parish."
   },
   {
     "id": "puerto",
@@ -222,7 +254,11 @@
     "status": "JTB lists open",
     "water": true,
     "book": false,
-    "discoveryCategory": "water"
+    "discoveryCategory": "water",
+    "parishes": [
+      "St. Ann"
+    ],
+    "parishBasis": "Destination-area grouping for regional discovery; a boundary-spanning activity is not assigned a single inferred entrance parish."
   },
   {
     "id": "turtlepark",
@@ -247,7 +283,11 @@
     "status": "UDC reopening; JTB lists open",
     "water": false,
     "book": false,
-    "discoveryCategory": "nature"
+    "discoveryCategory": "nature",
+    "parishes": [
+      "St. Ann"
+    ],
+    "parishBasis": "Destination-area grouping for regional discovery; a boundary-spanning activity is not assigned a single inferred entrance parish."
   },
   {
     "id": "stannbay",
@@ -272,7 +312,11 @@
     "status": "Town route; interiors by arrangement",
     "water": false,
     "book": false,
-    "discoveryCategory": "culture"
+    "discoveryCategory": "culture",
+    "parishes": [
+      "St. Ann"
+    ],
+    "parishBasis": "Destination-area grouping for regional discovery; a boundary-spanning activity is not assigned a single inferred entrance parish."
   },
   {
     "id": "portmaria",
@@ -297,7 +341,11 @@
     "status": "Public exterior route",
     "water": false,
     "book": false,
-    "discoveryCategory": "culture"
+    "discoveryCategory": "culture",
+    "parishes": [
+      "St. Mary"
+    ],
+    "parishBasis": "Destination-area grouping for regional discovery; a boundary-spanning activity is not assigned a single inferred entrance parish."
   },
   {
     "id": "oracabessa",
@@ -322,7 +370,11 @@
     "status": "Town visit; private access unverified",
     "water": false,
     "book": false,
-    "discoveryCategory": "culture"
+    "discoveryCategory": "culture",
+    "parishes": [
+      "St. Mary"
+    ],
+    "parishBasis": "Destination-area grouping for regional discovery; a boundary-spanning activity is not assigned a single inferred entrance parish."
   },
   {
     "id": "annotto",
@@ -347,7 +399,11 @@
     "status": "Town route; church by arrangement",
     "water": false,
     "book": false,
-    "discoveryCategory": "culture"
+    "discoveryCategory": "culture",
+    "parishes": [
+      "St. Mary"
+    ],
+    "parishBasis": "Destination-area grouping for regional discovery; a boundary-spanning activity is not assigned a single inferred entrance parish."
   },
   {
     "id": "castleton",
@@ -372,7 +428,11 @@
     "status": "Access and facilities to confirm",
     "water": false,
     "book": false,
-    "discoveryCategory": "nature"
+    "discoveryCategory": "nature",
+    "parishes": [
+      "St. Mary"
+    ],
+    "parishBasis": "Destination-area grouping for regional discovery; a boundary-spanning activity is not assigned a single inferred entrance parish."
   },
   {
     "id": "firefly",
@@ -397,7 +457,11 @@
     "status": "Opening to confirm",
     "water": false,
     "book": true,
-    "discoveryCategory": "culture"
+    "discoveryCategory": "culture",
+    "parishes": [
+      "St. Mary"
+    ],
+    "parishBasis": "Destination-area grouping for regional discovery; a boundary-spanning activity is not assigned a single inferred entrance parish."
   },
   {
     "id": "sunvalley",
@@ -422,7 +486,11 @@
     "status": "JTB lists open; book visit",
     "water": false,
     "book": true,
-    "discoveryCategory": "nature"
+    "discoveryCategory": "nature",
+    "parishes": [
+      "St. Mary"
+    ],
+    "parishBasis": "Destination-area grouping for regional discovery; a boundary-spanning activity is not assigned a single inferred entrance parish."
   },
   {
     "id": "harmony",
@@ -447,7 +515,11 @@
     "status": "Public access to confirm",
     "water": false,
     "book": true,
-    "discoveryCategory": "culture"
+    "discoveryCategory": "culture",
+    "parishes": [
+      "St. Mary"
+    ],
+    "parishBasis": "Destination-area grouping for regional discovery; a boundary-spanning activity is not assigned a single inferred entrance parish."
   },
   {
     "id": "rionuevo",
@@ -472,7 +544,11 @@
     "status": "Status conflict; confirm first",
     "water": false,
     "book": true,
-    "discoveryCategory": "culture"
+    "discoveryCategory": "culture",
+    "parishes": [
+      "St. Mary"
+    ],
+    "parishBasis": "Destination-area grouping for regional discovery; a boundary-spanning activity is not assigned a single inferred entrance parish."
   },
   {
     "id": "scotchies",
@@ -499,7 +575,11 @@
     "book": false,
     "foodKind": "jamaican",
     "nearby": true,
-    "address": "Drax Hall, west of Ocho Rios"
+    "address": "Drax Hall, west of Ocho Rios",
+    "parishes": [
+      "St. Ann"
+    ],
+    "parishBasis": "Destination-area grouping for regional discovery; a boundary-spanning activity is not assigned a single inferred entrance parish."
   },
   {
     "id": "misst",
@@ -529,7 +609,11 @@
     "address": "65 Main Street, Ocho Rios",
     "image": "https://static.wixstatic.com/media/7a7eb7_906799b6457a4adaa6dbea4d6a0b2713~mv2.jpg",
     "imageCaption": "Miss T’s Kitchen dining area · 65 Main Street, Ocho Rios · operator/property image, capture date unspecified",
-    "imageSource": "https://www.misstskitchen.com/"
+    "imageSource": "https://www.misstskitchen.com/",
+    "parishes": [
+      "St. Ann"
+    ],
+    "parishBasis": "Destination-area grouping for regional discovery; a boundary-spanning activity is not assigned a single inferred entrance parish."
   },
   {
     "id": "sharkies",
@@ -556,7 +640,11 @@
     "book": true,
     "foodKind": "seafood",
     "nearby": true,
-    "address": "A1 MainStreet Salem, RunawayBay, StAnn; outside Ocho Rios"
+    "address": "A1 MainStreet Salem, RunawayBay, StAnn; outside Ocho Rios",
+    "parishes": [
+      "St. Ann"
+    ],
+    "parishBasis": "Destination-area grouping for regional discovery; a boundary-spanning activity is not assigned a single inferred entrance parish."
   },
   {
     "id": "stush",
@@ -583,7 +671,11 @@
     "book": true,
     "foodKind": "dining",
     "nearby": true,
-    "address": "Free Hill, St. Ann; directions from host after booking"
+    "address": "Free Hill, St. Ann; directions from host after booking",
+    "parishes": [
+      "St. Ann"
+    ],
+    "parishBasis": "Destination-area grouping for regional discovery; a boundary-spanning activity is not assigned a single inferred entrance parish."
   },
   {
     "id": "craftmarket",
@@ -608,7 +700,11 @@
     "status": "JTB lists open",
     "water": false,
     "book": false,
-    "discoveryCategory": "shopping"
+    "discoveryCategory": "shopping",
+    "parishes": [
+      "St. Ann"
+    ],
+    "parishBasis": "Destination-area grouping for regional discovery; a boundary-spanning activity is not assigned a single inferred entrance parish."
   },
   {
     "id": "national-devon",
@@ -633,7 +729,11 @@
     "status": "JTB lists open; tour/date confirmation still required",
     "water": false,
     "book": true,
-    "discoveryCategory": "culture"
+    "discoveryCategory": "culture",
+    "parishes": [
+      "St. Andrew"
+    ],
+    "parishBasis": "Destination-area grouping for regional discovery; a boundary-spanning activity is not assigned a single inferred entrance parish."
   },
   {
     "id": "national-marley",
@@ -658,7 +758,11 @@
     "status": "JTB lists open; confirm actual tour slot",
     "water": false,
     "book": true,
-    "discoveryCategory": "culture"
+    "discoveryCategory": "culture",
+    "parishes": [
+      "St. Andrew"
+    ],
+    "parishBasis": "Destination-area grouping for regional discovery; a boundary-spanning activity is not assigned a single inferred entrance parish."
   },
   {
     "id": "national-gallery",
@@ -683,7 +787,11 @@
     "status": "Operating status needs date-specific confirmation",
     "water": false,
     "book": true,
-    "discoveryCategory": "culture"
+    "discoveryCategory": "culture",
+    "parishes": [
+      "Kingston"
+    ],
+    "parishBasis": "Destination-area grouping for regional discovery; a boundary-spanning activity is not assigned a single inferred entrance parish."
   },
   {
     "id": "national-reach",
@@ -708,7 +816,11 @@
     "status": "JTB lists open",
     "water": true,
     "book": true,
-    "discoveryCategory": "water"
+    "discoveryCategory": "water",
+    "parishes": [
+      "Portland"
+    ],
+    "parishBasis": "Destination-area grouping for regional discovery; a boundary-spanning activity is not assigned a single inferred entrance parish."
   },
   {
     "id": "national-frenchmans",
@@ -733,7 +845,11 @@
     "status": "JTB lists beach open",
     "water": true,
     "book": true,
-    "discoveryCategory": "water"
+    "discoveryCategory": "water",
+    "parishes": [
+      "Portland"
+    ],
+    "parishBasis": "Destination-area grouping for regional discovery; a boundary-spanning activity is not assigned a single inferred entrance parish."
   },
   {
     "id": "national-riogrande",
@@ -758,7 +874,11 @@
     "status": "JTB lists rafting open",
     "water": true,
     "book": true,
-    "discoveryCategory": "water"
+    "discoveryCategory": "water",
+    "parishes": [
+      "Portland"
+    ],
+    "parishBasis": "Destination-area grouping for regional discovery; a boundary-spanning activity is not assigned a single inferred entrance parish."
   },
   {
     "id": "national-negrilbeach",
@@ -783,7 +903,11 @@
     "status": "Operating status needs date-specific confirmation",
     "water": true,
     "book": true,
-    "discoveryCategory": "water"
+    "discoveryCategory": "water",
+    "parishes": [
+      "Westmoreland"
+    ],
+    "parishBasis": "Destination-area grouping for regional discovery; a boundary-spanning activity is not assigned a single inferred entrance parish."
   },
   {
     "id": "national-ricks",
@@ -808,7 +932,11 @@
     "status": "Operating status needs date-specific confirmation",
     "water": false,
     "book": true,
-    "discoveryCategory": "culture"
+    "discoveryCategory": "culture",
+    "parishes": [
+      "Westmoreland"
+    ],
+    "parishBasis": "Destination-area grouping for regional discovery; a boundary-spanning activity is not assigned a single inferred entrance parish."
   },
   {
     "id": "national-doctors",
@@ -833,7 +961,11 @@
     "status": "JTB lists open",
     "water": true,
     "book": true,
-    "discoveryCategory": "water"
+    "discoveryCategory": "water",
+    "parishes": [
+      "St. James"
+    ],
+    "parishBasis": "Destination-area grouping for regional discovery; a boundary-spanning activity is not assigned a single inferred entrance parish."
   },
   {
     "id": "national-rosehall",
@@ -858,7 +990,11 @@
     "status": "JTB lists open",
     "water": false,
     "book": true,
-    "discoveryCategory": "culture"
+    "discoveryCategory": "culture",
+    "parishes": [
+      "St. James"
+    ],
+    "parishBasis": "Destination-area grouping for regional discovery; a boundary-spanning activity is not assigned a single inferred entrance parish."
   },
   {
     "id": "national-falmouth",
@@ -883,7 +1019,11 @@
     "status": "Operating status needs date-specific confirmation",
     "water": false,
     "book": true,
-    "discoveryCategory": "culture"
+    "discoveryCategory": "culture",
+    "parishes": [
+      "Trelawny"
+    ],
+    "parishBasis": "Destination-area grouping for regional discovery; a boundary-spanning activity is not assigned a single inferred entrance parish."
   },
   {
     "id": "national-lagoon",
@@ -908,7 +1048,11 @@
     "status": "JTB specifically lists Falmouth Mystic Lagoon open for tours/take-out; do not transfer that status to every lagoon operator",
     "water": true,
     "book": true,
-    "discoveryCategory": "water"
+    "discoveryCategory": "water",
+    "parishes": [
+      "Trelawny"
+    ],
+    "parishBasis": "Destination-area grouping for regional discovery; a boundary-spanning activity is not assigned a single inferred entrance parish."
   },
   {
     "id": "national-goodhope",
@@ -933,7 +1077,11 @@
     "status": "Operating status needs date-specific confirmation",
     "water": false,
     "book": true,
-    "discoveryCategory": "culture"
+    "discoveryCategory": "culture",
+    "parishes": [
+      "Trelawny"
+    ],
+    "parishBasis": "Destination-area grouping for regional discovery; a boundary-spanning activity is not assigned a single inferred entrance parish."
   },
   {
     "id": "national-holywell",
@@ -958,7 +1106,11 @@
     "status": "Operating status needs date-specific confirmation",
     "water": false,
     "book": true,
-    "discoveryCategory": "nature"
+    "discoveryCategory": "nature",
+    "parishes": [
+      "St. Andrew"
+    ],
+    "parishBasis": "Destination-area grouping for regional discovery; a boundary-spanning activity is not assigned a single inferred entrance parish."
   },
   {
     "id": "national-peak",
@@ -983,7 +1135,13 @@
     "status": "Operating status needs date-specific confirmation",
     "water": false,
     "book": true,
-    "discoveryCategory": "nature"
+    "discoveryCategory": "nature",
+    "parishes": [
+      "St. Andrew",
+      "Portland",
+      "St. Thomas"
+    ],
+    "parishBasis": "Destination-area grouping for regional discovery; a boundary-spanning activity is not assigned a single inferred entrance parish."
   },
   {
     "id": "national-ys",
@@ -1008,7 +1166,11 @@
     "status": "JTB lists open",
     "water": true,
     "book": true,
-    "discoveryCategory": "water"
+    "discoveryCategory": "water",
+    "parishes": [
+      "St. Elizabeth"
+    ],
+    "parishBasis": "Destination-area grouping for regional discovery; a boundary-spanning activity is not assigned a single inferred entrance parish."
   },
   {
     "id": "national-blackriver",
@@ -1033,7 +1195,11 @@
     "status": "JTB lists Black River Safari open",
     "water": false,
     "book": true,
-    "discoveryCategory": "culture"
+    "discoveryCategory": "culture",
+    "parishes": [
+      "St. Elizabeth"
+    ],
+    "parishBasis": "Destination-area grouping for regional discovery; a boundary-spanning activity is not assigned a single inferred entrance parish."
   },
   {
     "id": "national-treasure",
@@ -1058,7 +1224,11 @@
     "status": "Operating status needs date-specific confirmation",
     "water": false,
     "book": true,
-    "discoveryCategory": "culture"
+    "discoveryCategory": "culture",
+    "parishes": [
+      "St. Elizabeth"
+    ],
+    "parishBasis": "Destination-area grouping for regional discovery; a boundary-spanning activity is not assigned a single inferred entrance parish."
   },
   {
     "id": "food-1",
@@ -1088,7 +1258,11 @@
     "address": "1 Newlin Street, Ocho Rios",
     "image": "https://juicipatties.com/wp-content/uploads/2022/12/Juici-Beef_417x400jpg.jpg",
     "imageCaption": "Juici beef patty — official product photograph. Capture date unspecified.",
-    "imageSource": "https://juicipatties.com/menu-item/beef-patty/"
+    "imageSource": "https://juicipatties.com/menu-item/beef-patty/",
+    "parishes": [
+      "St. Ann"
+    ],
+    "parishBasis": "Destination-area grouping for regional discovery; a boundary-spanning activity is not assigned a single inferred entrance parish."
   },
   {
     "id": "food-2",
@@ -1118,7 +1292,11 @@
     "address": "61 Main Street, Ocho Rios",
     "image": "https://juicipatties.com/wp-content/uploads/2022/12/Juici-Beef_417x400jpg.jpg",
     "imageCaption": "Juici beef patty — official product photograph. Capture date unspecified.",
-    "imageSource": "https://juicipatties.com/menu-item/beef-patty/"
+    "imageSource": "https://juicipatties.com/menu-item/beef-patty/",
+    "parishes": [
+      "St. Ann"
+    ],
+    "parishBasis": "Destination-area grouping for regional discovery; a boundary-spanning activity is not assigned a single inferred entrance parish."
   },
   {
     "id": "food-3",
@@ -1148,7 +1326,11 @@
     "address": "22 Main Street, Ocho Rios",
     "image": "https://rojgroup.ofisistemas.com/App/ImageStorage/1T0delivery_8.png",
     "imageCaption": "KFC Meal Deal — official menu illustration. Capture date unspecified.",
-    "imageSource": "https://kfcjamaica.com/en/menu/meal_deal_y167"
+    "imageSource": "https://kfcjamaica.com/en/menu/meal_deal_y167",
+    "parishes": [
+      "St. Ann"
+    ],
+    "parishBasis": "Destination-area grouping for regional discovery; a boundary-spanning activity is not assigned a single inferred entrance parish."
   },
   {
     "id": "food-4",
@@ -1178,7 +1360,11 @@
     "address": "19–20 Eight River Plaza, Ocho Rios",
     "image": "https://rojgroup.ofisistemas.com/App/ImageStorage/1T0delivery_8.png",
     "imageCaption": "KFC Meal Deal — official menu illustration. Capture date unspecified.",
-    "imageSource": "https://kfcjamaica.com/en/menu/meal_deal_y167"
+    "imageSource": "https://kfcjamaica.com/en/menu/meal_deal_y167",
+    "parishes": [
+      "St. Ann"
+    ],
+    "parishBasis": "Destination-area grouping for regional discovery; a boundary-spanning activity is not assigned a single inferred entrance parish."
   },
   {
     "id": "food-5",
@@ -1205,7 +1391,11 @@
     "book": false,
     "foodKind": "quick",
     "nearby": false,
-    "address": "CV4W+HHM, Ocho Rios (operator locator plus-code)"
+    "address": "CV4W+HHM, Ocho Rios (operator locator plus-code)",
+    "parishes": [
+      "St. Ann"
+    ],
+    "parishBasis": "Destination-area grouping for regional discovery; a boundary-spanning activity is not assigned a single inferred entrance parish."
   },
   {
     "id": "food-7",
@@ -1235,7 +1425,11 @@
     "address": "Taj Mahal Plaza, Main Street, Ocho Rios",
     "image": "https://www.italianfoodjm.com/web/image/14612-e41e740f/WhatsApp%20Image%202025-09-17%20at%2013.32.46_38776a5a.jpg",
     "imageCaption": "Ciao Bella’s dining room — operator homepage photograph. Capture date unspecified.",
-    "imageSource": "https://www.italianfoodjm.com/"
+    "imageSource": "https://www.italianfoodjm.com/",
+    "parishes": [
+      "St. Ann"
+    ],
+    "parishBasis": "Destination-area grouping for regional discovery; a boundary-spanning activity is not assigned a single inferred entrance parish."
   },
   {
     "id": "food-8",
@@ -1265,7 +1459,11 @@
     "address": "Eden Bower Road, Ocho Rios",
     "image": "https://evitas.dijamaicanexperience.com/wp-content/uploads/2018/04/contact-img.jpg",
     "imageCaption": "Evita’s entrance, bar and veranda — operator photo collage. Capture date unspecified.",
-    "imageSource": "https://evitas.dijamaicanexperience.com/location/"
+    "imageSource": "https://evitas.dijamaicanexperience.com/location/",
+    "parishes": [
+      "St. Ann"
+    ],
+    "parishBasis": "Destination-area grouping for regional discovery; a boundary-spanning activity is not assigned a single inferred entrance parish."
   },
   {
     "id": "food-9",
@@ -1295,7 +1493,11 @@
     "address": "52 Main Street, Ocho Rios",
     "image": "https://images.squarespace-cdn.com/content/v1/63ba6ef36a535a1c93f3cf30/19e3bbed-8549-45cf-99db-90f37b3b6f56/mongoose-restaurant-3.png",
     "imageCaption": "Mongoose signed entrance, Ocho Rios · published by Luxe Oasis; photographer and capture date unspecified.",
-    "imageSource": "https://luxeoasisochorios.com/ocho-rios-neighborhood-guide"
+    "imageSource": "https://luxeoasisochorios.com/ocho-rios-neighborhood-guide",
+    "parishes": [
+      "St. Ann"
+    ],
+    "parishBasis": "Destination-area grouping for regional discovery; a boundary-spanning activity is not assigned a single inferred entrance parish."
   },
   {
     "id": "food-10",
@@ -1322,7 +1524,11 @@
     "book": false,
     "foodKind": "seafood",
     "nearby": false,
-    "address": "The Fishing Village, Ocho Rios — shop number not primary-verified; confirm"
+    "address": "The Fishing Village, Ocho Rios — shop number not primary-verified; confirm",
+    "parishes": [
+      "St. Ann"
+    ],
+    "parishBasis": "Destination-area grouping for regional discovery; a boundary-spanning activity is not assigned a single inferred entrance parish."
   },
   {
     "id": "food-11",
@@ -1352,7 +1558,11 @@
     "address": "14 DaCosta Drive, Ocho Rios",
     "image": "https://static.wixstatic.com/media/c17436_d994ff3917254e56931dd4c7a583e948~mv2.jpg",
     "imageCaption": "Ocho Rios Jerk Centre entrance · 14 DaCosta Drive, Ocho Rios · operator/property image, capture date unspecified",
-    "imageSource": "https://www.ochoriosjerkcenter.com/"
+    "imageSource": "https://www.ochoriosjerkcenter.com/",
+    "parishes": [
+      "St. Ann"
+    ],
+    "parishBasis": "Destination-area grouping for regional discovery; a boundary-spanning activity is not assigned a single inferred entrance parish."
   },
   {
     "id": "food-12",
@@ -1379,7 +1589,11 @@
     "book": false,
     "foodKind": "dining",
     "nearby": false,
-    "address": "Shop 16A, Soni’s Plaza, 50 Main Street, Ocho Rios"
+    "address": "Shop 16A, Soni’s Plaza, 50 Main Street, Ocho Rios",
+    "parishes": [
+      "St. Ann"
+    ],
+    "parishBasis": "Destination-area grouping for regional discovery; a boundary-spanning activity is not assigned a single inferred entrance parish."
   },
   {
     "id": "food-13",
@@ -1406,7 +1620,11 @@
     "book": false,
     "foodKind": "dining",
     "nearby": false,
-    "address": "Island Village, Turtle River Road, Ocho Rios"
+    "address": "Island Village, Turtle River Road, Ocho Rios",
+    "parishes": [
+      "St. Ann"
+    ],
+    "parishBasis": "Destination-area grouping for regional discovery; a boundary-spanning activity is not assigned a single inferred entrance parish."
   },
   {
     "id": "food-14",
@@ -1433,7 +1651,11 @@
     "book": false,
     "foodKind": "cafe",
     "nearby": false,
-    "address": "Unit 3, Eight Rivers Towne Centre, Ocho Rios (ordering partner)"
+    "address": "Unit 3, Eight Rivers Towne Centre, Ocho Rios (ordering partner)",
+    "parishes": [
+      "St. Ann"
+    ],
+    "parishBasis": "Destination-area grouping for regional discovery; a boundary-spanning activity is not assigned a single inferred entrance parish."
   },
   {
     "id": "food-15",
@@ -1460,7 +1682,11 @@
     "book": false,
     "foodKind": "dining",
     "nearby": false,
-    "address": "Jamaica Inn, Ocho Rios (eastern town; ask hotel for directions)"
+    "address": "Jamaica Inn, Ocho Rios (eastern town; ask hotel for directions)",
+    "parishes": [
+      "St. Ann"
+    ],
+    "parishBasis": "Destination-area grouping for regional discovery; a boundary-spanning activity is not assigned a single inferred entrance parish."
   },
   {
     "id": "food-16",
@@ -1490,7 +1716,11 @@
     "address": "End of Hermosa Lane, Ocho Rios",
     "image": "https://www.hermosacove.com/wp-content/uploads/2025/07/DSC04497-683x1024.jpeg",
     "imageCaption": "Christopher’s at Hermosa Cove · Hermosa Lane, Ocho Rios · operator/property image, capture date unspecified",
-    "imageSource": "https://www.hermosacove.com/the-broken-rudder/"
+    "imageSource": "https://www.hermosacove.com/the-broken-rudder/",
+    "parishes": [
+      "St. Ann"
+    ],
+    "parishBasis": "Destination-area grouping for regional discovery; a boundary-spanning activity is not assigned a single inferred entrance parish."
   },
   {
     "id": "food-17",
@@ -1517,7 +1747,11 @@
     "book": false,
     "foodKind": "cafe",
     "nearby": false,
-    "address": "Cruise Ship Pier, Ocho Rios, St Ann"
+    "address": "Cruise Ship Pier, Ocho Rios, St Ann",
+    "parishes": [
+      "St. Ann"
+    ],
+    "parishBasis": "Destination-area grouping for regional discovery; a boundary-spanning activity is not assigned a single inferred entrance parish."
   },
   {
     "id": "food-18",
@@ -1544,7 +1778,11 @@
     "book": false,
     "foodKind": "cafe",
     "nearby": false,
-    "address": "Island Village, Ocho Rios"
+    "address": "Island Village, Ocho Rios",
+    "parishes": [
+      "St. Ann"
+    ],
+    "parishBasis": "Destination-area grouping for regional discovery; a boundary-spanning activity is not assigned a single inferred entrance parish."
   },
   {
     "id": "food-19",
@@ -1571,7 +1809,11 @@
     "book": false,
     "foodKind": "jamaican",
     "nearby": false,
-    "address": "Island Village, Turtle River Road, Ocho Rios"
+    "address": "Island Village, Turtle River Road, Ocho Rios",
+    "parishes": [
+      "St. Ann"
+    ],
+    "parishBasis": "Destination-area grouping for regional discovery; a boundary-spanning activity is not assigned a single inferred entrance parish."
   },
   {
     "id": "food-20",
@@ -1601,7 +1843,11 @@
     "address": "Island Village, Turtle River Road, Ocho Rios",
     "image": "https://img1.wsimg.com/isteam/ip/26856781-f51c-47f1-ae70-04939d9b00cc/qt%3Dq_95.webp/:/cr=t:0%25,l:0%25,w:100%25,h:100%25/rs=w:1240,cg:true",
     "imageCaption": "Pizza Please brand logo · published by Island Village; this is not a storefront photograph · operator/property image, capture date unspecified",
-    "imageSource": "https://islandvillageja.com/pizza-please"
+    "imageSource": "https://islandvillageja.com/pizza-please",
+    "parishes": [
+      "St. Ann"
+    ],
+    "parishBasis": "Destination-area grouping for regional discovery; a boundary-spanning activity is not assigned a single inferred entrance parish."
   },
   {
     "id": "food-21",
@@ -1628,7 +1874,11 @@
     "book": false,
     "foodKind": "cafe",
     "nearby": false,
-    "address": "Shop 11/20A, Island Village, Turtle River Road, Ocho Rios"
+    "address": "Shop 11/20A, Island Village, Turtle River Road, Ocho Rios",
+    "parishes": [
+      "St. Ann"
+    ],
+    "parishBasis": "Destination-area grouping for regional discovery; a boundary-spanning activity is not assigned a single inferred entrance parish."
   },
   {
     "id": "food-22",
@@ -1658,7 +1908,11 @@
     "address": "Island Village, Turtle River Road, Ocho Rios",
     "image": "https://img1.wsimg.com/isteam/ip/26856781-f51c-47f1-ae70-04939d9b00cc/4E140DDE-1E0C-4E41-8753-E1588E7AB7FE.jpeg/:/rs=w:1240,h:620,cg:true,m/cr=w:1240,h:620",
     "imageCaption": "Starbucks drinks · brand product image published by Island Village; this is not the Ocho Rios branch interior · operator/property image, capture date unspecified",
-    "imageSource": "https://islandvillageja.com/starbucks"
+    "imageSource": "https://islandvillageja.com/starbucks",
+    "parishes": [
+      "St. Ann"
+    ],
+    "parishBasis": "Destination-area grouping for regional discovery; a boundary-spanning activity is not assigned a single inferred entrance parish."
   },
   {
     "id": "food-23",
@@ -1688,7 +1942,11 @@
     "address": "Island Village, Turtle River Road, Ocho Rios",
     "image": "https://img1.wsimg.com/isteam/ip/26856781-f51c-47f1-ae70-04939d9b00cc/IMG_1650.JPEG/:/rs=w:1240,h:620,cg:true,m/cr=w:1240,h:620",
     "imageCaption": "Rolly Polly storefront · Island Village, Ocho Rios · operator/property image, capture date unspecified",
-    "imageSource": "https://islandvillageja.com/rolly-polly"
+    "imageSource": "https://islandvillageja.com/rolly-polly",
+    "parishes": [
+      "St. Ann"
+    ],
+    "parishBasis": "Destination-area grouping for regional discovery; a boundary-spanning activity is not assigned a single inferred entrance parish."
   },
   {
     "id": "food-24",
@@ -1718,7 +1976,11 @@
     "address": "Island Village, Turtle River Road, Ocho Rios",
     "image": "https://img1.wsimg.com/isteam/ip/26856781-f51c-47f1-ae70-04939d9b00cc/business_3561611953963.jpg/:/rs=w:1240,h:620,cg:true,m/cr=w:1240,h:620",
     "imageCaption": "Pure Chocolate packaging · published by Island Village, Ocho Rios · operator/property image, capture date unspecified",
-    "imageSource": "https://islandvillageja.com/pure-chocolate"
+    "imageSource": "https://islandvillageja.com/pure-chocolate",
+    "parishes": [
+      "St. Ann"
+    ],
+    "parishBasis": "Destination-area grouping for regional discovery; a boundary-spanning activity is not assigned a single inferred entrance parish."
   },
   {
     "id": "food-25",
@@ -1748,7 +2010,11 @@
     "address": "Island Village, Turtle River Road, Ocho Rios",
     "image": "https://img1.wsimg.com/isteam/ip/26856781-f51c-47f1-ae70-04939d9b00cc/chill.jpg/:/cr=t:12.44%25,l:0%25,w:100%25,h:75.12%25/rs=w:1240,h:932.3308270676691,cg:true",
     "imageCaption": "Chill Pops shop signage · Island Village, Ocho Rios · operator/property image, capture date unspecified",
-    "imageSource": "https://islandvillageja.com/chill-pops"
+    "imageSource": "https://islandvillageja.com/chill-pops",
+    "parishes": [
+      "St. Ann"
+    ],
+    "parishBasis": "Destination-area grouping for regional discovery; a boundary-spanning activity is not assigned a single inferred entrance parish."
   },
   {
     "id": "food-plantation",
@@ -1778,7 +2044,11 @@
     "address": "Richmond/Plantation Village, west of Ocho Rios",
     "image": "https://res.cloudinary.com/dam4tupj7/image/upload/v1777608179/PSH_Web/gallery/instagram/ig-1746412290-3625491525192370033.jpg",
     "imageCaption": "A plated meat dish and fries — Plantation Smokehouse operator gallery. Capture date unspecified.",
-    "imageSource": "https://www.plantationsmokehouse.com/gallery"
+    "imageSource": "https://www.plantationsmokehouse.com/gallery",
+    "parishes": [
+      "St. Ann"
+    ],
+    "parishBasis": "Destination-area grouping for regional discovery; a boundary-spanning activity is not assigned a single inferred entrance parish."
   },
   {
     "id": "food-bambooblu",
@@ -1808,7 +2078,11 @@
     "address": "Mammee Bay Estate, west of Ocho Rios",
     "image": "https://www.moonjamaica.com/sites/default/files/styles/flexslider_slide/public/bamboo-blu-2.jpeg?itok=NYU0i52D",
     "imageCaption": "Bamboo Blu, Mammee Bay · Moon Jamaica gallery photograph; capture date unspecified, decor may have changed.",
-    "imageSource": "https://www.moonjamaica.com/listing/bamboo-blu"
+    "imageSource": "https://www.moonjamaica.com/listing/bamboo-blu",
+    "parishes": [
+      "St. Ann"
+    ],
+    "parishBasis": "Destination-area grouping for regional discovery; a boundary-spanning activity is not assigned a single inferred entrance parish."
   },
   {
     "id": "food-starliner",
@@ -1835,7 +2109,11 @@
     "book": false,
     "foodKind": "seafood",
     "nearby": true,
-    "address": "Plantation Village, Priory; outside Ocho Rios"
+    "address": "Plantation Village, Priory; outside Ocho Rios",
+    "parishes": [
+      "St. Ann"
+    ],
+    "parishBasis": "Destination-area grouping for regional discovery; a boundary-spanning activity is not assigned a single inferred entrance parish."
   },
   {
     "id": "food-oceans11",
@@ -1865,7 +2143,11 @@
     "address": "Ocho Rios waterfront; confirm the entrance with venue",
     "image": "https://storage.newlocay.com/realty/original/uploads/2024/08/Oceanfront-Business-for-Sale-in-Ocho-Rios-Jamaica-Oceans-11-3.jpg",
     "imageCaption": "Ocean’s 11 waterfront building, Ocho Rios · NewLocay / Keller Williams Jamaica listing photograph; capture date unspecified.",
-    "imageSource": "https://newlocay.com/property/oceanfront-business-for-sale-in-ocho-rios-jamaica-oceans-11/"
+    "imageSource": "https://newlocay.com/property/oceanfront-business-for-sale-in-ocho-rios-jamaica-oceans-11/",
+    "parishes": [
+      "St. Ann"
+    ],
+    "parishBasis": "Destination-area grouping for regional discovery; a boundary-spanning activity is not assigned a single inferred entrance parish."
   },
   {
     "id": "white-river",
@@ -1893,7 +2175,12 @@
     "discoveryCategory": "water",
     "image": "https://whiterivercalypsorafting.com/wp-content/uploads/2025/06/river-rafting.jpg",
     "imageCaption": "White River bamboo raft · Calypso operator photograph · exact capture date unspecified",
-    "imageSource": "https://whiterivercalypsorafting.com/tours/online-tours/river-rafting-ticket/"
+    "imageSource": "https://whiterivercalypsorafting.com/tours/online-tours/river-rafting-ticket/",
+    "parishes": [
+      "St. Ann",
+      "St. Mary"
+    ],
+    "parishBasis": "Destination-area grouping for regional discovery; a boundary-spanning activity is not assigned a single inferred entrance parish."
   },
   {
     "id": "white-river-tubing",
@@ -1921,7 +2208,12 @@
     "discoveryCategory": "water",
     "image": "https://whiterivercalypsorafting.com/wp-content/uploads/2025/06/image9.jpeg",
     "imageCaption": "White River Calypso tubing · operator-published image",
-    "imageSource": "https://whiterivercalypsorafting.com/"
+    "imageSource": "https://whiterivercalypsorafting.com/",
+    "parishes": [
+      "St. Ann",
+      "St. Mary"
+    ],
+    "parishBasis": "Destination-area grouping for regional discovery; a boundary-spanning activity is not assigned a single inferred entrance parish."
   },
   {
     "id": "white-river-oldroad",
@@ -1946,7 +2238,12 @@
     "status": "Operator offer checked 12 Oct 2026",
     "water": true,
     "book": false,
-    "discoveryCategory": "water"
+    "discoveryCategory": "water",
+    "parishes": [
+      "St. Ann",
+      "St. Mary"
+    ],
+    "parishBasis": "Destination-area grouping for regional discovery; a boundary-spanning activity is not assigned a single inferred entrance parish."
   },
   {
     "id": "hermosa-day",
@@ -1974,7 +2271,11 @@
     "discoveryCategory": "water",
     "image": "https://hermosacove.com/wp-content/uploads/2025/07/DSC03220.jpeg",
     "imageCaption": "Hermosa Cove shoreline and thatched pavilions, Ocho Rios · operator photograph, capture date unspecified",
-    "imageSource": "https://www.hermosacove.com/day-pass/"
+    "imageSource": "https://www.hermosacove.com/day-pass/",
+    "parishes": [
+      "St. Ann"
+    ],
+    "parishBasis": "Destination-area grouping for regional discovery; a boundary-spanning activity is not assigned a single inferred entrance parish."
   },
   {
     "id": "ocho-snorkel",
@@ -1999,7 +2300,11 @@
     "status": "Operator offer checked 12 Oct 2026",
     "water": true,
     "book": false,
-    "discoveryCategory": "water"
+    "discoveryCategory": "water",
+    "parishes": [
+      "St. Ann"
+    ],
+    "parishBasis": "Destination-area grouping for regional discovery; a boundary-spanning activity is not assigned a single inferred entrance parish."
   },
   {
     "id": "garfield-diving",
@@ -2024,7 +2329,11 @@
     "status": "Operator offer checked 12 Oct 2026",
     "water": true,
     "book": false,
-    "discoveryCategory": "water"
+    "discoveryCategory": "water",
+    "parishes": [
+      "St. Ann"
+    ],
+    "parishBasis": "Destination-area grouping for regional discovery; a boundary-spanning activity is not assigned a single inferred entrance parish."
   },
   {
     "id": "seville-horse",
@@ -2052,7 +2361,11 @@
     "discoveryCategory": "water",
     "image": "https://d2vk7cggejzmib.cloudfront.net/CHUKKA_Tripple_Play_St_Ann_30_187dfd7f26.jpg",
     "imageCaption": "Horseback sea portion, St. Ann coast · Chukka Seville/Dunn’s combination gallery, capture date unspecified",
-    "imageSource": "https://chukka.com/jamaica/chukka-seville-outpost/410026"
+    "imageSource": "https://chukka.com/jamaica/chukka-seville-outpost/410026",
+    "parishes": [
+      "St. Ann"
+    ],
+    "parishBasis": "Destination-area grouping for regional discovery; a boundary-spanning activity is not assigned a single inferred entrance parish."
   },
   {
     "id": "seville-atv",
@@ -2080,7 +2393,11 @@
     "discoveryCategory": "water",
     "image": "https://media.rezgo.com/2160/420447/409648.jpg",
     "imageCaption": "Chukka Seville ATV rider, St. Ann · operator photograph, capture date unspecified",
-    "imageSource": "https://chukka.com/jamaica/chukka-seville-outpost/420447"
+    "imageSource": "https://chukka.com/jamaica/chukka-seville-outpost/420447",
+    "parishes": [
+      "St. Ann"
+    ],
+    "parishBasis": "Destination-area grouping for regional discovery; a boundary-spanning activity is not assigned a single inferred entrance parish."
   },
   {
     "id": "dunn-zipline",
@@ -2105,7 +2422,11 @@
     "status": "Operator offer checked 12 Oct 2026",
     "water": false,
     "book": false,
-    "discoveryCategory": "water"
+    "discoveryCategory": "water",
+    "parishes": [
+      "St. Ann"
+    ],
+    "parishBasis": "Destination-area grouping for regional discovery; a boundary-spanning activity is not assigned a single inferred entrance parish."
   },
   {
     "id": "island-village",
@@ -2133,7 +2454,11 @@
     "discoveryCategory": "shopping",
     "image": "https://img1.wsimg.com/isteam/ip/26856781-f51c-47f1-ae70-04939d9b00cc/iv%20lawn%201.jpg",
     "imageCaption": "Island Village lawn and shops, Ocho Rios · operator photograph, capture date unspecified",
-    "imageSource": "https://islandvillageja.com/"
+    "imageSource": "https://islandvillageja.com/",
+    "parishes": [
+      "St. Ann"
+    ],
+    "parishBasis": "Destination-area grouping for regional discovery; a boundary-spanning activity is not assigned a single inferred entrance parish."
   },
   {
     "id": "pineapple-market",
@@ -2158,7 +2483,11 @@
     "status": "Operator offer checked 12 Oct 2026",
     "water": false,
     "book": false,
-    "discoveryCategory": "shopping"
+    "discoveryCategory": "shopping",
+    "parishes": [
+      "St. Ann"
+    ],
+    "parishBasis": "Destination-area grouping for regional discovery; a boundary-spanning activity is not assigned a single inferred entrance parish."
   },
   {
     "id": "coconut-market",
@@ -2183,7 +2512,11 @@
     "status": "Operator offer checked 12 Oct 2026",
     "water": false,
     "book": false,
-    "discoveryCategory": "shopping"
+    "discoveryCategory": "shopping",
+    "parishes": [
+      "St. Ann"
+    ],
+    "parishBasis": "Destination-area grouping for regional discovery; a boundary-spanning activity is not assigned a single inferred entrance parish."
   },
   {
     "id": "yaaman-cooking",
@@ -2211,6 +2544,10 @@
     "discoveryCategory": "culture",
     "image": "https://www.yaamanadventure.com/Content/Images/mobile/Actividad-cooking-tour/jamaican-cooking-tour-yaaman-adventure-park-th.jpg",
     "imageCaption": "Yaaman cooking participants on the veranda, Ocho Rios · operator photograph, capture date unspecified",
-    "imageSource": "https://beta.yaamanadventure.com/activities/culinary-tour"
+    "imageSource": "https://beta.yaamanadventure.com/activities/culinary-tour",
+    "parishes": [
+      "St. Ann"
+    ],
+    "parishBasis": "Destination-area grouping for regional discovery; a boundary-spanning activity is not assigned a single inferred entrance parish."
   }
 ]

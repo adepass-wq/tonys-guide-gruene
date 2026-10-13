@@ -1,0 +1,20 @@
+[
+  {
+    "asset": "spanish-town-government-1930s",
+    "record": "https://www.flickr.com/photos/nationalarchives/7642966392/",
+    "sha256": "e5cd9365763419d8a8ce96e08a41138a592ee8ffdbd9ef763bb5155d0c8b59a5",
+    "bytes": 138919,
+    "status": "Downloaded and visually inspected; Flickr Commons states no known copyright restrictions.",
+    "caption": "<strong class=\"media-location\">Location: Spanish Town, St. Catherine, Jamaica.</strong> 1930\u20131939 \u00b7 CO 1069/374(5). Archive title identifies Old Government House; the album page contains two views. The date is the archival range, not Flickr\u2019s upload date. Look at the facade at left in relation to the documented 1925 fire.",
+    "checked": "2026-10-12"
+  },
+  {
+    "asset": "wag-water-1900s",
+    "record": "https://www.flickr.com/photos/nationalarchives/7642969718/",
+    "sha256": "1da30c6c991feb261d7cb4e9bf356b0fd03f607afac567ce1ebab67459eb9147",
+    "bytes": 34452,
+    "status": "Downloaded and visually inspected; Flickr Commons states no known copyright restrictions.",
+    "caption": "<strong class=\"media-location\">Location: captioned \u201cbetween Annette Bay and Port Maria,\u201d Jamaica.</strong> 1900\u20131910 \u00b7 CO 1069/375(1). Original caption spelling retained; the archive warns that automated location metadata may be inaccurate. This is a view from a bridge, not a photograph establishing its construction.",
+    "checked": "2026-10-12"
+  }
+]

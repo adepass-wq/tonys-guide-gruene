@@ -1,0 +1,71 @@
+[
+  {
+    "id": "north",
+    "label": "North Coast",
+    "parishes": [
+      "Hanover",
+      "St. James",
+      "Trelawny",
+      "St. Ann",
+      "St. Mary",
+      "Portland"
+    ],
+    "note": "Parishes along the north coast, including their inland histories and activities."
+  },
+  {
+    "id": "south",
+    "label": "South Coast",
+    "parishes": [
+      "Westmoreland",
+      "St. Elizabeth",
+      "Manchester",
+      "Clarendon",
+      "St. Catherine",
+      "Kingston",
+      "St. Thomas"
+    ],
+    "note": "Southern coastal parishes, including their inland communities."
+  },
+  {
+    "id": "west",
+    "label": "Western Jamaica",
+    "parishes": [
+      "Hanover",
+      "St. James",
+      "Trelawny",
+      "Westmoreland",
+      "St. Elizabeth"
+    ],
+    "note": "A western regional grouping; not a single-day driving circuit."
+  },
+  {
+    "id": "east",
+    "label": "Eastern Jamaica",
+    "parishes": [
+      "Portland",
+      "St. Thomas",
+      "St. Mary"
+    ],
+    "note": "Eastern and northeastern parish histories and activities."
+  },
+  {
+    "id": "central",
+    "label": "Central Jamaica",
+    "parishes": [
+      "St. Ann",
+      "Manchester",
+      "Clarendon",
+      "St. Catherine"
+    ],
+    "note": "A planning grouping joining central parish histories; includes coastal and inland places."
+  },
+  {
+    "id": "capital",
+    "label": "Kingston & St. Andrew",
+    "parishes": [
+      "Kingston",
+      "St. Andrew"
+    ],
+    "note": "The two capital-area parishes remain distinct."
+  }
+]
