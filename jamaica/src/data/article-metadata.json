@@ -1151,5 +1151,76 @@
     ],
     "summary": "Jamaican dialect, Patwa and English through geography, class, education, country/town expectations and twang. A substantial research article with six occupational field recordings, four photographs and a listening notebook.",
     "era": "colonial period–present; recordings 1952"
+  },
+  {
+    "id": "reconsidered-emancipation",
+    "theme": "Freedom & land",
+    "parish": "Islandwide",
+    "parishes": [
+      "Islandwide"
+    ],
+    "era": "1833–1838",
+    "summary": "The compensation ledger and James Williams’s account tell a harder story than a date on a national timeline: legal abolition, unpaid labour and the distribution of money were different events."
+  },
+  {
+    "id": "reconsidered-maroons",
+    "theme": "Freedom & land",
+    "parish": "Islandwide",
+    "parishes": [
+      "Islandwide"
+    ],
+    "era": "1738–1795",
+    "summary": "A hard-won settlement protected a community. Its clauses also required the return of future fugitives and help against rebellion. Read those provisions together before turning Maroon history into either a spotless victory or a simple betrayal."
+  },
+  {
+    "id": "reconsidered-markets",
+    "theme": "Home & daily life",
+    "parish": "Islandwide",
+    "parishes": [
+      "Islandwide"
+    ],
+    "era": "seventeenth century–nineteenth century",
+    "summary": "Provision grounds, markets and locally made pottery reveal knowledge, production and trade that a plantation-only picture leaves out. They also expose the uncomfortable fact that enslavers could benefit from the work people did to keep themselves alive."
+  },
+  {
+    "id": "reconsidered-morant",
+    "theme": "Freedom & land",
+    "parish": "St. Thomas",
+    "parishes": [
+      "St. Thomas"
+    ],
+    "era": "1865–1868",
+    "summary": "Paul Bogle’s rebellion challenged land, taxation, representation and colonial power. Jonathan Connolly’s research shows how the official inquiry and legal controversy redirected that larger argument into questions about the governor’s authority."
+  },
+  {
+    "id": "reconsidered-indenture",
+    "theme": "Towns & trade",
+    "parish": "Islandwide",
+    "parishes": [
+      "Islandwide"
+    ],
+    "era": "nineteenth–twentieth centuries",
+    "summary": "Indian and Chinese Jamaican history is deeper than a list of cultural contributions. Ship returns, immigration files and carefully staged photographs connect belonging to recruitment, plantation power, settlement and the choices families made afterward."
+  },
+  {
+    "id": "reconsidered-rastafari",
+    "theme": "Faith & family",
+    "parish": "Islandwide",
+    "parishes": [
+      "St. James",
+      "St. Catherine"
+    ],
+    "era": "1963–2017",
+    "summary": "Coral Gardens exposes a gap between cultural recognition and lived citizenship. Survivor testimony, a scholarly documentary and the government’s apology give us more to confront than a picturesque image of locks, drums and reggae."
+  },
+  {
+    "id": "reconsidered-music",
+    "theme": "Music & ritual",
+    "parish": "Islandwide",
+    "parishes": [
+      "Islandwide"
+    ],
+    "era": "nineteenth century–present",
+    "summary": "Mento’s marketing names, imported records, local ritual, sound-system competition and Chinese-Jamaican studio networks complicate a pure, single-line history. The surprise is how much Jamaican originality depended on transforming connections."
   }
 ]

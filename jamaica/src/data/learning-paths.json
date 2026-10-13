@@ -1,5 +1,20 @@
 [
   {
+    "id": "reconsidered",
+    "title": "Jamaica, reconsidered: seven histories worth questioning",
+    "question": "Which familiar account changes when we examine the document, the scholar’s method and the people left outside the frame?",
+    "bestFor": "A seven-piece run through corrections, omitted histories and carefully identified reinterpretations.",
+    "articles": [
+      "reconsidered-emancipation",
+      "reconsidered-maroons",
+      "reconsidered-markets",
+      "reconsidered-morant",
+      "reconsidered-indenture",
+      "reconsidered-rastafari",
+      "reconsidered-music"
+    ]
+  },
+  {
     "id": "country",
     "title": "Start with the country",
     "question": "How did control of land, labor and political authority change?",
