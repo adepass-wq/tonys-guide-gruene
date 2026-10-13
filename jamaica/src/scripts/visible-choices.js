@@ -3,7 +3,7 @@ const E=id=>document.getElementById(id);let pending;
 function reveal(id){const target=E(id);if(!target||target.closest('[hidden]'))return;cancelAnimationFrame(pending);pending=requestAnimationFrame(()=>{document.querySelectorAll('.choice-highlight').forEach(x=>x.classList.remove('choice-highlight'));target.classList.add('choice-highlight');target.tabIndex=-1;target.focus({preventScroll:true});target.scrollIntoView({block:'start',behavior:'instant'});});}
 const changes={
  'trip-start-date':'trip-plan-result','plan-pace':'trip-plan-result','history-topic':'history-output','history-time':'history-output',
- 'food-kind':'food-count','food-area':'food-count','activity-kind':'activity-count','activity-area':'activity-count',
+ 'food-kind':'food-count','food-area':'food-count','activity-corridor':'activity-count','activity-kind':'activity-count','activity-area':'activity-count',
  'travel-scope':'travel-result-count','travel-area':'travel-result-count','travel-kind':'travel-result-count','travel-pace':'travel-result-count',
  'events-from':'events-count','events-to':'events-count','events-area':'events-count','events-genre':'events-count',
  'history-region':'count','activity-region':'activity-count','activity-parish':'activity-count','parish':'count','theme':'count','era-select':'era-articles','island-choose':'island-detail','island-compare':'island-compare-text',
