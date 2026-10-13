@@ -88,3 +88,11 @@ The newspaper and Independence Act page use base64 source assets in `src/assets/
 Photographs of restaurants, product illustrations and logos must be distinguished in captions. `data/visitor-research.json` and `data/food-image-records.json` retain the evidence and limitations. Source image assets are compressed and embedded to preserve the current one-file hosting workflow; a source URL is not an open-licence statement. Never use stock as evidence of a named venue.
 
 The cruise calculator uses the visitor’s ship deadline, transfer estimate and margin; it does not infer berth, ship clock or traffic. Closed activity products stay visibly unavailable and are excluded from timetable options. Shared shortlist buttons use one delegated handler, including cards rendered after initial load.
+
+## Shared regional experience
+
+`src/scripts/experience-context.js` runs after the directories, learning tools and condition controls mount. `TGTravelRegions.controls` registers each regional selector; `TGContext` synchronizes their selection and stores it separately in `tg-jamaica-context-v1`. Preserve existing trip, reading and note storage keys. History exposes the same eight travel regions; old broad-region values remain hidden compatibility choices.
+
+Practical tools and saved reading now live inside the Plan page, with the original tool and reading anchors retained. Region previews derive from the single place/article/event/programme inventories and retain actual media captions. Remove cloned IDs from reused figures. Programme wrappers keep stable destinations even when date filters hide their cards; direct records are identified when outside filters. Dispatch routing once after runtime-generated destinations mount so initial deep links resolve.
+
+Weather uses ten named forecast points. Mandeville is inland; its marine output is explicitly labelled as a separate south-coast offshore grid. Model data is not a beach inspection.

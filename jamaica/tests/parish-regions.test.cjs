@@ -17,7 +17,7 @@ test('regional history filters intersect parish and search; parish discovery exp
 });
 test('North Coast activities include western and eastern destinations and filter arranged heritage outings separately',()=>{
  const s=site();try{
- s.route('activities');s.input('activity-region','north');const cards=s.E('activity-directory-cards');assert(cards.querySelector('a[href="#travel-national-doctors"]'));assert(cards.querySelector('a[href="#travel-national-frenchmans"]'));assert(cards.querySelector('a[href="#parish-lucea"]'));assert(!cards.querySelector('a[href="#parish-maidstone"]'));
+ s.route('activities');s.input('activity-region','north');const cards=s.E('activity-directory-cards');while(!s.E('activity-more').hidden)s.E('activity-more').click();assert(cards.querySelector('a[href="#travel-national-doctors"]'));assert(cards.querySelector('a[href="#travel-national-frenchmans"]'));assert(cards.querySelector('a[href="#parish-lucea"]'));assert(!cards.querySelector('a[href="#parish-maidstone"]'));
  s.input('activity-region','central');s.input('activity-kind','culture');assert(cards.querySelector('a[href="#parish-maidstone"]'));assert(cards.querySelector('a[href="#parish-alley"]'));assert(!cards.querySelector('a[href="#parish-lucea"]'));assert(cards.textContent.includes('Arrange access before travelling'));
  s.input('activity-query','Seaford','input');assert(s.E('activity-empty').hidden===false);s.input('activity-region','west');assert(cards.querySelector('a[href="#parish-seaford"]'));assert(s.E('activity-empty').hidden);s.input('activity-parish','Hanover');assert(!cards.querySelector('a[href="#parish-seaford"]'));s.input('activity-query','','input');assert(cards.querySelector('a[href="#parish-lucea"]'));
  assert.deepEqual(s.errors,[]);
