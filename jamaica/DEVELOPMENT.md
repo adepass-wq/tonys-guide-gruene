@@ -28,7 +28,7 @@ Use Node.js 24 or later. Clone `https://github.com/adepass-wq/tonys-guide-gruene
 | Typography, colors or component layout | `src/styles/`, in the existing template order |
 | Search, navigation, weather, planning, listening | The named module in `src/scripts/` |
 
-The page and place fragments retain the existing markup and inline asset order. Styles are named and ordered rather than concatenated in an unspecified order. The generated page remains self-contained so Render's existing copy command continues to work.
+The page and place fragments retain the existing markup and inline asset order. Styles are named and ordered rather than concatenated in an unspecified order. The builder extracts embedded raster media without changing the image bytes into tracked `public/assets/` files. The generated HTML uses content-hashed `/assets/` URLs. Render's existing copy command preserves this directory while copying the new page; commit source, generated HTML and generated assets together.
 
 ### Article changes
 

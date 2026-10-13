@@ -1,6 +1,6 @@
 (function(){
-function norm(s){return String(s).normalize('NFD').replace(/[\u0300-\u036f]/g,'').toLowerCase().replace(/[’']/g,'').replace(/\bochi\b/g,'ocho rios').replace(/\bnine miles\b/g,'nine mile').replace(/[^a-z0-9\s]/g,' ').replace(/\s+/g,' ').trim()}
-function matches(text,q){const n=norm(text);return norm(q).split(' ').filter(Boolean).every(w=>n.includes(w))}
+function norm(s){if(typeof window!=='undefined'&&window.TGSearchEngine)return window.TGSearchEngine.normalize(s);return String(s).normalize('NFD').replace(/[\u0300-\u036f]/g,'').toLowerCase().replace(/[’']/g,'').replace(/\bochi\b/g,'ocho rios').replace(/\bnine miles\b/g,'nine mile').replace(/[^a-z0-9\s]/g,' ').replace(/\s+/g,' ').trim()}
+function matches(text,q){if(typeof window!=='undefined'&&window.TGSearchEngine)return window.TGSearchEngine.matches(text,q);const n=norm(text);return norm(q).split(' ').filter(Boolean).every(w=>n.includes(w))}
 function budget(a,c,pa,pc,meal,transport,extras){return a*pa+c*pc+(a+c)*meal+transport+extras}
 function returnTime(time,transit,buffer){const m=/^(\d{2}):(\d{2})$/.exec(time);if(!m||+m[1]>23||+m[2]>59||!Number.isInteger(transit)||!Number.isInteger(buffer)||transit<0||buffer<0)return null;const t=+m[1]*60 + +m[2]-transit-buffer;if(t<0)return null;return String(Math.floor(t/60)).padStart(2,'0')+':'+String(t%60).padStart(2,'0')}
 function weekend(today){const d=new Date(today+'T12:00:00Z');const weekday=d.getUTCDay();d.setUTCDate(d.getUTCDate()+(weekday===0?-1:6-weekday));const start=d.toISOString().slice(0,10);d.setUTCDate(d.getUTCDate()+1);return [start,d.toISOString().slice(0,10)]}

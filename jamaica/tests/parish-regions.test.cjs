@@ -11,7 +11,7 @@ test('regional history filters intersect parish and search; parish discovery exp
  s.input('parish','St. Elizabeth','input');assert(s.E('count').textContent.startsWith('0 of'));
  s.E('parish-library-cards').querySelector('[data-parish-browse="Manchester"]').click();assert.equal(s.E('history-region').value,'all');assert.equal(s.E('parish').value,'Manchester');assert(s.E('results').querySelector('a[href="#parish-maidstone"]'));assert(s.E('results').querySelector('a[href="#parish-mandeville"]'));
  s.input('search','instalments','input');assert(s.E('results').querySelector('a[href="#parish-maidstone"]'));assert(!s.E('results').querySelector('a[href="#parish-mandeville"]'));
- s.route('parish-maidstone');assert.equal(s.d.querySelectorAll('.reading-article:not([hidden])').length,1);assert(s.E('parish-maidstone').querySelector('.article-learning'));assert(s.E('parish-maidstone').querySelector('img').src.startsWith('data:image/jpeg;base64,'));
+ s.route('parish-maidstone');assert.equal(s.d.querySelectorAll('.reading-article:not([hidden])').length,1);assert(s.E('parish-maidstone').querySelector('.article-learning'));assert(s.E('parish-maidstone').querySelector('img').src.startsWith('https://jamaica.tonysguide.com/assets/'));
  assert.equal(s.E('parish-library-cards').children.length,14);assert.deepEqual(s.errors,[]);
  }finally{s.close();}
 });

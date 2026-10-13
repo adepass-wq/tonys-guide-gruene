@@ -6,7 +6,7 @@ s.d.querySelector('[data-home-range="weekend"]').click();await frame(s);assert(s
 s.route('plan-your-day');s.d.querySelector('[data-trip-length="two"]').click();await frame(s);assert.equal(s.d.activeElement.id,'trip-plan-result');assert.equal(s.E('trip-plan-days').querySelectorAll('.plan-day-photo').length,2);s.E('trip-plan-days').querySelector('[data-save-plan]').click();await frame(s);assert.equal(s.d.activeElement.id,'trip-shortlist-section');
 assert.equal(s.E('travel-alternatives').querySelectorAll(':scope > article > figure').length,3);
 s.route('food');s.input('food-kind','quick');await frame(s);assert.equal(s.d.activeElement.id,'food-count');assert(s.E('food-directory').textContent.includes('Juici'));
-s.route('plan-your-day');s.E('travel-alternatives').querySelector('.history-image-open').click();assert(s.E('history-image-viewer').querySelector('img').src.startsWith('data:image/jpeg;base64,'));assert.deepEqual(s.errors,[]);
+s.route('plan-your-day');s.E('travel-alternatives').querySelector('.history-image-open').click();assert(s.E('history-image-viewer').querySelector('img').src.startsWith('https://jamaica.tonysguide.com/assets/'));assert.deepEqual(s.errors,[]);
 }finally{s.close();}});
 test('new regional history is discoverable through parish filters, search and single-article routes',()=>{const s=site();try{
 s.route('history');s.input('parish','Trelawny','input');assert(s.E('results').textContent.includes('Falmouth'));assert(s.E('results').querySelector('a[href="#history-trelawny-falmouth"]'));

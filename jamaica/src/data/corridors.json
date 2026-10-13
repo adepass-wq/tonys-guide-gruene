@@ -61,7 +61,8 @@
     "places": [
       "national-frenchmans",
       "national-reach",
-      "national-riogrande"
+      "national-riogrande",
+      "food-boston"
     ],
     "heritage": [
       "parish-titchfield",
@@ -111,7 +112,9 @@
     "places": [
       "national-treasure",
       "national-blackriver",
-      "national-ys"
+      "national-ys",
+      "food-border",
+      "food-middle-quarters"
     ],
     "heritage": [
       "parish-blackriver",
@@ -122,6 +125,11 @@
         "Treasure Beach: choose a bay",
         "Calabash Bay, Frenchman’s Bay, Billy’s Bay and Great Bay are distinct communities, not a single resort strip. Choose a base and spend locally: a meal, a conversation and a beach walk can be a worthwhile day. Ask before photographing people or working boats.",
         "<a href=\"#travel-national-treasure\">Treasure Beach guide</a>"
+      ],
+      [
+        "Border: fried fish and bammy",
+        "Scott’s Cove—usually called Border—sits at the St. Elizabeth–Westmoreland boundary near Whitehouse. Choose a cook shop for fish and bammy; this is a separate stop from Middle Quarters’ pepper shrimp. JIS documented rebuilt stalls and returning vendors after Melissa in December 2025. Confirm the chosen stall and today’s approach before leaving.",
+        "<a href=\"#travel-food-border\">Border food guide</a> · <a href=\"#food\">Food by parish</a>"
       ],
       [
         "Black River and Middle Quarters",
