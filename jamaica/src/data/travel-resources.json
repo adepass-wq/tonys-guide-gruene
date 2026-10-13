@@ -154,5 +154,155 @@
     "group": "Language",
     "url": "#patwa-audio-example",
     "text": "An attributed native-speaker example with an English explanation. Recording location is undocumented."
+  },
+  {
+    "id": "medical-capital",
+    "name": "SERHA hospital directory",
+    "group": "Medical contacts",
+    "url": "https://www.serha.gov.jm/hospitals/",
+    "text": "Find Kingston Public and Princess Margaret hospital contact details through the regional authority. For southeastern plans, note Princess Margaret is in Morant Bay, not Kingston.",
+    "regions": [
+      "capital-mountains",
+      "southeast"
+    ],
+    "checked": "2026-10-13",
+    "basis": "Primary regional authority or operator directory; not a guarantee of current service availability."
+  },
+  {
+    "id": "medical-northeast",
+    "name": "NERHA hospital directory",
+    "group": "Medical contacts",
+    "url": "https://www.nerha.gov.jm/hospitals",
+    "text": "Official directory for St Ann’s Bay, Annotto Bay and Port Antonio hospitals; use the facility for the actual parish rather than assuming all north-coast locations are nearby.",
+    "regions": [
+      "ocho-mary",
+      "portland"
+    ],
+    "checked": "2026-10-13",
+    "basis": "Primary regional authority or operator directory; not a guarantee of current service availability."
+  },
+  {
+    "id": "medical-south",
+    "name": "SRHA hospital contacts",
+    "group": "Medical contacts",
+    "url": "https://www.srha.gov.jm/contact.php",
+    "text": "Official contacts for Black River, Mandeville and May Pen hospitals. Keep each facility associated with its own town; this is a directory, not a promise of a particular service being available now.",
+    "regions": [
+      "south-elizabeth",
+      "central-interior"
+    ],
+    "checked": "2026-10-13",
+    "basis": "Primary regional authority or operator directory; not a guarantee of current service availability."
+  },
+  {
+    "id": "medical-west",
+    "name": "WRHA hospital contacts",
+    "group": "Medical contacts",
+    "url": "https://www.wrha.gov.jm/contact-us/",
+    "text": "Official western hospital contacts, including Cornwall Regional, Falmouth and Savanna-la-Mar; select by actual location and check current arrangements.",
+    "regions": [
+      "negril",
+      "montego"
+    ],
+    "checked": "2026-10-13",
+    "basis": "Primary regional authority or operator directory; not a guarantee of current service availability."
+  },
+  {
+    "id": "transport-terminals",
+    "name": "Knutsford Express terminal contacts",
+    "group": "Transport",
+    "url": "https://www.knutsfordexpress.com/help-advice/contact-us/",
+    "text": "Terminal addresses and operator contacts for intercity travel. Do not equate a courier office with a passenger departure; confirm the exact passenger pickup when booking.",
+    "regions": [
+      "ocho-mary",
+      "negril",
+      "montego",
+      "portland",
+      "capital-mountains",
+      "central-interior",
+      "south-elizabeth"
+    ],
+    "checked": "2026-10-13",
+    "basis": "Primary regional authority or operator directory; not a guarantee of current service availability."
+  },
+  {
+    "id": "transport-schedules",
+    "name": "Knutsford Express booking and schedules",
+    "group": "Transport",
+    "url": "https://www.knutsfordexpress.com/",
+    "text": "Book by actual origin and destination and arrange the last leg separately. A coach ticket is not transport to a remote beach, waterfall or hotel.",
+    "regions": [
+      "ocho-mary",
+      "negril",
+      "montego",
+      "portland",
+      "capital-mountains",
+      "central-interior",
+      "south-elizabeth"
+    ],
+    "checked": "2026-10-13",
+    "basis": "Primary regional authority or operator directory; not a guarantee of current service availability."
+  },
+  {
+    "id": "park-holywell",
+    "name": "Holywell official recreation information",
+    "group": "Parks & access",
+    "url": "https://www.blueandjohncrowmountains.org/sustainable-tourism/recreation-areas/holywell",
+    "text": "Park operator information for trails, entry and guide arrangements. Check park entry separately from a cafe reservation; arrange guided walks in advance.",
+    "regions": [
+      "capital-mountains"
+    ],
+    "checked": "2026-10-13",
+    "basis": "Primary regional authority or operator directory; not a guarantee of current service availability."
+  },
+  {
+    "id": "park-management",
+    "name": "JCDT national park information",
+    "group": "Parks & access",
+    "url": "https://www.jcdt.org.jm/",
+    "text": "National park manager contacts and updates for Blue and John Crow Mountains. Use these for an arranged mountain visit; a map pin or heritage article does not establish an open trail.",
+    "regions": [
+      "capital-mountains",
+      "portland",
+      "southeast"
+    ],
+    "checked": "2026-10-13",
+    "basis": "Primary regional authority or operator directory; not a guarantee of current service availability."
+  },
+  {
+    "id": "medical-falmouth",
+    "name": "Falmouth Hospital official page",
+    "group": "Medical contacts",
+    "url": "https://www.wrha.gov.jm/facility/falmouth-hospital/",
+    "text": "Town-specific official hospital information for a Falmouth stay or outing, rather than a generic Montego Bay contact.",
+    "regions": [
+      "montego"
+    ],
+    "checked": "2026-10-13",
+    "basis": "Primary regional authority or operator directory; not a guarantee of current service availability."
+  },
+  {
+    "id": "medical-westmoreland",
+    "name": "Savanna-la-Mar Hospital official page",
+    "group": "Medical contacts",
+    "url": "https://www.wrha.gov.jm/facility/sav-la-mar-hopsital/",
+    "text": "Official Westmoreland hospital information useful to western visitors; distinguish Savanna-la-Mar from Negril beach/cliffs and allow for the separate journey.",
+    "regions": [
+      "negril"
+    ],
+    "checked": "2026-10-13",
+    "basis": "Primary regional authority or operator directory; not a guarantee of current service availability."
+  },
+  {
+    "id": "negril-mobility",
+    "name": "Sungazers mobility equipment — Negril",
+    "group": "Accessibility",
+    "url": "https://www.jamaicamobilityscooterrental.com/delivery",
+    "text": "Arrange mobility scooter delivery, collection and suitable transport through the Negril operator. Discuss capacity, charging, terrain, accommodation permission and lift or rotating-seat compatibility. Equipment hire does not establish access to a beach or restaurant.",
+    "regions": [
+      "negril"
+    ],
+    "checked": "2026-10-13",
+    "basis": "Operator delivery page; JTB currently lists Sungazers open."
   }
 ]

@@ -59,7 +59,10 @@
       "regional-rocklands",
       "regional-mobay-culture",
       "regional-harmony-park",
-      "food-scotchies-mobay"
+      "food-scotchies-mobay",
+      "food-regional-pelican",
+      "food-regional-glistening-food",
+      "food-regional-juici-falmouth"
     ],
     "heritage": [
       "parish-burchell",
@@ -100,7 +103,20 @@
       "national-negrilbeach",
       "national-ricks",
       "regional-jamwest",
-      "regional-lucea-fort"
+      "regional-lucea-fort",
+      "food-negril-miss-lilys",
+      "food-negril-pushcart",
+      "food-negril-rockhouse",
+      "food-negril-kuyaba",
+      "food-negril-vendome",
+      "food-negril-ivans",
+      "food-negril-blue-mahoe",
+      "food-negril-tensing",
+      "food-negril-sands",
+      "food-negril-half-moon",
+      "food-negril-sweet-spice",
+      "western-rastasafari",
+      "western-halfmoon"
     ],
     "heritage": [
       "parish-lucea",
@@ -143,7 +159,11 @@
       "national-frenchmans",
       "national-reach",
       "national-riogrande",
-      "food-boston"
+      "food-boston",
+      "food-regional-bushbar",
+      "food-regional-juici-portantonio",
+      "food-regional-juici-boundbrook",
+      "portland-bostonbeach"
     ],
     "heritage": [
       "parish-titchfield",
@@ -194,7 +214,15 @@
       "national-gallery",
       "national-marley",
       "national-devon",
-      "national-holywell"
+      "national-holywell",
+      "food-regional-bluebrews",
+      "food-regional-murray-kingston",
+      "food-regional-juici-airport",
+      "capital-trenchtown",
+      "capital-hope",
+      "food-capital-irish-cafe",
+      "food-capital-gloria-city",
+      "food-capital-devon-scoops"
     ],
     "heritage": [
       "parish-kingston-rail",
@@ -245,7 +273,10 @@
     "base": "Morant Bay or a confirmed southeastern host for the branch you intend to explore.",
     "places": [
       "regional-morant",
-      "regional-bath"
+      "regional-bath",
+      "food-regional-juici-morant",
+      "food-regional-juici-yallahs",
+      "food-regional-angola"
     ],
     "heritage": [
       "parish-morantpoint",
@@ -288,7 +319,10 @@
       "national-blackriver",
       "national-ys",
       "food-border",
-      "food-middle-quarters"
+      "food-middle-quarters",
+      "food-regional-jack-sprat",
+      "food-regional-juici-blackriver",
+      "south-holland"
     ],
     "heritage": [
       "parish-lacovia"
@@ -341,7 +375,13 @@
     "places": [
       "regional-mandeville",
       "regional-spanish",
-      "food-little-ochie"
+      "food-little-ochie",
+      "food-regional-murray-toll",
+      "food-regional-murray-mandeville",
+      "food-regional-hotspot-mandeville",
+      "food-regional-juici-clarendon",
+      "food-regional-juici-maypen",
+      "food-regional-juici-christiana"
     ],
     "heritage": [
       "parish-maidstone",

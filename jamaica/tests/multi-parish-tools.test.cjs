@@ -1,12 +1,12 @@
 const test=require('node:test'),assert=require('node:assert/strict'),{site}=require('./helpers.cjs');const frame=()=>new Promise(r=>setTimeout(r,45));
 function choose(s,box,parish,checked=true){const input=[...s.E(box).querySelectorAll('input')].find(x=>x.value===parish);assert(input);input.checked=checked;input.dispatchEvent(new s.w.Event('change',{bubbles:true}));}
-test('comparison allows several parishes, labels locations, clears excluded choices and recovers from an empty parish',()=>{
+test('comparison allows several parishes, labels locations, clears excluded choices and recovers from an empty region/parish intersection',()=>{
  const s=site();try{
  s.route('stop-comparison');assert.equal(s.E('compare-parish-filter').querySelectorAll('input').length,14);
  choose(s,'compare-parish-filter','St. Ann');choose(s,'compare-parish-filter','St. Mary');const select=s.E('compare-place-0');assert(select.querySelector('option[value="dunn"]').textContent.includes('St. Ann'));assert(select.querySelector('option[value="portmaria"]').textContent.includes('St. Mary'));assert(!select.querySelector('option[value="national-devon"]'));
  s.input('compare-place-0','dunn');s.input('compare-place-1','portmaria');s.input('compare-place-2','');assert(s.E('place-comparison').textContent.includes('St. Ann'));assert(s.E('place-comparison').textContent.includes('St. Mary'));assert(s.E('place-comparison').textContent.includes('Parish'));
  choose(s,'compare-parish-filter','St. Ann',false);assert.equal(s.E('compare-place-0').value,'');assert.equal(s.E('compare-place-1').value,'portmaria');s.input('compare-place-0','portmaria');assert.equal(s.E('place-comparison').querySelectorAll('thead th').length,2);
- choose(s,'compare-parish-filter','St. Mary',false);choose(s,'compare-parish-filter','Clarendon');assert.equal(select.disabled,true);assert(s.E('compare-parish-count').textContent.startsWith('0 place'));s.E('compare-parish-filter').querySelector('button').click();assert.equal(select.disabled,false);assert(select.querySelector('option[value="national-devon"]'));
+ choose(s,'compare-parish-filter','St. Mary',false);s.w.TGContext.set(['negril']);choose(s,'compare-parish-filter','Clarendon');assert.equal(select.disabled,true);assert(s.E('compare-parish-count').textContent.startsWith('0 place'));s.E('compare-parish-filter').querySelector('button').click();s.w.TGContext.set([]);assert.equal(select.disabled,false);assert(select.querySelector('option[value="national-devon"]'));
  assert.deepEqual(s.errors,[]);
  }finally{s.close();}
 });

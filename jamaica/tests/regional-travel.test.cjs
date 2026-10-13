@@ -18,7 +18,7 @@ test('regional comparison, timetable, saved shortlist and suggested plans comple
  }finally{s.close();}});
 test('every new region link and place fragment exists and event/region inventories remain aligned',()=>{const s=site();try{
  for(const a of s.E('corridors').querySelectorAll('a[href^="#"]'))assert(s.E(a.hash.slice(1)),a.hash);
- const p=JSON.parse(s.E('travel-place-data').textContent),r=s.w.TGTravelRegions;assert.equal(p.length,100);assert.equal(r.rows.length,8);for(const x of p){assert(s.E('travel-'+x.id),x.id);assert(r.regionsFor(x).length,x.id);}
+ const p=JSON.parse(s.E('travel-place-data').textContent),r=s.w.TGTravelRegions;assert.equal(p.length,140);assert.equal(r.rows.length,8);for(const x of p){assert(s.E('travel-'+x.id),x.id);assert(r.regionsFor(x).length,x.id);}
  const ev=JSON.parse(s.E('travel-event-data').textContent);assert.equal(ev.length,18);for(const x of ev){const el=s.E('event-'+x.id);assert(el);assert(el.querySelector('.event-genre'));}
  assert(!r.matches(p.find(x=>x.id==='food-border'),['negril']));assert(r.matches(p.find(x=>x.id==='food-little-ochie'),['south-elizabeth']));assert(r.matches(p.find(x=>x.id==='food-little-ochie'),['central-interior']));assert.deepEqual(s.errors,[]);
  }finally{s.close();}});

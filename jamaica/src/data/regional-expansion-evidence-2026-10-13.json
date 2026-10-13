@@ -1,0 +1,2241 @@
+{
+  "checked": "2026-10-13",
+  "scope": "Homepage region entrance, named regional food branches and practical visitor resources.",
+  "newGuides": [
+    {
+      "id": "food-negril-miss-lilys",
+      "name": "Miss Lily’s at Skylark",
+      "area": "Negril beach strip",
+      "parishes": [
+        "Westmoreland"
+      ],
+      "regions": [
+        "negril"
+      ],
+      "kind": "Food & drink",
+      "photo": "",
+      "summary": "Jamaican breakfast, jerk and beach-day dining, with a separately published vegetarian menu.",
+      "story": "Choose this when you want a meal woven into a Seven Mile Beach day. Skylark’s location gives you a different setting from the West End cliffs. The menu separates breakfast, lunch and dinner, with Jamaican cooking and vegetarian choices; check the service you want rather than assuming every dish runs all day.",
+      "call": "A lively beach meal makes more sense here than dressing it up as a quiet formal dinner.",
+      "best": "Beach-day groups, Jamaican breakfast and visitors comparing vegetarian choices.",
+      "skip": "Your main priority is a quiet, formal dining room.",
+      "time": "45–90 minutes for a casual meal; editorial estimate.",
+      "cost": "Use the current menu and confirm currency, portions, taxes and service charges. Seafood may be priced by weight; ask for the total before ordering.",
+      "hours": "Confirm the current breakfast, lunch or dinner service and outside-guest arrival arrangements.",
+      "access": "Ask for the route from the entrance to your table, beach-side surfaces, shade and toilets.",
+      "parking": "Confirm the entrance and where your driver can wait or collect you; avoid assuming the beach-side entrance has vehicle access.",
+      "next": "Continue your beach block; do not add a distant cliff transfer merely to fill the afternoon.",
+      "source": "https://www.misslilys.com/negril/",
+      "history": "",
+      "route": "Miss Lily’s at Skylark, Skylark Negril Beach Resort, Norman Manley Boulevard, Jamaica",
+      "address": "Skylark Negril Beach Resort, Norman Manley Boulevard",
+      "status": "Operator / tourism-board listing; confirm current service",
+      "water": false,
+      "book": false,
+      "discoveryCategory": "food",
+      "checked": "2026-10-13",
+      "foodKind": "jamaican",
+      "nearby": false
+    },
+    {
+      "id": "food-negril-pushcart",
+      "name": "Pushcart Jerk Center & Rum Bar",
+      "area": "Negril West End",
+      "parishes": [
+        "Westmoreland"
+      ],
+      "regions": [
+        "negril"
+      ],
+      "kind": "Food & drink",
+      "photo": "",
+      "summary": "Jerk, Jamaican street-food traditions and an informal West End evening.",
+      "story": "Pushcart is Rockhouse’s casual Jamaican-food venue, distinct from the property’s more composed restaurant. Food, rum-bar atmosphere and music make this a social choice. Choose by the evening you want, not simply by finding two restaurants with the same hotel address.",
+      "call": "Choose Pushcart for jerk and atmosphere; choose Rockhouse Restaurant when the meal and conversation are the main event.",
+      "best": "Informal West End evenings and Jamaican cooking.",
+      "skip": "Music or a lively bar atmosphere would spoil the meal.",
+      "time": "60–90 minutes; editorial estimate.",
+      "cost": "Use the current menu and confirm currency, portions, taxes and service charges. Seafood may be priced by weight; ask for the total before ordering.",
+      "hours": "JTB currently lists Pushcart open; confirm that evening’s food service and any music programme with Rockhouse.",
+      "access": "Confirm entrance-to-table steps and the exact seating area; a sea view is not a step-free rating.",
+      "parking": "Confirm the entrance and where your driver can wait or collect you; avoid assuming the beach-side entrance has vehicle access.",
+      "next": "Keep the rest of the evening on the West End and arrange the return ride.",
+      "source": "https://www.rockhouse.com/eat/pushcart-negril?tab=pushcart-jerk-center-rum-bar",
+      "history": "",
+      "route": "Pushcart Jerk Center & Rum Bar, Rockhouse, West End Road, Jamaica",
+      "address": "Rockhouse, West End Road",
+      "status": "Operator / tourism-board listing; confirm current service",
+      "water": false,
+      "book": false,
+      "discoveryCategory": "food",
+      "checked": "2026-10-13",
+      "foodKind": "jamaican",
+      "nearby": false
+    },
+    {
+      "id": "food-negril-rockhouse",
+      "name": "Rockhouse Restaurant",
+      "area": "Negril West End",
+      "parishes": [
+        "Westmoreland"
+      ],
+      "regions": [
+        "negril"
+      ],
+      "kind": "Food & drink",
+      "photo": "",
+      "summary": "A cliffside meal with separate breakfast, lunch and dinner service.",
+      "story": "Rockhouse Restaurant is a dining choice within the cliffside hotel, not a beach-swimming destination. Its meal services let you choose a daytime lunch or a reserved evening rather than treating sunset as the only reason to come. Pushcart is a separate restaurant on the same property, with a different atmosphere.",
+      "call": "Let the meal anchor the evening. Reserve the time and setting you actually want instead of collecting several sunset stops.",
+      "best": "A deliberate sit-down meal and a cliffside setting.",
+      "skip": "You want to combine lunch with easy sandy-beach entry.",
+      "time": "90–120 minutes for a reserved dinner; editorial estimate.",
+      "cost": "Use the current menu and confirm currency, portions, taxes and service charges. Seafood may be priced by weight; ask for the total before ordering.",
+      "hours": "Ask which service admits outside guests, whether a reservation is required and the current menu.",
+      "access": "Request the actual route to your reserved table, steps and toilet access.",
+      "parking": "Confirm the entrance and where your driver can wait or collect you; avoid assuming the beach-side entrance has vehicle access.",
+      "next": "Use a West End return route; the Seven Mile Beach strip is a separate branch.",
+      "source": "https://www.rockhouse.com/eat/rockhouse-restaurant",
+      "history": "",
+      "route": "Rockhouse Restaurant, Rockhouse, West End Road, Jamaica",
+      "address": "Rockhouse, West End Road",
+      "status": "Operator / tourism-board listing; confirm current service",
+      "water": false,
+      "book": false,
+      "discoveryCategory": "food",
+      "checked": "2026-10-13",
+      "foodKind": "dining",
+      "nearby": false
+    },
+    {
+      "id": "food-negril-kuyaba",
+      "name": "Kuyaba Restaurant",
+      "area": "Negril beach strip",
+      "parishes": [
+        "Westmoreland"
+      ],
+      "regions": [
+        "negril"
+      ],
+      "kind": "Food & drink",
+      "photo": "",
+      "summary": "Jamaican breakfast and a broad sit-down menu beside the beach.",
+      "story": "Kuyaba describes covered dining and an open-air wooden deck, with Jamaican breakfasts, seafood, pasta and choices for mixed groups. Decide whether you need shade and a straightforward seating route or want the more elevated setting. The gazebo tower and beach-side dining are different access questions.",
+      "call": "A sensible mixed-group meal on the beach strip; choose the table before assuming the setting suits everyone.",
+      "best": "Groups balancing Jamaican cooking with broader menu preferences.",
+      "skip": "Your group cannot use steps and the restaurant cannot confirm a suitable table route.",
+      "time": "60–90 minutes; editorial estimate.",
+      "cost": "Use the current menu and confirm currency, portions, taxes and service charges. Seafood may be priced by weight; ask for the total before ordering.",
+      "hours": "The operator lists daily 7 a.m.–11 p.m.; reconfirm the particular meal service before visiting.",
+      "access": "Ask separately about the covered room, deck and tower seating, plus parking-to-table surfaces.",
+      "parking": "Confirm the entrance and where your driver can wait or collect you; avoid assuming the beach-side entrance has vehicle access.",
+      "next": "Return to your beach base or continue a short, locally paced beach outing.",
+      "source": "https://www.kuyaba.com/restaurant.html",
+      "history": "",
+      "route": "Kuyaba Restaurant, Norman Manley Boulevard, Seven Mile Beach, Jamaica",
+      "address": "Norman Manley Boulevard, Seven Mile Beach",
+      "status": "Operator / tourism-board listing; confirm current service",
+      "water": false,
+      "book": false,
+      "discoveryCategory": "food",
+      "checked": "2026-10-13",
+      "foodKind": "dining",
+      "nearby": false
+    },
+    {
+      "id": "food-negril-vendome",
+      "name": "Le Vendôme at Charela Inn",
+      "area": "Negril beach strip",
+      "parishes": [
+        "Westmoreland"
+      ],
+      "regions": [
+        "negril"
+      ],
+      "kind": "Food & drink",
+      "photo": "",
+      "summary": "Jamaican–French cooking for an unhurried beach-strip meal.",
+      "story": "Charela’s restaurant combines Jamaican and French cooking, with a changing five-course dinner and à la carte choices. The operator links its food supply to Cocoa Farm. That makes the meal a useful encounter with western farming as well as hotel dining, without promising that a sample menu is tonight’s menu.",
+      "call": "Choose this for a meal you give time to, not a quick stop between excursions.",
+      "best": "An unhurried dinner and diners interested in the farm-to-table connection.",
+      "skip": "You need a fast roadside turnaround.",
+      "time": "90–120 minutes for dinner; editorial estimate.",
+      "cost": "Use the current menu and confirm currency, portions, taxes and service charges. Seafood may be priced by weight; ask for the total before ordering.",
+      "hours": "Reserve and check the current five-course and à la carte options, outside-guest access and dietary arrangements.",
+      "access": "Ask about the route into the dining room and to toilets, plus any beach-side steps.",
+      "parking": "Confirm the entrance and where your driver can wait or collect you; avoid assuming the beach-side entrance has vehicle access.",
+      "next": "Stay on the beach-strip branch and protect the time needed for the meal.",
+      "source": "https://www.charelainn.com/restaurant",
+      "history": "",
+      "route": "Le Vendôme at Charela Inn, Charela Inn, Norman Manley Boulevard, Jamaica",
+      "address": "Charela Inn, Norman Manley Boulevard",
+      "status": "Operator / tourism-board listing; confirm current service",
+      "water": false,
+      "book": false,
+      "discoveryCategory": "food",
+      "checked": "2026-10-13",
+      "foodKind": "dining",
+      "nearby": false
+    },
+    {
+      "id": "food-negril-ivans",
+      "name": "Ivan’s at Catcha Falling Star",
+      "area": "Negril West End",
+      "parishes": [
+        "Westmoreland"
+      ],
+      "regions": [
+        "negril"
+      ],
+      "kind": "Food & drink",
+      "photo": "",
+      "summary": "A reserved cliff-front meal with visitors explicitly welcomed.",
+      "story": "Ivan’s gives the West End another meal-led option. The operator welcomes visitors and publishes distinct breakfast, lunch and dinner periods. Choose a table and service deliberately; a cliff-front restaurant is a different experience from eating on the sandy beach strip.",
+      "call": "Make a sunset reservation the evening’s anchor and sort the ride home before arriving.",
+      "best": "A planned West End dinner and diners who want a named restaurant reservation.",
+      "skip": "Cliff-side steps or the seating route do not fit your group’s access needs.",
+      "time": "90–120 minutes for a dinner; editorial estimate.",
+      "cost": "Use the current menu and confirm currency, portions, taxes and service charges. Seafood may be priced by weight; ask for the total before ordering.",
+      "hours": "Operator-listed breakfast 7 a.m.–noon, lunch noon–4 p.m., dinner 4–10 p.m. JTB lists open; confirm the reservation and current service.",
+      "access": "Request the exact entrance, table route, steps, edge setting and toilets before booking.",
+      "parking": "Confirm the entrance and where your driver can wait or collect you; avoid assuming the beach-side entrance has vehicle access.",
+      "next": "Keep the evening on the West End; do not assume beach and cliff restaurants are adjacent.",
+      "source": "https://catchajamaica.com/ivans-restaurant-bar/",
+      "history": "",
+      "route": "Ivan’s at Catcha Falling Star, Catcha Falling Star, West End Road, Jamaica",
+      "address": "Catcha Falling Star, West End Road",
+      "status": "Operator / tourism-board listing; confirm current service",
+      "water": false,
+      "book": false,
+      "discoveryCategory": "food",
+      "checked": "2026-10-13",
+      "foodKind": "dining",
+      "nearby": false
+    },
+    {
+      "id": "food-negril-blue-mahoe",
+      "name": "Blue Mahoe Restaurant",
+      "area": "Negril West End",
+      "parishes": [
+        "Westmoreland"
+      ],
+      "regions": [
+        "negril"
+      ],
+      "kind": "Food & drink",
+      "photo": "",
+      "summary": "Another sea-view West End option to compare by location and reservation.",
+      "story": "JTB identifies Blue Mahoe at Ocean Cliff Hotel and currently lists it open. Use it as a genuine alternative when comparing the West End’s restaurant settings and table availability. Choose the confirmed meal service and seating area; a tourism listing is not a live menu or a reservation.",
+      "call": "Compare it with Ivan’s and Rockhouse, then choose one restaurant that fits your base and confirmed booking.",
+      "best": "Visitors staying on the West End who want a seated sea-view meal.",
+      "skip": "You need an established current menu or accessible table route and cannot obtain it from the venue.",
+      "time": "90–120 minutes for dinner; editorial estimate.",
+      "cost": "Use the current menu and confirm currency, portions, taxes and service charges. Seafood may be priced by weight; ask for the total before ordering.",
+      "hours": "Confirm current menu, service, outside-guest arrival and reservation directly with Ocean Cliff.",
+      "access": "Ask about cliffside steps and the entrance-to-table route, rather than assuming hotel dining is accessible.",
+      "parking": "Confirm the entrance and where your driver can wait or collect you; avoid assuming the beach-side entrance has vehicle access.",
+      "next": "Return to your West End base with arranged transport.",
+      "source": "https://www.visitjamaica.com/listing/blue-mahoe-restauarant/2809/",
+      "history": "",
+      "route": "Blue Mahoe Restaurant, Ocean Cliff Hotel, West End, Jamaica",
+      "address": "Ocean Cliff Hotel, West End",
+      "status": "Operator / tourism-board listing; confirm current service",
+      "water": false,
+      "book": false,
+      "discoveryCategory": "food",
+      "checked": "2026-10-13",
+      "foodKind": "dining",
+      "nearby": false
+    },
+    {
+      "id": "food-negril-tensing",
+      "name": "The Lodge at Tensing Pen",
+      "area": "Negril West End",
+      "parishes": [
+        "Westmoreland"
+      ],
+      "regions": [
+        "negril"
+      ],
+      "kind": "Food & drink",
+      "photo": "",
+      "summary": "Seasonal Caribbean dining with a distinctive small-property setting.",
+      "story": "The Lodge publishes seasonal Caribbean cooking and advance arrangements for vegetarian, vegan, dairy-free and gluten-free preferences. The operator also discloses three large Rhodesian Ridgebacks roaming the property. That matters to the choice as much as the menu: tell the restaurant about both dietary and access needs before reserving.",
+      "call": "Choose a considered meal here if the setting, dogs and current guest policies fit your group.",
+      "best": "Seasonal Caribbean dining and visitors who can discuss dietary preferences in advance.",
+      "skip": "Large freely roaming dogs make someone in your group uncomfortable.",
+      "time": "90–120 minutes for dinner; editorial estimate.",
+      "cost": "Use the current menu and confirm currency, portions, taxes and service charges. Seafood may be priced by weight; ask for the total before ordering.",
+      "hours": "Operator-listed daily 10 a.m.–9 p.m.; reservations strongly recommended. Confirm current outside-guest and age policies.",
+      "access": "Ask about paths, steps, table placement and toilets; advise staff about mobility needs and dogs.",
+      "parking": "Confirm the entrance and where your driver can wait or collect you; avoid assuming the beach-side entrance has vehicle access.",
+      "next": "Keep the evening local to the West End and arrange pickup.",
+      "source": "https://www.tensingpen.com/dining/",
+      "history": "",
+      "route": "The Lodge at Tensing Pen, Tensing Pen, West End Road, Jamaica",
+      "address": "Tensing Pen, West End Road",
+      "status": "Operator / tourism-board listing; confirm current service",
+      "water": false,
+      "book": false,
+      "discoveryCategory": "food",
+      "checked": "2026-10-13",
+      "foodKind": "dining",
+      "nearby": false
+    },
+    {
+      "id": "food-negril-sands",
+      "name": "The Sands at The Caves",
+      "area": "Negril West End",
+      "parishes": [
+        "Westmoreland"
+      ],
+      "regions": [
+        "negril"
+      ],
+      "kind": "Food & drink",
+      "photo": "",
+      "summary": "Public jerk evenings on a named schedule, separate from private cave dining.",
+      "story": "The Sands gives visitors a specific way to eat at The Caves without assuming every dining room in an all-inclusive property admits outsiders. The operator describes public jerk evenings on Wednesday and Saturday. Private cave dining is a different, separately arranged product.",
+      "call": "Choose the confirmed public jerk evening; do not turn a hotel name into a promise of unrestricted resort access.",
+      "best": "A scheduled West End jerk evening.",
+      "skip": "You want an any-night walk-in or expect private cave dining to be included.",
+      "time": "60–90 minutes; editorial estimate.",
+      "cost": "Use the current menu and confirm currency, portions, taxes and service charges. Seafood may be priced by weight; ask for the total before ordering.",
+      "hours": "Operator-listed public jerk evenings Wednesday and Saturday; confirm this week’s service, reservation and arrival rules.",
+      "access": "Ask about the actual public dining area, entrance steps and toilets; cave access is a separate question.",
+      "parking": "Confirm the entrance and where your driver can wait or collect you; avoid assuming the beach-side entrance has vehicle access.",
+      "next": "Use a confirmed West End pickup and return route.",
+      "source": "https://www.thecaveshotel.com/eat/the-sands/",
+      "history": "",
+      "route": "The Sands at The Caves, The Caves, 144 One Love Drive, Jamaica",
+      "address": "The Caves, 144 One Love Drive",
+      "status": "Operator / tourism-board listing; confirm current service",
+      "water": false,
+      "book": false,
+      "discoveryCategory": "food",
+      "checked": "2026-10-13",
+      "foodKind": "jamaican",
+      "nearby": false
+    },
+    {
+      "id": "food-negril-half-moon",
+      "name": "Half Moon Beach Restaurant — Green Island",
+      "area": "Green Island, Hanover",
+      "parishes": [
+        "Hanover"
+      ],
+      "regions": [
+        "negril"
+      ],
+      "kind": "Food & drink",
+      "photo": "",
+      "summary": "A Hanover beach-and-meal branch away from Negril’s hotel strip.",
+      "story": "Half Moon Beach in Green Island offers Jamaican and international food in a beach setting. It is not the Half Moon resort in Rose Hall, St. James. Ask what seafood is available and whether your intended meal visit includes beach use; a restaurant booking and a day-beach arrangement can have different charges.",
+      "call": "Choose this when Green Island is your branch of the western coast; avoid treating every place marketed near Negril as the same location.",
+      "best": "A Hanover coastal meal and groups who want a beach block with food.",
+      "skip": "You need a town-centre quick meal or verified step-free sand access.",
+      "time": "60–90 minutes for a meal, longer for a separately arranged beach visit; editorial estimate.",
+      "cost": "Use the current menu and confirm currency, portions, taxes and service charges. Seafood may be priced by weight; ask for the total before ordering.",
+      "hours": "Operator-listed daily 9 a.m.–9 p.m.; confirm food service, beach access and any seasonal seafood availability.",
+      "access": "Ask about parking, sand, seating and toilets; request the specific route needed by your group.",
+      "parking": "Confirm the entrance and where your driver can wait or collect you; avoid assuming the beach-side entrance has vehicle access.",
+      "next": "Keep a Hanover coastal branch; Lucea and Negril West End are separate directions.",
+      "source": "https://halfmoonbeachja.com/beach-restaurant/",
+      "history": "",
+      "route": "Half Moon Beach Restaurant — Green Island, Half Moon Beach, Green Island, Hanover, Jamaica",
+      "address": "Half Moon Beach, Green Island, Hanover",
+      "status": "Operator / tourism-board listing; confirm current service",
+      "water": false,
+      "book": false,
+      "discoveryCategory": "food",
+      "checked": "2026-10-13",
+      "foodKind": "seafood",
+      "nearby": false
+    },
+    {
+      "id": "food-negril-sweet-spice",
+      "name": "Sweet Spice Restaurant — Negril town",
+      "area": "Negril town",
+      "parishes": [
+        "Westmoreland"
+      ],
+      "regions": [
+        "negril"
+      ],
+      "kind": "Food & drink",
+      "photo": "",
+      "summary": "Jamaican cooking in town, with its own address rather than a resort dining room.",
+      "story": "Sweet Spice’s public owner page identifies Jamaican cuisine, and the local restaurant listing places it at 1 White Hall Road. This gives a town-based alternative to the beach and cliff hotel restaurants. Use the owner’s current contact page to ask which dishes are ready and confirm that day’s opening before making it a dedicated food trip.",
+      "call": "Keep a local Jamaican meal in the choices, instead of letting the western food directory become only hotel dining.",
+      "best": "A Negril town meal and visitors looking beyond resort restaurants.",
+      "skip": "You need a verified current menu, quiet formal setting or a guaranteed rapid service time.",
+      "time": "45–75 minutes; editorial estimate.",
+      "cost": "Use the current menu and confirm currency, portions, taxes and service charges. Seafood may be priced by weight; ask for the total before ordering.",
+      "hours": "Confirm current opening, menu and pickup through the owner; the Facebook page may require sign-in.",
+      "access": "Ask about the entrance, table spacing, toilets and suitable pickup.",
+      "parking": "Confirm the entrance and where your driver can wait or collect you; avoid assuming the beach-side entrance has vehicle access.",
+      "next": "Pair with Negril town errands or return to your base; choose the beach or cliffs separately.",
+      "source": "https://www.facebook.com/sweetspicerestaurant/",
+      "history": "",
+      "route": "Sweet Spice Restaurant — Negril town, 1 White Hall Road, Negril, Jamaica",
+      "address": "1 White Hall Road, Negril",
+      "status": "Operator / tourism-board listing; confirm current service",
+      "water": false,
+      "book": false,
+      "discoveryCategory": "food",
+      "checked": "2026-10-13",
+      "foodKind": "jamaican",
+      "nearby": false
+    },
+    {
+      "id": "food-regional-murray-toll",
+      "name": "Murray’s Fish and Jerk Hut — Toll Gate",
+      "area": "Toll Gate, Clarendon",
+      "parishes": [
+        "Clarendon"
+      ],
+      "regions": [
+        "central-interior"
+      ],
+      "kind": "Food & drink",
+      "photo": "",
+      "summary": "Jerk, fish and Jamaican meals at Toll Gate, Clarendon Park.",
+      "story": "A proper meal stop on the Clarendon road corridor rather than a beach restaurant. The operator publishes a full menu, including fish tea, curried goat and chickpea dishes. Choose this branch when crossing Clarendon; the Mandeville branch is a separate destination.",
+      "call": "Give this meal time in the Toll Gate, Clarendon branch of your visit, rather than adding a cross-region detour.",
+      "best": "A locally planned meal in Toll Gate, Clarendon.",
+      "skip": "The drive or meal duration would crowd out your main outing.",
+      "time": "45–90 minutes for a cafe or casual meal; allow longer for a reserved dinner. Editorial estimate.",
+      "cost": "Check this branch’s live menu, portion size, currency and the total including sides, tax and service. No fixed price is assumed.",
+      "hours": "Check the current meal service, menu, outside-guest access and any reservation with the venue.",
+      "access": "Ask about the entrance, steps or ramps, table/counter route and toilets.",
+      "parking": "Confirm the exact entrance and pickup point; town-centre branches may require a separate parking arrangement.",
+      "next": "Continue within Toll Gate, Clarendon or return to your local base; check the actual transfer before adding another branch.",
+      "source": "https://murraysfishandjerkhut.com/",
+      "history": "",
+      "route": "Murray’s Fish and Jerk Hut — Toll Gate, Toll Gate, Clarendon Park, Clarendon, Jamaica",
+      "address": "Toll Gate, Clarendon Park",
+      "status": "Operator / public-source listing; confirm current service",
+      "water": false,
+      "book": false,
+      "discoveryCategory": "food",
+      "checked": "2026-10-13",
+      "foodKind": "jamaican",
+      "nearby": false,
+      "aliases": [
+        "Toll Gate, Clarendon Park",
+        "Jerk, fish and Jamaican meals"
+      ]
+    },
+    {
+      "id": "food-regional-murray-mandeville",
+      "name": "Murray’s Fish and Jerk Hut — Mandeville",
+      "area": "Mandeville",
+      "parishes": [
+        "Manchester"
+      ],
+      "regions": [
+        "central-interior"
+      ],
+      "kind": "Food & drink",
+      "photo": "",
+      "summary": "Jerk, fish and Jamaican meals at Annex Plaza, Caledonia Road.",
+      "story": "Choose the town branch for a Mandeville day, rather than making a separate trip to Toll Gate. This is an inland meal stop that can anchor a town or Manchester heritage outing. Ask about the day’s fish and side dishes before ordering.",
+      "call": "Give this meal time in the Mandeville branch of your visit, rather than adding a cross-region detour.",
+      "best": "A locally planned meal in Mandeville.",
+      "skip": "The drive or meal duration would crowd out your main outing.",
+      "time": "45–90 minutes for a cafe or casual meal; allow longer for a reserved dinner. Editorial estimate.",
+      "cost": "Check this branch’s live menu, portion size, currency and the total including sides, tax and service. No fixed price is assumed.",
+      "hours": "Check the current meal service, menu, outside-guest access and any reservation with the venue.",
+      "access": "Ask about the entrance, steps or ramps, table/counter route and toilets.",
+      "parking": "Confirm the exact entrance and pickup point; town-centre branches may require a separate parking arrangement.",
+      "next": "Continue within Mandeville or return to your local base; check the actual transfer before adding another branch.",
+      "source": "https://murraysfishandjerkhut.com/",
+      "history": "",
+      "route": "Murray’s Fish and Jerk Hut — Mandeville, Annex Plaza, Caledonia Road, Manchester, Jamaica",
+      "address": "Annex Plaza, Caledonia Road",
+      "status": "Operator / public-source listing; confirm current service",
+      "water": false,
+      "book": false,
+      "discoveryCategory": "food",
+      "checked": "2026-10-13",
+      "foodKind": "jamaican",
+      "nearby": false,
+      "aliases": [
+        "Annex Plaza, Caledonia Road",
+        "Jerk, fish and Jamaican meals"
+      ]
+    },
+    {
+      "id": "food-regional-hotspot-mandeville",
+      "name": "The HotSpot Cafe — Mandeville",
+      "area": "Mandeville",
+      "parishes": [
+        "Manchester"
+      ],
+      "regions": [
+        "central-interior"
+      ],
+      "kind": "Food & drink",
+      "photo": "",
+      "summary": "Cafe and takeaway at Shop BHM 16, Reliance Centre, Manchester Road.",
+      "story": "An explicitly addressed town-centre cafe with operator-run online ordering. Useful when a quick lunch or takeaway makes more sense than a long restaurant break during a Mandeville visit. Review the live menu and pickup arrangements rather than assuming a particular meal is always stocked.",
+      "call": "Give this meal time in the Mandeville branch of your visit, rather than adding a cross-region detour.",
+      "best": "A locally planned meal in Mandeville.",
+      "skip": "The drive or meal duration would crowd out your main outing.",
+      "time": "45–90 minutes for a cafe or casual meal; allow longer for a reserved dinner. Editorial estimate.",
+      "cost": "Check this branch’s live menu, portion size, currency and the total including sides, tax and service. No fixed price is assumed.",
+      "hours": "Check the current meal service, menu, outside-guest access and any reservation with the venue.",
+      "access": "Ask about the entrance, steps or ramps, table/counter route and toilets.",
+      "parking": "Confirm the exact entrance and pickup point; town-centre branches may require a separate parking arrangement.",
+      "next": "Continue within Mandeville or return to your local base; check the actual transfer before adding another branch.",
+      "source": "https://www.thehotspot.cafe/",
+      "history": "",
+      "route": "The HotSpot Cafe — Mandeville, Shop BHM 16, Reliance Centre, Manchester Road, Manchester, Jamaica",
+      "address": "Shop BHM 16, Reliance Centre, Manchester Road",
+      "status": "Operator / public-source listing; confirm current service",
+      "water": false,
+      "book": false,
+      "discoveryCategory": "food",
+      "checked": "2026-10-13",
+      "foodKind": "cafe",
+      "nearby": false,
+      "aliases": [
+        "Shop BHM 16, Reliance Centre, Manchester Road",
+        "Cafe and takeaway"
+      ]
+    },
+    {
+      "id": "food-regional-juici-clarendon",
+      "name": "Juici Patties — Clarendon Park",
+      "area": "Clarendon Park",
+      "parishes": [
+        "Clarendon"
+      ],
+      "regions": [
+        "central-interior"
+      ],
+      "kind": "Food & drink",
+      "photo": "",
+      "summary": "Patties and quick meals at Lot 1A, Clarendon Park.",
+      "story": "A practical road-trip stop at Clarendon Park. Choose the branch menu for a fast patty or a fuller meal; do not assume all branches carry the same cooked breakfast or lunch. Useful when keeping a cross-island journey moving.",
+      "call": "Use this exact branch for a quick meal on your route; a chain name alone is not a location.",
+      "best": "A short meal break during a Clarendon Park visit.",
+      "skip": "Your route does not pass this branch, or you require a seated service the branch cannot confirm.",
+      "time": "20–45 minutes for a quick food break; editorial estimate, not a service guarantee.",
+      "cost": "Check this branch’s live menu, portion size, currency and the total including sides, tax and service. No fixed price is assumed.",
+      "hours": "Choose the named branch on the operator’s location/menu page; confirm opening, dishes available and any collection order.",
+      "access": "Ask about the entrance, steps or ramps, table/counter route and toilets.",
+      "parking": "Confirm the exact entrance and pickup point; town-centre branches may require a separate parking arrangement.",
+      "next": "Continue within Clarendon Park or return to your local base; check the actual transfer before adding another branch.",
+      "source": "https://juicipatties.com/locations/",
+      "history": "",
+      "route": "Juici Patties — Clarendon Park, Lot 1A, Clarendon Park, Clarendon, Jamaica",
+      "address": "Lot 1A, Clarendon Park",
+      "status": "Operator / public-source listing; confirm current service",
+      "water": false,
+      "book": false,
+      "discoveryCategory": "food",
+      "checked": "2026-10-13",
+      "foodKind": "quick",
+      "nearby": false,
+      "aliases": [
+        "Lot 1A, Clarendon Park",
+        "Patties and quick meals"
+      ]
+    },
+    {
+      "id": "food-regional-juici-maypen",
+      "name": "Juici Patties — May Pen, 30 Main Street",
+      "area": "May Pen",
+      "parishes": [
+        "Clarendon"
+      ],
+      "regions": [
+        "central-interior"
+      ],
+      "kind": "Food & drink",
+      "photo": "",
+      "summary": "Patties and quick meals at 30 Main Street, May Pen.",
+      "story": "Use this named Main Street branch during a May Pen visit instead of a vague chain-wide map pin. A quick food break can keep the town’s history stops and shopping together without an unnecessary detour. Select this branch on the operator’s menu page.",
+      "call": "Use this exact branch for a quick meal on your route; a chain name alone is not a location.",
+      "best": "A short meal break during a May Pen visit.",
+      "skip": "Your route does not pass this branch, or you require a seated service the branch cannot confirm.",
+      "time": "20–45 minutes for a quick food break; editorial estimate, not a service guarantee.",
+      "cost": "Check this branch’s live menu, portion size, currency and the total including sides, tax and service. No fixed price is assumed.",
+      "hours": "Choose the named branch on the operator’s location/menu page; confirm opening, dishes available and any collection order.",
+      "access": "Ask about the entrance, steps or ramps, table/counter route and toilets.",
+      "parking": "Confirm the exact entrance and pickup point; town-centre branches may require a separate parking arrangement.",
+      "next": "Continue within May Pen or return to your local base; check the actual transfer before adding another branch.",
+      "source": "https://juicipatties.com/locations/",
+      "history": "",
+      "route": "Juici Patties — May Pen, 30 Main Street, 30 Main Street, May Pen, Clarendon, Jamaica",
+      "address": "30 Main Street, May Pen",
+      "status": "Operator / public-source listing; confirm current service",
+      "water": false,
+      "book": false,
+      "discoveryCategory": "food",
+      "checked": "2026-10-13",
+      "foodKind": "quick",
+      "nearby": false,
+      "aliases": [
+        "30 Main Street, May Pen",
+        "Patties and quick meals"
+      ]
+    },
+    {
+      "id": "food-regional-juici-christiana",
+      "name": "Juici Patties — Christiana, Main Street",
+      "area": "Christiana",
+      "parishes": [
+        "Manchester"
+      ],
+      "regions": [
+        "central-interior"
+      ],
+      "kind": "Food & drink",
+      "photo": "",
+      "summary": "Patties and quick meals at Shop 2, Main Street, Christiana.",
+      "story": "An inland Manchester food stop for a Christiana or northern-parish outing. It belongs in a different day plan from Alligator Pond seafood on the south coast. Check the named branch menu before counting on cooked meals beyond patties.",
+      "call": "Use this exact branch for a quick meal on your route; a chain name alone is not a location.",
+      "best": "A short meal break during a Christiana visit.",
+      "skip": "Your route does not pass this branch, or you require a seated service the branch cannot confirm.",
+      "time": "20–45 minutes for a quick food break; editorial estimate, not a service guarantee.",
+      "cost": "Check this branch’s live menu, portion size, currency and the total including sides, tax and service. No fixed price is assumed.",
+      "hours": "Choose the named branch on the operator’s location/menu page; confirm opening, dishes available and any collection order.",
+      "access": "Ask about the entrance, steps or ramps, table/counter route and toilets.",
+      "parking": "Confirm the exact entrance and pickup point; town-centre branches may require a separate parking arrangement.",
+      "next": "Continue within Christiana or return to your local base; check the actual transfer before adding another branch.",
+      "source": "https://juicipatties.com/locations/",
+      "history": "",
+      "route": "Juici Patties — Christiana, Main Street, Shop 2, Main Street, Christiana, Manchester, Jamaica",
+      "address": "Shop 2, Main Street, Christiana",
+      "status": "Operator / public-source listing; confirm current service",
+      "water": false,
+      "book": false,
+      "discoveryCategory": "food",
+      "checked": "2026-10-13",
+      "foodKind": "quick",
+      "nearby": false,
+      "aliases": [
+        "Shop 2, Main Street, Christiana",
+        "Patties and quick meals"
+      ]
+    },
+    {
+      "id": "food-regional-juici-morant",
+      "name": "Juici Patties — Morant Bay",
+      "area": "Morant Bay",
+      "parishes": [
+        "St. Thomas"
+      ],
+      "regions": [
+        "southeast"
+      ],
+      "kind": "Food & drink",
+      "photo": "",
+      "summary": "Patties and quick meals at 2 Georges Street, Morant Bay.",
+      "story": "A clearly located quick-meal option in Morant Bay for a courthouse, Paul Bogle or coastal history day. Choose this town branch rather than the separate Yallahs outlet. Use the operator’s branch menu to check what is being served.",
+      "call": "Use this exact branch for a quick meal on your route; a chain name alone is not a location.",
+      "best": "A short meal break during a Morant Bay visit.",
+      "skip": "Your route does not pass this branch, or you require a seated service the branch cannot confirm.",
+      "time": "20–45 minutes for a quick food break; editorial estimate, not a service guarantee.",
+      "cost": "Check this branch’s live menu, portion size, currency and the total including sides, tax and service. No fixed price is assumed.",
+      "hours": "Choose the named branch on the operator’s location/menu page; confirm opening, dishes available and any collection order.",
+      "access": "Ask about the entrance, steps or ramps, table/counter route and toilets.",
+      "parking": "Confirm the exact entrance and pickup point; town-centre branches may require a separate parking arrangement.",
+      "next": "Continue within Morant Bay or return to your local base; check the actual transfer before adding another branch.",
+      "source": "https://juicipatties.com/locations/",
+      "history": "",
+      "route": "Juici Patties — Morant Bay, 2 Georges Street, Morant Bay, St. Thomas, Jamaica",
+      "address": "2 Georges Street, Morant Bay",
+      "status": "Operator / public-source listing; confirm current service",
+      "water": false,
+      "book": false,
+      "discoveryCategory": "food",
+      "checked": "2026-10-13",
+      "foodKind": "quick",
+      "nearby": false,
+      "aliases": [
+        "2 Georges Street, Morant Bay",
+        "Patties and quick meals"
+      ]
+    },
+    {
+      "id": "food-regional-juici-yallahs",
+      "name": "Juici Patties — Yallahs",
+      "area": "Yallahs",
+      "parishes": [
+        "St. Thomas"
+      ],
+      "regions": [
+        "southeast"
+      ],
+      "kind": "Food & drink",
+      "photo": "",
+      "summary": "Patties and quick meals at Main Street, Yallahs.",
+      "story": "A food break in Yallahs on the southeastern corridor. This is useful for a shorter coastal outing; it is not evidence that Morant Bay or Bath is just around the corner. Check the specific branch menu and plan the rest of the route separately.",
+      "call": "Use this exact branch for a quick meal on your route; a chain name alone is not a location.",
+      "best": "A short meal break during a Yallahs visit.",
+      "skip": "Your route does not pass this branch, or you require a seated service the branch cannot confirm.",
+      "time": "20–45 minutes for a quick food break; editorial estimate, not a service guarantee.",
+      "cost": "Check this branch’s live menu, portion size, currency and the total including sides, tax and service. No fixed price is assumed.",
+      "hours": "Choose the named branch on the operator’s location/menu page; confirm opening, dishes available and any collection order.",
+      "access": "Ask about the entrance, steps or ramps, table/counter route and toilets.",
+      "parking": "Confirm the exact entrance and pickup point; town-centre branches may require a separate parking arrangement.",
+      "next": "Continue within Yallahs or return to your local base; check the actual transfer before adding another branch.",
+      "source": "https://juicipatties.com/locations/",
+      "history": "",
+      "route": "Juici Patties — Yallahs, Main Street, Yallahs, St. Thomas, Jamaica",
+      "address": "Main Street, Yallahs",
+      "status": "Operator / public-source listing; confirm current service",
+      "water": false,
+      "book": false,
+      "discoveryCategory": "food",
+      "checked": "2026-10-13",
+      "foodKind": "quick",
+      "nearby": false,
+      "aliases": [
+        "Main Street, Yallahs",
+        "Patties and quick meals"
+      ]
+    },
+    {
+      "id": "food-regional-angola",
+      "name": "Angola Restaurant — Old Pera",
+      "area": "Old Pera / Bowden",
+      "parishes": [
+        "St. Thomas"
+      ],
+      "regions": [
+        "southeast"
+      ],
+      "kind": "Food & drink",
+      "photo": "",
+      "summary": "Seafood and harbour dining at Old Pera, near Bowden Harbour.",
+      "story": "Jah Bouks and Conejato’s restaurant brings seafood dining to Old Pera near Bowden Harbour. This is a distinct southeastern coastal meal branch, not a Morant Bay counter-service stop. Arrange the menu, opening and precise arrival directions through the owner’s public contact profile before making the journey.",
+      "call": "Give this meal time in the Old Pera / Bowden branch of your visit, rather than adding a cross-region detour.",
+      "best": "A locally planned meal in Old Pera / Bowden.",
+      "skip": "The drive or meal duration would crowd out your main outing.",
+      "time": "45–90 minutes for a cafe or casual meal; allow longer for a reserved dinner. Editorial estimate.",
+      "cost": "Check this branch’s live menu, portion size, currency and the total including sides, tax and service. No fixed price is assumed.",
+      "hours": "Check the current meal service, menu, outside-guest access and any reservation with the venue.",
+      "access": "Ask about the entrance, steps or ramps, table/counter route and toilets.",
+      "parking": "Confirm the exact entrance and pickup point; town-centre branches may require a separate parking arrangement.",
+      "next": "Continue within Old Pera / Bowden or return to your local base; check the actual transfer before adding another branch.",
+      "source": "https://linktr.ee/angolarestaurant",
+      "history": "",
+      "route": "Angola Restaurant — Old Pera, Old Pera, near Bowden Harbour, St. Thomas, Jamaica",
+      "address": "Old Pera, near Bowden Harbour",
+      "status": "Operator / public-source listing; confirm current service",
+      "water": false,
+      "book": false,
+      "discoveryCategory": "food",
+      "checked": "2026-10-13",
+      "foodKind": "seafood",
+      "nearby": false,
+      "aliases": [
+        "Old Pera, near Bowden Harbour",
+        "Seafood and harbour dining"
+      ]
+    },
+    {
+      "id": "food-regional-bushbar",
+      "name": "Bushbar at Geejam",
+      "area": "San San / Drapers",
+      "parishes": [
+        "Portland"
+      ],
+      "regions": [
+        "portland"
+      ],
+      "kind": "Food & drink",
+      "photo": "",
+      "summary": "Jamaican fusion and cocktails at Geejam, San San / Drapers, Port Antonio.",
+      "story": "A reservation-led sit-down choice with forest-to-sea views, rather than another roadside jerk stop. Geejam’s operator page publishes current menu and table-booking links. Choose it when the meal is part of the outing; arrange a return ride before drinking.",
+      "call": "Give this meal time in the San San / Drapers branch of your visit, rather than adding a cross-region detour.",
+      "best": "A locally planned meal in San San / Drapers.",
+      "skip": "The drive or meal duration would crowd out your main outing.",
+      "time": "45–90 minutes for a cafe or casual meal; allow longer for a reserved dinner. Editorial estimate.",
+      "cost": "Check this branch’s live menu, portion size, currency and the total including sides, tax and service. No fixed price is assumed.",
+      "hours": "Check the current meal service, menu, outside-guest access and any reservation with the venue.",
+      "access": "Ask about the entrance, steps or ramps, table/counter route and toilets.",
+      "parking": "Confirm the exact entrance and pickup point; town-centre branches may require a separate parking arrangement.",
+      "next": "Continue within San San / Drapers or return to your local base; check the actual transfer before adding another branch.",
+      "source": "https://www.geejamhotel.com/food-drink/",
+      "history": "",
+      "route": "Bushbar at Geejam, Geejam, San San / Drapers, Port Antonio, Portland, Jamaica",
+      "address": "Geejam, San San / Drapers, Port Antonio",
+      "status": "Operator / public-source listing; confirm current service",
+      "water": false,
+      "book": false,
+      "discoveryCategory": "food",
+      "checked": "2026-10-13",
+      "foodKind": "dining",
+      "nearby": false,
+      "aliases": [
+        "Geejam, San San / Drapers, Port Antonio",
+        "Jamaican fusion and cocktails"
+      ]
+    },
+    {
+      "id": "food-regional-juici-portantonio",
+      "name": "Juici Patties — Port Antonio, Williams Street",
+      "area": "Port Antonio town",
+      "parishes": [
+        "Portland"
+      ],
+      "regions": [
+        "portland"
+      ],
+      "kind": "Food & drink",
+      "photo": "",
+      "summary": "Patties and quick meals at 13 Williams Street, Port Antonio.",
+      "story": "A specific town-centre quick-meal alternative to Boston Bay jerk or a hotel restaurant. Useful during a Port Antonio town walk. Keep the Williams Street branch distinct from the operator’s Boundbrook outlet when checking directions and menus.",
+      "call": "Use this exact branch for a quick meal on your route; a chain name alone is not a location.",
+      "best": "A short meal break during a Port Antonio town visit.",
+      "skip": "Your route does not pass this branch, or you require a seated service the branch cannot confirm.",
+      "time": "20–45 minutes for a quick food break; editorial estimate, not a service guarantee.",
+      "cost": "Check this branch’s live menu, portion size, currency and the total including sides, tax and service. No fixed price is assumed.",
+      "hours": "Choose the named branch on the operator’s location/menu page; confirm opening, dishes available and any collection order.",
+      "access": "Ask about the entrance, steps or ramps, table/counter route and toilets.",
+      "parking": "Confirm the exact entrance and pickup point; town-centre branches may require a separate parking arrangement.",
+      "next": "Continue within Port Antonio town or return to your local base; check the actual transfer before adding another branch.",
+      "source": "https://juicipatties.com/locations/",
+      "history": "",
+      "route": "Juici Patties — Port Antonio, Williams Street, 13 Williams Street, Port Antonio, Portland, Jamaica",
+      "address": "13 Williams Street, Port Antonio",
+      "status": "Operator / public-source listing; confirm current service",
+      "water": false,
+      "book": false,
+      "discoveryCategory": "food",
+      "checked": "2026-10-13",
+      "foodKind": "quick",
+      "nearby": false,
+      "aliases": [
+        "13 Williams Street, Port Antonio",
+        "Patties and quick meals"
+      ]
+    },
+    {
+      "id": "food-regional-juici-boundbrook",
+      "name": "Juici Patties — Port Antonio, Boundbrook",
+      "area": "Boundbrook, Portland",
+      "parishes": [
+        "Portland"
+      ],
+      "regions": [
+        "portland"
+      ],
+      "kind": "Food & drink",
+      "photo": "",
+      "summary": "Patties and quick meals at Lot 1, 38K Boundbrook.",
+      "story": "A separately identified Boundbrook outlet for arrivals or departures on the western side of Port Antonio. Select this exact branch before placing an order or routing a pickup; the Williams Street branch is a different location.",
+      "call": "Use this exact branch for a quick meal on your route; a chain name alone is not a location.",
+      "best": "A short meal break during a Boundbrook, Portland visit.",
+      "skip": "Your route does not pass this branch, or you require a seated service the branch cannot confirm.",
+      "time": "20–45 minutes for a quick food break; editorial estimate, not a service guarantee.",
+      "cost": "Check this branch’s live menu, portion size, currency and the total including sides, tax and service. No fixed price is assumed.",
+      "hours": "Choose the named branch on the operator’s location/menu page; confirm opening, dishes available and any collection order.",
+      "access": "Ask about the entrance, steps or ramps, table/counter route and toilets.",
+      "parking": "Confirm the exact entrance and pickup point; town-centre branches may require a separate parking arrangement.",
+      "next": "Continue within Boundbrook, Portland or return to your local base; check the actual transfer before adding another branch.",
+      "source": "https://juicipatties.com/locations/",
+      "history": "",
+      "route": "Juici Patties — Port Antonio, Boundbrook, Lot 1, 38K Boundbrook, Portland, Jamaica",
+      "address": "Lot 1, 38K Boundbrook",
+      "status": "Operator / public-source listing; confirm current service",
+      "water": false,
+      "book": false,
+      "discoveryCategory": "food",
+      "checked": "2026-10-13",
+      "foodKind": "quick",
+      "nearby": false,
+      "aliases": [
+        "Lot 1, 38K Boundbrook",
+        "Patties and quick meals"
+      ]
+    },
+    {
+      "id": "food-regional-bluebrews",
+      "name": "Blue Brews Bistro — Holywell",
+      "area": "Blue Mountains",
+      "parishes": [
+        "St. Andrew"
+      ],
+      "regions": [
+        "capital-mountains"
+      ],
+      "kind": "Food & drink",
+      "photo": "",
+      "summary": "Mountain cafe, coffee and handcrafted dishes at Holywell National Park, Hardwar Gap.",
+      "story": "A meal-and-coffee option within Holywell, useful alongside a park visit. The operator currently advertises weekend public service and weekday group bookings, so this is not an everyday walk-in stop. Check table availability and park entry separately before climbing the mountain road.",
+      "call": "Make the cafe part of a Holywell day; verify service before going up the mountain.",
+      "best": "A locally planned meal in Blue Mountains.",
+      "skip": "The drive or meal duration would crowd out your main outing.",
+      "time": "45–90 minutes for a cafe or casual meal; allow longer for a reserved dinner. Editorial estimate.",
+      "cost": "Check this branch’s live menu, portion size, currency and the total including sides, tax and service. No fixed price is assumed.",
+      "hours": "The operator advertises weekend public service and weekday group bookings. Confirm the day, table and separate park entry.",
+      "access": "Ask about the entrance, steps or ramps, table/counter route and toilets.",
+      "parking": "Confirm the exact entrance and pickup point; town-centre branches may require a separate parking arrangement.",
+      "next": "Continue within Blue Mountains or return to your local base; check the actual transfer before adding another branch.",
+      "source": "https://www.bluebrewsbistro.com/",
+      "history": "",
+      "route": "Blue Brews Bistro — Holywell, Holywell National Park, Hardwar Gap, St. Andrew, Jamaica",
+      "address": "Holywell National Park, Hardwar Gap",
+      "status": "Operator / public-source listing; confirm current service",
+      "water": false,
+      "book": false,
+      "discoveryCategory": "food",
+      "checked": "2026-10-13",
+      "foodKind": "cafe",
+      "nearby": false,
+      "aliases": [
+        "Holywell National Park, Hardwar Gap",
+        "Mountain cafe, coffee and handcrafted dishes"
+      ]
+    },
+    {
+      "id": "food-regional-murray-kingston",
+      "name": "Murray’s Fish and Jerk Hut — Di Lot",
+      "area": "Kingston / Half Way Tree",
+      "parishes": [
+        "St. Andrew"
+      ],
+      "regions": [
+        "capital-mountains"
+      ],
+      "kind": "Food & drink",
+      "photo": "",
+      "summary": "Jerk, fish and Jamaican meals at Di Lot, 33 Constant Spring Road.",
+      "story": "A city branch that avoids confusing the Kingston food plan with Murray’s Toll Gate or Mandeville sites. Choose it for an urban meal; pair it with nearby city stops rather than treating it as a Blue Mountains restaurant. Check the branch-specific menu.",
+      "call": "Give this meal time in the Kingston / Half Way Tree branch of your visit, rather than adding a cross-region detour.",
+      "best": "A locally planned meal in Kingston / Half Way Tree.",
+      "skip": "The drive or meal duration would crowd out your main outing.",
+      "time": "45–90 minutes for a cafe or casual meal; allow longer for a reserved dinner. Editorial estimate.",
+      "cost": "Check this branch’s live menu, portion size, currency and the total including sides, tax and service. No fixed price is assumed.",
+      "hours": "Check the current meal service, menu, outside-guest access and any reservation with the venue.",
+      "access": "Ask about the entrance, steps or ramps, table/counter route and toilets.",
+      "parking": "Confirm the exact entrance and pickup point; town-centre branches may require a separate parking arrangement.",
+      "next": "Continue within Kingston / Half Way Tree or return to your local base; check the actual transfer before adding another branch.",
+      "source": "https://murraysfishandjerkhut.com/kingston/",
+      "history": "",
+      "route": "Murray’s Fish and Jerk Hut — Di Lot, Di Lot, 33 Constant Spring Road, St. Andrew, Jamaica",
+      "address": "Di Lot, 33 Constant Spring Road",
+      "status": "Operator / public-source listing; confirm current service",
+      "water": false,
+      "book": false,
+      "discoveryCategory": "food",
+      "checked": "2026-10-13",
+      "foodKind": "jamaican",
+      "nearby": false,
+      "aliases": [
+        "Di Lot, 33 Constant Spring Road",
+        "Jerk, fish and Jamaican meals"
+      ]
+    },
+    {
+      "id": "food-regional-juici-airport",
+      "name": "Juici / 2 Hampers and a Mule — Norman Manley Airport",
+      "area": "Kingston airport",
+      "parishes": [
+        "Kingston"
+      ],
+      "regions": [
+        "capital-mountains"
+      ],
+      "kind": "Food & drink",
+      "photo": "",
+      "summary": "Airport food and quick meals at Norman Manley International Airport, Palisadoes.",
+      "story": "The operator lists this separately named airport outlet. It is an arrival or departure food resource, not a reason to drive out from the city for lunch. Confirm which side of airport security the outlet serves before relying on it.",
+      "call": "Use it when travelling through the airport; do not drive out from the city just for lunch.",
+      "best": "A short meal break during a Kingston airport visit.",
+      "skip": "Your route does not pass this branch, or you require a seated service the branch cannot confirm.",
+      "time": "20–45 minutes for a quick food break; editorial estimate, not a service guarantee.",
+      "cost": "Check this branch’s live menu, portion size, currency and the total including sides, tax and service. No fixed price is assumed.",
+      "hours": "Confirm the terminal location, whether it is airside or landside, and service relative to your flight.",
+      "access": "Ask about the entrance, steps or ramps, table/counter route and toilets.",
+      "parking": "Confirm the exact entrance and pickup point; town-centre branches may require a separate parking arrangement.",
+      "next": "Continue within Kingston airport or return to your local base; check the actual transfer before adding another branch.",
+      "source": "https://juicipatties.com/locations/",
+      "history": "",
+      "route": "Juici / 2 Hampers and a Mule — Norman Manley Airport, Norman Manley International Airport, Palisadoes, Kingston, Jamaica",
+      "address": "Norman Manley International Airport, Palisadoes",
+      "status": "Operator / public-source listing; confirm current service",
+      "water": false,
+      "book": false,
+      "discoveryCategory": "food",
+      "checked": "2026-10-13",
+      "foodKind": "quick",
+      "nearby": false,
+      "aliases": [
+        "Norman Manley International Airport, Palisadoes",
+        "Airport food and quick meals"
+      ]
+    },
+    {
+      "id": "food-regional-pelican",
+      "name": "The Pelican Grill — Montego Bay",
+      "area": "Montego Bay",
+      "parishes": [
+        "St. James"
+      ],
+      "regions": [
+        "montego"
+      ],
+      "kind": "Food & drink",
+      "photo": "",
+      "summary": "Jamaican and international meals at Gloucester Avenue, Montego Bay.",
+      "story": "The Pelican Grill offers a seated meal on Gloucester Avenue, useful alongside Montego Bay’s urban waterfront. Choose it when breakfast or a longer restaurant break fits better than counter service. Use the linked related-hotel page to confirm restaurant details and contact arrangements.",
+      "call": "Give this meal time in the Montego Bay branch of your visit, rather than adding a cross-region detour.",
+      "best": "A locally planned meal in Montego Bay.",
+      "skip": "The drive or meal duration would crowd out your main outing.",
+      "time": "45–90 minutes for a cafe or casual meal; allow longer for a reserved dinner. Editorial estimate.",
+      "cost": "Check this branch’s live menu, portion size, currency and the total including sides, tax and service. No fixed price is assumed.",
+      "hours": "Check the current meal service, menu, outside-guest access and any reservation with the venue.",
+      "access": "Ask about the entrance, steps or ramps, table/counter route and toilets.",
+      "parking": "Confirm the exact entrance and pickup point; town-centre branches may require a separate parking arrangement.",
+      "next": "Continue within Montego Bay or return to your local base; check the actual transfer before adding another branch.",
+      "source": "https://www.montegobayinn.com/the-pelican-grill-restaurant.html",
+      "history": "",
+      "route": "The Pelican Grill — Montego Bay, Gloucester Avenue, Montego Bay, St. James, Jamaica",
+      "address": "Gloucester Avenue, Montego Bay",
+      "status": "Operator / public-source listing; confirm current service",
+      "water": false,
+      "book": false,
+      "discoveryCategory": "food",
+      "checked": "2026-10-13",
+      "foodKind": "dining",
+      "nearby": false,
+      "aliases": [
+        "Gloucester Avenue, Montego Bay",
+        "Jamaican and international meals"
+      ]
+    },
+    {
+      "id": "food-regional-glistening-food",
+      "name": "Glistening Waters Restaurant — Rock",
+      "area": "Rock / Falmouth",
+      "parishes": [
+        "Trelawny"
+      ],
+      "regions": [
+        "montego"
+      ],
+      "kind": "Food & drink",
+      "photo": "",
+      "summary": "Seafood and Jamaican cooking at Main Highway A1, Rock, Falmouth.",
+      "story": "A convenient meal pairing with an independently booked Luminous Lagoon outing. The operator lists cooked-to-order seafood, escovitch fish, goat and jerk chicken. Ask about dinner timing and the boat’s check-in separately; a table booking does not establish a tour reservation.",
+      "call": "Give this meal time in the Rock / Falmouth branch of your visit, rather than adding a cross-region detour.",
+      "best": "A locally planned meal in Rock / Falmouth.",
+      "skip": "The drive or meal duration would crowd out your main outing.",
+      "time": "45–90 minutes for a cafe or casual meal; allow longer for a reserved dinner. Editorial estimate.",
+      "cost": "Check this branch’s live menu, portion size, currency and the total including sides, tax and service. No fixed price is assumed.",
+      "hours": "Check the current meal service, menu, outside-guest access and any reservation with the venue.",
+      "access": "Ask about the entrance, steps or ramps, table/counter route and toilets.",
+      "parking": "Confirm the exact entrance and pickup point; town-centre branches may require a separate parking arrangement.",
+      "next": "Continue within Rock / Falmouth or return to your local base; check the actual transfer before adding another branch.",
+      "source": "https://www.glisteningwaters.com/restaurant/",
+      "history": "",
+      "route": "Glistening Waters Restaurant — Rock, Main Highway A1, Rock, Falmouth, Trelawny, Jamaica",
+      "address": "Main Highway A1, Rock, Falmouth",
+      "status": "Operator / public-source listing; confirm current service",
+      "water": false,
+      "book": false,
+      "discoveryCategory": "food",
+      "checked": "2026-10-13",
+      "foodKind": "seafood",
+      "nearby": false,
+      "aliases": [
+        "Main Highway A1, Rock, Falmouth",
+        "Seafood and Jamaican cooking"
+      ]
+    },
+    {
+      "id": "food-regional-juici-falmouth",
+      "name": "Juici Patties — Falmouth",
+      "area": "Falmouth",
+      "parishes": [
+        "Trelawny"
+      ],
+      "regions": [
+        "montego"
+      ],
+      "kind": "Food & drink",
+      "photo": "",
+      "summary": "Patties and quick meals at Lower Harbour Street, Falmouth.",
+      "story": "A named quick-meal option for a Falmouth town visit rather than a highway or resort stop. Useful when the priority is a walking day through the historic centre. Check the Falmouth branch menu and allow time to return to your transport.",
+      "call": "Use this exact branch for a quick meal on your route; a chain name alone is not a location.",
+      "best": "A short meal break during a Falmouth visit.",
+      "skip": "Your route does not pass this branch, or you require a seated service the branch cannot confirm.",
+      "time": "20–45 minutes for a quick food break; editorial estimate, not a service guarantee.",
+      "cost": "Check this branch’s live menu, portion size, currency and the total including sides, tax and service. No fixed price is assumed.",
+      "hours": "Choose the named branch on the operator’s location/menu page; confirm opening, dishes available and any collection order.",
+      "access": "Ask about the entrance, steps or ramps, table/counter route and toilets.",
+      "parking": "Confirm the exact entrance and pickup point; town-centre branches may require a separate parking arrangement.",
+      "next": "Continue within Falmouth or return to your local base; check the actual transfer before adding another branch.",
+      "source": "https://juicipatties.com/locations/",
+      "history": "",
+      "route": "Juici Patties — Falmouth, Lower Harbour Street, Falmouth, Trelawny, Jamaica",
+      "address": "Lower Harbour Street, Falmouth",
+      "status": "Operator / public-source listing; confirm current service",
+      "water": false,
+      "book": false,
+      "discoveryCategory": "food",
+      "checked": "2026-10-13",
+      "foodKind": "quick",
+      "nearby": false,
+      "aliases": [
+        "Lower Harbour Street, Falmouth",
+        "Patties and quick meals"
+      ]
+    },
+    {
+      "id": "food-regional-jack-sprat",
+      "name": "Jack Sprat — Treasure Beach",
+      "area": "Treasure Beach",
+      "parishes": [
+        "St. Elizabeth"
+      ],
+      "regions": [
+        "south-elizabeth"
+      ],
+      "kind": "Food & drink",
+      "photo": "",
+      "summary": "Seafood, pizza and casual seaside meals at Calabash Bay, Treasure Beach.",
+      "story": "A seaside community restaurant with fish cooked several ways and pizza choices that work for mixed groups. The operator supplies a direct menu and contact number. Ask about the day’s seafood and legal seasonal availability rather than assuming lobster or conch is always on offer.",
+      "call": "Give this meal time in the Treasure Beach branch of your visit, rather than adding a cross-region detour.",
+      "best": "A locally planned meal in Treasure Beach.",
+      "skip": "The drive or meal duration would crowd out your main outing.",
+      "time": "45–90 minutes for a cafe or casual meal; allow longer for a reserved dinner. Editorial estimate.",
+      "cost": "Check this branch’s live menu, portion size, currency and the total including sides, tax and service. No fixed price is assumed.",
+      "hours": "Check the current meal service, menu, outside-guest access and any reservation with the venue.",
+      "access": "Ask about the entrance, steps or ramps, table/counter route and toilets.",
+      "parking": "Confirm the exact entrance and pickup point; town-centre branches may require a separate parking arrangement.",
+      "next": "Continue within Treasure Beach or return to your local base; check the actual transfer before adding another branch.",
+      "source": "https://jakeshotel.com/jack-sprat-restaurant",
+      "history": "",
+      "route": "Jack Sprat — Treasure Beach, Calabash Bay, Treasure Beach, St. Elizabeth, Jamaica",
+      "address": "Calabash Bay, Treasure Beach",
+      "status": "Operator / public-source listing; confirm current service",
+      "water": false,
+      "book": false,
+      "discoveryCategory": "food",
+      "checked": "2026-10-13",
+      "foodKind": "jamaican",
+      "nearby": false,
+      "aliases": [
+        "Calabash Bay, Treasure Beach",
+        "Seafood, pizza and casual seaside meals"
+      ]
+    },
+    {
+      "id": "food-regional-juici-blackriver",
+      "name": "Juici Patties — Black River",
+      "area": "Black River",
+      "parishes": [
+        "St. Elizabeth"
+      ],
+      "regions": [
+        "south-elizabeth"
+      ],
+      "kind": "Food & drink",
+      "photo": "",
+      "summary": "Patties and quick meals at 12 High Street, Black River.",
+      "story": "A quick town food break distinct from Treasure Beach restaurants and Middle Quarters shrimp vendors. Useful for a Black River town or boat-outing day when a short meal stop is preferable. Check the branch menu rather than assuming the entire chain’s offerings.",
+      "call": "Use this exact branch for a quick meal on your route; a chain name alone is not a location.",
+      "best": "A short meal break during a Black River visit.",
+      "skip": "Your route does not pass this branch, or you require a seated service the branch cannot confirm.",
+      "time": "20–45 minutes for a quick food break; editorial estimate, not a service guarantee.",
+      "cost": "Check this branch’s live menu, portion size, currency and the total including sides, tax and service. No fixed price is assumed.",
+      "hours": "Choose the named branch on the operator’s location/menu page; confirm opening, dishes available and any collection order.",
+      "access": "Ask about the entrance, steps or ramps, table/counter route and toilets.",
+      "parking": "Confirm the exact entrance and pickup point; town-centre branches may require a separate parking arrangement.",
+      "next": "Continue within Black River or return to your local base; check the actual transfer before adding another branch.",
+      "source": "https://juicipatties.com/locations/",
+      "history": "",
+      "route": "Juici Patties — Black River, 12 High Street, Black River, St. Elizabeth, Jamaica",
+      "address": "12 High Street, Black River",
+      "status": "Operator / public-source listing; confirm current service",
+      "water": false,
+      "book": false,
+      "discoveryCategory": "food",
+      "checked": "2026-10-13",
+      "foodKind": "quick",
+      "nearby": false,
+      "aliases": [
+        "12 High Street, Black River",
+        "Patties and quick meals"
+      ]
+    },
+    {
+      "id": "western-rastasafari",
+      "name": "RastaSafari Experience",
+      "area": "Inland Westmoreland",
+      "parishes": [
+        "Westmoreland"
+      ],
+      "regions": [
+        "negril"
+      ],
+      "kind": "Water & adventure",
+      "photo": "",
+      "summary": "An ATV-based countryside and community outing in inland Westmoreland.",
+      "story": "The operator and Jamaica Tourism Board describe RastaSafari as an ATV-based countryside experience around Roaring River in Westmoreland. JTB currently lists it open. It is separately operated from Roaring River Park and Cave, which the same status table marks closed. Agree the riding role, age and physical requirements, food, transfers and any river participation before paying; the social-media contact page may require sign-in.",
+      "call": "Treat it as the day’s main inland outing, with the actual transfer included in your plan.",
+      "best": "A hosted countryside encounter with a clearly agreed programme.",
+      "skip": "You do not want a motorised outing, or cannot establish that the riding and physical requirements fit your group.",
+      "time": "Allow a half-day including your actual transfer; agree the operator’s programme length. Editorial estimate.",
+      "cost": "Confirm the current admission, chosen programme and any separately charged transport, guiding or equipment.",
+      "hours": "Confirm the actual date, host or operator, meeting point and last entry; opening status is not a booking.",
+      "access": "Ask about the exact path, steps, surfaces, toilets and physical requirements.",
+      "parking": "Agree the actual entrance, lawful stopping or parking, and a pickup point with the operator or driver.",
+      "next": "Keep the rest of the day within Inland Westmoreland; a separate regional branch requires its own transfer allowance.",
+      "source": "https://www.facebook.com/RastaSafariExperience/",
+      "history": "",
+      "route": "RastaSafari Experience, Roaring River district, Petersfield P.O., Westmoreland, Jamaica",
+      "address": "Roaring River district, Petersfield P.O., Westmoreland",
+      "status": "Public-source / operator information; confirm the actual visit",
+      "water": false,
+      "book": false,
+      "discoveryCategory": "adventure",
+      "checked": "2026-10-13"
+    },
+    {
+      "id": "western-halfmoon",
+      "name": "Half Moon Beach — Green Island",
+      "area": "Green Island, Hanover",
+      "parishes": [
+        "Hanover"
+      ],
+      "regions": [
+        "negril"
+      ],
+      "kind": "Water & adventure",
+      "photo": "",
+      "summary": "A deliberate Hanover beach day with food and optional separately arranged activities.",
+      "story": "The operator describes beach use, snorkelling and food at Half Moon Beach in Green Island. Keep the beach visit separate from any boat trip to Calico Jack’s: the island transfer, weather decision and return arrangements need their own confirmation. This is Hanover’s Half Moon Beach, not the Rose Hall resort with a similar name.",
+      "call": "Choose a beach block and a meal; add a boat only if the operator confirms the complete return arrangement.",
+      "best": "Visitors whose western base and transport fit Green Island.",
+      "skip": "You need a confirmed step-free beach route or safe water conditions that have not been checked on site.",
+      "time": "Allow 2–4 hours for a beach block; editorial estimate, with boat time separately agreed.",
+      "cost": "Confirm the current admission, chosen programme and any separately charged transport, guiding or equipment.",
+      "hours": "Confirm the actual date, host or operator, meeting point and last entry; opening status is not a booking.",
+      "access": "Ask about the exact path, steps, surfaces, toilets and physical requirements.",
+      "parking": "Agree the actual entrance, lawful stopping or parking, and a pickup point with the operator or driver.",
+      "next": "Keep the rest of the day within Green Island, Hanover; a separate regional branch requires its own transfer allowance.",
+      "source": "https://halfmoonbeachja.com/about/",
+      "history": "",
+      "route": "Half Moon Beach — Green Island, Green Island, Hanover, Jamaica",
+      "address": "Green Island, Hanover",
+      "status": "Public-source / operator information; confirm the actual visit",
+      "water": true,
+      "book": false,
+      "discoveryCategory": "water",
+      "checked": "2026-10-13"
+    },
+    {
+      "id": "portland-bostonbeach",
+      "name": "Boston Beach",
+      "area": "Boston Bay, Portland",
+      "parishes": [
+        "Portland"
+      ],
+      "regions": [
+        "portland"
+      ],
+      "kind": "Water & adventure",
+      "photo": "",
+      "summary": "A surfing coast and beach setting beside a separately chosen jerk meal.",
+      "story": "JTB identifies Boston’s beach as one of Jamaica’s surfing places and currently lists Boston Beach open. The waves that attract surfers can make this a poor choice for a group expecting quiet swimming. Choose a coached surf session only after agreeing the instructor, conditions and equipment; Boston jerk is a nearby food choice, not an included beach package.",
+      "call": "Choose Boston for the character of this coast; do not judge swimming conditions by an open-attraction listing.",
+      "best": "Watching surf, a conditions-appropriate coached session and a Portland coastal day.",
+      "skip": "You need a calm-water swimming guarantee.",
+      "time": "Allow 1–3 hours; editorial estimate. Lesson duration and conditions are agreed separately.",
+      "cost": "Confirm the current admission, chosen programme and any separately charged transport, guiding or equipment.",
+      "hours": "Confirm the actual date, host or operator, meeting point and last entry; opening status is not a booking.",
+      "access": "Ask about the exact path, steps, surfaces, toilets and physical requirements.",
+      "parking": "Agree the actual entrance, lawful stopping or parking, and a pickup point with the operator or driver.",
+      "next": "Keep the rest of the day within Boston Bay, Portland; a separate regional branch requires its own transfer allowance.",
+      "source": "https://www.visitjamaica.com/listing/boston/515/",
+      "history": "",
+      "route": "Boston Beach, Boston Bay, Portland, Jamaica",
+      "address": "Boston Bay, Portland",
+      "status": "Public-source / operator information; confirm the actual visit",
+      "water": true,
+      "book": false,
+      "discoveryCategory": "water",
+      "checked": "2026-10-13"
+    },
+    {
+      "id": "capital-trenchtown",
+      "name": "Trench Town Culture Yard",
+      "area": "Kingston / Trench Town",
+      "parishes": [
+        "Kingston"
+      ],
+      "regions": [
+        "capital-mountains"
+      ],
+      "kind": "History & towns",
+      "photo": "",
+      "summary": "Read reggae history through housing and a community-led museum visit.",
+      "story": "JTB’s 2026 Kingston guide describes the tenement yards and rooms connected with Bob Marley, and the current status table lists Culture Yard open. The useful visit is more than a celebrity photograph: ask the host how communal housing, music and neighbourhood life connect. Arrange the museum visit and transport rather than assuming an independent walk covers the hosted experience.",
+      "call": "Make room for a hosted explanation of the yard and its community history.",
+      "best": "Visitors interested in music’s social setting as well as biography.",
+      "skip": "You want an unarranged performance or unrestricted access to neighbouring homes.",
+      "time": "Allow 60–90 minutes for an agreed visit, plus the actual transfer; editorial estimate.",
+      "cost": "Confirm the current admission, chosen programme and any separately charged transport, guiding or equipment.",
+      "hours": "Confirm the actual date, host or operator, meeting point and last entry; opening status is not a booking.",
+      "access": "Ask about the exact path, steps, surfaces, toilets and physical requirements.",
+      "parking": "Agree the actual entrance, lawful stopping or parking, and a pickup point with the operator or driver.",
+      "next": "Keep the rest of the day within Kingston / Trench Town; a separate regional branch requires its own transfer allowance.",
+      "source": "https://www.visitjamaica.com/blog/post/things-to-do-in-kingston-this-summer/",
+      "history": "",
+      "route": "Trench Town Culture Yard, Trench Town, Kingston, Jamaica",
+      "address": "Trench Town, Kingston",
+      "status": "Public-source / operator information; confirm the actual visit",
+      "water": false,
+      "book": false,
+      "discoveryCategory": "heritage",
+      "checked": "2026-10-13"
+    },
+    {
+      "id": "capital-hope",
+      "name": "Hope Royal Botanical Gardens",
+      "area": "Kingston / Hope Road",
+      "parishes": [
+        "St. Andrew"
+      ],
+      "regions": [
+        "capital-mountains"
+      ],
+      "kind": "Nature & gardens",
+      "photo": "",
+      "summary": "A garden branch with separately arranged tours and spaces to spend time.",
+      "story": "The garden operator distinguishes general garden use, organised group activities and specific tours such as the Chinese garden and nursery. Decide which visit you want before assuming every area is included in a casual walk. The nearby zoo and the surviving estate-water history are separate experiences with their own access questions.",
+      "call": "Choose a modest garden block or a booked specialist tour, rather than treating the property as one undifferentiated attraction.",
+      "best": "A slower urban garden outing or an arranged botanical learning visit.",
+      "skip": "You need an inspected route or assume every specialised garden is open without booking.",
+      "time": "Allow 1–2 hours for a garden block; editorial estimate. Agree guided-tour length separately.",
+      "cost": "Confirm the current admission, chosen programme and any separately charged transport, guiding or equipment.",
+      "hours": "Confirm the actual date, host or operator, meeting point and last entry; opening status is not a booking.",
+      "access": "Ask about the exact path, steps, surfaces, toilets and physical requirements.",
+      "parking": "Agree the actual entrance, lawful stopping or parking, and a pickup point with the operator or driver.",
+      "next": "Keep the rest of the day within Kingston / Hope Road; a separate regional branch requires its own transfer allowance.",
+      "source": "https://hrbg.org.jm/faq/",
+      "history": "",
+      "route": "Hope Royal Botanical Gardens, Hope Road, St. Andrew, Jamaica",
+      "address": "Hope Road, St. Andrew",
+      "status": "Public-source / operator information; confirm the actual visit",
+      "water": false,
+      "book": false,
+      "discoveryCategory": "nature",
+      "checked": "2026-10-13"
+    },
+    {
+      "id": "south-holland",
+      "name": "Holland Bamboo Avenue",
+      "area": "Holland / Lacovia",
+      "parishes": [
+        "St. Elizabeth"
+      ],
+      "regions": [
+        "south-elizabeth"
+      ],
+      "kind": "Nature & gardens",
+      "photo": "",
+      "summary": "An estate-road landscape to understand on a properly planned South Coast route.",
+      "story": "JTB currently lists Holland Bamboo open. The attraction is a planted avenue along a working road, not a closed pedestrian garden. Read the historical Bamboo Avenue photograph beside the present landscape, and ask your driver to choose lawful stopping and a suitable viewpoint instead of blocking traffic for a picture.",
+      "call": "Appreciate the avenue as part of a South Coast route; do not turn the carriageway into a photo studio.",
+      "best": "Landscape history and an existing St. Elizabeth journey.",
+      "skip": "You need a traffic-free walking attraction or cannot find a lawful stopping place.",
+      "time": "Allow 15–30 minutes only if a safe lawful stop is available; editorial estimate.",
+      "cost": "Confirm the current admission, chosen programme and any separately charged transport, guiding or equipment.",
+      "hours": "Confirm the actual date, host or operator, meeting point and last entry; opening status is not a booking.",
+      "access": "Ask about the exact path, steps, surfaces, toilets and physical requirements.",
+      "parking": "Agree the actual entrance, lawful stopping or parking, and a pickup point with the operator or driver.",
+      "next": "Keep the rest of the day within Holland / Lacovia; a separate regional branch requires its own transfer allowance.",
+      "source": "https://www.visitjamaica.com/travel-alerts/tours-attractions-reopenings/",
+      "history": "",
+      "route": "Holland Bamboo Avenue, Holland, near Lacovia, St. Elizabeth, Jamaica",
+      "address": "Holland, near Lacovia, St. Elizabeth",
+      "status": "Public-source / operator information; confirm the actual visit",
+      "water": false,
+      "book": false,
+      "discoveryCategory": "nature",
+      "checked": "2026-10-13"
+    },
+    {
+      "id": "food-capital-irish-cafe",
+      "name": "Café Blue — Irish Town",
+      "area": "Blue Mountains",
+      "parishes": [
+        "St. Andrew"
+      ],
+      "regions": [
+        "capital-mountains"
+      ],
+      "kind": "Food & drink",
+      "photo": "",
+      "summary": "Coffee and a light meal on the Irish Town mountain branch.",
+      "story": "Café Blue’s Irish Town location is identified in JTB’s mountain-coffee guide, while the operator publishes its cafe collection and menu. Choose this branch when the mountain road is already part of your day. It is a different destination from Café Blue in Ocho Rios or the city, and a cafe stop is not a coffee-farm tour.",
+      "call": "Use it for a coffee-and-meal break on an Irish Town route, with room for the drive.",
+      "best": "Mountain-route visitors who want coffee and a modest food break.",
+      "skip": "You are trying to fit a mountain detour into a short city or airport window.",
+      "time": "45–75 minutes for a cafe stop, plus the actual transfer; editorial estimate.",
+      "cost": "Check this branch’s live menu, portion size, currency and the total including sides, tax and service. No fixed price is assumed.",
+      "hours": "Check the current meal service, menu, outside-guest access and any reservation with the venue.",
+      "access": "Ask about the entrance, steps or ramps, table/counter route and toilets.",
+      "parking": "Confirm the exact entrance and pickup point; town-centre branches may require a separate parking arrangement.",
+      "next": "Continue the same local branch; choose a mountain drive or Port Royal outing as a separate commitment.",
+      "source": "https://cafeblue.com/our-cafes/",
+      "history": "",
+      "route": "Café Blue — Irish Town, Irish Town, St. Andrew, Jamaica",
+      "address": "Irish Town, St. Andrew",
+      "status": "Operator / public-source listing; confirm current service",
+      "water": false,
+      "book": false,
+      "discoveryCategory": "food",
+      "checked": "2026-10-13",
+      "foodKind": "cafe",
+      "nearby": false,
+      "aliases": [
+        "Café Blue — Irish Town",
+        "Irish Town, St. Andrew",
+        "coffee"
+      ]
+    },
+    {
+      "id": "food-capital-gloria-city",
+      "name": "Gloria’s Seafood City — Victoria Pier",
+      "area": "Kingston waterfront",
+      "parishes": [
+        "Kingston"
+      ],
+      "regions": [
+        "capital-mountains"
+      ],
+      "kind": "Food & drink",
+      "photo": "",
+      "summary": "A named downtown waterfront seafood branch, distinct from Port Royal.",
+      "story": "The operator locates Seafood City at Victoria Pier on Ocean Boulevard and publishes fish, shrimp and other seafood categories. Gloria’s Port Royal reputation is part of the brand’s story, but this is the city waterfront branch. Check the chosen dish, current portion and final bill; the menu’s seafood range does not establish that every seasonal catch is available.",
+      "call": "Choose this branch for a downtown waterfront day instead of driving to a different Gloria’s location.",
+      "best": "A seated seafood meal during a Kingston waterfront or National Gallery outing.",
+      "skip": "The group needs a verified seafood-allergen-safe kitchen or a quick counter-service break.",
+      "time": "60–90 minutes; editorial estimate.",
+      "cost": "Check this branch’s live menu, portion size, currency and the total including sides, tax and service. No fixed price is assumed.",
+      "hours": "Check the current meal service, menu, outside-guest access and any reservation with the venue.",
+      "access": "Ask about the entrance, steps or ramps, table/counter route and toilets.",
+      "parking": "Confirm the exact entrance and pickup point; town-centre branches may require a separate parking arrangement.",
+      "next": "Continue the same local branch; choose a mountain drive or Port Royal outing as a separate commitment.",
+      "source": "https://city.gloriasseafoodja.com/",
+      "history": "",
+      "route": "Gloria’s Seafood City — Victoria Pier, Victoria Pier, Ocean Boulevard, Kingston, Jamaica",
+      "address": "Victoria Pier, Ocean Boulevard, Kingston",
+      "status": "Operator / public-source listing; confirm current service",
+      "water": false,
+      "book": false,
+      "discoveryCategory": "food",
+      "checked": "2026-10-13",
+      "foodKind": "seafood",
+      "nearby": false,
+      "aliases": [
+        "Gloria’s Seafood City — Victoria Pier",
+        "Victoria Pier, Ocean Boulevard, Kingston",
+        "seafood"
+      ]
+    },
+    {
+      "id": "food-capital-devon-scoops",
+      "name": "Devon House I-Scream — Scoops Unlimited",
+      "area": "Kingston / Devon House",
+      "parishes": [
+        "St. Andrew"
+      ],
+      "regions": [
+        "capital-mountains"
+      ],
+      "kind": "Food & drink",
+      "photo": "",
+      "summary": "An ice-cream stop within the Devon House grounds, separate from a mansion tour.",
+      "story": "Devon House’s own shop directory identifies Scoops Unlimited and its I-Scream range. This is a modest food stop you can choose independently of the mansion tour; shop, grounds and guided-house arrangements are different questions. Ask about current flavours and ingredients rather than assuming seasonal options or allergen separation.",
+      "call": "Let the ice cream be a short stop, or pair it with a separately arranged Devon House visit.",
+      "best": "An easy-to-plan treat during a city day and groups comparing current flavours.",
+      "skip": "You need guaranteed allergen separation that staff cannot establish.",
+      "time": "20–45 minutes depending on the queue; editorial estimate.",
+      "cost": "Check this branch’s live menu, portion size, currency and the total including sides, tax and service. No fixed price is assumed.",
+      "hours": "Check the current meal service, menu, outside-guest access and any reservation with the venue.",
+      "access": "Ask about the entrance, steps or ramps, table/counter route and toilets.",
+      "parking": "Confirm the exact entrance and pickup point; town-centre branches may require a separate parking arrangement.",
+      "next": "Continue the same local branch; choose a mountain drive or Port Royal outing as a separate commitment.",
+      "source": "https://www.devonhouseja.com/restaurantsandshops/scoops-unlimited",
+      "history": "",
+      "route": "Devon House I-Scream — Scoops Unlimited, Devon House, 26 Hope Road, Jamaica",
+      "address": "Devon House, 26 Hope Road",
+      "status": "Operator / public-source listing; confirm current service",
+      "water": false,
+      "book": false,
+      "discoveryCategory": "food",
+      "checked": "2026-10-13",
+      "foodKind": "cafe",
+      "nearby": false,
+      "aliases": [
+        "Devon House I-Scream — Scoops Unlimited",
+        "Devon House, 26 Hope Road",
+        "coffee"
+      ]
+    }
+  ],
+  "newRegionalResources": [
+    {
+      "id": "medical-capital",
+      "name": "SERHA hospital directory",
+      "group": "Medical contacts",
+      "url": "https://www.serha.gov.jm/hospitals/",
+      "text": "Find Kingston Public and Princess Margaret hospital contact details through the regional authority. For southeastern plans, note Princess Margaret is in Morant Bay, not Kingston.",
+      "regions": [
+        "capital-mountains",
+        "southeast"
+      ],
+      "checked": "2026-10-13",
+      "basis": "Primary regional authority or operator directory; not a guarantee of current service availability."
+    },
+    {
+      "id": "medical-northeast",
+      "name": "NERHA hospital directory",
+      "group": "Medical contacts",
+      "url": "https://www.nerha.gov.jm/hospitals",
+      "text": "Official directory for St Ann’s Bay, Annotto Bay and Port Antonio hospitals; use the facility for the actual parish rather than assuming all north-coast locations are nearby.",
+      "regions": [
+        "ocho-mary",
+        "portland"
+      ],
+      "checked": "2026-10-13",
+      "basis": "Primary regional authority or operator directory; not a guarantee of current service availability."
+    },
+    {
+      "id": "medical-south",
+      "name": "SRHA hospital contacts",
+      "group": "Medical contacts",
+      "url": "https://www.srha.gov.jm/contact.php",
+      "text": "Official contacts for Black River, Mandeville and May Pen hospitals. Keep each facility associated with its own town; this is a directory, not a promise of a particular service being available now.",
+      "regions": [
+        "south-elizabeth",
+        "central-interior"
+      ],
+      "checked": "2026-10-13",
+      "basis": "Primary regional authority or operator directory; not a guarantee of current service availability."
+    },
+    {
+      "id": "medical-west",
+      "name": "WRHA hospital contacts",
+      "group": "Medical contacts",
+      "url": "https://www.wrha.gov.jm/contact-us/",
+      "text": "Official western hospital contacts, including Cornwall Regional, Falmouth and Savanna-la-Mar; select by actual location and check current arrangements.",
+      "regions": [
+        "negril",
+        "montego"
+      ],
+      "checked": "2026-10-13",
+      "basis": "Primary regional authority or operator directory; not a guarantee of current service availability."
+    },
+    {
+      "id": "transport-terminals",
+      "name": "Knutsford Express terminal contacts",
+      "group": "Transport",
+      "url": "https://www.knutsfordexpress.com/help-advice/contact-us/",
+      "text": "Terminal addresses and operator contacts for intercity travel. Do not equate a courier office with a passenger departure; confirm the exact passenger pickup when booking.",
+      "regions": [
+        "ocho-mary",
+        "negril",
+        "montego",
+        "portland",
+        "capital-mountains",
+        "central-interior",
+        "south-elizabeth"
+      ],
+      "checked": "2026-10-13",
+      "basis": "Primary regional authority or operator directory; not a guarantee of current service availability."
+    },
+    {
+      "id": "transport-schedules",
+      "name": "Knutsford Express booking and schedules",
+      "group": "Transport",
+      "url": "https://www.knutsfordexpress.com/",
+      "text": "Book by actual origin and destination and arrange the last leg separately. A coach ticket is not transport to a remote beach, waterfall or hotel.",
+      "regions": [
+        "ocho-mary",
+        "negril",
+        "montego",
+        "portland",
+        "capital-mountains",
+        "central-interior",
+        "south-elizabeth"
+      ],
+      "checked": "2026-10-13",
+      "basis": "Primary regional authority or operator directory; not a guarantee of current service availability."
+    },
+    {
+      "id": "park-holywell",
+      "name": "Holywell official recreation information",
+      "group": "Parks & access",
+      "url": "https://www.blueandjohncrowmountains.org/sustainable-tourism/recreation-areas/holywell",
+      "text": "Park operator information for trails, entry and guide arrangements. Check park entry separately from a cafe reservation; arrange guided walks in advance.",
+      "regions": [
+        "capital-mountains"
+      ],
+      "checked": "2026-10-13",
+      "basis": "Primary regional authority or operator directory; not a guarantee of current service availability."
+    },
+    {
+      "id": "park-management",
+      "name": "JCDT national park information",
+      "group": "Parks & access",
+      "url": "https://www.jcdt.org.jm/",
+      "text": "National park manager contacts and updates for Blue and John Crow Mountains. Use these for an arranged mountain visit; a map pin or heritage article does not establish an open trail.",
+      "regions": [
+        "capital-mountains",
+        "portland",
+        "southeast"
+      ],
+      "checked": "2026-10-13",
+      "basis": "Primary regional authority or operator directory; not a guarantee of current service availability."
+    },
+    {
+      "id": "medical-falmouth",
+      "name": "Falmouth Hospital official page",
+      "group": "Medical contacts",
+      "url": "https://www.wrha.gov.jm/facility/falmouth-hospital/",
+      "text": "Town-specific official hospital information for a Falmouth stay or outing, rather than a generic Montego Bay contact.",
+      "regions": [
+        "montego"
+      ],
+      "checked": "2026-10-13",
+      "basis": "Primary regional authority or operator directory; not a guarantee of current service availability."
+    },
+    {
+      "id": "medical-westmoreland",
+      "name": "Savanna-la-Mar Hospital official page",
+      "group": "Medical contacts",
+      "url": "https://www.wrha.gov.jm/facility/sav-la-mar-hopsital/",
+      "text": "Official Westmoreland hospital information useful to western visitors; distinguish Savanna-la-Mar from Negril beach/cliffs and allow for the separate journey.",
+      "regions": [
+        "negril"
+      ],
+      "checked": "2026-10-13",
+      "basis": "Primary regional authority or operator directory; not a guarantee of current service availability."
+    },
+    {
+      "id": "negril-mobility",
+      "name": "Sungazers mobility equipment — Negril",
+      "group": "Accessibility",
+      "url": "https://www.jamaicamobilityscooterrental.com/delivery",
+      "text": "Arrange mobility scooter delivery, collection and suitable transport through the Negril operator. Discuss capacity, charging, terrain, accommodation permission and lift or rotating-seat compatibility. Equipment hire does not establish access to a beach or restaurant.",
+      "regions": [
+        "negril"
+      ],
+      "checked": "2026-10-13",
+      "basis": "Operator delivery page; JTB currently lists Sungazers open."
+    }
+  ],
+  "research": {
+    "checked": "2026-10-13",
+    "scope": "20 additions outside Negril; existing inventory inspected; current public primary pages reviewed. Discovery/retrieval is not telephone confirmation or a site visit.",
+    "foods": [
+      {
+        "id": "murray-toll",
+        "name": "Murray’s Fish and Jerk Hut — Toll Gate",
+        "parish": "Clarendon",
+        "region": "central",
+        "address": "Toll Gate, Clarendon Park",
+        "officialUrl": "https://murraysfishandjerkhut.com/",
+        "foodType": "Jerk, fish and Jamaican meals",
+        "story": "A proper meal stop on the Clarendon road corridor rather than a beach restaurant. The operator publishes a full menu, including fish tea, curried goat and chickpea dishes. Choose this branch when crossing Clarendon; the Mandeville branch is a separate destination.",
+        "sourceRef": "turn183search0"
+      },
+      {
+        "id": "murray-mandeville",
+        "name": "Murray’s Fish and Jerk Hut — Mandeville",
+        "parish": "Manchester",
+        "region": "central",
+        "address": "Annex Plaza, Caledonia Road",
+        "officialUrl": "https://murraysfishandjerkhut.com/",
+        "foodType": "Jerk, fish and Jamaican meals",
+        "story": "Choose the town branch for a Mandeville day, rather than making a separate trip to Toll Gate. This is an inland meal stop that can anchor a town or Manchester heritage outing. Ask about the day’s fish and side dishes before ordering.",
+        "sourceRef": "turn183search0"
+      },
+      {
+        "id": "hotspot-mandeville",
+        "name": "The HotSpot Cafe — Mandeville",
+        "parish": "Manchester",
+        "region": "central",
+        "address": "Shop BHM 16, Reliance Centre, Manchester Road",
+        "officialUrl": "https://www.thehotspot.cafe/",
+        "foodType": "Cafe and takeaway",
+        "story": "An explicitly addressed town-centre cafe with operator-run online ordering. Useful when a quick lunch or takeaway makes more sense than a long restaurant break during a Mandeville visit. Review the live menu and pickup arrangements rather than assuming a particular meal is always stocked.",
+        "sourceRef": "turn183search3"
+      },
+      {
+        "id": "juici-clarendon",
+        "name": "Juici Patties — Clarendon Park",
+        "parish": "Clarendon",
+        "region": "central",
+        "address": "Lot 1A, Clarendon Park",
+        "officialUrl": "https://juicipatties.com/locations/",
+        "foodType": "Patties and quick meals",
+        "story": "A practical road-trip stop at Clarendon Park. Choose the branch menu for a fast patty or a fuller meal; do not assume all branches carry the same cooked breakfast or lunch. Useful when keeping a cross-island journey moving.",
+        "sourceRef": "turn188search0"
+      },
+      {
+        "id": "juici-maypen",
+        "name": "Juici Patties — May Pen, 30 Main Street",
+        "parish": "Clarendon",
+        "region": "central",
+        "address": "30 Main Street, May Pen",
+        "officialUrl": "https://juicipatties.com/locations/",
+        "foodType": "Patties and quick meals",
+        "story": "Use this named Main Street branch during a May Pen visit instead of a vague chain-wide map pin. A quick food break can keep the town’s history stops and shopping together without an unnecessary detour. Select this branch on the operator’s menu page.",
+        "sourceRef": "turn188search0"
+      },
+      {
+        "id": "juici-christiana",
+        "name": "Juici Patties — Christiana, Main Street",
+        "parish": "Manchester",
+        "region": "central",
+        "address": "Shop 2, Main Street, Christiana",
+        "officialUrl": "https://juicipatties.com/locations/",
+        "foodType": "Patties and quick meals",
+        "story": "An inland Manchester food stop for a Christiana or northern-parish outing. It belongs in a different day plan from Alligator Pond seafood on the south coast. Check the named branch menu before counting on cooked meals beyond patties.",
+        "sourceRef": "turn198view4"
+      },
+      {
+        "id": "juici-morant",
+        "name": "Juici Patties — Morant Bay",
+        "parish": "St. Thomas",
+        "region": "southeast",
+        "address": "2 Georges Street, Morant Bay",
+        "officialUrl": "https://juicipatties.com/locations/",
+        "foodType": "Patties and quick meals",
+        "story": "A clearly located quick-meal option in Morant Bay for a courthouse, Paul Bogle or coastal history day. Choose this town branch rather than the separate Yallahs outlet. Use the operator’s branch menu to check what is being served.",
+        "sourceRef": "turn198view2"
+      },
+      {
+        "id": "juici-yallahs",
+        "name": "Juici Patties — Yallahs",
+        "parish": "St. Thomas",
+        "region": "southeast",
+        "address": "Main Street, Yallahs",
+        "officialUrl": "https://juicipatties.com/locations/",
+        "foodType": "Patties and quick meals",
+        "story": "A food break in Yallahs on the southeastern corridor. This is useful for a shorter coastal outing; it is not evidence that Morant Bay or Bath is just around the corner. Check the specific branch menu and plan the rest of the route separately.",
+        "sourceRef": "turn198view2"
+      },
+      {
+        "id": "angola",
+        "name": "Angola Restaurant — Old Pera",
+        "parish": "St. Thomas",
+        "region": "southeast",
+        "address": "Old Pera, near Bowden Harbour",
+        "officialUrl": "https://linktr.ee/angolarestaurant",
+        "foodType": "Seafood and harbour dining",
+        "story": "The owner’s public profile identifies Jah Bouks and Conejato’s restaurant in Old Pera. Independent reporting connects its seafood dining to Bowden Harbour. Arrange opening, menu and precise directions through the owner’s social contacts before a special journey; the linked standalone website returned 404 in this review.",
+        "sourceRef": "turn201view1"
+      },
+      {
+        "id": "bushbar",
+        "name": "Bushbar at Geejam",
+        "parish": "Portland",
+        "region": "portland",
+        "address": "Geejam, San San / Drapers, Port Antonio",
+        "officialUrl": "https://www.geejamhotel.com/food-drink/",
+        "foodType": "Jamaican fusion and cocktails",
+        "story": "A reservation-led sit-down choice with forest-to-sea views, rather than another roadside jerk stop. Geejam’s operator page publishes current menu and table-booking links. Choose it when the meal is part of the outing; arrange a return ride before drinking.",
+        "sourceRef": "turn201view2"
+      },
+      {
+        "id": "juici-portantonio",
+        "name": "Juici Patties — Port Antonio, Williams Street",
+        "parish": "Portland",
+        "region": "portland",
+        "address": "13 Williams Street, Port Antonio",
+        "officialUrl": "https://juicipatties.com/locations/",
+        "foodType": "Patties and quick meals",
+        "story": "A specific town-centre quick-meal alternative to Boston Bay jerk or a hotel restaurant. Useful during a Port Antonio town walk. Keep the Williams Street branch distinct from the operator’s Boundbrook outlet when checking directions and menus.",
+        "sourceRef": "turn198view3"
+      },
+      {
+        "id": "juici-boundbrook",
+        "name": "Juici Patties — Port Antonio, Boundbrook",
+        "parish": "Portland",
+        "region": "portland",
+        "address": "Lot 1, 38K Boundbrook",
+        "officialUrl": "https://juicipatties.com/locations/",
+        "foodType": "Patties and quick meals",
+        "story": "A separately identified Boundbrook outlet for arrivals or departures on the western side of Port Antonio. Select this exact branch before placing an order or routing a pickup; the Williams Street branch is a different location.",
+        "sourceRef": "turn198view3"
+      },
+      {
+        "id": "bluebrews",
+        "name": "Blue Brews Bistro — Holywell",
+        "parish": "St. Andrew",
+        "region": "capital-mountains",
+        "address": "Holywell National Park, Hardwar Gap",
+        "officialUrl": "https://www.bluebrewsbistro.com/",
+        "foodType": "Mountain cafe, coffee and handcrafted dishes",
+        "story": "A meal-and-coffee option within Holywell, useful alongside a park visit. The operator currently advertises weekend public service and weekday group bookings, so this is not an everyday walk-in stop. Check table availability and park entry separately before climbing the mountain road.",
+        "sourceRef": "turn192search0"
+      },
+      {
+        "id": "murray-kingston",
+        "name": "Murray’s Fish and Jerk Hut — Di Lot",
+        "parish": "St. Andrew",
+        "region": "capital-mountains",
+        "address": "Di Lot, 33 Constant Spring Road",
+        "officialUrl": "https://murraysfishandjerkhut.com/kingston/",
+        "foodType": "Jerk, fish and Jamaican meals",
+        "story": "A city branch that avoids confusing the Kingston food plan with Murray’s Toll Gate or Mandeville sites. Choose it for an urban meal; pair it with nearby city stops rather than treating it as a Blue Mountains restaurant. Check the branch-specific menu.",
+        "sourceRef": "turn183search4"
+      },
+      {
+        "id": "juici-airport",
+        "name": "Juici / 2 Hampers and a Mule — Norman Manley Airport",
+        "parish": "Kingston",
+        "region": "capital-mountains",
+        "address": "Norman Manley International Airport, Palisadoes",
+        "officialUrl": "https://juicipatties.com/locations/",
+        "foodType": "Airport food and quick meals",
+        "story": "The operator lists this separately named airport outlet. It is an arrival or departure food resource, not a reason to drive out from the city for lunch. Confirm which side of airport security the outlet serves before relying on it.",
+        "sourceRef": "turn196view0"
+      },
+      {
+        "id": "pelican",
+        "name": "The Pelican Grill — Montego Bay",
+        "parish": "St. James",
+        "region": "montego",
+        "address": "Gloucester Avenue, Montego Bay",
+        "officialUrl": "https://www.montegobayinn.com/the-pelican-grill-restaurant.html",
+        "foodType": "Jamaican and international meals",
+        "story": "A long-established family restaurant on Montego Bay’s visitor strip, useful for a seated meal alongside an urban waterfront outing. The hotel owner’s page is the credible link; a former restaurant domain currently serves unrelated spam and should not be used.",
+        "sourceRef": "turn198view1"
+      },
+      {
+        "id": "glistening-food",
+        "name": "Glistening Waters Restaurant — Rock",
+        "parish": "Trelawny",
+        "region": "montego",
+        "address": "Main Highway A1, Rock, Falmouth",
+        "officialUrl": "https://www.glisteningwaters.com/restaurant/",
+        "foodType": "Seafood and Jamaican cooking",
+        "story": "A convenient meal pairing with an independently booked Luminous Lagoon outing. The operator lists cooked-to-order seafood, escovitch fish, goat and jerk chicken. Ask about dinner timing and the boat’s check-in separately; a table booking does not establish a tour reservation.",
+        "sourceRef": "turn192search1"
+      },
+      {
+        "id": "juici-falmouth",
+        "name": "Juici Patties — Falmouth",
+        "parish": "Trelawny",
+        "region": "montego",
+        "address": "Lower Harbour Street, Falmouth",
+        "officialUrl": "https://juicipatties.com/locations/",
+        "foodType": "Patties and quick meals",
+        "story": "A named quick-meal option for a Falmouth town visit rather than a highway or resort stop. Useful when the priority is a walking day through the historic centre. Check the Falmouth branch menu and allow time to return to your transport.",
+        "sourceRef": "turn198view2"
+      },
+      {
+        "id": "jack-sprat",
+        "name": "Jack Sprat — Treasure Beach",
+        "parish": "St. Elizabeth",
+        "region": "south-elizabeth",
+        "address": "Calabash Bay, Treasure Beach",
+        "officialUrl": "https://jakeshotel.com/jack-sprat-restaurant",
+        "foodType": "Seafood, pizza and casual seaside meals",
+        "story": "A seaside community restaurant with fish cooked several ways and pizza choices that work for mixed groups. The operator supplies a direct menu and contact number. Ask about the day’s seafood and legal seasonal availability rather than assuming lobster or conch is always on offer.",
+        "sourceRef": "turn185search9"
+      },
+      {
+        "id": "juici-blackriver",
+        "name": "Juici Patties — Black River",
+        "parish": "St. Elizabeth",
+        "region": "south-elizabeth",
+        "address": "12 High Street, Black River",
+        "officialUrl": "https://juicipatties.com/locations/",
+        "foodType": "Patties and quick meals",
+        "story": "A quick town food break distinct from Treasure Beach restaurants and Middle Quarters shrimp vendors. Useful for a Black River town or boat-outing day when a short meal stop is preferable. Check the branch menu rather than assuming the entire chain’s offerings.",
+        "sourceRef": "turn198view3"
+      }
+    ],
+    "resources": [
+      {
+        "id": "medical-capital",
+        "name": "SERHA hospital directory",
+        "regions": [
+          "capital-mountains",
+          "southeast"
+        ],
+        "url": "https://www.serha.gov.jm/hospitals/",
+        "use": "Find Kingston Public and Princess Margaret hospital contact details through the regional authority. For southeastern plans, note Princess Margaret is in Morant Bay, not Kingston."
+      },
+      {
+        "id": "medical-northeast",
+        "name": "NERHA hospital directory",
+        "regions": [
+          "ocho-mary",
+          "portland"
+        ],
+        "url": "https://www.nerha.gov.jm/hospitals",
+        "use": "Official directory for St Ann’s Bay, Annotto Bay and Port Antonio hospitals; use the facility for the actual parish rather than assuming all north-coast locations are nearby."
+      },
+      {
+        "id": "medical-south",
+        "name": "SRHA hospital contacts",
+        "regions": [
+          "south-elizabeth",
+          "central"
+        ],
+        "url": "https://www.srha.gov.jm/contact.php",
+        "use": "Official contacts for Black River, Mandeville and May Pen hospitals. Keep each facility associated with its own town; this is a directory, not a promise of a particular service being available now."
+      },
+      {
+        "id": "medical-west",
+        "name": "WRHA hospital contacts",
+        "regions": [
+          "negril",
+          "montego"
+        ],
+        "url": "https://www.wrha.gov.jm/contact-us/",
+        "use": "Official western hospital contacts, including Cornwall Regional, Falmouth and Savanna-la-Mar; select by actual location and check current arrangements."
+      },
+      {
+        "id": "transport-terminals",
+        "name": "Knutsford Express terminal contacts",
+        "regions": [
+          "ocho-mary",
+          "negril",
+          "montego",
+          "portland",
+          "capital-mountains",
+          "central",
+          "south-elizabeth"
+        ],
+        "url": "https://www.knutsfordexpress.com/help-advice/contact-us/",
+        "use": "Terminal addresses and operator contacts for intercity travel. Do not equate a courier office with a passenger departure; confirm the exact passenger pickup when booking."
+      },
+      {
+        "id": "transport-schedules",
+        "name": "Knutsford Express booking and schedules",
+        "regions": [
+          "ocho-mary",
+          "negril",
+          "montego",
+          "portland",
+          "capital-mountains",
+          "central",
+          "south-elizabeth"
+        ],
+        "url": "https://www.knutsfordexpress.com/",
+        "use": "Book by actual origin and destination and arrange the last leg separately. A coach ticket is not transport to a remote beach, waterfall or hotel."
+      },
+      {
+        "id": "park-holywell",
+        "name": "Holywell official recreation information",
+        "regions": [
+          "capital-mountains"
+        ],
+        "url": "https://www.blueandjohncrowmountains.org/sustainable-tourism/recreation-areas/holywell",
+        "use": "Park operator information for trails, entry and guide arrangements. Check park entry separately from a cafe reservation; arrange guided walks in advance."
+      },
+      {
+        "id": "park-management",
+        "name": "JCDT national park information",
+        "regions": [
+          "capital-mountains",
+          "portland",
+          "southeast"
+        ],
+        "url": "https://www.jcdt.org.jm/",
+        "use": "National park manager contacts and updates for Blue and John Crow Mountains. Use these for an arranged mountain visit; a map pin or heritage article does not establish an open trail."
+      },
+      {
+        "id": "medical-falmouth",
+        "name": "Falmouth Hospital official page",
+        "regions": [
+          "montego"
+        ],
+        "url": "https://www.wrha.gov.jm/facility/falmouth-hospital/",
+        "use": "Town-specific official hospital information for a Falmouth stay or outing, rather than a generic Montego Bay contact."
+      },
+      {
+        "id": "medical-westmoreland",
+        "name": "Savanna-la-Mar Hospital official page",
+        "regions": [
+          "negril"
+        ],
+        "url": "https://www.wrha.gov.jm/facility/sav-la-mar-hopsital/",
+        "use": "Official Westmoreland hospital information useful to western visitors; distinguish Savanna-la-Mar from Negril beach/cliffs and allow for the separate journey."
+      }
+    ],
+    "rejected": [
+      {
+        "name": "The Pelican Grill former domain",
+        "url": "https://www.pelicangrillja.com/",
+        "reason": "Opened page is Australian ISP spam; use related hotel owner page."
+      },
+      {
+        "name": "Woody’s Low Bridge Place",
+        "reason": "Official tourism listings persist but a traveller report suggests closure; insufficient present operator evidence, omit in this pass."
+      },
+      {
+        "name": "Double Scoops",
+        "reason": "Current owner page gives only St Thomas, no verified exact town/street; do not manufacture map pin."
+      },
+      {
+        "name": "Wah Gwan JA",
+        "reason": "Site mentions St Thomas but exact locality not established; multiple overseas namesakes."
+      }
+    ]
+  },
+  "providerFetchChecks": [
+    {
+      "url": "https://www.misslilys.com/negril/",
+      "status": 200,
+      "finalURL": "https://www.misslilys.com/negril/",
+      "title": "Menus | Negril | Miss Lily's",
+      "bytes": 285050
+    },
+    {
+      "url": "https://www.kuyaba.com/restaurant.html",
+      "status": 200,
+      "finalURL": "https://www.kuyaba.com/restaurant.html",
+      "title": "Kuyaba Hotel, Negril - Restaurant / Seaside Dining",
+      "bytes": 32864
+    },
+    {
+      "url": "https://www.rockhouse.com/eat/pushcart-negril?tab=pushcart-jerk-center-rum-bar",
+      "status": 200,
+      "finalURL": "https://www.rockhouse.com/eat/pushcart-negril?tab=pushcart-jerk-center-rum-bar",
+      "title": "Pushcart Jerk Center & Rum Bar - Negril, Jamaica",
+      "bytes": 475722
+    },
+    {
+      "url": "https://www.rockhouse.com/eat/rockhouse-restaurant",
+      "status": 200,
+      "finalURL": "https://www.rockhouse.com/eat/rockhouse-restaurant",
+      "title": "Rockhouse Restaurant - Cliffside Dining in Negril, Jamaica",
+      "bytes": 500761
+    },
+    {
+      "url": "https://catchajamaica.com/ivans-restaurant-bar/",
+      "status": 200,
+      "finalURL": "https://catchajamaica.com/ivans-restaurant-bar/",
+      "title": "Ivan’s Restaurant & Bar | Catcha Falling Star",
+      "bytes": 53876
+    },
+    {
+      "url": "https://www.charelainn.com/restaurant",
+      "status": 200,
+      "finalURL": "https://www.charelainn.com/restaurant",
+      "title": "Le Vendôme Restaurant in Negril, Jamaica",
+      "bytes": 110206
+    },
+    {
+      "url": "https://www.visitjamaica.com/listing/blue-mahoe-restauarant/2809/",
+      "status": 200,
+      "finalURL": "https://www.visitjamaica.com/listing/blue-mahoe-restauarant/2809/",
+      "title": "Blue Mahoe Restauarant",
+      "bytes": 297992
+    },
+    {
+      "url": "https://www.tensingpen.com/dining/",
+      "status": 200,
+      "finalURL": "https://www.tensingpen.com/dining/",
+      "title": "Dining | Boutique Destination Resort in Jamaica",
+      "bytes": 61348
+    },
+    {
+      "url": "https://murraysfishandjerkhut.com/",
+      "status": 200,
+      "finalURL": "https://murraysfishandjerkhut.com/",
+      "title": "MURRAY's Fish and Jerk Hut | Clarendon & Mandeville, Manchester, Jamaica",
+      "bytes": 164852
+    },
+    {
+      "url": "https://halfmoonbeachja.com/beach-restaurant/",
+      "status": 200,
+      "finalURL": "https://halfmoonbeachja.com/beach-restaurant/",
+      "title": "Beach & Restaurant - Half Moon Beach",
+      "bytes": 195283
+    },
+    {
+      "url": "https://www.facebook.com/sweetspicerestaurant/",
+      "error": "fetch failed"
+    },
+    {
+      "url": "https://www.thecaveshotel.com/eat/the-sands/",
+      "error": "fetch failed"
+    },
+    {
+      "url": "https://www.thehotspot.cafe/",
+      "error": "fetch failed"
+    },
+    {
+      "url": "https://linktr.ee/angolarestaurant",
+      "error": "fetch failed"
+    },
+    {
+      "url": "https://juicipatties.com/locations/",
+      "error": "fetch failed"
+    },
+    {
+      "url": "https://www.geejamhotel.com/food-drink/",
+      "error": "fetch failed"
+    },
+    {
+      "url": "https://www.bluebrewsbistro.com/",
+      "error": "fetch failed"
+    },
+    {
+      "url": "https://www.glisteningwaters.com/restaurant/",
+      "error": "fetch failed"
+    },
+    {
+      "url": "https://www.montegobayinn.com/the-pelican-grill-restaurant.html",
+      "error": "fetch failed"
+    },
+    {
+      "url": "https://murraysfishandjerkhut.com/kingston/",
+      "status": 200,
+      "finalURL": "https://murraysfishandjerkhut.com/kingston/",
+      "title": "Food Menu | MURRAY's Fish and Jerk Hut",
+      "bytes": 132584
+    },
+    {
+      "url": "https://jakeshotel.com/jack-sprat-restaurant",
+      "error": "fetch failed"
+    },
+    {
+      "url": "https://www.visitjamaica.com/listing/boston/515/",
+      "error": "fetch failed"
+    },
+    {
+      "url": "https://fr.visitjamaica.com/listing/rastasafari-experience/2385/",
+      "error": "fetch failed"
+    },
+    {
+      "url": "https://halfmoonbeachja.com/about/",
+      "status": 200,
+      "finalURL": "https://halfmoonbeachja.com/about/",
+      "title": "About - Half Moon Beach",
+      "bytes": 188491
+    },
+    {
+      "url": "https://www.visitjamaica.com/blog/post/things-to-do-in-kingston-this-summer/",
+      "error": "fetch failed"
+    },
+    {
+      "url": "https://cafeblue.com/our-cafes/",
+      "error": "fetch failed"
+    },
+    {
+      "url": "https://hrbg.org.jm/faq/",
+      "error": "fetch failed"
+    },
+    {
+      "url": "https://www.visitjamaica.com/travel-alerts/tours-attractions-reopenings/",
+      "error": "fetch failed"
+    },
+    {
+      "url": "https://www.devonhouseja.com/restaurantsandshops/scoops-unlimited",
+      "error": "fetch failed"
+    },
+    {
+      "url": "https://www.serha.gov.jm/hospitals/",
+      "error": "fetch failed"
+    },
+    {
+      "url": "https://city.gloriasseafoodja.com/",
+      "error": "fetch failed"
+    },
+    {
+      "url": "https://www.nerha.gov.jm/hospitals",
+      "error": "fetch failed"
+    },
+    {
+      "url": "https://www.srha.gov.jm/contact.php",
+      "error": "fetch failed"
+    },
+    {
+      "url": "https://www.wrha.gov.jm/contact-us/",
+      "error": "fetch failed"
+    },
+    {
+      "url": "https://www.knutsfordexpress.com/help-advice/contact-us/",
+      "error": "fetch failed"
+    },
+    {
+      "url": "https://www.knutsfordexpress.com/",
+      "error": "fetch failed"
+    },
+    {
+      "url": "https://www.wrha.gov.jm/facility/sav-la-mar-hopsital/",
+      "error": "fetch failed"
+    },
+    {
+      "url": "https://www.wrha.gov.jm/facility/falmouth-hospital/",
+      "error": "fetch failed"
+    },
+    {
+      "url": "https://www.jcdt.org.jm/",
+      "error": "fetch failed"
+    },
+    {
+      "url": "https://www.blueandjohncrowmountains.org/sustainable-tourism/recreation-areas/holywell",
+      "error": "fetch failed"
+    },
+    {
+      "url": "https://www.jamaicamobilityscooterrental.com/delivery",
+      "error": "fetch failed"
+    }
+  ],
+  "verificationLimits": [
+    "No supported control-browser; no rendered desktop/mobile visual QA.",
+    "Direct HTTP checks returned page data for 12 candidate URLs; 29 fetches failed at the transport layer. These failures do not establish that the source sites are closed or unavailable to a visitor.",
+    "Operator and authority sources were additionally researched through the web service. Menus, hours, access and bookable services remain subject to provider confirmation.",
+    "No restaurant was personally visited or meal sampled; recommendations and durations are editorial judgments.",
+    "No new reproduction permissions or stock restaurant photographs are implied."
+  ],
+  "rejectedCandidates": [
+    {
+      "name": "The Pelican Grill former domain",
+      "url": "https://www.pelicangrillja.com/",
+      "reason": "Opened page is Australian ISP spam; use related hotel owner page."
+    },
+    {
+      "name": "Woody’s Low Bridge Place",
+      "reason": "Official tourism listings persist but a traveller report suggests closure; insufficient present operator evidence, omit in this pass."
+    },
+    {
+      "name": "Double Scoops",
+      "reason": "Current owner page gives only St Thomas, no verified exact town/street; do not manufacture map pin."
+    },
+    {
+      "name": "Wah Gwan JA",
+      "reason": "Site mentions St Thomas but exact locality not established; multiple overseas namesakes."
+    },
+    {
+      "name": "Kool Runnings",
+      "reason": "Conflicting operating-status evidence; not added."
+    },
+    {
+      "name": "Roaring River Park and Cave",
+      "reason": "JTB lists closed; not confused with separately listed open RastaSafari."
+    },
+    {
+      "name": "Negril / Rutland Point craft markets, Negril Hills Golf, Benta River Falls and Cabarita rafting",
+      "reason": "JTB currently lists closed; not added as operating activities."
+    },
+    {
+      "name": "Hope Botanical Garden Tennessee / Jamaica Blue overseas cafe chain",
+      "reason": "Wrong country/business; omitted."
+    }
+  ],
+  "rastasafariCorrection": "The French JTB listing rendered navigation without useful listing content. The guide now links the operator Facebook page and a JTB introduction; the current JTB status table supports its listed reopening."
+}

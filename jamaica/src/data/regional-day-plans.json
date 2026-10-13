@@ -4,7 +4,8 @@
       "label": "Downtown Montego Bay",
       "stops": [
         "regional-mobay-culture",
-        "regional-harmony-park"
+        "regional-harmony-park",
+        "food-regional-pelican"
       ],
       "note": "Confirm gallery opening, then give the public waterfront time. These are choices within a downtown day, not a promise of an inspected pedestrian route."
     },
@@ -21,16 +22,18 @@
     {
       "label": "Negril beach",
       "stops": [
-        "national-negrilbeach"
+        "national-negrilbeach",
+        "food-negril-miss-lilys"
       ],
-      "note": "Protect a beach block; a cliff-side evening is optional with a confirmed return ride. Beach access and conditions need checking."
+      "note": "Choose a beach block and a meal at Miss Lily’s if its service and access fit. Protect the beach time; a separate West End evening requires another transfer."
     },
     {
       "label": "Lucea and Hanover history",
       "stops": [
-        "regional-lucea-fort"
+        "regional-lucea-fort",
+        "food-negril-half-moon"
       ],
-      "note": "Arrange lawful access and a locally guided town/fort route. Jamwest is an active alternative day, not an extra stop on this history route."
+      "note": "Arrange a Lucea town/fort visit, then a Hanover coastal meal at Half Moon Beach if the driver confirms the transfer. This is Green Island, not the Rose Hall Half Moon resort."
     }
   ],
   "portland": [
@@ -45,7 +48,8 @@
     {
       "label": "Living Maroon heritage",
       "stops": [
-        "regional-charlestown"
+        "regional-charlestown",
+        "food-regional-bushbar"
       ],
       "note": "Arrange a host and programme. A Rio Grande raft trip is another possible day, not an assumed part of this community visit."
     }
@@ -55,23 +59,26 @@
       "label": "City art and music",
       "stops": [
         "national-gallery",
-        "national-marley"
+        "national-marley",
+        "food-capital-gloria-city"
       ],
-      "note": "Check both openings and tour reservations. For a half-day choose one museum; traffic and transfers can make both too much."
+      "note": "Choose one museum for a half-day; a longer city day can include a second museum only after checking tours and traffic. Gloria’s Seafood City is the downtown waterfront branch, not Port Royal."
     },
     {
       "label": "A separate mountain day",
       "stops": [
-        "national-holywell"
+        "national-holywell",
+        "food-regional-bluebrews"
       ],
-      "note": "Confirm road and weather conditions and the chosen trail. Holywell is not the Blue Mountain Peak trek."
+      "note": "Confirm road and weather conditions, chosen Holywell trail and Blue Brews service. The cafe advertises weekend public service and weekday group bookings; arrange both park entry and food. Holywell is not the Peak trek."
     }
   ],
   "southeast": [
     {
       "label": "Morant Bay history",
       "stops": [
-        "regional-morant"
+        "regional-morant",
+        "food-regional-juici-morant"
       ],
       "note": "Arrange a locally informed daytime route and pickup. Read the rebellion article before the outing."
     },
@@ -87,7 +94,8 @@
     {
       "label": "Treasure Beach at a local pace",
       "stops": [
-        "national-treasure"
+        "national-treasure",
+        "food-regional-jack-sprat"
       ],
       "note": "Choose a bay, a meal and time in the community. Offshore boats need separate booking and conditions checks."
     },
@@ -104,7 +112,8 @@
     {
       "label": "Mandeville town",
       "stops": [
-        "regional-mandeville"
+        "regional-mandeville",
+        "food-regional-hotspot-mandeville"
       ],
       "note": "Plan a town-centre history visit and time for a meal. Alligator Pond is a separate coastal branch."
     },
