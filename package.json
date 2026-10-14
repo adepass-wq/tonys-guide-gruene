@@ -11,7 +11,7 @@
     "test": "node --test --test-concurrency=2 jamaica/tests/*.test.cjs",
     "verify": "npm run check && npm test",
     "preview": "node jamaica/scripts/preview.cjs",
-    "release:prepare": "npm run build && npm run verify",
+    "release:prepare": "npm run build && npm run verify && node -e \"require('node:fs').copyFileSync('jamaica/index.html','public/index.html')\"",
     "verify:live": "node jamaica/scripts/verify-live.cjs"
   },
   "devDependencies": {
