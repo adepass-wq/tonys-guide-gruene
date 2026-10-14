@@ -1,0 +1,40 @@
+name: Tony's Guide read-only production baseline
+on:
+  workflow_dispatch:
+permissions:
+  contents: read
+jobs:
+  baseline:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Snapshot all five production homepages
+        id: capture
+        continue-on-error: true
+        run: |
+          mkdir -p audit-output
+          python platform/capture_identity.py platform/urls.seed.txt audit-output/homepage-baseline.json
+      - name: Verify output exists and report failures
+        run: |
+          python - <<'PY'
+          import json
+          from pathlib import Path
+          path=Path("audit-output/homepage-baseline.json")
+          if not path.exists(): raise SystemExit("BLOCKED: no baseline produced")
+          data=json.loads(path.read_text())
+          for url,record in data.items():
+              print(f"{record.get('status')} {url} canonical={record.get('canonical','')}")
+          bad=[u for u,v in data.items() if v.get("status")!=200]
+          if bad: raise SystemExit(f"BLOCKED: {len(bad)} homepage fetches failed; investigate before cutover")
+          print("PASS: five homepages fetched. NOT A COMPLETE URL INVENTORY.")
+          PY
+      - name: Keep audit output even if a host fails
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: tonys-guide-homepage-seo-baseline
+          path: audit-output/
+          retention-days: 30
