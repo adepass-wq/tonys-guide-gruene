@@ -1,7 +1,7 @@
 name: Tony's Guide migration release guard
 on:
   push:
-    branches: [platform-migration-staging, jamaica-release]
+    branches: [platform-migration-staging]
   workflow_dispatch:
 jobs:
   migration-regression-tests:
