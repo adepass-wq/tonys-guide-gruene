@@ -26,6 +26,12 @@ class PackageTests(unittest.TestCase):
             (src/"index.html").write_text('<script src="../secret.txt"></script>')
             with self.assertRaises(ValueError):
                 module.package(src/"index.html",base/"dist")
+    def test_output_inside_source_is_rejected(self):
+        with tempfile.TemporaryDirectory() as d:
+            base=Path(d); src=base/"site";src.mkdir()
+            (src/"index.html").write_text("<html></html>")
+            with self.assertRaises(ValueError):
+                module.package(src/"index.html",src/"dist")
     def test_external_urls_not_packaged(self):
         self.assertIsNone(module.local_path("https://example.com/photo.jpg"))
         self.assertIsNone(module.local_path("data:image/png;base64,abc"))
