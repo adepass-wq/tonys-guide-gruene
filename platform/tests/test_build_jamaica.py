@@ -32,6 +32,21 @@ class PackageTests(unittest.TestCase):
             (src/"index.html").write_text("<html></html>")
             with self.assertRaises(ValueError):
                 module.package(src/"index.html",src/"dist")
+    def test_css_background_image_is_packaged(self):
+        with tempfile.TemporaryDirectory() as d:
+            base=Path(d); src=base/"site";src.mkdir()
+            (src/"index.html").write_text('<link rel="stylesheet" href="style.css">')
+            (src/"style.css").write_text('body{background:url("background.jpg")}')
+            (src/"background.jpg").write_bytes(b"pixels")
+            self.assertEqual(module.package(src/"index.html",base/"dist"),2)
+            self.assertEqual((base/"dist"/"background.jpg").read_bytes(),b"pixels")
+    def test_css_missing_font_blocks_release(self):
+        with tempfile.TemporaryDirectory() as d:
+            base=Path(d); src=base/"site";src.mkdir()
+            (src/"index.html").write_text('<link rel="stylesheet" href="style.css">')
+            (src/"style.css").write_text('@font-face{src:url("missing.woff2")}')
+            with self.assertRaises(FileNotFoundError):
+                module.package(src/"index.html",base/"dist")
     def test_external_urls_not_packaged(self):
         self.assertIsNone(module.local_path("https://example.com/photo.jpg"))
         self.assertIsNone(module.local_path("data:image/png;base64,abc"))
