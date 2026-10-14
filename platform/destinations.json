@@ -1,0 +1,82 @@
+{
+  "schema_version": 1,
+  "created": "2026-10-14",
+  "status": "staging_only_no_production_cutover",
+  "policy": {
+    "preserve_public_urls": true,
+    "preserve_paths": true,
+    "preserve_canonicals": true,
+    "preserve_sitemaps": true,
+    "preserve_search_console": true,
+    "preserve_analytics_ids": true,
+    "preserve_content": true,
+    "zero_downtime_goal": true,
+    "require_rollback": true,
+    "shared_components": "versioned and pinned per destination, no automatic cross-site releases"
+  },
+  "destinations": [
+    {
+      "id": "center-hill",
+      "host": "tonysguide.com",
+      "hosting": "not verified in connected Render workspace",
+      "repo": "not found in connected GitHub account",
+      "cutover_status": "blocked_pending_source_and_host_access"
+    },
+    {
+      "id": "gruene",
+      "host": "gruene.tonysguide.com",
+      "render_service": "srv-dasjq4gu01pc73c9bomg",
+      "repo": "adepass-wq/tonys-guide-gruene",
+      "branch": "main",
+      "build": "rm -rf public _site && mkdir -p public _site && unzip -q gruene-tonys-guide-full-upgrade.zip -d _site && cp -R _site/gruene-tonys-guide-launch/. public/",
+      "cutover_status": "baseline_in_progress"
+    },
+    {
+      "id": "mentone",
+      "host": "mentone.tonysguide.com",
+      "hosting": "not verified in connected Render workspace",
+      "repo": "not found in connected GitHub account",
+      "cutover_status": "blocked_pending_source_and_host_access"
+    },
+    {
+      "id": "bryson",
+      "host": "bryson.tonysguide.com",
+      "hosting": "not verified in connected Render workspace",
+      "repo": "not found in connected GitHub account",
+      "cutover_status": "blocked_pending_source_and_host_access"
+    },
+    {
+      "id": "jamaica",
+      "host": "jamaica.tonysguide.com",
+      "render_service": "srv-db65ugt9fdbs73eu8rug",
+      "repo": "adepass-wq/tonys-guide-gruene",
+      "branch": "main",
+      "build": "mkdir -p public && cp jamaica/index.html public/index.html",
+      "cutover_status": "isolated_branch_exists_not_deployed"
+    }
+  ],
+  "acceptance_tests": [
+    "200 status for canonical host and representative page URLs",
+    "asset references resolve at final host",
+    "same canonical URL, title, meta description, robots and structured data as approved baseline",
+    "unchanged sitemap entries and redirects",
+    "GA4 stream ID and tag firing unchanged",
+    "search-console verification intact",
+    "navigation, search, map, event, planning and media smoke tests on mobile and desktop",
+    "public historical content and media not lost",
+    "production rollback tested"
+  ],
+  "rollout": [
+    "inventory & backup",
+    "shared design system in staging",
+    "Jamaica isolated release and test",
+    "Gruene isolated release and test",
+    "other sites after source/host access",
+    "monitor post-launch"
+  ],
+  "notes": [
+    "This file is a migration specification, not proof of backups or cutover.",
+    "External domain reachability through the available web reader is inconclusive for Jamaica, Mentone and Bryson.",
+    "No existing production service configuration was altered."
+  ]
+}
