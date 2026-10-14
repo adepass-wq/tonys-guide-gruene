@@ -17,8 +17,8 @@ class References(HTMLParser):
             key="src"
         elif tag=="link":
             key="href"
-        else: return
-        if a.get(key): self.refs.append(a[key])
+        else: key=None
+        if key and a.get(key): self.refs.append(a[key])
         if a.get("style"):
             self.refs += css_urls(a["style"])
         if tag in ("img","source") and a.get("srcset"):
