@@ -59,6 +59,20 @@
         "id": "music",
         "label": "Hear the history behind Jamaican music"
       }
+    ],
+    "collection": "original",
+    "photos": [
+      "devon-house-icecream-2024"
+    ],
+    "safety": [
+      {
+        "title": "Book the actual venue, not an unsolicited escort",
+        "body": "Verify your guide and driver against the museum or hotel booking. Ask whether the total includes entrance, waiting and return; decline unrequested street guiding before it begins."
+      },
+      {
+        "title": "Keep transport and payment clear",
+        "body": "Confirm licensed vehicle/driver identification, whether the quote is per person or whole vehicle, JMD or USD, admissions, waiting and return pickup. Decline unrequested services politely and seek help in staffed premises if pressure continues."
+      }
     ]
   },
   {
@@ -122,6 +136,21 @@
         "id": "conditions",
         "label": "Check mountain weather"
       }
+    ],
+    "collection": "original",
+    "photos": [
+      "blue-mountains-flickr-2025",
+      "blue-mountains-flickr-2025-b"
+    ],
+    "safety": [
+      {
+        "title": "A mountain booking needs a mountain return",
+        "body": "Agree the actual coffee stop, park entrance and pickup with the driver. Do not follow a roadside claim of a cheaper private trail or farm visit without verifying permission and conditions."
+      },
+      {
+        "title": "Keep transport and payment clear",
+        "body": "Confirm licensed vehicle/driver identification, whether the quote is per person or whole vehicle, JMD or USD, admissions, waiting and return pickup. Decline unrequested services politely and seek help in staffed premises if pressure continues."
+      }
     ]
   },
   {
@@ -184,6 +213,20 @@
         "id": "read-garvey",
         "label": "Garvey and public memory"
       }
+    ],
+    "collection": "original",
+    "photos": [
+      "juta-bus-2023"
+    ],
+    "safety": [
+      {
+        "title": "Verify Seville admission and date directly",
+        "body": "An unofficial escort fee does not establish estate access. Use the operator’s current weekday booking, agree transport separately and ask the total meal price and currency at the food stop."
+      },
+      {
+        "title": "Keep transport and payment clear",
+        "body": "Confirm licensed vehicle/driver identification, whether the quote is per person or whole vehicle, JMD or USD, admissions, waiting and return pickup. Decline unrequested services politely and seek help in staffed premises if pressure continues."
+      }
     ]
   },
   {
@@ -245,6 +288,21 @@
       {
         "id": "history-stmary-hills",
         "label": "St. Mary’s coast and hills"
+      }
+    ],
+    "collection": "original",
+    "photos": [
+      "port-maria-civic-2023",
+      "pagee-boats-2023"
+    ],
+    "safety": [
+      {
+        "title": "A famous house is still a separate booking",
+        "body": "Confirm Firefly directly before paying an intermediary. Keep town streets and public viewpoints separate from private-house entry; retain the return driver for the uphill branch."
+      },
+      {
+        "title": "Keep transport and payment clear",
+        "body": "Confirm licensed vehicle/driver identification, whether the quote is per person or whole vehicle, JMD or USD, admissions, waiting and return pickup. Decline unrequested services politely and seek help in staffed premises if pressure continues."
       }
     ]
   },
@@ -309,6 +367,21 @@
         "id": "parish-mooretown",
         "label": "Moore Town: arrange a separate community visit"
       }
+    ],
+    "collection": "original",
+    "photos": [
+      "port-antonio-drone-2024",
+      "san-san-2024"
+    ],
+    "safety": [
+      {
+        "title": "Beach access, food and guiding are different charges",
+        "body": "Agree the named beach entrance, facilities and meal price before accepting the service. A coach terminal is not a beach pickup; get the local return in writing or a clear confirmed message."
+      },
+      {
+        "title": "Keep transport and payment clear",
+        "body": "Confirm licensed vehicle/driver identification, whether the quote is per person or whole vehicle, JMD or USD, admissions, waiting and return pickup. Decline unrequested services politely and seek help in staffed premises if pressure continues."
+      }
     ]
   },
   {
@@ -371,6 +444,21 @@
         "id": "history-melissa-falmouth",
         "label": "Melissa and Falmouth: documented damage and recovery"
       }
+    ],
+    "collection": "original",
+    "photos": [
+      "montego-bay-flickr-2024",
+      "falmouth-st-peters-facade-2026"
+    ],
+    "safety": [
+      {
+        "title": "A closure claim deserves a direct check",
+        "body": "Confirm today’s museum and town-guide arrangement with the actual provider. Do not pay a stranger for supposed compulsory access to public streets or accept an unverified substitute tour under pressure."
+      },
+      {
+        "title": "Keep transport and payment clear",
+        "body": "Confirm licensed vehicle/driver identification, whether the quote is per person or whole vehicle, JMD or USD, admissions, waiting and return pickup. Decline unrequested services politely and seek help in staffed premises if pressure continues."
+      }
     ]
   },
   {
@@ -432,6 +520,20 @@
       {
         "id": "parish-savannalamar",
         "label": "Savanna-la-Mar for another western day"
+      }
+    ],
+    "collection": "original",
+    "photos": [
+      "negril-flickr-2022"
+    ],
+    "safety": [
+      {
+        "title": "Confirm the actual beach entrance and local fare",
+        "body": "Use a permitted entrance and check whether amenities cost extra. Ask whether a taxi quote is per person or whole vehicle, and arrange the Lucea/fort return before leaving your base."
+      },
+      {
+        "title": "Keep transport and payment clear",
+        "body": "Confirm licensed vehicle/driver identification, whether the quote is per person or whole vehicle, JMD or USD, admissions, waiting and return pickup. Decline unrequested services politely and seek help in staffed premises if pressure continues."
       }
     ]
   },
@@ -496,6 +598,21 @@
         "id": "parish-bath-gardens",
         "label": "Bath’s botanical history"
       }
+    ],
+    "collection": "original",
+    "photos": [
+      "morant-bay-queen-street-2025",
+      "morant-bay-volunteers-2025"
+    ],
+    "safety": [
+      {
+        "title": "The official bath and an unsolicited service are separate",
+        "body": "Arrange any treatment through the actual facility and agree its price before it begins. A community visit requires the real host’s consent; do not accept a roadside promise of church, grave or ritual access."
+      },
+      {
+        "title": "Keep transport and payment clear",
+        "body": "Confirm licensed vehicle/driver identification, whether the quote is per person or whole vehicle, JMD or USD, admissions, waiting and return pickup. Decline unrequested services politely and seek help in staffed premises if pressure continues."
+      }
     ]
   },
   {
@@ -558,7 +675,22 @@
         "id": "parish-accompong",
         "label": "Accompong: a separate arranged community day"
       }
-    ]
+    ],
+    "collection": "original",
+    "photos": [
+      "treasure-beach-2023"
+    ],
+    "safety": [
+      {
+        "title": "Book the boat; agree the serving",
+        "body": "Check the river operator, boarding arrangements and inclusions directly. At food stalls confirm quantity, currency and total before buying; a parking or guiding favour you never requested is not part of your order."
+      },
+      {
+        "title": "Keep transport and payment clear",
+        "body": "Confirm licensed vehicle/driver identification, whether the quote is per person or whole vehicle, JMD or USD, admissions, waiting and return pickup. Decline unrequested services politely and seek help in staffed premises if pressure continues."
+      }
+    ],
+    "referenceArticle": "parish-blackriver"
   },
   {
     "id": "route-central-town-country",
@@ -620,6 +752,903 @@
         "id": "parish-fourpaths",
         "label": "Clarendon beyond the highway"
       }
+    ],
+    "collection": "original",
+    "photos": [
+      "perth-road-2012"
+    ],
+    "safety": [
+      {
+        "title": "Town guiding does not open every institution",
+        "body": "Pay only for the service you arranged. Working courts, churches and private restaurants set their own access; agree the fish weight/portion, preparation and total before it is cooked."
+      },
+      {
+        "title": "Keep transport and payment clear",
+        "body": "Confirm licensed vehicle/driver identification, whether the quote is per person or whole vehicle, JMD or USD, admissions, waiting and return pickup. Decline unrequested services politely and seek help in staffed premises if pressure continues."
+      }
     ]
+  },
+  {
+    "id": "route-kingston-garvey-public-power",
+    "title": "Kingston: Garvey, newspapers and public power",
+    "regions": [
+      "capital-mountains"
+    ],
+    "theme": "Art & music",
+    "collection": "new",
+    "duration": "One arranged downtown day; library research is optional",
+    "base": "Kingston, with a downtown guide meeting point",
+    "question": "Who controlled the public story, and how did Jamaicans create platforms of their own?",
+    "walk": "Choose a short guided downtown cluster. Use a licensed vehicle for a connector if heat, road crossings or current street conditions make the walk unsuitable.",
+    "drive": "Arrange drop-off at Liberty Hall and pickups agreed with each institution. The final library visit must fit its confirmed research arrangements.",
+    "public": "A confirmed Knutsford journey brings you to the actual Kingston passenger terminal, not to downtown Liberty Hall. Check JUTC routes for the chosen downtown stop or use a licensed taxi for the last leg.",
+    "call": "Book Liberty Hall first. Treat the library as a research appointment, not a casual attraction you can demand to tour.",
+    "access": "Ask each institution about steps, security procedures, toilets and seating. Exterior comparisons can replace unconfirmed interiors.",
+    "cost": "Museum visit, guide, transfers and lunch; confirm any library copying/reproduction charges separately.",
+    "stops": [
+      {
+        "day": 1,
+        "place": "",
+        "name": "Liberty Hall",
+        "activity": "Visit the Marcus Garvey museum when the institution confirms your date. Compare Garvey’s public organising and international reach with the printed evidence in the guide.",
+        "leg": "Begin at the confirmed museum entrance, not at a generic downtown map pin.",
+        "source": "https://jnht.com/site_liberty_hall.php",
+        "mapQuery": "Liberty Hall 76 King Street Kingston Jamaica"
+      },
+      {
+        "day": 1,
+        "place": "",
+        "name": "Headquarters House, Duke Street",
+        "activity": "Look at the facade from permitted public space. Discuss how an elite residence became a setting for colonial government; arrange an interior visit separately.",
+        "leg": "A locally selected daylight connector; ask your guide whether to walk or use the vehicle.",
+        "source": "https://www.jnht.com/headquarters_house.php",
+        "mapQuery": "Headquarters House 79 Duke Street Kingston Jamaica"
+      },
+      {
+        "day": 1,
+        "place": "",
+        "name": "Gordon House exterior",
+        "activity": "Compare an official seat of government with the earlier building. Read the independence essay and ask how civic buildings become symbols; a public session or interior tour is not included.",
+        "leg": "Short guide-selected Duke Street branch; respect barriers and official business.",
+        "source": "https://jnht.com/site_gordon_house.php",
+        "mapQuery": "Gordon House Duke Street Kingston Jamaica"
+      },
+      {
+        "day": 1,
+        "place": "",
+        "name": "National Library of Jamaica, by appointment",
+        "activity": "If you have arranged reader access, examine a newspaper, photograph or catalogue relevant to your question. Without an appointment, use the digital archive and give the museum more time.",
+        "leg": "Transfer to 12 East Street only after the library confirms registration and access.",
+        "source": "https://nlj.gov.jm/using-the-library/",
+        "mapQuery": "National Library of Jamaica 12 East Street Kingston Jamaica"
+      }
+    ],
+    "reading": [
+      {
+        "id": "parish-libertyhall",
+        "label": "Liberty Hall and Garvey"
+      },
+      {
+        "id": "legacy-hibbert",
+        "label": "Hibbert wealth and Headquarters House"
+      },
+      {
+        "id": "object-negro-world",
+        "label": "Read the Negro World evidence"
+      },
+      {
+        "id": "history-independence",
+        "label": "Independence and public institutions"
+      }
+    ],
+    "safety": [
+      {
+        "title": "Verify the guide before following",
+        "body": "Arrange the guide through your museum, hotel or an independently checked operator. Agree the meeting point, duration and total before the walk; an unsolicited escort is not your booking."
+      },
+      {
+        "title": "A public building does not need an unofficial admission fixer",
+        "body": "If someone claims a building is closed or demands a special access fee, check with the named institution directly. Pay its actual desk or official booking channel. Keep the library appointment separate from street offers."
+      }
+    ],
+    "walkingDays": [],
+    "photos": [],
+    "referenceArticle": "parish-libertyhall",
+    "referenceArticles": [
+      "legacy-hibbert"
+    ]
+  },
+  {
+    "id": "route-mona-hope-land-knowledge",
+    "title": "St. Andrew: plantation infrastructure, a university and botanical knowledge",
+    "regions": [
+      "capital-mountains"
+    ],
+    "theme": "Landscape & livelihoods",
+    "collection": "new",
+    "duration": "One full day with a booked campus visit",
+    "base": "Kingston / St. Andrew",
+    "question": "How does the same landscape move from plantation work to Caribbean education and public gardens?",
+    "walk": "Walk within the UWI host’s actual heritage route and an appropriate Hope Gardens path. The campus-to-garden connector is a vehicle or confirmed bus journey.",
+    "drive": "Visit Mona first, then transfer to Hope Gardens for a slower afternoon. A campus security entrance and a garden entrance are different destinations.",
+    "public": "Use JUTC’s current guide to confirm the bus stop appropriate to Mona and Hope Road; do not assume one service joins every campus stop. A Kingston coach arrival needs a separate local leg.",
+    "call": "Ask the campus guide about the labour and older infrastructure underneath the university story. Then use the gardens to explore how plants were classified, moved and cultivated.",
+    "access": "Confirm the campus walking distance, chapel access and garden surfaces with the hosts. A shorter campus route and shaded garden pause can replace the longer walk.",
+    "cost": "Campus heritage arrangements, local transfers and food; the garden and any optional attraction within it have separate terms.",
+    "stops": [
+      {
+        "day": 1,
+        "place": "",
+        "name": "UWI Mona aqueduct",
+        "activity": "On the arranged campus route, examine the surviving aqueduct and ask how water supported the estate economy. Use the university’s own heritage account to distinguish the infrastructure’s age from the campus’s age.",
+        "leg": "Meet your campus host at the entrance they specify.",
+        "source": "https://www.mona.uwi.edu/heritage_tour/",
+        "mapQuery": "UWI Mona Aqueduct Jamaica"
+      },
+      {
+        "day": 1,
+        "place": "",
+        "name": "UWI Chapel",
+        "activity": "When access is permitted, compare the reused building with its later university function. The university identifies the chapel’s earlier use as a rum store; it was not built as an eighteenth-century university church.",
+        "leg": "Within the campus route; worship, university events and host instructions take priority.",
+        "source": "https://www.mona.uwi.edu/heritage_tour/",
+        "mapQuery": "UWI Mona Chapel Jamaica"
+      },
+      {
+        "day": 1,
+        "place": "",
+        "name": "Mona heritage interpretation",
+        "activity": "Ask your booked host to connect the estate, wartime and postwar education layers. Use the offered museum or trail component only if included in the arrangement.",
+        "leg": "Continue within the confirmed tour rather than assuming every historic building is open.",
+        "source": "https://www.mona.uwi.edu/uwimona-history",
+        "mapQuery": "University of the West Indies Mona Jamaica"
+      },
+      {
+        "day": 1,
+        "place": "capital-hope",
+        "name": "Hope Royal Botanical Gardens",
+        "activity": "Take a selected plant-and-landscape walk, a picnic or a shaded rest. Ask what is labelled and what requires a guide’s explanation; do not identify a species solely from resemblance.",
+        "leg": "Separate vehicle or locally confirmed JUTC connection to the actual garden entrance."
+      }
+    ],
+    "reading": [
+      {
+        "id": "parish-mona",
+        "label": "Mona’s estate and university histories"
+      },
+      {
+        "id": "legacy-hope",
+        "label": "Hope: gardens and the land underneath them"
+      }
+    ],
+    "safety": [
+      {
+        "title": "Tour terms come from the host",
+        "body": "Confirm the university’s actual meeting point and what your visit includes. Do not pay an unverified person for supposed campus access or follow an improvised tour into restricted rooms."
+      },
+      {
+        "title": "Keep the garden visit manageable",
+        "body": "Carry water and choose shade breaks. Avoid rivers or drains after rain, and keep valuables with you rather than leaving them in a picnic vehicle."
+      }
+    ],
+    "walkingDays": [],
+    "photos": [],
+    "referenceArticle": "parish-mona",
+    "referenceArticles": [
+      "legacy-hope"
+    ]
+  },
+  {
+    "id": "route-stann-limestone-hill-food",
+    "title": "St. Ann: limestone, coastal encounters and food from the hills",
+    "regions": [
+      "ocho-mary"
+    ],
+    "theme": "Food & landscape",
+    "collection": "new",
+    "duration": "Two days: coastal geology, then a booked farm afternoon",
+    "base": "Discovery Bay, Runaway Bay or Ocho Rios",
+    "question": "How do water, limestone and cultivated land shape what you see and eat?",
+    "walk": "Walk the cave operator’s guided route and the farm’s confirmed visitor route. Transfer between the coast and hills by vehicle.",
+    "drive": "Day 1: Discovery Bay, Green Grotto and Runaway Bay. Day 2: the Stush booking in Free Hill/Bamboo, with the return already arranged.",
+    "public": "Check the actual St. Ann passenger stop and date in Knutsford booking, then price the local cave and farm transfers. A cave ticket does not automatically include hotel pickup.",
+    "call": "Give the farm its own afternoon. A beach stop and a long hills dining experience are not quick extras after the cave.",
+    "access": "Ask the cave operator about steps, low clearances, lighting and the exit. Ask the farm about walking surfaces, seating and dietary requirements before paying.",
+    "cost": "Cave admission, local transfers, a town meal and the booked farm experience; confirm resident categories and package inclusions directly.",
+    "stops": [
+      {
+        "day": 1,
+        "place": "",
+        "name": "Discovery Bay public town-and-coast pause",
+        "activity": "Look at the bay from a permitted public location. Compare shoreline and settlement with the island chronology; do not treat a tourism label as proof of the exact place of Columbus’s landing.",
+        "leg": "Agree the specific public viewpoint with the driver; a coastal business entrance is a separate arrangement.",
+        "source": "https://www.jnht.com/st_ann.php",
+        "mapQuery": "Discovery Bay St Ann Jamaica"
+      },
+      {
+        "day": 1,
+        "place": "caves",
+        "name": "Green Grotto guided cave visit",
+        "activity": "Follow the operator’s guided route. Observe limestone formations and ask about water and habitat; distinguish a documented feature from a story included in the tour.",
+        "leg": "Short coastal vehicle leg; confirm check-in and last admission."
+      },
+      {
+        "day": 1,
+        "place": "",
+        "name": "Runaway Bay town meal",
+        "activity": "Choose an operating cook shop or restaurant and ask about the day’s dishes. Use this as a meal and rest block; beach access is optional and must be separately agreed.",
+        "leg": "Coastal transfer back toward your base; agree price and return pickup.",
+        "source": "https://www.visitjamaica.com/resort-areas/ocho-rios/where-to-eat/",
+        "mapQuery": "Runaway Bay St Ann Jamaica"
+      },
+      {
+        "day": 2,
+        "place": "stush",
+        "name": "Stush in the Bush, at the booked sitting",
+        "activity": "Ask how the farm’s ingredients are grown and used in the meal. Follow the host’s invitation and leave enough time for the full experience.",
+        "leg": "Get the farm directions from the confirmed booking and retain the return driver."
+      }
+    ],
+    "reading": [
+      {
+        "id": "hh-food",
+        "label": "Food and household work"
+      },
+      {
+        "id": "history-ocho-stann",
+        "label": "St. Ann’s changing coast"
+      },
+      {
+        "id": "reconsidered-taino",
+        "label": "Taíno history beyond a disappearance story"
+      }
+    ],
+    "safety": [
+      {
+        "title": "Buy the cave visit from its actual operator",
+        "body": "Check whether admission, transport and optional products are included before payment. Do not accept a stranger’s claim that a separate unofficial escort is compulsory."
+      },
+      {
+        "title": "Use the farm’s booking channel and directions",
+        "body": "Confirm the sitting, cancellation terms, dietary needs and total with the host. An online photograph or map pin is not permission to arrive at a private farm."
+      },
+      {
+        "title": "Caves are guided environments",
+        "body": "Stay on the operator’s route, follow its equipment advice and do not enter an unstaffed cave or leave the group for photographs."
+      }
+    ],
+    "walkingDays": [],
+    "photos": [
+      "juta-bus-2023"
+    ],
+    "referenceArticle": "hh-food"
+  },
+  {
+    "id": "route-stmary-garden-country-commerce",
+    "title": "St. Mary: a botanical garden, Baptist history and country commerce",
+    "regions": [
+      "ocho-mary"
+    ],
+    "theme": "Working towns",
+    "collection": "new",
+    "duration": "Two days; separate the coast from the inland garden branch",
+    "base": "Annotto Bay, Port Maria or a St. Mary stay",
+    "question": "What can a church, public garden and market town reveal about movement through the parish?",
+    "walk": "Walk a short Annotto Bay branch, selected Castleton paths and a modest Highgate town section. There is no continuous pedestrian route between them.",
+    "drive": "Day 1 stays in Annotto Bay. Day 2 pairs Castleton with a driver-confirmed Highgate branch, or chooses only one inland destination if the transfer would rush the day.",
+    "public": "Use Knutsford to Annotto Bay only when the current passenger booking confirms your journey. Ask locally about licensed buses or route taxis on each inland leg; a return arrangement is essential.",
+    "call": "Highgate town in St. Mary is not Highgate House in Sligoville, St. Catherine. Read the right place and give the garden time.",
+    "access": "Check the church entrance and garden toilets, paths and staffing. Use a vehicle-assisted town visit if narrow pavements or slopes are unsuitable.",
+    "cost": "Local guiding and transport, meals and any organised garden visit; agree the cost of private vehicle waiting time.",
+    "stops": [
+      {
+        "day": 1,
+        "place": "",
+        "name": "Annotto Bay Baptist Church",
+        "activity": "View from permitted public space or enter with the congregation’s agreement. Ask how church institutions relate to community life; avoid interrupting a service.",
+        "leg": "Begin at the confirmed church or town guide meeting point.",
+        "source": "https://www.jnht.com/site_annotto_Bay_Baptist.php",
+        "mapQuery": "Annotto Bay Baptist Church Jamaica"
+      },
+      {
+        "day": 1,
+        "place": "annotto",
+        "name": "Annotto Bay town and a meal",
+        "activity": "Observe the working town and coast from public space. Take a meal pause and connect the town to the river and transport history in the guide.",
+        "leg": "Keep this branch compact; the shore is not a recommendation to swim."
+      },
+      {
+        "day": 2,
+        "place": "castleton",
+        "name": "Castleton Botanical Gardens",
+        "activity": "Confirm access, then choose a plant walk and picnic block. Use labels and the guide’s botanical history to connect plant movement and public landscape.",
+        "leg": "A separate inland day by vehicle; ask about the approach after rain."
+      },
+      {
+        "day": 2,
+        "place": "",
+        "name": "Highgate town market and country commerce",
+        "activity": "Choose a public town/food branch with your guide. Observe agricultural exchange and everyday travel, ask before photographing people and avoid assigning a mansion’s history to the town.",
+        "leg": "Driver confirms the Castleton–Highgate journey; choose a Highgate-only day if needed.",
+        "source": "https://www.jnht.com/st_mary.php",
+        "mapQuery": "Highgate St Mary Jamaica"
+      }
+    ],
+    "reading": [
+      {
+        "id": "jh-annotto",
+        "label": "Annotto Bay through its institutions"
+      },
+      {
+        "id": "jh-castleton",
+        "label": "Castleton and botanical knowledge"
+      },
+      {
+        "id": "jh-highgate",
+        "label": "Highgate and the St. Mary hills"
+      }
+    ],
+    "safety": [
+      {
+        "title": "Shared fare or private charter?",
+        "body": "Ask whether the quote is per person on a fixed route or for the whole vehicle. Confirm destination, currency and the last return before boarding; request the route and driver identification."
+      },
+      {
+        "title": "Permission is separate from guiding",
+        "body": "A street guide cannot grant church entry on the congregation’s behalf. Ask the actual host and decline an unsolicited access fee."
+      },
+      {
+        "title": "The garden river is not part of this outing",
+        "body": "Remain on the confirmed visitor paths and avoid floodwater or an unplanned river swim, especially after upstream rain."
+      }
+    ],
+    "walkingDays": [],
+    "photos": [
+      "port-maria-civic-2023",
+      "pagee-boats-2023"
+    ],
+    "referenceArticle": "jh-castleton"
+  },
+  {
+    "id": "route-portland-maroon-living-heritage",
+    "title": "Portland: two Maroon communities, two living histories",
+    "regions": [
+      "portland"
+    ],
+    "theme": "Land & freedom",
+    "collection": "new",
+    "duration": "Two separately arranged community days",
+    "base": "Port Antonio or Buff Bay",
+    "question": "How do negotiated freedom, language and leadership remain part of everyday life?",
+    "walk": "Walk only the community host’s agreed route. Buff Bay, Charles Town and Moore Town are separate road journeys.",
+    "drive": "Day 1 pairs Buff Bay with the confirmed Charles Town visit. Day 2 visits Moore Town from a suitable base. The two communities are not interchangeable and need separate introductions.",
+    "public": "A confirmed coach to Port Antonio or another actual passenger stop is an arrival option. Arrange the rural leg and return with a licensed driver; the coach ticket is not a Maroon-community tour.",
+    "call": "Go to listen to people who have agreed to host you. Drumming, a ceremony or a Kromanti demonstration is not automatically included.",
+    "access": "Ask the host about paths, slopes, seating and toilets. A seated conversation can replace a longer community walk.",
+    "cost": "Host/guide arrangements, separate local transport and meals. Agree community fees and any recording permission before the visit.",
+    "stops": [
+      {
+        "day": 1,
+        "place": "",
+        "name": "Buff Bay town and meal",
+        "activity": "Take a short public town pause before the community appointment. Observe how a coastal town connects with inland settlements and use the time to confirm the host and return driver.",
+        "leg": "Meet the driver at the actual agreed base; retain the community contact.",
+        "source": "https://www.jnht.com/portland.php",
+        "mapQuery": "Buff Bay Portland Jamaica"
+      },
+      {
+        "day": 1,
+        "place": "regional-charlestown",
+        "name": "Charles Town community museum / Asafu Yard",
+        "activity": "Follow the host’s confirmed programme and ask about governance, landscape and present work. A festival announcement is not a promise of a daily performance.",
+        "leg": "Inland transfer to the host’s actual meeting point; confirm pickup after the visit."
+      },
+      {
+        "day": 2,
+        "place": "",
+        "name": "Moore Town community-led history",
+        "activity": "With a willing local host, discuss Nanny, leadership, language and the community’s contemporary life. Ask which sites can be visited and which topics or recordings need consent.",
+        "leg": "Separate Moore Town day; do not arrive expecting an unbooked show.",
+        "source": "https://www.jnht.com/site_moore_town.php",
+        "mapQuery": "Moore Town Portland Jamaica"
+      },
+      {
+        "day": 2,
+        "place": "",
+        "name": "Bump Grave, if your host confirms permission",
+        "activity": "Treat the memorial as a place of remembrance. Let the host explain its significance; follow local instructions on access, photographs and respectful conduct.",
+        "leg": "A host-approved branch of the Moore Town visit, not independent entry to private or ceremonial space.",
+        "source": "https://www.jnht.com/site_moore_town.php",
+        "mapQuery": "Bump Grave Moore Town Jamaica"
+      }
+    ],
+    "reading": [
+      {
+        "id": "parish-mooretown",
+        "label": "Moore Town and public memory"
+      },
+      {
+        "id": "legacy-kromanti",
+        "label": "Kromanti: language and ritual context"
+      },
+      {
+        "id": "reconsidered-maroons",
+        "label": "Read the treaty evidence"
+      },
+      {
+        "id": "language-kromanti",
+        "label": "Listen and learn before visiting"
+      }
+    ],
+    "safety": [
+      {
+        "title": "Confirm the person who will host you",
+        "body": "Use a community or independently verified venue contact. Agree the programme, fee and meeting place in advance; a driver or roadside seller cannot promise a ceremony on the community’s behalf."
+      },
+      {
+        "title": "Ask before you record",
+        "body": "Permission to visit is not permission to photograph graves, record a speaker or post a performance. Accept a refusal without bargaining."
+      },
+      {
+        "title": "Keep the rural return booked",
+        "body": "Plan daylight transfers and retain your driver’s number. Do not rely on an unverified onward ride when a community visit finishes."
+      }
+    ],
+    "walkingDays": [],
+    "photos": [
+      "port-antonio-drone-2024"
+    ],
+    "referenceArticle": "parish-mooretown"
+  },
+  {
+    "id": "route-estates-labour-records",
+    "title": "Trelawny and St. James: estates, labour and the stories houses sell",
+    "regions": [
+      "montego"
+    ],
+    "theme": "Land & freedom",
+    "collection": "new",
+    "duration": "Two days; confirm the actual estate products before travel",
+    "base": "Falmouth or Montego Bay",
+    "question": "Whose labour built an estate’s wealth, and what is documented when a house tour turns to folklore?",
+    "walk": "Walk Falmouth’s agreed public branch and each booked estate’s permitted route. Estate connectors require a vehicle.",
+    "drive": "Day 1 pairs a short Falmouth branch with a confirmed Good Hope estate product. Day 2 centres Rose Hall and a meal near your chosen base.",
+    "public": "Check bookable coach journeys to Falmouth or Montego Bay, the passenger terminal and the estate transfer. Do not accept a coach arrival as proof of an included admission or return pickup.",
+    "call": "Ask for the estate’s historical content and tour inclusions before paying. Greenwood is currently marked temporarily closed by its operator and is not offered as an open stop.",
+    "access": "Ask about stairs, uneven grounds, shaded rest and a non-water option. Great-house architecture and adventure products have different physical demands.",
+    "cost": "Named estate admissions, separately agreed guiding, meals and vehicle transfers. Check the package rather than assuming every activity on an estate is included.",
+    "stops": [
+      {
+        "day": 1,
+        "place": "national-falmouth",
+        "name": "Falmouth: a port behind the estates",
+        "activity": "Use a short exterior walk to connect port trade with the estate economy. Ask how labour and property appear in the documentary history before the house visit.",
+        "leg": "Guide selects the actual town branch and estate departure point."
+      },
+      {
+        "day": 1,
+        "place": "national-goodhope",
+        "name": "Good Hope, only with an operator-confirmed product",
+        "activity": "Book the actual available product directly and ask whether it includes house/estate history. Use the landscape to discuss water, production and labour; water activities are optional, not assumed.",
+        "leg": "Separate estate transfer; use the operator’s current Good Hope page and confirm the product, historical content and return before travelling.",
+        "source": "https://chukka.com/jamaica/good-hope"
+      },
+      {
+        "day": 2,
+        "place": "national-rosehall",
+        "name": "Rose Hall daytime house visit",
+        "activity": "Take a confirmed guided visit and separate the documented estate setting from ghost entertainment. Ask what evidence supports a story and whose work is less visible in the tour.",
+        "leg": "A separate St. James day and confirmed entrance/pickup."
+      },
+      {
+        "day": 2,
+        "place": "food-scotchies-mobay",
+        "name": "A Montego Bay jerk meal",
+        "activity": "Use a meal and rest block to compare the estate tour with contemporary work and food. Confirm the correct branch and the dishes available.",
+        "leg": "Driver confirms the local meal branch and return; no extra house is squeezed into the day."
+      }
+    ],
+    "reading": [
+      {
+        "id": "history-great-houses",
+        "label": "Great houses and the people behind them"
+      },
+      {
+        "id": "parish-goodhope",
+        "label": "Good Hope in context"
+      },
+      {
+        "id": "history-stjames",
+        "label": "St. James: land, labour and public history"
+      },
+      {
+        "id": "reconsidered-tourist-postcard",
+        "label": "The tourist postcard and its omissions"
+      }
+    ],
+    "safety": [
+      {
+        "title": "Check closure claims with the venue",
+        "body": "If an intermediary says an estate is closed and offers a costly substitute, verify directly. For Greenwood, the operator itself currently reports temporary closure; do not pay someone claiming guaranteed access."
+      },
+      {
+        "title": "Read the package before payment",
+        "body": "Admission, transport, house interpretation, water activities, food and tips may be separate. Ask for the total, currency, cancellation rules and return plan."
+      },
+      {
+        "title": "Choose the activity you can actually do",
+        "body": "Use a dry history option when water or uneven ground is unsuitable. Follow the estate operator’s weather and safety instructions rather than a sales promise."
+      }
+    ],
+    "walkingDays": [],
+    "photos": [
+      "falmouth-st-peters-facade-2026",
+      "montego-bay-flickr-2024"
+    ]
+  },
+  {
+    "id": "route-western-labour-law",
+    "title": "Western Jamaica: labour, civic life and Bustamante’s birthplace",
+    "regions": [
+      "negril"
+    ],
+    "theme": "Working towns",
+    "collection": "new",
+    "duration": "Two days; town walking and a separate arranged birthplace visit",
+    "base": "Savanna-la-Mar, Lucea or Negril",
+    "question": "How do a working town and a leader’s birthplace change the way you read 1938?",
+    "walk": "Use a short Savanna-la-Mar civic/market walk. The fort branch is optional and locally assessed; Blenheim is a separate vehicle visit.",
+    "drive": "Day 1 stays in Savanna-la-Mar. Day 2 makes the arranged Blenheim visit and returns. Interpret Frome through documents and a guide’s discussion rather than entering an operating factory.",
+    "public": "Knutsford lists western passenger locations; confirm a bookable journey to Savanna-la-Mar or Lucea and arrange the town and hill transfers. A local fixed-route fare is different from whole-vehicle hire.",
+    "call": "Let the town and the documents do the work. An unverified factory visit or a dangerous ruin climb does not make the history more authentic.",
+    "access": "Ask for a short exterior civic route and seating. Ask Blenheim about its actual entrance and toilets. Skip the fort if the approach or damaged fabric is unsuitable.",
+    "cost": "Town guiding, food, local transport and any confirmed birthplace admission. JNHT’s older published tour prices are not treated as current quotes.",
+    "stops": [
+      {
+        "day": 1,
+        "place": "",
+        "name": "Savanna-la-Mar courthouse and cast-iron fountain",
+        "activity": "Compare civic architecture with the story of labour protest in western Jamaica. Keep the courthouse visit exterior unless the institution permits entry, and use the Frome reading to ground the discussion.",
+        "leg": "Begin at a guide-confirmed public civic meeting point.",
+        "source": "https://www.jnht.com/site_savanna_la_mar_court_house.php",
+        "mapQuery": "Savanna la Mar Court House Jamaica"
+      },
+      {
+        "day": 1,
+        "place": "",
+        "name": "Great George Street town and food",
+        "activity": "Choose a modest public market/food branch. Look at trading and transport, buy only what you want and agree the meal price and currency before ordering.",
+        "leg": "Short locally selected town walk; keep the end point and pickup clear.",
+        "source": "https://www.jnht.com/site_savanna_la_mar_court_house.php",
+        "mapQuery": "Great George Street Savanna la Mar Jamaica"
+      },
+      {
+        "day": 1,
+        "place": "",
+        "name": "Savanna-la-Mar fort: optional permitted exterior",
+        "activity": "Read the fort account and visit only if your local host confirms a suitable approach. Damaged walls and the sea edge are not places to climb; a town-only route is a complete alternative.",
+        "leg": "Optional guided branch; do not cross private land or damaged walls to reach a map pin.",
+        "source": "https://jnht.com/site_savanna_la_mar_fort.php",
+        "mapQuery": "Savanna la Mar Fort Jamaica",
+        "optional": true
+      },
+      {
+        "day": 2,
+        "place": "",
+        "name": "Blenheim, with current access confirmed",
+        "activity": "Arrange the birthplace visit and connect Bustamante’s public role with the wider labour movement. Confirm today’s opening with the custodian because older institutional pages differ on opening days.",
+        "leg": "Separate hill transfer from a suitable western base, with the return retained.",
+        "source": "https://www.jnht.com/site_blenheim.php",
+        "mapQuery": "Blenheim Bustamante Museum Hanover Jamaica"
+      }
+    ],
+    "reading": [
+      {
+        "id": "parish-savannalamar",
+        "label": "Savanna-la-Mar in history"
+      },
+      {
+        "id": "parish-frome",
+        "label": "Frome and worker protest"
+      },
+      {
+        "id": "parish-blenheim",
+        "label": "Blenheim and Bustamante"
+      },
+      {
+        "id": "reconsidered-women-1938",
+        "label": "Who disappears from the 1938 story?"
+      }
+    ],
+    "safety": [
+      {
+        "title": "Do not buy factory access from a roadside offer",
+        "body": "This route includes no Frome factory tour. A historic account or development proposal does not grant entry to an operating industrial site."
+      },
+      {
+        "title": "Agree purchases before accepting them",
+        "body": "Ask the total for a meal, photograph, guiding or carrying bags before the service begins. Decline politely if you do not want it, and go to staffed premises if pressure escalates."
+      },
+      {
+        "title": "Ruins require a suitable approach",
+        "body": "Stay outside unstable walls and away from the sea edge. A host’s access check governs the fort branch; skip it if that cannot be established."
+      }
+    ],
+    "walkingDays": [],
+    "photos": [
+      "negril-flickr-2022"
+    ],
+    "referenceArticle": "parish-blenheim"
+  },
+  {
+    "id": "route-stthomas-art-headland",
+    "title": "St. Thomas: art, African continuities and the eastern headland",
+    "regions": [
+      "southeast"
+    ],
+    "theme": "Art & music",
+    "collection": "new",
+    "duration": "Two days; hosted cultural visits and the headland are conditional",
+    "base": "Yallahs, Morant Bay or a southeastern stay",
+    "question": "How do artists, African continuities and a headland broaden the story beyond a single uprising?",
+    "walk": "Choose short town and host-approved walks. The eastern lighthouse is a vehicle excursion with its approach confirmed in advance.",
+    "drive": "Day 1 begins in Yallahs and uses Orange Park only with an invitation or arranged visit. Day 2 chooses the confirmed Morant Point branch; use Bath’s garden instead if the remote approach is unavailable.",
+    "public": "Use a locally confirmed licensed service to your southeastern base. No direct Knutsford departure to these stops is asserted. A hired driver is the practical option for the remote headland and its return.",
+    "call": "An arranged conversation beats an invented performance. Kumina is living community practice: no rite, music session or house entry is promised by this itinerary.",
+    "access": "Ask hosts about the actual walk, house access and toilets. Keep the lighthouse exterior-only unless its custodian explicitly confirms more.",
+    "cost": "Agreed host/guide fee, meals and local vehicle arrangements; the garden alternative has its own current access terms.",
+    "stops": [
+      {
+        "day": 1,
+        "place": "",
+        "name": "Yallahs town and a meal",
+        "activity": "Use a short public town visit to connect agriculture, movement and the cultural histories in the guide. With a willing host, ask about local art and African continuities; do not request an impromptu rite as entertainment.",
+        "leg": "Meet the local guide at the agreed town point; ask before portraits or recordings.",
+        "source": "https://www.jnht.com/st_thomas.php",
+        "mapQuery": "Yallahs St Thomas Jamaica"
+      },
+      {
+        "day": 1,
+        "place": "",
+        "name": "Orange Park, only with a confirmed hosted visit",
+        "activity": "If invited or booked, discuss the former coffee landscape and artists’ connections with the host. Without permission, read the article during the town meal; do not enter the property or stop on an unsafe road.",
+        "leg": "Conditional inland branch; verify the host, meeting point and return before leaving Yallahs.",
+        "source": "https://jnht.com/site_orange_park.php",
+        "mapQuery": "Orange Park Yallahs St Thomas Jamaica"
+      },
+      {
+        "day": 2,
+        "place": "",
+        "name": "Morant Point Lighthouse: a confirmed exterior branch",
+        "activity": "If the custodian and driver confirm approach and access, examine the lighthouse setting from a permitted position. JNHT connects its construction with African Kru workers; use that account without treating the coast as empty scenery.",
+        "leg": "Remote vehicle leg with a current road/access check and daylight return. No tower climb is promised.",
+        "source": "https://www.jnht.com/site_morant_point_lighthouse.php",
+        "mapQuery": "Morant Point Lighthouse Jamaica"
+      },
+      {
+        "day": 2,
+        "place": "",
+        "name": "Bath Botanic Garden: replacement when the headland is unavailable",
+        "activity": "Choose the garden instead of the remote branch when its caretaker confirms suitable access. Read botanical history and take a measured plant-and-landscape walk; this is a replacement, not an extra distant stop.",
+        "leg": "Alternative day-2 destination: arrange it separately and omit Morant Point if you choose it.",
+        "source": "https://www.jnht.com/site_Bath_Botanic_Garden.php",
+        "mapQuery": "Bath Botanic Garden St Thomas Jamaica",
+        "alternative": true
+      }
+    ],
+    "reading": [
+      {
+        "id": "parish-yallahs",
+        "label": "Yallahs: the community behind the road"
+      },
+      {
+        "id": "parish-kumina",
+        "label": "Kumina and the right to speak for a tradition"
+      },
+      {
+        "id": "parish-morantpoint",
+        "label": "Morant Point and its builders"
+      },
+      {
+        "id": "parish-bath-gardens",
+        "label": "The garden alternative"
+      }
+    ],
+    "safety": [
+      {
+        "title": "Permission comes from the host",
+        "body": "Do not pay an intermediary who claims to guarantee private-house entry or a Kumina ceremony. Confirm the host and agreed programme through a real venue/community contact."
+      },
+      {
+        "title": "No risky shortcut for a map pin",
+        "body": "Ask the driver and custodian about the headland approach. Do not enter floodwater, cross a locked gate or follow an unverified shortcut; take the garden alternative if access cannot be established."
+      },
+      {
+        "title": "Decline unrequested services before they start",
+        "body": "Agree any guide, bathing service or photo fee with the actual provider. If a supposed free favour becomes a demand, stop and seek help from named staff rather than arguing in an isolated place."
+      }
+    ],
+    "walkingDays": [],
+    "photos": [
+      "morant-bay-volunteers-2025",
+      "morant-bay-queen-street-2025"
+    ],
+    "referenceArticle": "parish-morantpoint"
+  },
+  {
+    "id": "route-stelizabeth-freedom-land",
+    "title": "St. Elizabeth: Maroon freedom, memorials and the working inland landscape",
+    "regions": [
+      "south-elizabeth"
+    ],
+    "theme": "Land & freedom",
+    "collection": "new",
+    "duration": "Two days; one community day and one inland food/landscape day",
+    "base": "Accompong arrangements plus a suitable St. Elizabeth base",
+    "question": "How do a living community, a small memorial and a working road complicate a scenic picture of the parish?",
+    "walk": "Walk Accompong with the community host and a modest Lacovia branch. Holland Bamboo is a live highway, not a pedestrian tunnel.",
+    "drive": "Day 1 centres the arranged Accompong visit and return. Day 2 follows a driver-confirmed Lacovia–Holland Bamboo–Middle Quarters branch from your actual accommodation.",
+    "public": "Check whether a bookable Knutsford passenger stop such as Luana or Gutters works for your base. Arrange all rural transfers and return separately; no direct coach to Accompong or the roadside stops is promised.",
+    "call": "Give Accompong its own day and let the hosts define the visit. A dated canopy photograph cannot establish the road’s condition after a storm.",
+    "access": "Ask the community about slopes, surfaces and seated options. For Bamboo Avenue, photograph only if the driver can stop lawfully and fully clear of traffic.",
+    "cost": "Community hosting, local transport, meals and roadside food. Confirm each provider’s charge rather than assuming the first price includes the whole day.",
+    "stops": [
+      {
+        "day": 1,
+        "place": "",
+        "name": "Accompong community, by arrangement",
+        "activity": "Listen to the host’s account of governance, memory and present life, then compare it with the treaty essay. Visit only the sites included in the host’s actual programme.",
+        "leg": "Separate community day; confirm meeting point, access and the return driver.",
+        "source": "https://www.jnht.com/site_accompong.php",
+        "mapQuery": "Accompong St Elizabeth Jamaica"
+      },
+      {
+        "day": 2,
+        "place": "",
+        "name": "Lacovia town and tombstones",
+        "activity": "Read the surviving inscriptions from a permitted position with local guidance. Separate the inscription from the colourful story about why the men died; an oft-repeated tale is not the same as evidence.",
+        "leg": "Short town branch with the approach and permission checked locally.",
+        "source": "https://www.jnht.com/site_lacovia_tombstones.php",
+        "mapQuery": "Lacovia Tombstones St Elizabeth Jamaica"
+      },
+      {
+        "day": 2,
+        "place": "south-holland",
+        "name": "Holland Bamboo drive-through",
+        "activity": "Observe the roadside landscape from the vehicle. Take a photo only at a lawful, fully off-road stopping place; there is no requirement to walk or stand in the traffic corridor.",
+        "leg": "Driver checks the current canopy, debris and road conditions; dated pictures are context."
+      },
+      {
+        "day": 2,
+        "place": "food-middle-quarters",
+        "name": "Middle Quarters pepper shrimp",
+        "activity": "Choose an operating vendor, confirm what is available and agree the total before buying. Let the meal connect the landscape day to contemporary work.",
+        "leg": "Final local food stop and prearranged return, rather than another distant excursion."
+      }
+    ],
+    "reading": [
+      {
+        "id": "parish-accompong",
+        "label": "Accompong and community memory"
+      },
+      {
+        "id": "reconsidered-maroons",
+        "label": "Maroon treaties and their consequences"
+      },
+      {
+        "id": "parish-lacovia",
+        "label": "Reading Lacovia’s memorial evidence"
+      }
+    ],
+    "safety": [
+      {
+        "title": "A real host and an agreed community fee",
+        "body": "Confirm who will meet you and what is included. A roadside offer of guaranteed festival, ritual or drumming access does not replace a community arrangement."
+      },
+      {
+        "title": "Bamboo Avenue is a road",
+        "body": "Do not stand in the carriageway for the perfect photograph or pay someone who waves you into an unsafe stop. Stay in the vehicle if a suitable stopping place is unavailable."
+      },
+      {
+        "title": "Menu, quantity, currency",
+        "body": "Ask how much shrimp is included and whether the price is JMD or USD before accepting the serving. Keep your purchase separate from an unsolicited guiding or parking charge."
+      }
+    ],
+    "walkingDays": [],
+    "photos": [
+      "treasure-beach-2023"
+    ],
+    "referenceArticle": "parish-accompong"
+  },
+  {
+    "id": "route-manchester-freedom-rail",
+    "title": "Manchester: free-village land, hill-town justice and railway memory",
+    "regions": [
+      "central-interior"
+    ],
+    "theme": "Land & freedom",
+    "collection": "new",
+    "duration": "Two days; town cluster, then arranged rural branches",
+    "base": "Mandeville",
+    "question": "What links landholding after emancipation, a working court and a railway tragedy?",
+    "walk": "Walk a short Mandeville civic/church cluster. Maidstone and Kendal are separate rural vehicle legs; no railway-track walk is included.",
+    "drive": "Day 1 stays in Mandeville. Day 2 uses a host-confirmed Maidstone visit and a locally permitted Kendal remembrance stop, with the actual approach and return checked by the driver.",
+    "public": "A confirmed Knutsford journey to Mandeville is a useful arrival option. Ask locally about each licensed rural route; use a retained driver if the separate returns would otherwise be uncertain.",
+    "call": "Read the free-village land story carefully and listen to people living there now. Do not turn a village into an unannounced tour product.",
+    "access": "Ask for a short town route with seating; church entry, village surfaces and the Kendal viewpoint need separate access confirmation.",
+    "cost": "Town guiding, meals, community hosting if agreed and rural transport. No museum ticket or memorial opening schedule is assumed.",
+    "stops": [
+      {
+        "day": 1,
+        "place": "regional-mandeville",
+        "name": "Mandeville square and courthouse",
+        "activity": "View the civic centre from permitted public space and ask how labour, institutions and town formation connect. Court business takes priority over visitor access.",
+        "leg": "Meet the guide in a confirmed public town position."
+      },
+      {
+        "day": 1,
+        "place": "",
+        "name": "St. Mark’s Anglican Church",
+        "activity": "Compare the church setting with the civic centre and town’s history. View from public space or visit with the congregation’s permission; respect worship.",
+        "leg": "A short locally selected town branch; confirm the crossing and entrance.",
+        "source": "https://jnht.com/manchester.php",
+        "mapQuery": "St Marks Anglican Church Mandeville Jamaica"
+      },
+      {
+        "day": 2,
+        "place": "",
+        "name": "Maidstone / Nazareth, with a community introduction",
+        "activity": "With an arranged host, examine the free-village story of land purchase and subdivision, then ask how farming, family and institutions shape life now. Do not enter homes or churchyards without consent.",
+        "leg": "Separate rural day; obtain the actual meeting point from the host.",
+        "source": "https://jnht.com/site_maidstone.php",
+        "mapQuery": "Maidstone Nazareth Manchester Jamaica"
+      },
+      {
+        "day": 2,
+        "place": "",
+        "name": "Kendal railway remembrance, at a permitted viewpoint",
+        "activity": "Use the guide’s documentary history to discuss the 1957 tragedy and public remembrance. Visit only a locally confirmed public-access viewpoint; do not walk on tracks or enter railway property.",
+        "leg": "Driver confirms the actual memorial approach and permission, then retains the return.",
+        "source": "https://www.jnht.com/site_kendal_railway_tragedy.php",
+        "mapQuery": "Kendal Railway Memorial Manchester Jamaica"
+      }
+    ],
+    "reading": [
+      {
+        "id": "parish-maidstone",
+        "label": "Maidstone and free-village landholding"
+      },
+      {
+        "id": "parish-mandeville",
+        "label": "Mandeville: town and institutions"
+      },
+      {
+        "id": "parish-kendal",
+        "label": "Kendal: evidence and remembrance"
+      },
+      {
+        "id": "reconsidered-emancipation",
+        "label": "What emancipation changed—and what it did not"
+      }
+    ],
+    "safety": [
+      {
+        "title": "An old heritage listing is not an admission desk",
+        "body": "Confirm visits with the church, community or custodian directly. Do not pay an unsolicited person who claims exclusive access to a memorial, village or working court."
+      },
+      {
+        "title": "No rail trespass",
+        "body": "A map pin or photograph does not establish a permitted approach. If a public viewpoint cannot be confirmed, read the Kendal history at your town base instead."
+      },
+      {
+        "title": "Agree the rural return",
+        "body": "Confirm the number of stops, waiting time, currency and total vehicle charge before departure. Keep the driver’s name/contact and a backup pickup arrangement."
+      }
+    ],
+    "walkingDays": [],
+    "photos": [
+      "perth-road-2012"
+    ],
+    "referenceArticle": "parish-maidstone"
   }
 ]
