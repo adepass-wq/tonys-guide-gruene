@@ -14,9 +14,11 @@ jobs:
         with:
           python-version: '3.12'
       - name: Compile staged scripts
-        run: python -m py_compile platform/verify_identity.py platform/tests/test_verify_identity.py
+        run: python -m compileall -q platform
       - name: Test URL SEO analytics comparisons
         run: python -m unittest discover -s platform/tests -p 'test_*.py' -v
+      - name: Package Jamaica and reject missing local assets
+        run: python platform/build_jamaica.py jamaica/index.html /tmp/tonys-guide-jamaica-dist
       - name: Confirm destination manifest structure
         run: |
           python - <<'PY'
