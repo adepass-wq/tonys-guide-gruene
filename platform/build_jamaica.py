@@ -102,6 +102,7 @@ if __name__=="__main__":
     if dest==source.parent or source.parent in dest.parents:
         raise ValueError("Destination must be outside source directory")
     dest.mkdir(parents=True,exist_ok=True)
+    subprocess.run(["npm","test"],check=True)
     subprocess.run(["node","jamaica/scripts/build.cjs","--output",str(dest/"index.html")],check=True)
     built=dest/"index.html"
     html=built.read_text(encoding="utf-8")
