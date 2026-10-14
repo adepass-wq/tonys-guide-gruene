@@ -588,6 +588,24 @@
       "lat": 18.436,
       "lon": -77.202,
       "source": "https://en.wikipedia.org/wiki/Saint_Ann%27s_Bay"
+    },
+    "Holywell": {
+      "name": "Holywell",
+      "lat": 18.0875481,
+      "lon": -76.72787725,
+      "source": "https://www.openstreetmap.org/way/750267078"
+    },
+    "Buff Bay, Jamaica": {
+      "name": "Buff Bay, Jamaica",
+      "lat": 18.233,
+      "lon": -76.659,
+      "source": "https://en.wikipedia.org/wiki/Buff_Bay,_Jamaica"
+    },
+    "Castleton Gardens": {
+      "name": "Castleton Gardens",
+      "lat": 18.17194444,
+      "lon": -76.82277778,
+      "source": "https://en.wikipedia.org/wiki/Castleton_Gardens"
     }
   },
   "regions": {
@@ -623,6 +641,7 @@
       "center": "Port Antonio",
       "areas": [
         "Port Antonio",
+        "Buff Bay, Jamaica",
         "Charles Town, Jamaica",
         "Moore Town, Jamaica"
       ],
@@ -634,6 +653,7 @@
         "Kingston, Jamaica",
         "Devon House",
         "Gordon Town, Jamaica",
+        "Holywell",
         "Blue Mountain Peak"
       ],
       "note": "Keep city museums and music separate from a mountain day. Mountain routes may cross Portland and St. Thomas."
@@ -676,7 +696,7 @@
     ],
     "route-mountain-water-coffee": [
       "Gordon Town, Jamaica",
-      "Blue Mountain Peak"
+      "Holywell"
     ],
     "route-stann-layers": [
       "Saint Ann's Bay",
@@ -724,9 +744,11 @@
     ],
     "route-stmary-garden-country-commerce": [
       "Annotto Bay",
+      "Castleton Gardens",
       "Highgate, Jamaica"
     ],
     "route-portland-maroon-living-heritage": [
+      "Buff Bay, Jamaica",
       "Charles Town, Jamaica",
       "Moore Town, Jamaica"
     ],
