@@ -1,0 +1,6 @@
+# Initial homepage baseline seed URLs. Expand from validated sitemaps before approving cutover.
+https://tonysguide.com/
+https://gruene.tonysguide.com/
+https://mentone.tonysguide.com/
+https://bryson.tonysguide.com/
+https://jamaica.tonysguide.com/
