@@ -1,0 +1,31 @@
+name: Tony's Guide migration release guard
+on:
+  push:
+    branches: [platform-migration-staging, jamaica-release]
+  workflow_dispatch:
+jobs:
+  migration-regression-tests:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: read
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Compile staged scripts
+        run: python -m py_compile platform/verify_identity.py platform/tests/test_verify_identity.py
+      - name: Test URL SEO analytics comparisons
+        run: python -m unittest discover -s platform/tests -p 'test_*.py' -v
+      - name: Confirm destination manifest structure
+        run: |
+          python - <<'PY'
+          import json
+          from pathlib import Path
+          data=json.loads(Path("platform/destinations.json").read_text())
+          ids=[x["id"] for x in data["destinations"]]
+          assert len(ids)==len(set(ids))==5, ids
+          assert all(x["host"].endswith("tonysguide.com") for x in data["destinations"])
+          assert data["policy"]["preserve_public_urls"] is True
+          print("PASS: five unique destinations and preservation policy")
+          PY
