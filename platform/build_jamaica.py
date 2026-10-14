@@ -34,8 +34,8 @@ def package(source, dest):
     root=source.parent
     dest=Path(dest).resolve()
     if not source.is_file(): raise ValueError("Source HTML missing")
-    if dest==root or root in dest.parents and dest==source:
-        raise ValueError("Destination must differ from source")
+    if dest == root or root in dest.parents:
+        raise ValueError("Destination must be outside the source directory")
     html=source.read_text(encoding="utf-8")
     parser=References();parser.feed(html)
     outputs=set()
