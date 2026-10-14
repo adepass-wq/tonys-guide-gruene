@@ -1,0 +1,27 @@
+/* Tony's Guide design tokens v0.1 — opt-in, not linked to production.
+   These intentionally use custom tg- prefixed names to avoid altering legacy styles.
+   Site editions should map existing styles to these tokens during isolated staging. */
+:root {
+  --tg-radius-sm: 0.5rem;
+  --tg-radius-md: 0.875rem;
+  --tg-radius-lg: 1.25rem;
+  --tg-content-max: 76rem;
+  --tg-readable-max: 70ch;
+  --tg-space-1: 0.25rem;
+  --tg-space-2: 0.5rem;
+  --tg-space-3: 0.75rem;
+  --tg-space-4: 1rem;
+  --tg-space-6: 1.5rem;
+  --tg-space-8: 2rem;
+  --tg-focus-outline-width: 3px;
+  --tg-focus-outline-offset: 3px;
+}
+.tg-container { width: min(100% - 2rem, var(--tg-content-max)); margin-inline: auto; }
+.tg-article { max-width: var(--tg-readable-max); }
+.tg-card { border-radius: var(--tg-radius-lg); }
+.tg-control { border-radius: var(--tg-radius-md); }
+.tg-control:focus-visible,
+.tg-card a:focus-visible { outline: var(--tg-focus-outline-width) solid currentColor; outline-offset: var(--tg-focus-outline-offset); }
+@media (prefers-reduced-motion: reduce) {
+  .tg-card, .tg-control { scroll-behavior: auto; transition-duration: 0.01ms; animation-duration: 0.01ms; }
+}
