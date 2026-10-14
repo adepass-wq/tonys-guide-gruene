@@ -1,0 +1,48 @@
+{
+  "captured_at": "2026-10-14",
+  "source": "connected Render workspace: Anthony's workspace; list_deploys + get_service",
+  "scope": "operational recovery pointers, not off-platform backups",
+  "services": [
+    {
+      "name": "tonys-guide-jamaica",
+      "id": "srv-db65ugt9fdbs73eu8rug",
+      "repository": "https://github.com/adepass-wq/tonys-guide-gruene",
+      "branch": "main",
+      "deploy_id": "dep-db7pt8a5b2lc738r2ibg",
+      "commit": "21d0c00a63b83d7c5e0a6180a81111384c92825c",
+      "latest_status": "live",
+      "build": "mkdir -p public && cp jamaica/index.html public/index.html"
+    },
+    {
+      "name": "tonys-guide-gruene",
+      "id": "srv-dasjq4gu01pc73c9bomg",
+      "branch": "main",
+      "deploy_id": "dep-dat12d3ncjis73cmp2rg",
+      "commit": "af57b994c8092fb1aa50aa704dc6b1435b364d78",
+      "latest_status": "live"
+    },
+    {
+      "name": "tonys-guide-gruene-events-live",
+      "id": "srv-dasl0pgu01pc73ce45r0",
+      "branch": "main",
+      "deploy_id": "dep-db432t60tbcc73cu47s0",
+      "commit": "af57b994c8092fb1aa50aa704dc6b1435b364d78",
+      "latest_status": "live"
+    },
+    {
+      "name": "tonys-guide-gruene-events",
+      "id": "srv-dasl0f7pn0mc738skga0",
+      "branch": "main",
+      "deploy_id": "dep-dasl0fnpn0mc738skia0",
+      "commit": "71b4af49e26f800d41c80b5d48cd75ce5e4353d4",
+      "latest_status": "build_failed",
+      "warning": "Do not assume this is the active event API without client endpoint verification"
+    }
+  ],
+  "limitations": [
+    "No content archives included",
+    "No DNS, SSL certificates, secrets or data captured",
+    "Restore must be tested",
+    "Not all five site hosts identified"
+  ]
+}
