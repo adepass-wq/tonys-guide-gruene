@@ -1,5 +1,10 @@
 name: Tony's Guide read-only production baseline
 on:
+  push:
+    branches: [platform-migration-staging]
+    paths:
+      - 'platform/**'
+      - '.github/workflows/production-baseline.yml'
   workflow_dispatch:
 permissions:
   contents: read
