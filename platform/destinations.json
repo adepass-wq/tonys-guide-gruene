@@ -12,20 +12,7 @@
     "preserve_content": true,
     "zero_downtime_goal": true,
     "require_rollback": true,
-    "shared_components": "versioned and pinned per destination, no automatic cross-site releases",
-    "seo_tiers": {
-      "established": [
-        "center-hill",
-        "gruene",
-        "mentone",
-        "bryson"
-      ],
-      "new_site_pilot": [
-        "jamaica"
-      ]
-    },
-    "jamaica_rule": "Preserve jamaica.tonysguide.com as primary address, but allow intentional path/metadata and information architecture improvements with appropriate redirects; prioritize functional tests, assets, citations, and recovery over perfect historical SEO parity.",
-    "established_rule": "Keep exact existing URLs, canonical metadata, indexing and analytics until approved equivalence tests pass."
+    "shared_components": "versioned and pinned per destination, no automatic cross-site releases"
   },
   "destinations": [
     {

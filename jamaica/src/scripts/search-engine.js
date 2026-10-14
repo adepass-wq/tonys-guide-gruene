@@ -1,8 +1,16 @@
+/* Tony's Guide shared search primitives, pinned v1.0.0. Destination ranking and aliases stay local. */
+(function(root){'use strict';
+function fold(value){return String(value||'').toLowerCase().normalize('NFD').replace(/[\u0300-\u036f]/g,'');}
+function words(value){return fold(value).match(/[a-z0-9]+/g)||[];}
+function normalize(value){return fold(value).replace(/[^a-z0-9]+/g,' ').trim();}
+root.TGPlatform=Object.freeze({version:'1.0.0',fold,words,normalize});
+})(typeof window!=='undefined'?window:globalThis);
+
 /* Tony's Guide Jamaica: full-text ranking and query handling. */
 (function(root){
   const stop=new Set('a an and are as at be can could do does for from how i in is it me of on or the to want what when where which with would you your'.split(' '));
   const aliases={cromante:['kromanti'],cromanti:['kromanti'],coromantee:['kromanti'],kromanti:['cromante','maroon'],languages:['language'],jsl:['jamaican sign language'],ochi:['ocho rios'],patwa:['patois','creole'],patois:['patwa','creole'],pattwa:['patwa','creole'],dialect:['language','accent','patwa'],dialects:['language','accent','patwa'],voices:['voice','recording','language'],recordings:['recording','voice','audio'],fry:['fried','fish'],fried:['fried','fry','escovitch'],escoveitch:['escovitch'],scotts:['scotts','scott'],mobay:['montego bay'],eat:['food','restaurant','meal','jerk'],eating:['food','restaurant','meal'],dining:['food','restaurant','meal'],restaurants:['restaurant','food'],swim:['swimming','beach','water'],beaches:['beach'],waterfalls:['waterfall','falls'],wheelchair:['accessibility','step free','mobility'],accessible:['accessibility','step free','mobility'],rainy:['rain','weather'],forecast:['weather','conditions'],sea:['sea','wave','marine','beach'],surf:['wave','sea','marine'],garvy:['garvey'],history:['history','historical'],slavery:['slavery','enslaved','enslavement'],emancipation:['emancipation','freedom'],accommodation:['stay','hotel','base'],hotels:['hotel','base'],costs:['cost','price','budget'],prices:['price','cost','budget'],kids:['children','family'],kid:['children','family'],children:['children','child','family']};
-  function normalize(s){return String(s||'').normalize('NFD').replace(/[\u0300-\u036f]/g,'').toLowerCase().replace(/[’']/g,'').replace(/\b(?:saint|st)\.?\s*(andrew|thomas|mary|ann|james|elizabeth|catherine)\b/g,'st $1').replace(/\bochi\b/g,'ocho rios').replace(/\bnine miles\b/g,'nine mile').replace(/[^a-z0-9]+/g,' ').replace(/\s+/g,' ').trim();}
+  function normalize(s){return root.TGPlatform.fold(s).replace(/[’']/g,'').replace(/\b(?:saint|st)\.?\s*(andrew|thomas|mary|ann|james|elizabeth|catherine)\b/g,'st $1').replace(/\bochi\b/g,'ocho rios').replace(/\bnine miles\b/g,'nine mile').replace(/[^a-z0-9]+/g,' ').replace(/\s+/g,' ').trim();}
   function tokens(q){const all=normalize(q).split(/\s+/).filter(Boolean);return [...new Set(all.filter(t=>!stop.has(t)))].slice(0,14);}
   function oneEdit(a,b){if(a===b)return true;if(Math.abs(a.length-b.length)>1)return false;if(a.length===b.length){const d=[];for(let i=0;i<a.length;i++)if(a[i]!==b[i])d.push(i);return d.length===1||(d.length===2&&d[1]===d[0]+1&&a[d[0]]===b[d[1]]&&a[d[1]]===b[d[0]]);}let shorter=a.length<b.length?a:b,longer=a.length<b.length?b:a,i=0,j=0,n=0;while(i<shorter.length&&j<longer.length){if(shorter[i]===longer[j]){i++;j++;}else{j++;if(++n>1)return false;}}return true;}
   function alternatives(t){const a=[t,...(aliases[t]||[])];if(t.length>4&&t.endsWith('s'))a.push(t.slice(0,-1));return [...new Set(a)];}

@@ -1,0 +1,6 @@
+function valid(date){return /^\d{4}-\d{2}-\d{2}$/.test(date||'')&&Number.isFinite(Date.parse(date+'T12:00:00Z'))&&new Date(date+'T12:00:00Z').toISOString().slice(0,10)===date}
+function add(date,n){return new Date(Date.parse(date+'T12:00:00Z')+n*86400000).toISOString().slice(0,10)}
+function resolve(duration,date,today){date=valid(date)?date:today;if(date<today)date=today;duration=['half','day','two','weekend','3','4','5','long'].includes(duration)?duration:'day';let start=date;const count=duration==='two'||duration==='weekend'?2:duration==='long'?3:Number(duration)||1;
+if(duration==='weekend'){const weekday=new Date(date+'T12:00:00Z').getUTCDay();start=add(date,(6-weekday+7)%7)}
+return {duration,start,end:add(start,count-1),dates:Array.from({length:count},(_,i)=>add(start,i)),time:duration==='half'?'half':'full',label:duration==='half'?'Half day':duration==='day'?'Full day':duration==='two'?'Two days':duration==='weekend'?'Weekend · Saturday and Sunday':count+' days',note:duration==='weekend'?'Weekend uses the first Saturday–Sunday on or after your selected date. Friday arrival is separate.':'Two days begins on your selected date. Each day needs its own openings and reservation checks.'};}
+export {valid,add,resolve};

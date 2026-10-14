@@ -1,0 +1,18 @@
+{
+  "edition": "jamaica",
+  "version": "1.0.0",
+  "manifestSha256": "1f05c231dbd7ebf83fd25bfbdf4704b6ed147ccde2c6baf0140c6c884816a5a8",
+  "protectedRoot": "jamaica",
+  "generated": [
+    {
+      "source": "platform/adapters/search-engine.js",
+      "output": "jamaica/src/scripts/search-engine.js",
+      "prefix": "search.js"
+    },
+    {
+      "source": "platform/adapters/00-theme.css",
+      "output": "jamaica/src/styles/00-theme.css",
+      "prefix": "tokens.css"
+    }
+  ]
+}

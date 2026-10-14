@@ -1,0 +1,756 @@
+{
+  "checked": "2026-10-14",
+  "positionScope": "Town/area coordinates, not surveyed venue entrances. Route lines are schematic sequences, not road geometry. Some detailed stops share one mapped town.",
+  "outlineSource": "https://github.com/nvkelso/natural-earth-vector/blob/master/geojson/ne_10m_admin_0_countries.geojson",
+  "outline": [
+    [
+      -76.263743,
+      18.012356
+    ],
+    [
+      -76.234039,
+      17.953925
+    ],
+    [
+      -76.198394,
+      17.907416
+    ],
+    [
+      -76.307362,
+      17.870103
+    ],
+    [
+      -76.315419,
+      17.882717
+    ],
+    [
+      -76.345611,
+      17.865871
+    ],
+    [
+      -76.396555,
+      17.872992
+    ],
+    [
+      -76.523549,
+      17.860256
+    ],
+    [
+      -76.594594,
+      17.866604
+    ],
+    [
+      -76.617665,
+      17.883531
+    ],
+    [
+      -76.630523,
+      17.909247
+    ],
+    [
+      -76.64859,
+      17.923896
+    ],
+    [
+      -76.692291,
+      17.940009
+    ],
+    [
+      -76.764638,
+      17.936591
+    ],
+    [
+      -76.832265,
+      17.943427
+    ],
+    [
+      -76.734364,
+      17.960598
+    ],
+    [
+      -76.798164,
+      17.96342
+    ],
+    [
+      -76.849967,
+      17.992276
+    ],
+    [
+      -76.870173,
+      17.95805
+    ],
+    [
+      -76.891037,
+      17.944502
+    ],
+    [
+      -76.926096,
+      17.843329
+    ],
+    [
+      -76.964019,
+      17.837226
+    ],
+    [
+      -77.038319,
+      17.846584
+    ],
+    [
+      -77.027984,
+      17.869818
+    ],
+    [
+      -77.064198,
+      17.899482
+    ],
+    [
+      -77.141652,
+      17.881134
+    ],
+    [
+      -77.154408,
+      17.813056
+    ],
+    [
+      -77.181711,
+      17.799994
+    ],
+    [
+      -77.174916,
+      17.778266
+    ],
+    [
+      -77.206776,
+      17.779853
+    ],
+    [
+      -77.180328,
+      17.75788
+    ],
+    [
+      -77.130605,
+      17.727688
+    ],
+    [
+      -77.178944,
+      17.704169
+    ],
+    [
+      -77.302887,
+      17.790839
+    ],
+    [
+      -77.417714,
+      17.861721
+    ],
+    [
+      -77.480621,
+      17.843736
+    ],
+    [
+      -77.588368,
+      17.860989
+    ],
+    [
+      -77.751536,
+      17.868313
+    ],
+    [
+      -77.799916,
+      17.899115
+    ],
+    [
+      -77.816151,
+      17.939195
+    ],
+    [
+      -77.841135,
+      17.970608
+    ],
+    [
+      -77.871002,
+      18.025946
+    ],
+    [
+      -77.97997,
+      18.084459
+    ],
+    [
+      -78.006418,
+      18.105862
+    ],
+    [
+      -78.02538,
+      18.12519
+    ],
+    [
+      -78.075185,
+      18.198432
+    ],
+    [
+      -78.210194,
+      18.204088
+    ],
+    [
+      -78.234039,
+      18.193183
+    ],
+    [
+      -78.275136,
+      18.206244
+    ],
+    [
+      -78.340728,
+      18.221869
+    ],
+    [
+      -78.374664,
+      18.26557
+    ],
+    [
+      -78.34732,
+      18.292222
+    ],
+    [
+      -78.343902,
+      18.344062
+    ],
+    [
+      -78.331939,
+      18.367377
+    ],
+    [
+      -78.298695,
+      18.386379
+    ],
+    [
+      -78.261301,
+      18.417385
+    ],
+    [
+      -78.16926,
+      18.436835
+    ],
+    [
+      -78.119985,
+      18.447333
+    ],
+    [
+      -78.010976,
+      18.450507
+    ],
+    [
+      -77.981353,
+      18.441352
+    ],
+    [
+      -77.958852,
+      18.456448
+    ],
+    [
+      -77.930287,
+      18.502021
+    ],
+    [
+      -77.861887,
+      18.525092
+    ],
+    [
+      -77.66454,
+      18.491929
+    ],
+    [
+      -77.454986,
+      18.475328
+    ],
+    [
+      -77.376536,
+      18.465155
+    ],
+    [
+      -77.236318,
+      18.450507
+    ],
+    [
+      -77.223297,
+      18.429389
+    ],
+    [
+      -77.208852,
+      18.434963
+    ],
+    [
+      -77.159413,
+      18.426215
+    ],
+    [
+      -77.104726,
+      18.407864
+    ],
+    [
+      -77.040028,
+      18.413479
+    ],
+    [
+      -76.94815,
+      18.404486
+    ],
+    [
+      -76.907118,
+      18.411205
+    ],
+    [
+      -76.890916,
+      18.389947
+    ],
+    [
+      -76.844211,
+      18.345447
+    ],
+    [
+      -76.798329,
+      18.29206
+    ],
+    [
+      -76.764638,
+      18.273017
+    ],
+    [
+      -76.68102,
+      18.258124
+    ],
+    [
+      -76.63036,
+      18.225735
+    ],
+    [
+      -76.574208,
+      18.214667
+    ],
+    [
+      -76.554799,
+      18.204088
+    ],
+    [
+      -76.466624,
+      18.186754
+    ],
+    [
+      -76.351145,
+      18.155992
+    ],
+    [
+      -76.295806,
+      18.079169
+    ],
+    [
+      -76.263743,
+      18.012356
+    ]
+  ],
+  "places": {
+    "Accompong": {
+      "name": "Accompong",
+      "lat": 18.23333333,
+      "lon": -77.75,
+      "source": "https://en.wikipedia.org/wiki/Accompong"
+    },
+    "Annotto Bay": {
+      "name": "Annotto Bay",
+      "lat": 18.27027778,
+      "lon": -76.77055556,
+      "source": "https://en.wikipedia.org/wiki/Annotto_Bay"
+    },
+    "Bath, Jamaica": {
+      "name": "Bath",
+      "lat": 17.9482,
+      "lon": -76.34916,
+      "source": "https://en.wikipedia.org/wiki/Bath%2C_Jamaica"
+    },
+    "Black River, Jamaica": {
+      "name": "Black River",
+      "lat": 18.0256,
+      "lon": -77.851,
+      "source": "https://en.wikipedia.org/wiki/Black_River%2C_Jamaica"
+    },
+    "Blue Mountain Peak": {
+      "name": "Blue Mountain Peak",
+      "lat": 18.04666667,
+      "lon": -76.57916667,
+      "source": "https://en.wikipedia.org/wiki/Blue_Mountain_Peak"
+    },
+    "Charles Town, Jamaica": {
+      "name": "Charles Town",
+      "lat": 18.2,
+      "lon": -76.66666667,
+      "source": "https://en.wikipedia.org/wiki/Charles_Town%2C_Jamaica"
+    },
+    "Devon House": {
+      "name": "Devon House",
+      "lat": 18.01473,
+      "lon": -76.79002,
+      "source": "https://en.wikipedia.org/wiki/Devon_House"
+    },
+    "Discovery Bay, Jamaica": {
+      "name": "Discovery Bay",
+      "lat": 18.46666667,
+      "lon": -77.4,
+      "source": "https://en.wikipedia.org/wiki/Discovery_Bay%2C_Jamaica"
+    },
+    "Falmouth, Jamaica": {
+      "name": "Falmouth",
+      "lat": 18.49,
+      "lon": -77.661,
+      "source": "https://en.wikipedia.org/wiki/Falmouth%2C_Jamaica"
+    },
+    "Kingston, Jamaica": {
+      "name": "Kingston",
+      "lat": 17.97138889,
+      "lon": -76.79305556,
+      "source": "https://en.wikipedia.org/wiki/Kingston%2C_Jamaica"
+    },
+    "Mandeville, Jamaica": {
+      "name": "Mandeville",
+      "lat": 18.03333333,
+      "lon": -77.5,
+      "source": "https://en.wikipedia.org/wiki/Mandeville%2C_Jamaica"
+    },
+    "May Pen": {
+      "name": "May Pen",
+      "lat": 17.965,
+      "lon": -77.245,
+      "source": "https://en.wikipedia.org/wiki/May_Pen"
+    },
+    "Montego Bay": {
+      "name": "Montego Bay",
+      "lat": 18.46666667,
+      "lon": -77.91666667,
+      "source": "https://en.wikipedia.org/wiki/Montego_Bay"
+    },
+    "Morant Bay": {
+      "name": "Morant Bay",
+      "lat": 17.8819,
+      "lon": -76.4074,
+      "source": "https://en.wikipedia.org/wiki/Morant_Bay"
+    },
+    "Negril": {
+      "name": "Negril",
+      "lat": 18.3110182,
+      "lon": -78.339386,
+      "source": "https://en.wikipedia.org/wiki/Negril"
+    },
+    "Nine Mile, Jamaica": {
+      "name": "Nine Mile",
+      "lat": 18.2978,
+      "lon": -77.2781,
+      "source": "https://en.wikipedia.org/wiki/Nine_Mile%2C_Jamaica"
+    },
+    "Ocho Rios": {
+      "name": "Ocho Rios",
+      "lat": 18.41666667,
+      "lon": -77.11666667,
+      "source": "https://en.wikipedia.org/wiki/Ocho_Rios"
+    },
+    "Oracabessa": {
+      "name": "Oracabessa",
+      "lat": 18.4047,
+      "lon": -76.9475,
+      "source": "https://en.wikipedia.org/wiki/Oracabessa"
+    },
+    "Port Antonio": {
+      "name": "Port Antonio",
+      "lat": 18.175701,
+      "lon": -76.450253,
+      "source": "https://en.wikipedia.org/wiki/Port_Antonio"
+    },
+    "Port Maria": {
+      "name": "Port Maria",
+      "lat": 18.3702474,
+      "lon": -76.8903065,
+      "source": "https://en.wikipedia.org/wiki/Port_Maria"
+    },
+    "Port Morant": {
+      "name": "Port Morant",
+      "lat": 17.9,
+      "lon": -76.31666667,
+      "source": "https://en.wikipedia.org/wiki/Port_Morant"
+    },
+    "Port Royal": {
+      "name": "Port Royal",
+      "lat": 17.9375,
+      "lon": -76.84111111,
+      "source": "https://en.wikipedia.org/wiki/Port_Royal"
+    },
+    "Savanna-la-Mar": {
+      "name": "Savanna-la-Mar",
+      "lat": 18.21666667,
+      "lon": -78.13333333,
+      "source": "https://en.wikipedia.org/wiki/Savanna-la-Mar"
+    },
+    "Sligoville": {
+      "name": "Sligoville",
+      "lat": 18.1,
+      "lon": -76.95,
+      "source": "https://en.wikipedia.org/wiki/Sligoville"
+    },
+    "Spanish Town": {
+      "name": "Spanish Town",
+      "lat": 17.9958766,
+      "lon": -76.9551086,
+      "source": "https://en.wikipedia.org/wiki/Spanish_Town"
+    },
+    "Treasure Beach": {
+      "name": "Treasure Beach",
+      "lat": 17.8760006,
+      "lon": -77.7571964,
+      "source": "https://en.wikipedia.org/wiki/Treasure_Beach"
+    },
+    "Moore Town, Jamaica": {
+      "name": "Moore Town",
+      "lat": 18.075,
+      "lon": -76.425,
+      "source": "https://en.wikipedia.org/wiki/Moore_Town%2C_Jamaica"
+    },
+    "Alligator Pond": {
+      "name": "Alligator Pond",
+      "lat": 17.87111111,
+      "lon": -77.56833333,
+      "source": "https://en.wikipedia.org/wiki/Alligator_Pond"
+    },
+    "Highgate, Jamaica": {
+      "name": "Highgate",
+      "lat": 18.3202,
+      "lon": -76.867,
+      "source": "https://en.wikipedia.org/wiki/Highgate%2C_Jamaica"
+    },
+    "Hope Botanical Gardens": {
+      "name": "Hope Botanical Gardens",
+      "lat": 18.0225,
+      "lon": -76.7493,
+      "source": "https://en.wikipedia.org/wiki/Hope_Botanical_Gardens"
+    },
+    "Kendal, Jamaica": {
+      "name": "Kendal",
+      "lat": 18.08333333,
+      "lon": -77.48333333,
+      "source": "https://en.wikipedia.org/wiki/Kendal%2C_Jamaica"
+    },
+    "Lacovia": {
+      "name": "Lacovia",
+      "lat": 18.0740828,
+      "lon": -77.7555013,
+      "source": "https://en.wikipedia.org/wiki/Lacovia"
+    },
+    "Lucea, Jamaica": {
+      "name": "Lucea",
+      "lat": 18.45,
+      "lon": -78.18333333,
+      "source": "https://en.wikipedia.org/wiki/Lucea%2C_Jamaica"
+    },
+    "Morant Point Lighthouse": {
+      "name": "Morant Point Lighthouse",
+      "lat": 17.918452,
+      "lon": -76.184297,
+      "source": "https://en.wikipedia.org/wiki/Morant_Point_Lighthouse"
+    },
+    "Rose Hall, Montego Bay": {
+      "name": "Rose Hall, Montego Bay",
+      "lat": 18.5167104,
+      "lon": -77.8192574,
+      "source": "https://en.wikipedia.org/wiki/Rose_Hall%2C_Montego_Bay"
+    },
+    "Runaway Bay, Jamaica": {
+      "name": "Runaway Bay",
+      "lat": 18.46666667,
+      "lon": -77.33333333,
+      "source": "https://en.wikipedia.org/wiki/Runaway_Bay%2C_Jamaica"
+    },
+    "Yallahs": {
+      "name": "Yallahs",
+      "lat": 17.8832195,
+      "lon": -76.5947914,
+      "source": "https://en.wikipedia.org/wiki/Yallahs"
+    },
+    "Gordon Town, Jamaica": {
+      "name": "Gordon Town",
+      "lat": 18.0477,
+      "lon": -76.684,
+      "source": "https://en.wikipedia.org/wiki/Gordon_Town%2C_Jamaica"
+    },
+    "Middle Quarters, Jamaica": {
+      "name": "Middle Quarters",
+      "lat": 18.1,
+      "lon": -77.8333,
+      "source": "https://en.wikipedia.org/wiki/Middle_Quarters%2C_Jamaica"
+    },
+    "Saint Ann's Bay": {
+      "name": "Saint Ann's Bay",
+      "lat": 18.436,
+      "lon": -77.202,
+      "source": "https://en.wikipedia.org/wiki/Saint_Ann%27s_Bay"
+    }
+  },
+  "regions": {
+    "ocho-mary": {
+      "center": "Ocho Rios",
+      "areas": [
+        "Ocho Rios",
+        "Discovery Bay, Jamaica",
+        "Port Maria",
+        "Annotto Bay"
+      ],
+      "note": "Start with western St. Ann, Ocho Rios and its hinterland, or the St. Mary coast and hills. Choose one branch before adding stops."
+    },
+    "montego": {
+      "center": "Montego Bay",
+      "areas": [
+        "Montego Bay",
+        "Falmouth, Jamaica",
+        "Rose Hall, Montego Bay"
+      ],
+      "note": "Separate downtown Montego Bay, the Rose Hall coast, Falmouth and inland outings. This is a regional collection, not one day’s circuit."
+    },
+    "negril": {
+      "center": "Negril",
+      "areas": [
+        "Negril",
+        "Lucea, Jamaica",
+        "Savanna-la-Mar"
+      ],
+      "note": "Negril beach and cliffs, Hanover towns and western inland outings. South Coast stops such as Border also have their own regional tag."
+    },
+    "portland": {
+      "center": "Port Antonio",
+      "areas": [
+        "Port Antonio",
+        "Charles Town, Jamaica",
+        "Moore Town, Jamaica"
+      ],
+      "note": "Choose a coastal branch or an inland river/community day. Blue Mountain routes can also appear in the mountain region."
+    },
+    "capital-mountains": {
+      "center": "Kingston, Jamaica",
+      "areas": [
+        "Kingston, Jamaica",
+        "Devon House",
+        "Gordon Town, Jamaica",
+        "Blue Mountain Peak"
+      ],
+      "note": "Keep city museums and music separate from a mountain day. Mountain routes may cross Portland and St. Thomas."
+    },
+    "southeast": {
+      "center": "Morant Bay",
+      "areas": [
+        "Morant Bay",
+        "Yallahs",
+        "Bath, Jamaica",
+        "Morant Point Lighthouse"
+      ],
+      "note": "Morant Bay, Bath and southeastern communities. A mountain trail and a coastal visit require different arrangements."
+    },
+    "south-elizabeth": {
+      "center": "Black River, Jamaica",
+      "areas": [
+        "Black River, Jamaica",
+        "Treasure Beach",
+        "Accompong",
+        "Middle Quarters, Jamaica"
+      ],
+      "note": "Black River, Treasure Beach and southern coastal stops. Border spans St. Elizabeth and Westmoreland; it is not a Negril beach stop."
+    },
+    "central-interior": {
+      "center": "Mandeville, Jamaica",
+      "areas": [
+        "Mandeville, Jamaica",
+        "Spanish Town",
+        "May Pen",
+        "Kendal, Jamaica"
+      ],
+      "note": "Mandeville, Spanish Town and central parish routes. Pick a town or branch; this broad region is not a short driving loop."
+    }
+  },
+  "routes": {
+    "route-kingston-voices": [
+      "Kingston, Jamaica",
+      "Devon House"
+    ],
+    "route-mountain-water-coffee": [
+      "Gordon Town, Jamaica",
+      "Blue Mountain Peak"
+    ],
+    "route-stann-layers": [
+      "Saint Ann's Bay",
+      "Ocho Rios"
+    ],
+    "route-stmary-working-coast": [
+      "Oracabessa",
+      "Port Maria"
+    ],
+    "route-portland-harbour-jerk": [
+      "Port Antonio"
+    ],
+    "route-western-ports-resistance": [
+      "Montego Bay",
+      "Falmouth, Jamaica"
+    ],
+    "route-western-shore-towns": [
+      "Negril",
+      "Lucea, Jamaica"
+    ],
+    "route-stthomas-justice-water": [
+      "Morant Bay",
+      "Bath, Jamaica"
+    ],
+    "route-southcoast-water-food": [
+      "Black River, Jamaica",
+      "Middle Quarters, Jamaica"
+    ],
+    "route-central-town-country": [
+      "Spanish Town",
+      "Mandeville, Jamaica",
+      "May Pen",
+      "Alligator Pond"
+    ],
+    "route-kingston-garvey-public-power": [
+      "Kingston, Jamaica"
+    ],
+    "route-mona-hope-land-knowledge": [
+      "Kingston, Jamaica",
+      "Hope Botanical Gardens"
+    ],
+    "route-stann-limestone-hill-food": [
+      "Discovery Bay, Jamaica",
+      "Runaway Bay, Jamaica"
+    ],
+    "route-stmary-garden-country-commerce": [
+      "Annotto Bay",
+      "Highgate, Jamaica"
+    ],
+    "route-portland-maroon-living-heritage": [
+      "Charles Town, Jamaica",
+      "Moore Town, Jamaica"
+    ],
+    "route-estates-labour-records": [
+      "Falmouth, Jamaica",
+      "Rose Hall, Montego Bay",
+      "Montego Bay"
+    ],
+    "route-western-labour-law": [
+      "Savanna-la-Mar"
+    ],
+    "route-stthomas-art-headland": [
+      "Yallahs",
+      "Morant Point Lighthouse",
+      "Bath, Jamaica"
+    ],
+    "route-stelizabeth-freedom-land": [
+      "Accompong",
+      "Lacovia",
+      "Middle Quarters, Jamaica"
+    ],
+    "route-manchester-freedom-rail": [
+      "Mandeville, Jamaica",
+      "Kendal, Jamaica"
+    ]
+  }
+}
