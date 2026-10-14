@@ -43,7 +43,7 @@ def package(source, dest):
         raise ValueError("Destination must be outside the source directory")
     html=source.read_text(encoding="utf-8")
     parser=References();parser.feed(html)
-    parser.refs += css_urls(" ".join(re.findall(r"<style\\b[^>]*>(.*?)</style>", html, re.I | re.S)))
+    parser.refs += css_urls(" ".join(re.findall(r"<style\b[^>]*>(.*?)</style>", html, re.I | re.S)))
     outputs=set()
     for ref in parser.refs:
         candidate=local_path(ref)
