@@ -1,0 +1,625 @@
+[
+  {
+    "id": "route-kingston-voices",
+    "title": "Kingston: art, music and the making of a capital",
+    "regions": [
+      "capital-mountains"
+    ],
+    "theme": "Art & music",
+    "duration": "One full day; split into two for long museum visits",
+    "base": "Kingston",
+    "question": "Who gets to represent Jamaica, and what changes when you hear the city from its own communities?",
+    "walk": "Walk only short waterfront stretches and venue grounds. Downtown, Trench Town and Devon House are separate transfers.",
+    "drive": "Book a driver for waterfront → Trench Town → Devon House, with pickups agreed at each venue. Leave afternoon room for traffic.",
+    "public": "Arrive in Kingston by a bookable Knutsford Express service, then transfer from the actual terminal. JUTC can help with city legs: use its current route guide and confirm the stop and return; no single bus is claimed to join all three venues.",
+    "call": "Make the Culture Yard booking the anchor. A local guide and a thoughtful museum visit teach more than collecting murals from a moving car.",
+    "access": "Ask each museum about entrance steps, toilets and seated tour options. Vehicle transfers reduce walking; they do not establish step-free interiors.",
+    "cost": "Budget for gallery/tour admission, a meal and separate transfers; use current operator quotes.",
+    "stops": [
+      {
+        "day": 1,
+        "place": "national-gallery",
+        "name": "National Gallery of Jamaica",
+        "activity": "Choose a few works rather than rushing every room. Compare how Jamaican artists depict work, race, religion and the landscape. The published visitor page excludes Mondays and public holidays.",
+        "leg": "Start at the booked gallery; check its current exhibition and admission."
+      },
+      {
+        "day": 1,
+        "place": "",
+        "name": "Kingston waterfront",
+        "activity": "Take a short daylight pause near the gallery. Read the harbour as an entrance for trade and migration; compare the view with the guide’s railway and city history.",
+        "leg": "Short local walk if the actual street conditions suit you; otherwise use your pickup.",
+        "mapQuery": "Kingston Waterfront Jamaica"
+      },
+      {
+        "day": 1,
+        "place": "capital-trenchtown",
+        "name": "Trench Town Culture Yard",
+        "activity": "Take an arranged guided visit. Ask about housing, shared yards and the musicians’ community, then connect the place with ska, rocksteady and reggae in the listening room.",
+        "leg": "Vehicle or a confirmed local public-transport connection; agree the guide’s meeting point."
+      },
+      {
+        "day": 1,
+        "place": "national-devon",
+        "name": "Devon House",
+        "activity": "Book the mansion tour if architecture is your interest; otherwise use the grounds and a meal pause. Compare this elite domestic setting with the housing story you heard in Trench Town.",
+        "leg": "Separate vehicle transfer; allow this to be the final substantial stop."
+      }
+    ],
+    "reading": [
+      {
+        "id": "parish-kingston-rail",
+        "label": "Kingston’s railway and working city"
+      },
+      {
+        "id": "history-housing",
+        "label": "How Jamaicans lived"
+      },
+      {
+        "id": "music",
+        "label": "Hear the history behind Jamaican music"
+      }
+    ]
+  },
+  {
+    "id": "route-mountain-water-coffee",
+    "title": "Blue Mountains: water, coffee and a cooler landscape",
+    "regions": [
+      "capital-mountains"
+    ],
+    "theme": "Landscape & livelihoods",
+    "duration": "One mountain day; no summit climb included",
+    "base": "Kingston or a mountain stay",
+    "question": "How do elevation, water and agricultural work shape the mountain landscape?",
+    "walk": "Walk at the booked coffee visit and on an appropriate Holywell trail. Do not walk the entire Gordon Town–Irish Town–Holywell road corridor.",
+    "drive": "Use a mountain-experienced driver for Kingston → Gordon Town → Irish Town → Holywell and return. Ask about the road approach, rain and visibility before departure.",
+    "public": "A coach can bring you to Kingston; it does not take this excursion into Holywell. Ask locally about buses or route taxis to Gordon Town, then arrange a confirmed onward vehicle and return. A driver is the simpler complete-day option.",
+    "call": "Choose Holywell and one booked coffee encounter. A peak hike is another trip, requiring different timing and arrangements.",
+    "access": "Ask park management to identify the exact trail gradient, surface and toilets. A cafe view can replace a walk, but verify its approach and seating.",
+    "cost": "Allow for park entry, a booked coffee experience, food and a full-day vehicle quote.",
+    "stops": [
+      {
+        "day": 1,
+        "place": "",
+        "name": "Gordon Town",
+        "activity": "Pause with your driver at a suitable public place. Look at the river valley and town connections; discuss water, hillside settlement and everyday travel rather than treating the town as scenery.",
+        "leg": "First mountain-road leg; stop only where the driver identifies legal, suitable parking.",
+        "mapQuery": "Gordon Town St Andrew Jamaica"
+      },
+      {
+        "day": 1,
+        "place": "food-capital-irish-cafe",
+        "name": "Irish Town: a coffee and meal pause",
+        "activity": "Use a confirmed cafe stop for coffee and a valley view. If you want cultivation and processing explained, arrange a named farm tour separately; buying a cup is not a farm visit.",
+        "leg": "Continue uphill by vehicle; confirm the cafe’s opening and whether a tour is included."
+      },
+      {
+        "day": 1,
+        "place": "national-holywell",
+        "name": "Holywell Recreation Area",
+        "activity": "Choose a park-managed walk suited to your group. Observe forest cover, mist and water catchment; ask the guide how conservation connects to communities below.",
+        "leg": "Vehicle to the confirmed park entrance, then the selected trail on foot."
+      },
+      {
+        "day": 1,
+        "place": "",
+        "name": "Return through the mountain corridor",
+        "activity": "Leave time for daylight driving and a slower return after rain. Compare the cooler forest with the lower city landscape and record what you actually observed.",
+        "leg": "Return in the arranged vehicle; no roadside viewpoint is promised as an open attraction.",
+        "mapQuery": "Kingston Jamaica"
+      }
+    ],
+    "reading": [
+      {
+        "id": "parish-cinchona",
+        "label": "Cinchona and the mountain landscape"
+      },
+      {
+        "id": "parish-mona",
+        "label": "Mona: land and institutions"
+      },
+      {
+        "id": "conditions",
+        "label": "Check mountain weather"
+      }
+    ]
+  },
+  {
+    "id": "route-stann-layers",
+    "title": "St. Ann: Taíno landscapes, enslavement and Garvey",
+    "regions": [
+      "ocho-mary"
+    ],
+    "theme": "Land & freedom",
+    "duration": "One weekday; allow a full day from Ocho Rios",
+    "base": "Ocho Rios, St. Ann’s Bay or western St. Ann",
+    "question": "What becomes visible when Seville’s estate story is read alongside African Jamaican lives and a working town?",
+    "walk": "Walk the confirmed Seville visitor route and a short St. Ann’s Bay town branch. Transfer between the estate, town and Drax Hall.",
+    "drive": "From Ocho Rios travel west to Seville, back to St. Ann’s Bay, then toward Drax Hall for the meal and return. Choose this branch instead of adding Nine Mile.",
+    "public": "Book a coach to the passenger terminal serving your St. Ann base; confirm whether your ticket uses Drax Hall or another pickup. Arrange local licensed taxis for Seville and the town. Local coastal buses require stop and return confirmation.",
+    "call": "Book Seville first. On a weekend or public holiday, choose the town and reading instead, or move the estate visit to a suitable weekday.",
+    "access": "Ask Seville about the actual museum approach and grounds surfaces. Town pavements and crossings need their own assessment.",
+    "cost": "Seville admission/tour, local transport and a meal; confirm resident/non-resident terms directly.",
+    "stops": [
+      {
+        "day": 1,
+        "place": "seville",
+        "name": "Seville Heritage Park",
+        "activity": "Take the booked guided visit. Ask which objects relate to Taíno life, European settlement and African labour, and which people remain unnamed in the estate record.",
+        "leg": "Start with the confirmed weekday booking; JNHT publishes weekday hours and holiday closure."
+      },
+      {
+        "day": 1,
+        "place": "stannbay",
+        "name": "St. Ann’s Bay town and Garvey connection",
+        "activity": "Visit public town spaces and use the 32 Market Street heritage account to understand Garvey’s connection. Do not assume entry to a birthplace or private building.",
+        "leg": "Short drive from Seville, then a locally planned town walk."
+      },
+      {
+        "day": 1,
+        "place": "",
+        "name": "St. Ann’s Bay shore and working landscape",
+        "activity": "Observe the harbour from a permitted public position. Compare work, buildings and coast with historical material; request permission before photographing people at work.",
+        "leg": "Local branch chosen with your guide; no entry to an active wharf is implied.",
+        "mapQuery": "St Ann's Bay Jamaica"
+      },
+      {
+        "day": 1,
+        "place": "scotchies",
+        "name": "Drax Hall: food and a pause",
+        "activity": "Have a jerk meal and discuss preparation with the cook if the service allows. Leave the final block for an unhurried return rather than another distant attraction.",
+        "leg": "Vehicle toward Drax Hall; arrange the pickup before sitting down."
+      }
+    ],
+    "reading": [
+      {
+        "id": "read-seville",
+        "label": "Seville beyond the great house"
+      },
+      {
+        "id": "history-ocho-stann",
+        "label": "Ocho Rios and St. Ann in history"
+      },
+      {
+        "id": "read-garvey",
+        "label": "Garvey and public memory"
+      }
+    ]
+  },
+  {
+    "id": "route-stmary-working-coast",
+    "title": "St. Mary: working towns, ports and public memory",
+    "regions": [
+      "ocho-mary"
+    ],
+    "theme": "Working towns",
+    "duration": "One coastal day from a St. Mary base",
+    "base": "Oracabessa or Port Maria",
+    "question": "What does a working coastline reveal that a celebrity-house itinerary leaves out?",
+    "walk": "Use separate short walks in Oracabessa and Port Maria. The coast between them is a vehicle journey.",
+    "drive": "Follow Oracabessa → Port Maria; add Firefly only with confirmed access and enough time for its separate uphill approach.",
+    "public": "Check a bookable coach journey to Port Maria or your actual nearest passenger stop; arrange the terminal transfer. Licensed coastal route taxis may serve town legs after local confirmation. Firefly needs its own arranged return.",
+    "call": "Two towns and one confirmed house visit are enough. Castleton and inland Highgate belong to another day.",
+    "access": "Ask about pavement, shade, toilets and the house’s steps. Use a vehicle-assisted exterior town route if a full walk is unsuitable.",
+    "cost": "Town viewing, a meal, local transfers and Firefly admission if booked; agree driver waiting time.",
+    "stops": [
+      {
+        "day": 1,
+        "place": "oracabessa",
+        "name": "Oracabessa town",
+        "activity": "Walk a short public main-street branch and compare its present buildings with the guide’s historical town photograph. Ask how harbour work and agriculture shaped the settlement.",
+        "leg": "Begin locally; agree the end of the walk and vehicle meeting point."
+      },
+      {
+        "day": 1,
+        "place": "portmaria",
+        "name": "Port Maria courthouse and town",
+        "activity": "Use the courthouse heritage account to connect architecture, public administration and remembrance. View from a permitted public position; institutional business takes priority.",
+        "leg": "Coastal transfer, then a short daylight town walk."
+      },
+      {
+        "day": 1,
+        "place": "",
+        "name": "Port Maria harbour and meal",
+        "activity": "Take a meal break and observe the bay from a public place. Listen to contemporary town life; avoid treating residents as an exhibit.",
+        "leg": "Remain in the town branch; the guide/driver identifies a suitable stop.",
+        "mapQuery": "Port Maria Jamaica"
+      },
+      {
+        "day": 1,
+        "place": "firefly",
+        "name": "Firefly, if your booking is confirmed",
+        "activity": "Compare a celebrated writer’s house and view with the working towns below. If access is unavailable, extend the Port Maria visit and reading instead.",
+        "leg": "Separate vehicle leg and return; do not rely on finding a return ride at the house."
+      }
+    ],
+    "reading": [
+      {
+        "id": "jh-oracabessa",
+        "label": "Oracabessa through time"
+      },
+      {
+        "id": "jh-port-maria",
+        "label": "Port Maria: the town behind the view"
+      },
+      {
+        "id": "history-stmary-hills",
+        "label": "St. Mary’s coast and hills"
+      }
+    ]
+  },
+  {
+    "id": "route-portland-harbour-jerk",
+    "title": "Portland: harbour, town houses and the jerk coast",
+    "regions": [
+      "portland"
+    ],
+    "theme": "Food & landscape",
+    "duration": "Two relaxed days; one town day and one coastal day",
+    "base": "Port Antonio",
+    "question": "How do harbour trade, domestic architecture, food and coastal life connect?",
+    "walk": "Walk a modest Port Antonio/Titchfield branch with a local guide. Boston and Frenchman’s Cove require separate road transfers.",
+    "drive": "Day 1 stays in Port Antonio. Day 2 follows Port Antonio → Frenchman’s Cove → Boston Bay and returns; choose Reach Falls on another day.",
+    "public": "Knutsford Express has a Port Antonio booking option; confirm the passenger arrival and transfer into town. On the coastal day, use a licensed driver or locally confirmed buses/route taxis with a planned return; no door-to-door coach excursion is implied.",
+    "call": "Give the harbour town a real day. Reach Falls, rafting and a Maroon community visit each deserve separate arrangements.",
+    "access": "Titchfield streets can be sloped and uneven. Ask the cove operator about its actual entrance, toilets and beach approach; sand is a separate barrier.",
+    "cost": "Local guiding/transfers, food, and cove or beach charges from the chosen operator.",
+    "stops": [
+      {
+        "day": 1,
+        "place": "",
+        "name": "Port Antonio harbour and town",
+        "activity": "Begin with a guide in the working town. Read the harbour in relation to trade and travel; compare what the guide documents with what you can see today.",
+        "leg": "Transfer from the actual terminal; short town walk from an agreed meeting point.",
+        "mapQuery": "Port Antonio Jamaica"
+      },
+      {
+        "day": 1,
+        "place": "",
+        "name": "Titchfield Peninsula",
+        "activity": "Look at house forms, verandas and streets from public space. Use the historic-district account and the guide’s Titchfield essay; enter a private house only by invitation.",
+        "leg": "Local town branch on foot or with vehicle assistance.",
+        "mapQuery": "Titchfield Peninsula Port Antonio Jamaica"
+      },
+      {
+        "day": 2,
+        "place": "national-frenchmans",
+        "name": "Frenchman’s Cove",
+        "activity": "Use a booked beach visit to observe the meeting of stream and sea. Swimming is optional and depends on actual conditions; a forecast does not inspect the water.",
+        "leg": "Coastal vehicle journey from Port Antonio; confirm the entrance and pickup."
+      },
+      {
+        "day": 2,
+        "place": "food-boston",
+        "name": "Boston Bay and jerk cooks",
+        "activity": "Take your time over a meal. Ask about fuel, seasoning and cooking when the cook can talk; compare multiple preparations without proclaiming a single stall the origin of all jerk.",
+        "leg": "Continue east by arranged vehicle; make Boston Beach an optional extension, then return."
+      }
+    ],
+    "reading": [
+      {
+        "id": "parish-titchfield",
+        "label": "Titchfield: houses and harbour"
+      },
+      {
+        "id": "object-banana",
+        "label": "Bananas, shipping and the port"
+      },
+      {
+        "id": "parish-mooretown",
+        "label": "Moore Town: arrange a separate community visit"
+      }
+    ]
+  },
+  {
+    "id": "route-western-ports-resistance",
+    "title": "Montego Bay and Falmouth: ports, resistance and preservation",
+    "regions": [
+      "montego"
+    ],
+    "theme": "Land & freedom",
+    "duration": "Two days; one town per day",
+    "base": "Montego Bay or Falmouth",
+    "question": "How do public memorials and preserved buildings tell different stories about the same economy?",
+    "walk": "Take separate guided town walks around Sam Sharpe Square and central Falmouth. Do not walk the inter-town coastal road.",
+    "drive": "Day 1 is downtown Montego Bay. Day 2 transfers to Falmouth, stays in its town branch and returns or uses a Falmouth overnight.",
+    "public": "Check coach booking options for Montego Bay and Falmouth, including the exact passenger terminals. A terminal transfer is separate from the heritage walk. Locally confirmed buses can connect towns; leave room for waiting and a return.",
+    "call": "Read the labour and resistance history before admiring Georgian facades. Confirm today’s access and recovery conditions in Falmouth with the named guide.",
+    "access": "Town paving, crossings and old interiors vary. Request a seated museum option and short exterior walking route; do not infer access from heritage designation.",
+    "cost": "Museum admission, named guiding, food and inter-town travel; interior tours may be separately charged.",
+    "stops": [
+      {
+        "day": 1,
+        "place": "regional-mobay-culture",
+        "name": "Sam Sharpe Square and Cultural Centre",
+        "activity": "Use the museum/gallery and square together. Ask how the town commemorates resistance and how the exhibits explain the plantation economy.",
+        "leg": "Start in downtown Montego Bay at the confirmed museum or guide meeting point."
+      },
+      {
+        "day": 1,
+        "place": "regional-harmony-park",
+        "name": "Harmony Beach Park",
+        "activity": "Take a public-space pause. Compare who uses a town park with the private resort coast, and leave time for a downtown meal.",
+        "leg": "Separate short local transfer or a guide-selected walk suited to street conditions."
+      },
+      {
+        "day": 2,
+        "place": "national-falmouth",
+        "name": "Falmouth streets and courthouse setting",
+        "activity": "Take a guided exterior walk through the historic district. Compare street layout, civic buildings and domestic architecture; verify any requested interior access.",
+        "leg": "Inter-town vehicle/coach journey, then a locally confirmed town route."
+      },
+      {
+        "day": 2,
+        "place": "",
+        "name": "Falmouth wharf landscape",
+        "activity": "From permitted public space, discuss port trade and the labour behind architectural wealth. Compare historic material with current repairs without entering fenced, damaged or active port areas.",
+        "leg": "Stay within the guide’s safe town branch; return to the booked pickup.",
+        "mapQuery": "Falmouth Jamaica"
+      }
+    ],
+    "reading": [
+      {
+        "id": "parish-samsharpe",
+        "label": "Sam Sharpe and public memory"
+      },
+      {
+        "id": "history-trelawny-falmouth",
+        "label": "Falmouth beyond architectural admiration"
+      },
+      {
+        "id": "history-melissa-falmouth",
+        "label": "Melissa and Falmouth: documented damage and recovery"
+      }
+    ]
+  },
+  {
+    "id": "route-western-shore-towns",
+    "title": "Negril and Hanover: beach life and a working parish town",
+    "regions": [
+      "negril"
+    ],
+    "theme": "Working towns",
+    "duration": "Two days; Negril first, Lucea on a separate day",
+    "base": "Negril",
+    "question": "What changes when you leave the beach strip and give a western parish town equal attention?",
+    "walk": "Walk a chosen beach segment and a short Lucea town branch. Beach, Negril town and Lucea are separate journeys.",
+    "drive": "Day 1 links a permitted Negril beach entrance with a town meal. Day 2 goes to Lucea and a prearranged Fort Charlotte branch; return by vehicle.",
+    "public": "Book coach travel to Negril and confirm the terminal-to-lodging transfer. For Lucea, confirm the local licensed coastal service and return before setting out; a Negril coach ticket is not a Fort Charlotte tour.",
+    "call": "Give Lucea its own day. A beach sunset and a fort visit do not need to compete against a late return.",
+    "access": "Ask the beach host about the actual path and toilets. Lucea’s fort approach and town surfaces need separate confirmation; offer a town-only alternative.",
+    "cost": "Beach-host amenities if used, town meals, local guiding and transport. Confirm any fort visit terms.",
+    "stops": [
+      {
+        "day": 1,
+        "place": "national-negrilbeach",
+        "name": "A chosen Negril beach segment",
+        "activity": "Enter through an agreed park or business access. Walk a manageable segment, observe tourism and coastal work, and choose a dry visit or swim according to conditions.",
+        "leg": "Local transfer to the specific beach entrance, not a generic pin for Seven Mile Beach."
+      },
+      {
+        "day": 1,
+        "place": "food-negril-sweet-spice",
+        "name": "Negril town and a Jamaican meal",
+        "activity": "Move into town for a meal rather than assuming the resort strip represents the whole area. Confirm the restaurant’s opening and ask what is being cooked that day.",
+        "leg": "Vehicle/local taxi between the beach and town; arrange the return."
+      },
+      {
+        "day": 2,
+        "place": "",
+        "name": "Lucea town and harbour",
+        "activity": "With a local guide, look at the civic centre and harbour from public places. Read the Lucea essay and compare its town story with the beach economy.",
+        "leg": "Separate coastal journey to Lucea; begin at an agreed town meeting point.",
+        "mapQuery": "Lucea Hanover Jamaica"
+      },
+      {
+        "day": 2,
+        "place": "regional-lucea-fort",
+        "name": "Fort Charlotte, with arranged access",
+        "activity": "Ask the guide to connect fortification and harbour geography. If site access is unavailable, remain in Lucea’s public town branch; do not improvise entry.",
+        "leg": "Confirm the approach and return vehicle before leaving the town centre."
+      }
+    ],
+    "reading": [
+      {
+        "id": "parish-lucea",
+        "label": "Lucea and the harbour town"
+      },
+      {
+        "id": "parish-fortcharlotte",
+        "label": "Fort Charlotte in context"
+      },
+      {
+        "id": "parish-savannalamar",
+        "label": "Savanna-la-Mar for another western day"
+      }
+    ]
+  },
+  {
+    "id": "route-stthomas-justice-water",
+    "title": "St. Thomas: justice, a village and the waters of Bath",
+    "regions": [
+      "southeast"
+    ],
+    "theme": "Land & freedom",
+    "duration": "Two days; Morant Bay/Stony Gut, then Bath",
+    "base": "Morant Bay or a southeastern stay",
+    "question": "How does the story of 1865 change when you move from the courthouse to the community, then to a different landscape of healing and work?",
+    "walk": "Use short guided walks at public town/village places and the garden when access is confirmed. The town, village and Bath are vehicle legs.",
+    "drive": "Day 1 follows Morant Bay → an arranged Stony Gut visit and returns. Day 2 follows Morant Bay → Bath garden → the official fountain facility and returns.",
+    "public": "Confirm licensed buses or route taxis serving Morant Bay from your base and the exact onward services locally. No direct Knutsford Express service to these stops is asserted. A local driver with an agreed return is the simplest multi-stop arrangement.",
+    "call": "Make the village visit an invitation-based encounter. Do not turn a church, community or healing tradition into an unannounced performance.",
+    "access": "Ask about slopes, uneven ground, toilets and bathing-facility access. The mineral-water stop can be a discussion visit without bathing.",
+    "cost": "Guiding, two local vehicle days or confirmed public legs, meals and any official bathing service; agree charges before using services.",
+    "stops": [
+      {
+        "day": 1,
+        "place": "regional-morant",
+        "name": "Morant Bay courthouse and fort landscape",
+        "activity": "Read the guide’s 1865 history alongside the public memorial landscape. Separate surviving fabric, later restoration and present remembrance.",
+        "leg": "Meet the local guide at a confirmed accessible public position; interior entry is separate."
+      },
+      {
+        "day": 1,
+        "place": "",
+        "name": "Stony Gut, by arrangement",
+        "activity": "Visit with a community contact or guide who has confirmed permission. Discuss congregation, neighbours and collective action; ask before taking portraits or entering a churchyard.",
+        "leg": "Vehicle to the confirmed meeting point and return; no unscheduled community programme is promised.",
+        "mapQuery": "Stony Gut St Thomas Jamaica"
+      },
+      {
+        "day": 2,
+        "place": "",
+        "name": "Bath Botanic Garden",
+        "activity": "Confirm access, then examine the garden as an institution and a landscape. Follow the Bath garden essay and identify plants only when supported by a label or informed guide.",
+        "leg": "Separate Bath day; driver confirms the current road and entrance.",
+        "mapQuery": "Bath Botanic Garden St Thomas Jamaica"
+      },
+      {
+        "day": 2,
+        "place": "regional-bath",
+        "name": "Bath Fountain official facility",
+        "activity": "Use the official agency contact to arrange the actual service. If bathing is not wanted or suitable, learn about the place without using the water; do not confuse the facility with unsolicited roadside offers.",
+        "leg": "Short local transfer as agreed; confirm price, service and return before arrival."
+      }
+    ],
+    "reading": [
+      {
+        "id": "history-morant",
+        "label": "1865 in context"
+      },
+      {
+        "id": "parish-stonygut",
+        "label": "The community behind Paul Bogle"
+      },
+      {
+        "id": "parish-bath-gardens",
+        "label": "Bath’s botanical history"
+      }
+    ]
+  },
+  {
+    "id": "route-southcoast-water-food",
+    "title": "South Coast: river town, pepper shrimp and fish with bammy",
+    "regions": [
+      "south-elizabeth"
+    ],
+    "theme": "Food & landscape",
+    "duration": "Two days; avoid making the whole south coast one circuit",
+    "base": "Black River or Treasure Beach",
+    "question": "How do a river port, roadside food and fishing communities tell the story of this coast?",
+    "walk": "Take a short Black River town walk and brief vendor stops. Town, river operator and food districts require arranged transfers.",
+    "drive": "Day 1 pairs Black River town with a named river operator. Day 2 travels to Middle Quarters and Border/Scott’s Cove, then returns to your base. Ask the driver for the practical order from your accommodation.",
+    "public": "Ask Knutsford Express which bookable passenger stop serves your base; use a confirmed local transfer from that stop. Do not assume a direct coach to Black River, Treasure Beach or either vendor district. Licensed local buses/route taxis need current route and return confirmation.",
+    "call": "Choose two food stops on a separate day and leave time to talk. YS Falls and Treasure Beach can replace a day; they are not compulsory additions.",
+    "access": "Ask the boat operator about boarding, seating, lifejackets and toilets. Roadside stalls vary in surfaces and seating; arrange a vehicle-assisted stop.",
+    "cost": "Named river tour, transport, two food purchases and meals. Vendors and operators set their own current prices.",
+    "stops": [
+      {
+        "day": 1,
+        "place": "",
+        "name": "Black River town",
+        "activity": "Take a guide-selected public High Street branch. Compare river trade and town houses with the Black River essay; historic designation does not open private interiors.",
+        "leg": "Start in town; agree a short walk and a vehicle-assisted alternative.",
+        "mapQuery": "Black River St Elizabeth Jamaica"
+      },
+      {
+        "day": 1,
+        "place": "national-blackriver",
+        "name": "Black River with a named river operator",
+        "activity": "Choose a booked excursion. Observe wetland habitat with the guide, follow boat instructions and keep distance from wildlife; confirm water/weather conditions with the operator.",
+        "leg": "Transfer to the actual operator’s dock; return pickup and boarding arrangements are separate."
+      },
+      {
+        "day": 2,
+        "place": "food-middle-quarters",
+        "name": "Middle Quarters pepper shrimp",
+        "activity": "Buy from an operating vendor and ask about preparation when the work allows. Make the food itself the encounter; do not assume a universal recipe or a scheduled demonstration.",
+        "leg": "Separate road journey on the food day; stop where the driver can park suitably."
+      },
+      {
+        "day": 2,
+        "place": "food-border",
+        "name": "Border / Scott’s Cove: fish and bammy",
+        "activity": "Choose a stall actually cooking that day. Ask what fish is available and how the bammy is prepared, then eat without rushing. This stop sits at the St. Elizabeth–Westmoreland border.",
+        "leg": "Arrange the onward trip and return; Border is not a Negril beach stop."
+      }
+    ],
+    "reading": [
+      {
+        "id": "parish-blackriver",
+        "label": "Black River and its port economy"
+      },
+      {
+        "id": "hh-food",
+        "label": "Food and household work"
+      },
+      {
+        "id": "parish-accompong",
+        "label": "Accompong: a separate arranged community day"
+      }
+    ]
+  },
+  {
+    "id": "route-central-town-country",
+    "title": "Central Jamaica: civic power, inland towns and a southern meal",
+    "regions": [
+      "central-interior"
+    ],
+    "theme": "Working towns",
+    "duration": "Three days or three independent outings",
+    "base": "Use a suitable local base for each day",
+    "question": "What do St. Catherine, Manchester and Clarendon reveal when Jamaica is read from its inland towns?",
+    "walk": "Use short guided walks in Spanish Town and Mandeville. Clarendon’s meal branch is a vehicle outing; do not walk between parishes.",
+    "drive": "Day 1: Spanish Town civic centre. Day 2: Mandeville square and parish-church surroundings. Day 3: a May Pen town pause followed by a confirmed Alligator Pond/Little Ochie meal. The final branch crosses into the southern coastal landscape; allow a separate day.",
+    "public": "Check bookable Knutsford Express journeys serving Spanish Town/Angels, Mandeville or May Pen and confirm the actual passenger stop. Terminal-to-town transfers are separate. JUTC can support the metropolitan Spanish Town leg; local licensed transport/driver arrangements are needed for the southern meal branch.",
+    "call": "Treat these as three local days, not a speed run. If you have only one day, choose the town nearest your base and read the other two.",
+    "access": "Working civic spaces, church grounds, uneven paving and the coastal restaurant have different access conditions. Ask for a short exterior town route and confirm restaurant approach and toilets.",
+    "cost": "Town guiding, intercity journeys, local transfers and the seafood meal. Choose the fish and agree its price before it is prepared.",
+    "stops": [
+      {
+        "day": 1,
+        "place": "regional-spanish",
+        "name": "Spanish Town and Emancipation Square",
+        "activity": "Take a confirmed guided civic-centre route. Read architecture alongside colonial administration and emancipation; distinguish public exterior viewing from a museum or building booking.",
+        "leg": "Travel to the actual town meeting point; Angels is not the square."
+      },
+      {
+        "day": 2,
+        "place": "regional-mandeville",
+        "name": "Mandeville square and courthouse",
+        "activity": "Use a daylight town walk to compare the civic centre with Manchester’s later parish history. Court business comes first; view from permitted public space.",
+        "leg": "Separate Manchester day and terminal transfer; do not append this to Spanish Town as a quick detour."
+      },
+      {
+        "day": 2,
+        "place": "",
+        "name": "Mandeville parish-church surroundings",
+        "activity": "Use the parish essay to connect religious institutions with town formation. Ask permission for any interior/grounds visit and avoid interrupting services.",
+        "leg": "Short local branch chosen by the guide; adapt for pavements and traffic.",
+        "mapQuery": "Mandeville Parish Church Jamaica"
+      },
+      {
+        "day": 3,
+        "place": "food-little-ochie",
+        "name": "May Pen pause, then Alligator Pond / Little Ochie",
+        "activity": "Begin with a modest public town pause in May Pen, then make a separately confirmed coastal seafood outing. At the restaurant ask about the catch, cooking method and price before ordering.",
+        "leg": "A separate Clarendon-to-coast vehicle day. Confirm the road, restaurant service and return; this is not a coach drop-off at the restaurant."
+      }
+    ],
+    "reading": [
+      {
+        "id": "parish-spanishtown",
+        "label": "Spanish Town: civic power and everyday life"
+      },
+      {
+        "id": "parish-mandeville",
+        "label": "Mandeville in history"
+      },
+      {
+        "id": "parish-fourpaths",
+        "label": "Clarendon beyond the highway"
+      }
+    ]
+  }
+]

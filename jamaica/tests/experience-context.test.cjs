@@ -36,7 +36,7 @@ test('saved trips and learning survive region changes, feed failure and restorat
 test('regional search is explicitly scoped, while all-Jamaica learning remains available',()=>{
  const s=site();try{
  s.w.TGContext.set(['portland']);s.route('site-search');s.input('site-query','Dunn','input');assert(s.E('site-result-list').textContent.includes('Dunn’s River'));s.input('site-search-scope','region');assert(!s.E('site-result-list').querySelector('[href="#travel-dunn"]'));s.input('site-search-scope','all');assert(s.E('site-result-list').querySelector('[href="#travel-dunn"]'));
- assert.equal(s.E('home-region-grid').children.length,8);assert.equal(s.E('nav').querySelectorAll(':scope>a,:scope>details>summary>a').length,6);assert(s.E('slavery-legacies').matches('details'));assert(s.E('learning-path-grid').closest('details'));assert.deepEqual(s.errors,[]);
+ assert.equal(s.E('home-region-grid').children.length,8);assert.equal(s.E('nav').querySelectorAll(':scope>a,:scope>details>summary>a').length,7);assert(s.E('slavery-legacies').matches('details'));assert(s.E('learning-path-grid').closest('details'));assert.deepEqual(s.errors,[]);
  }finally{s.close();}
 });
 
