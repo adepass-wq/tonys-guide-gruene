@@ -16,7 +16,8 @@
     "recheckAfter": "2027-01-10",
     "parishes": [
       "St. Ann"
-    ]
+    ],
+    "mapQuery": "Island Village, Turtle River Road, Ocho Rios"
   },
   {
     "id": "local-1",
@@ -35,7 +36,8 @@
     "recheckAfter": "2027-01-10",
     "parishes": [
       "St. Ann"
-    ]
+    ],
+    "mapQuery": "Island Village, Turtle River Road, Ocho Rios"
   },
   {
     "id": "local-2",
@@ -54,7 +56,8 @@
     "recheckAfter": "2027-01-10",
     "parishes": [
       "St. Ann"
-    ]
+    ],
+    "mapQuery": "Island Village, Turtle River Road, Ocho Rios"
   },
   {
     "id": "local-3",
@@ -73,7 +76,8 @@
     "recheckAfter": "2027-01-10",
     "parishes": [
       "St. Ann"
-    ]
+    ],
+    "mapQuery": "Plantation Smokehouse, Richmond, St. Ann, Jamaica"
   },
   {
     "id": "local-4",
@@ -92,7 +96,8 @@
     "recheckAfter": "2027-01-10",
     "parishes": [
       "St. Ann"
-    ]
+    ],
+    "mapQuery": "Ocean’s 11, Ocho Rios"
   },
   {
     "id": "local-5",
@@ -111,7 +116,8 @@
     "recheckAfter": "2027-01-10",
     "parishes": [
       "St. Ann"
-    ]
+    ],
+    "mapQuery": "Ocean’s 11, Ocho Rios"
   },
   {
     "id": "local-6",
@@ -136,7 +142,8 @@
     "recheckAfter": "2027-01-10",
     "parishes": [
       "St. Ann"
-    ]
+    ],
+    "mapQuery": "Jamaica Inn, Ocho Rios"
   },
   {
     "id": "local-7",
@@ -155,7 +162,8 @@
     "recheckAfter": "2027-01-10",
     "parishes": [
       "St. Ann"
-    ]
+    ],
+    "mapQuery": "Jamaica Inn, Ocho Rios"
   },
   {
     "id": "local-8",
@@ -172,7 +180,8 @@
     "recheckAfter": "2027-01-10",
     "parishes": [
       "St. Ann"
-    ]
+    ],
+    "mapQuery": "Evita’s, Eden Bower Road, Ocho Rios"
   },
   {
     "id": "local-9",
@@ -191,7 +200,8 @@
     "recheckAfter": "2027-01-10",
     "parishes": [
       "St. Ann"
-    ]
+    ],
+    "mapQuery": "Jamaica Inn, Ocho Rios"
   },
   {
     "id": "local-10",
@@ -210,7 +220,8 @@
     "recheckAfter": "2027-01-10",
     "parishes": [
       "St. Ann"
-    ]
+    ],
+    "mapQuery": "Jamaica Inn, Ocho Rios"
   },
   {
     "id": "regional-dub",
@@ -229,7 +240,8 @@
     "recheckAfter": "2026-11-13",
     "parishes": [
       "St. Andrew"
-    ]
+    ],
+    "mapQuery": "Kingston Dub Club, 7b Skyline Drive, Jack’s Hill, St. Andrew"
   },
   {
     "id": "regional-artwalk",
@@ -246,7 +258,10 @@
     "recheckAfter": "2026-11-13",
     "parishes": [
       "Kingston"
-    ]
+    ],
+    "mapQuery": "Downtown Kingston",
+    "mapScope": "area",
+    "mapNote": "Area search; confirm the organiser’s meeting point before travelling."
   },
   {
     "id": "regional-mobay-arts",
@@ -263,7 +278,8 @@
     "recheckAfter": "2026-11-13",
     "parishes": [
       "St. James"
-    ]
+    ],
+    "mapQuery": "Montego Bay Cultural Centre, St. James"
   },
   {
     "id": "regional-onelove",
@@ -280,7 +296,10 @@
     "recheckAfter": "2026-11-13",
     "parishes": [
       "Westmoreland"
-    ]
+    ],
+    "mapQuery": "Negril West End, Westmoreland",
+    "mapScope": "area",
+    "mapNote": "Area search; confirm the organiser’s meeting point before travelling."
   },
   {
     "id": "local-scientist",
@@ -299,6 +318,8 @@
     "recheckAfter": "2026-11-13",
     "parishes": [
       "Kingston"
-    ]
+    ],
+    "mapQuery": "Natural History Museum of Jamaica, Kingston, Jamaica",
+    "mapNote": "Museum location only; confirm whether this session is here, at another venue, or online."
   }
 ]

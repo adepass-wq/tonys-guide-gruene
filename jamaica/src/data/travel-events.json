@@ -34,7 +34,8 @@
     "parishes": [
       "St. Andrew"
     ],
-    "parish_note": "Headline stadium venue is in St. Andrew; confirm each additional party venue."
+    "parish_note": "Headline stadium venue is in St. Andrew; confirm each additional party venue.",
+    "mapNote": "Map is for the headline stadium venue only. Other weekend parties have separate venues."
   },
   {
     "id": "pinkrun",
@@ -52,7 +53,10 @@
     "map": "Treasure Beach, Jamaica",
     "parishes": [
       "St. Elizabeth"
-    ]
+    ],
+    "mapQuery": "Treasure Beach, St. Elizabeth",
+    "mapScope": "area",
+    "mapNote": "Starting point not established here; confirm the race meeting point with the organiser."
   },
   {
     "id": "heroes",
@@ -88,7 +92,10 @@
     "map": "Treasure Beach, Jamaica",
     "parishes": [
       "St. Elizabeth"
-    ]
+    ],
+    "mapQuery": "Treasure Beach, St. Elizabeth",
+    "mapScope": "area",
+    "mapNote": "Area search; confirm the individual festival venues."
   },
   {
     "id": "proam",
@@ -106,7 +113,10 @@
     "map": "Montego Bay, Jamaica",
     "parishes": [
       "St. James"
-    ]
+    ],
+    "mapQuery": "Montego Bay",
+    "mapScope": "area",
+    "mapNote": "Area search; confirm the booked course and check-in venue."
   },
   {
     "id": "mouttet",
@@ -180,7 +190,10 @@
       "Kingston",
       "St. Andrew"
     ],
-    "parish_note": "Kingston metropolitan area; precise venue and parish are not yet confirmed."
+    "parish_note": "Kingston metropolitan area; precise venue and parish are not yet confirmed.",
+    "mapQuery": "Kingston, Jamaica",
+    "mapScope": "area",
+    "mapNote": "The organiser has not supplied a precise venue in this listing. This map shows the area only."
   },
   {
     "id": "expanded-8",
@@ -254,7 +267,10 @@
       "Kingston",
       "St. Andrew"
     ],
-    "parish_note": "Road march in the Kingston metropolitan area; confirm the route. Wider carnival parties have separate locations and dates."
+    "parish_note": "Road march in the Kingston metropolitan area; confirm the route. Wider carnival parties have separate locations and dates.",
+    "mapQuery": "Kingston, Jamaica",
+    "mapScope": "area",
+    "mapNote": "Area search; confirm the Road March route and your ticket’s meeting point."
   },
   {
     "id": "regional-techbeach",

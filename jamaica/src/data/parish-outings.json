@@ -10,7 +10,11 @@
     "practical": "Choose an arranged Maidstone visit if land, schooling and family history interest you. Best for a dedicated Manchester day; skip a hurried detour from Ocho Rios. Allow roughly 1–2 hours for an agreed visit, plus your actual journey; this is a planning estimate. Confirm guide fees, parking, school access, uneven ground, seating and toilets with the host. A current step-free route is not established.",
     "source": "https://www.jnht.com/site_maidstone.php",
     "status": "Arrange access before travelling",
-    "current_service_verified": false
+    "current_service_verified": false,
+    "mapQuery": "Maidstone, Manchester, Jamaica",
+    "location": "Maidstone, Manchester, Jamaica",
+    "mapScope": "area",
+    "mapNote": "Map search for the named place or area. Arrange the actual entrance, guide meeting point and access with your host; this is not a confirmed tour departure."
   },
   {
     "id": "parish-mandeville",
@@ -23,7 +27,11 @@
     "practical": "Use an exterior viewing and a town walk as the starting point. Best for civic history and architecture; skip if your only interest is an interior tourist tour. Allow 45–75 minutes for the square and nearby public streets, a planning estimate. Court business takes priority. Do not assume interior access, free admission, permission to photograph proceedings, convenient parking or a step-free route; arrange an appropriate visit locally.",
     "source": "https://www.jnht.com/site_mandeville_court_house.php",
     "status": "Arrange access before travelling",
-    "current_service_verified": false
+    "current_service_verified": false,
+    "mapQuery": "Mandeville Court House, Manchester, Jamaica",
+    "location": "Mandeville Court House, Manchester, Jamaica",
+    "mapScope": "area",
+    "mapNote": "Map search for the named place or area. Arrange the actual entrance, guide meeting point and access with your host; this is not a confirmed tour departure."
   },
   {
     "id": "parish-alley",
@@ -36,7 +44,11 @@
     "practical": "Best for an arranged architecture and memorial visit in Clarendon. Allow about 45–90 minutes at the church, plus travel, as a planning estimate. Skip an unannounced visit during worship. Confirm donations or guide charges, parking, interior permission, steps, seating and toilet access with the congregation. No current public-tour schedule is established here.",
     "source": "https://www.jnht.com/site_st_peters_church_alley.php",
     "status": "Arrange access before travelling",
-    "current_service_verified": false
+    "current_service_verified": false,
+    "mapQuery": "Alley, Clarendon, Jamaica",
+    "location": "Alley, Clarendon, Jamaica",
+    "mapScope": "area",
+    "mapNote": "Map search for the named place or area. Arrange the actual entrance, guide meeting point and access with your host; this is not a confirmed tour departure."
   },
   {
     "id": "parish-sligoville",
@@ -49,7 +61,11 @@
     "practical": "Best for a planned St. Catherine history day, with Spanish Town providing a different view of official power. Allow 1–2 hours for an agreed village interpretation, a planning estimate. Skip an unguided drive that assumes a signed visitor trail. Confirm the meeting point, guide cost, parking and exact walking route. Homes and plots remain private; accessibility varies with the arranged route.",
     "source": "https://www.jnht.com/site_sligoville.php",
     "status": "Arrange access before travelling",
-    "current_service_verified": false
+    "current_service_verified": false,
+    "mapQuery": "Sligoville, St. Catherine, Jamaica",
+    "location": "Sligoville, St. Catherine, Jamaica",
+    "mapScope": "area",
+    "mapNote": "Map search for the named place or area. Arrange the actual entrance, guide meeting point and access with your host; this is not a confirmed tour departure."
   },
   {
     "id": "parish-seaford",
@@ -62,7 +78,11 @@
     "practical": "Best for a dedicated inland Westmoreland history outing with a local host. Allow roughly 1–2 hours for an agreed interpretation plus transport, a planning estimate. Skip if you need a quick beach-side stop. Confirm museum operation, fees, meeting point, parking, steps and toilets; the heritage listing is not a current opening guarantee. Do not enter homes or photograph residents as exhibits.",
     "source": "https://www.jnht.com/site_seaford_town.php",
     "status": "Arrange access before travelling",
-    "current_service_verified": false
+    "current_service_verified": false,
+    "mapQuery": "Seaford Town, Westmoreland, Jamaica",
+    "location": "Seaford Town, Westmoreland, Jamaica",
+    "mapScope": "area",
+    "mapNote": "Map search for the named place or area. Arrange the actual entrance, guide meeting point and access with your host; this is not a confirmed tour departure."
   },
   {
     "id": "parish-lucea",
@@ -75,7 +95,11 @@
     "practical": "Best for an arranged Hanover heritage half-day. Allow roughly 2–3 hours for a host-agreed sequence of town, museum and fort, excluding transfers; this is a planning estimate. Skip if you have only a rushed transfer window. Confirm museum and fort access, charges, parking, steps, terrain and toilets. Older institutional descriptions do not establish current opening or a continuous accessible route.",
     "source": "https://www.jnht.com/site_fort_charlotte.php",
     "status": "Arrange access before travelling",
-    "current_service_verified": false
+    "current_service_verified": false,
+    "mapQuery": "Lucea, Hanover, Jamaica",
+    "location": "Lucea, Hanover, Jamaica",
+    "mapScope": "area",
+    "mapNote": "Map search for the named place or area. Arrange the actual entrance, guide meeting point and access with your host; this is not a confirmed tour departure."
   },
   {
     "id": "parish-samsharpe",
@@ -88,7 +112,11 @@
     "practical": "Best for a town-history visit with a confirmed museum or gallery session. Allow about 90 minutes–2½ hours, a planning estimate. Skip a rushed drive-through. Confirm current exhibition, hours, charges, parking and accessible entry with the Cultural Centre; older posted fees are not quoted as current. Outdoor surfaces, crossings and interior access need separate checks.",
     "source": "https://www.jnht.com/site_sam_sharpe_square.php",
     "status": "Arrange access before travelling",
-    "current_service_verified": false
+    "current_service_verified": false,
+    "mapQuery": "Sam Sharpe Square, Montego Bay, Jamaica",
+    "location": "Sam Sharpe Square, Montego Bay, Jamaica",
+    "mapScope": "area",
+    "mapNote": "Map search for the named place or area. Arrange the actual entrance, guide meeting point and access with your host; this is not a confirmed tour departure."
   },
   {
     "id": "parish-kingston-rail",
@@ -101,7 +129,11 @@
     "practical": "Best as a documented transport-history enquiry and, if locally arranged, an exterior viewing. Skip if you expect a functioning tourist train from the heritage description. Allow 30–60 minutes at an agreed viewpoint, a planning estimate. Confirm permission, charges if any, parking, current conditions and an accessible route. Do not enter railway property or cross tracks without permission.",
     "source": "https://www.jnht.com/site_kingston_railway_station.php",
     "status": "Arrange access before travelling",
-    "current_service_verified": false
+    "current_service_verified": false,
+    "mapQuery": "Kingston Railway Station, Kingston, Jamaica",
+    "location": "Kingston Railway Station, Kingston, Jamaica",
+    "mapScope": "area",
+    "mapNote": "Map search for the named place or area. Arrange the actual entrance, guide meeting point and access with your host; this is not a confirmed tour departure."
   },
   {
     "id": "parish-titchfield",
@@ -114,7 +146,11 @@
     "practical": "Best for a daylight, locally guided Port Antonio heritage walk. Allow 1–2 hours, a planning estimate, and leave a separate block for another Portland outing. Skip if weather or mobility makes the agreed street route unsuitable. Confirm route, parking, guide cost, steps and toilet stops. Homes, school grounds and private lodging are not automatically open for inspection.",
     "source": "https://www.jnht.com/site_titchfield_peninsula.php",
     "status": "Arrange access before travelling",
-    "current_service_verified": false
+    "current_service_verified": false,
+    "mapQuery": "Titchfield, Port Antonio, Portland, Jamaica",
+    "location": "Titchfield, Port Antonio, Portland, Jamaica",
+    "mapScope": "area",
+    "mapNote": "Map search for the named place or area. Arrange the actual entrance, guide meeting point and access with your host; this is not a confirmed tour departure."
   },
   {
     "id": "parish-bath-gardens",
@@ -127,7 +163,11 @@
     "practical": "Best for a confirmed St. Thomas botany and local-history visit. Allow about 45–90 minutes in the garden as a planning estimate, with the spa considered separately. Skip an unconfirmed long detour. Check current gate access, guide availability, charges, parking, flooding effects, surfaces and toilets locally. Older institutional hours are not presented as a current guarantee.",
     "source": "https://www.jnht.com/site_Bath_Botanic_Garden.php",
     "status": "Arrange access before travelling",
-    "current_service_verified": false
+    "current_service_verified": false,
+    "mapQuery": "Bath Botanical Gardens, St. Thomas, Jamaica",
+    "location": "Bath Botanical Gardens, St. Thomas, Jamaica",
+    "mapScope": "area",
+    "mapNote": "Map search for the named place or area. Arrange the actual entrance, guide meeting point and access with your host; this is not a confirmed tour departure."
   },
   {
     "id": "parish-kendal",
@@ -140,7 +180,11 @@
     "practical": "Best for a careful transport and family-history study, with a respectful visit only after local arrangements. Allow roughly 45–90 minutes at an agreed memorial viewpoint, a planning estimate. Skip if you expect a fully operational museum based solely on the 2025 announcement. Confirm access, guide costs, parking, ground conditions and seating. Do not enter railway land or burial areas without permission.",
     "source": "https://www.jnht.com/site_kendal_railway_tragedy.php",
     "status": "Arrange access before travelling",
-    "current_service_verified": false
+    "current_service_verified": false,
+    "mapQuery": "Kendal, Manchester, Jamaica",
+    "location": "Kendal, Manchester, Jamaica",
+    "mapScope": "area",
+    "mapNote": "Map search for the named place or area. Arrange the actual entrance, guide meeting point and access with your host; this is not a confirmed tour departure."
   },
   {
     "id": "parish-kenilworth",
@@ -153,7 +197,11 @@
     "practical": "Best for an arranged Hanover industrial-history visit with permission from the present site manager. Allow around 45–90 minutes, a planning estimate, plus transport. Skip if you need a guaranteed step-free attraction or expect machinery demonstrations from the photograph. Confirm charges, permitted route, parking, structural restrictions, uneven surfaces and toilet access; do not climb ruins or enter closed areas.",
     "source": "https://www.jnht.com/site_Kenilworth_Ruins.php",
     "status": "Arrange access before travelling",
-    "current_service_verified": false
+    "current_service_verified": false,
+    "mapQuery": "Kenilworth Ruins, Hanover, Jamaica",
+    "location": "Kenilworth Ruins, Hanover, Jamaica",
+    "mapScope": "area",
+    "mapNote": "Map search for the named place or area. Arrange the actual entrance, guide meeting point and access with your host; this is not a confirmed tour departure."
   },
   {
     "id": "parish-mckay",
@@ -166,7 +214,11 @@
     "practical": "Best first as a Clarendon literature-and-language study, with a physical visit only through a confirmed local arrangement. Do not expect a staffed museum or restored birthplace based on an undated heritage photograph. Allow 45–90 minutes for an agreed interpretation, a planning estimate. Confirm the exact site, permission, guide fees, parking and accessible route. Homes and community spaces require consent.",
     "source": "https://www.jnht.com/site_claude_mckays_birthplace.php",
     "status": "Arrange access before travelling",
-    "current_service_verified": false
+    "current_service_verified": false,
+    "mapQuery": "Sunny Ville, Clarendon, Jamaica",
+    "location": "Sunny Ville, Clarendon, Jamaica",
+    "mapScope": "area",
+    "mapNote": "Map search for the named place or area. Arrange the actual entrance, guide meeting point and access with your host; this is not a confirmed tour departure."
   },
   {
     "id": "parish-roxborough",
@@ -179,7 +231,11 @@
     "practical": "Best for an arranged Manchester heritage visit paired with another local story. Allow around 45–90 minutes at an agreed site or interpretation, a planning estimate. Skip if you expect the unchanged original house or a guaranteed daily interior tour. Confirm present site operation, guide cost, parking, steps and toilets. The heritage description’s restoration proposal is not a current opening notice.",
     "source": "https://www.jnht.com/site_roxborough.php",
     "status": "Arrange access before travelling",
-    "current_service_verified": false
+    "current_service_verified": false,
+    "mapQuery": "Roxborough, Manchester, Jamaica",
+    "location": "Roxborough, Manchester, Jamaica",
+    "mapScope": "area",
+    "mapNote": "Map search for the named place or area. Arrange the actual entrance, guide meeting point and access with your host; this is not a confirmed tour departure."
   },
   {
     "id": "parish-accompong",
@@ -192,7 +248,11 @@
     "practical": "Best for a community-arranged visit with local interpretation, or a treaty-and-music study at home. Confirm whether ordinary visits or a specific annual event are available on your date. Allow 2–3 hours for an agreed community visit, a planning estimate, plus travel. Confirm local fees, guide, permitted spaces, photography, road conditions and accessible route. Skip an unannounced entry into ceremonial or private areas.",
     "source": "https://www.jnht.com/site_accompong.php",
     "status": "Arrange access before travelling",
-    "current_service_verified": false
+    "current_service_verified": false,
+    "mapQuery": "Accompong, St. Elizabeth, Jamaica",
+    "location": "Accompong, St. Elizabeth, Jamaica",
+    "mapScope": "area",
+    "mapNote": "Map search for the named place or area. Arrange the actual entrance, guide meeting point and access with your host; this is not a confirmed tour departure."
   },
   {
     "id": "parish-mooretown",
@@ -205,7 +265,11 @@
     "practical": "Best for a community-led history visit agreed in advance. Allow roughly 1–2 hours for the arranged learning session, excluding transfers, as an estimate. Confirm the host, charges, permitted route, photography and recording rules, road conditions and mobility needs. A public recording does not establish access to ceremonies or private spaces.",
     "source": "https://www.jnht.com/site_moore_town.php",
     "status": "Arrange access before travelling",
-    "current_service_verified": false
+    "current_service_verified": false,
+    "mapQuery": "Moore Town, Portland, Jamaica",
+    "location": "Moore Town, Portland, Jamaica",
+    "mapScope": "area",
+    "mapNote": "Map search for the named place or area. Arrange the actual entrance, guide meeting point and access with your host; this is not a confirmed tour departure."
   },
   {
     "id": "parish-folly",
@@ -218,7 +282,11 @@
     "practical": "Best as a Port Antonio history study using the linked house images and an agreed public viewpoint. Allow about 45–90 minutes for a local interpretation session, a planning estimate. Confirm the permitted route and present site condition; do not enter unstable mansion ruins or assume the lighthouse is open. Arrange a local guide if combining the landmarks.",
     "source": "https://jamaica55.gov.jm/profiles-portland/portland-legends/",
     "status": "Arrange access before travelling",
-    "current_service_verified": false
+    "current_service_verified": false,
+    "mapQuery": "Folly Ruins, Port Antonio, Portland, Jamaica",
+    "location": "Folly Ruins, Port Antonio, Portland, Jamaica",
+    "mapScope": "area",
+    "mapNote": "Map search for the named place or area. Arrange the actual entrance, guide meeting point and access with your host; this is not a confirmed tour departure."
   },
   {
     "id": "parish-morantpoint",
@@ -231,7 +299,11 @@
     "practical": "Best for an arranged coastal heritage visit after checking permission and the approach route. Allow roughly 45–90 minutes at an agreed viewpoint, excluding travel, as an estimate. Confirm guide costs, transport, weather, ground conditions and tower access separately. The article and historic operating descriptions are not sailing directions.",
     "source": "https://www.jnht.com/site_morant_point_lighthouse.php",
     "status": "Arrange access before travelling",
-    "current_service_verified": false
+    "current_service_verified": false,
+    "mapQuery": "Morant Point Lighthouse, St. Thomas, Jamaica",
+    "location": "Morant Point Lighthouse, St. Thomas, Jamaica",
+    "mapScope": "area",
+    "mapNote": "Map search for the named place or area. Arrange the actual entrance, guide meeting point and access with your host; this is not a confirmed tour departure."
   },
   {
     "id": "parish-stokeshall",
@@ -244,7 +316,11 @@
     "practical": "Best for an arranged ruins and estate-history visit. Allow about 45–90 minutes, excluding travel, as a planning estimate. Confirm the custodian, charges, permitted route, structural restrictions and walking surface. Do not climb walls or enter unstable sections; accessible viewpoints need specific confirmation.",
     "source": "https://www.jnht.com/site_stokes_hall_great_house.php",
     "status": "Arrange access before travelling",
-    "current_service_verified": false
+    "current_service_verified": false,
+    "mapQuery": "Stokes Hall, St. Thomas, Jamaica",
+    "location": "Stokes Hall, St. Thomas, Jamaica",
+    "mapScope": "area",
+    "mapNote": "Map search for the named place or area. Arrange the actual entrance, guide meeting point and access with your host; this is not a confirmed tour departure."
   },
   {
     "id": "parish-mona",
@@ -257,7 +333,11 @@
     "practical": "Best for an arranged campus heritage walk with a knowledgeable university or local interpreter. Allow roughly 1½–2 hours, a planning estimate. Confirm availability, charges, campus rules, shade, steps and permitted interiors. Mona great house is separately described as private property; a campus visit does not confer access to it.",
     "source": "https://www.mona.uwi.edu/uwimona-history",
     "status": "Arrange access before travelling",
-    "current_service_verified": false
+    "current_service_verified": false,
+    "mapQuery": "Mona, St. Andrew, Jamaica",
+    "location": "Mona, St. Andrew, Jamaica",
+    "mapScope": "area",
+    "mapNote": "Map search for the named place or area. Arrange the actual entrance, guide meeting point and access with your host; this is not a confirmed tour departure."
   },
   {
     "id": "parish-cinchona",
@@ -270,7 +350,11 @@
     "practical": "Best for a mountain garden visit with transport and access agreed beforehand. Allow around 1½–2 hours at the garden, excluding the potentially lengthy approach, as an estimate. Confirm the road, vehicle suitability, permission, guide charges, toilets, weather and walking gradients. Skip if you need assured step-free access without a verified route.",
     "source": "https://www.jnht.com/site_cinchona_botanical_garden.php",
     "status": "Arrange access before travelling",
-    "current_service_verified": false
+    "current_service_verified": false,
+    "mapQuery": "Cinchona Botanical Gardens, St. Andrew, Jamaica",
+    "location": "Cinchona Botanical Gardens, St. Andrew, Jamaica",
+    "mapScope": "area",
+    "mapNote": "Map search for the named place or area. Arrange the actual entrance, guide meeting point and access with your host; this is not a confirmed tour departure."
   },
   {
     "id": "parish-ward",
@@ -283,7 +367,11 @@
     "practical": "Best for a downtown performance-history walk or an agreed theatre visit. Allow 45–90 minutes for this stop, a planning estimate. Confirm present opening, tours, performances, charges, interior access and seating with the custodian. Skip if you expect a show merely because an old schedule appears online. Pair with Kingston’s railway story for a second view of the city.",
     "source": "https://www.jnht.com/site_ward_theatre.php",
     "status": "Arrange access before travelling",
-    "current_service_verified": false
+    "current_service_verified": false,
+    "mapQuery": "Ward Theatre, Kingston, Jamaica",
+    "location": "Ward Theatre, Kingston, Jamaica",
+    "mapScope": "area",
+    "mapNote": "Map search for the named place or area. Arrange the actual entrance, guide meeting point and access with your host; this is not a confirmed tour departure."
   },
   {
     "id": "parish-spanishtown",
@@ -296,7 +384,11 @@
     "practical": "Best for an arranged civic-history walk with a knowledgeable local guide. Allow about 1–2 hours, a planning estimate. Confirm charges, the route, building access, traffic crossings, shade and mobility needs. Skip if you need every interior guaranteed open. Combine with Sligoville as a separate land-history study, allowing realistic transfer time.",
     "source": "https://www.jnht.com/tours_spanish_town.php",
     "status": "Arrange access before travelling",
-    "current_service_verified": false
+    "current_service_verified": false,
+    "mapQuery": "Emancipation Square, Spanish Town, St. Catherine, Jamaica",
+    "location": "Emancipation Square, Spanish Town, St. Catherine, Jamaica",
+    "mapScope": "area",
+    "mapNote": "Map search for the named place or area. Arrange the actual entrance, guide meeting point and access with your host; this is not a confirmed tour departure."
   },
   {
     "id": "parish-flatbridge",
@@ -309,7 +401,11 @@
     "practical": "Best as a source-based road-history study with an arranged off-road viewpoint if conditions permit. Allow 30–60 minutes for interpretation, excluding travel, as an estimate. Confirm road and weather advisories, stopping permission, guide charges and safe walking access. Skip a stop if no suitable viewpoint is available; do not stand on the carriageway for photographs.",
     "source": "https://www.jnht.com/site_flat_bridge.php",
     "status": "Arrange access before travelling",
-    "current_service_verified": false
+    "current_service_verified": false,
+    "mapQuery": "Flat Bridge, St. Catherine, Jamaica",
+    "location": "Flat Bridge, St. Catherine, Jamaica",
+    "mapScope": "area",
+    "mapNote": "Map search for the named place or area. Arrange the actual entrance, guide meeting point and access with your host; this is not a confirmed tour departure."
   },
   {
     "id": "parish-goodhope",
@@ -322,7 +418,11 @@
     "practical": "Best for an arranged estate-history visit that includes labour and industrial interpretation. Allow about 1½–2 hours for the agreed historical route, a planning estimate. Confirm which buildings and archaeological areas are included, guide charges, steps, walking surfaces and current operation. Private ownership does not guarantee every site component is accessible; an adventure ticket may offer a different experience.",
     "source": "https://www.jnht.com/site_good_hope_great_house.php",
     "status": "Arrange access before travelling",
-    "current_service_verified": false
+    "current_service_verified": false,
+    "mapQuery": "Good Hope, Trelawny, Jamaica",
+    "location": "Good Hope, Trelawny, Jamaica",
+    "mapScope": "area",
+    "mapNote": "Map search for the named place or area. Arrange the actual entrance, guide meeting point and access with your host; this is not a confirmed tour departure."
   },
   {
     "id": "parish-burchell",
@@ -335,7 +435,11 @@
     "practical": "Best for an agreed congregation-history visit combined with Sam Sharpe Square. Allow 45–90 minutes for the church/manse interpretation, a planning estimate. Confirm the host, any contribution or guide charge, service times, vault access, steps and photography rules. The manse and sanctuary are separate stops; neither is automatically open because it appears in a heritage list.",
     "source": "https://www.jnht.com/site_burchell_memorial.php",
     "status": "Arrange access before travelling",
-    "current_service_verified": false
+    "current_service_verified": false,
+    "mapQuery": "Burchell Memorial Baptist Church, Montego Bay, Jamaica",
+    "location": "Burchell Memorial Baptist Church, Montego Bay, Jamaica",
+    "mapScope": "area",
+    "mapNote": "Map search for the named place or area. Arrange the actual entrance, guide meeting point and access with your host; this is not a confirmed tour departure."
   },
   {
     "id": "parish-fortcharlotte",
@@ -348,7 +452,11 @@
     "practical": "Best for an arranged Lucea harbour-history stop with a local interpreter. Allow 45–90 minutes, excluding transfers, as a planning estimate. Confirm the permitted route, custodian, guide charge, school-site restrictions, uneven ground and accessible viewpoints. Skip an unannounced entry into school or restricted areas. Combine with the town and museum only after checking their separate arrangements.",
     "source": "https://www.jnht.com/site_fort_charlotte.php",
     "status": "Arrange access before travelling",
-    "current_service_verified": false
+    "current_service_verified": false,
+    "mapQuery": "Fort Charlotte, Lucea, Hanover, Jamaica",
+    "location": "Fort Charlotte, Lucea, Hanover, Jamaica",
+    "mapScope": "area",
+    "mapNote": "Map search for the named place or area. Arrange the actual entrance, guide meeting point and access with your host; this is not a confirmed tour departure."
   },
   {
     "id": "parish-libertyhall",
@@ -361,7 +469,11 @@
     "practical": "Best for an arranged museum and downtown institutional-history visit. Allow about 1–1½ hours, a planning estimate. Confirm current opening, admission, guided interpretation, stairs or lift access and the permitted route. Skip if you expect a live UNIA meeting or assume every floor is accessible from the facade photograph. Combine with Ward Theatre as a separately arranged stop.",
     "source": "https://libertyhall-ioj.org.jm/our-history/",
     "status": "Arrange access before travelling",
-    "current_service_verified": false
+    "current_service_verified": false,
+    "mapQuery": "Liberty Hall, 76 King Street, Kingston, Jamaica",
+    "location": "Liberty Hall, 76 King Street, Kingston, Jamaica",
+    "mapScope": "area",
+    "mapNote": "Map search for the named place or area. Arrange the actual entrance, guide meeting point and access with your host; this is not a confirmed tour departure."
   },
   {
     "id": "parish-halsehall",
@@ -374,7 +486,11 @@
     "practical": "Best for an agreed estate-architecture visit with a knowledgeable custodian. Allow 45–90 minutes for the permitted historical route, a planning estimate. Confirm ownership contact, charges, interior access, steps, parking and walking surfaces. Skip an unannounced entry or an expectation that the photographed residence operates as a public museum.",
     "source": "https://www.jnht.com/site_halse_hall_great_house.php",
     "status": "Arrange access before travelling",
-    "current_service_verified": false
+    "current_service_verified": false,
+    "mapQuery": "Halse Hall, Clarendon, Jamaica",
+    "location": "Halse Hall, Clarendon, Jamaica",
+    "mapScope": "area",
+    "mapNote": "Map search for the named place or area. Arrange the actual entrance, guide meeting point and access with your host; this is not a confirmed tour departure."
   },
   {
     "id": "parish-marshallspen",
@@ -387,7 +503,11 @@
     "practical": "Best for an appointment with the owner or authorised guide, specifying whether you want house history, birding or both. Allow 1½–2 hours for an agreed session, a planning estimate. Confirm group requirements, price, accommodation separately, walking gradients and suitable timing. It is a private residence; a website’s appointment offer is not a confirmed reservation.",
     "source": "https://www.jnht.com/site_marshalls_pen_great_house.php",
     "status": "Arrange access before travelling",
-    "current_service_verified": false
+    "current_service_verified": false,
+    "mapQuery": "Marshall’s Pen, Manchester, Jamaica",
+    "location": "Marshall’s Pen, Manchester, Jamaica",
+    "mapScope": "area",
+    "mapNote": "Map search for the named place or area. Arrange the actual entrance, guide meeting point and access with your host; this is not a confirmed tour departure."
   },
   {
     "id": "parish-savannalamar",
@@ -400,7 +520,11 @@
     "practical": "Best for an arranged town-history walk with a permitted coastal viewpoint. Allow about 1–1½ hours, a planning estimate. Confirm the guide, charges, weather, shore conditions, traffic crossings and walking access. Do not enter water or unstable masonry. An old heritage page’s restaurant reference is not a confirmed current dining option.",
     "source": "https://www.jnht.com/site_savanna_la_mar_fort.php",
     "status": "Arrange access before travelling",
-    "current_service_verified": false
+    "current_service_verified": false,
+    "mapQuery": "Savanna-la-Mar, Westmoreland, Jamaica",
+    "location": "Savanna-la-Mar, Westmoreland, Jamaica",
+    "mapScope": "area",
+    "mapNote": "Map search for the named place or area. Arrange the actual entrance, guide meeting point and access with your host; this is not a confirmed tour departure."
   },
   {
     "id": "parish-lacovia",
@@ -413,7 +537,11 @@
     "practical": "Best for a respectful local-history stop with an interpreter who distinguishes inscription from tale. Allow 30–60 minutes, a planning estimate. Confirm permission, a safe stopping place, charges if guided, traffic and walking surfaces. Skip physical contact with the stones or an expectation of a proved Churchill genealogy. Pair with Black River as a separate parish-capital comparison.",
     "source": "https://www.jnht.com/site_lacovia_tombstones.php",
     "status": "Arrange access before travelling",
-    "current_service_verified": false
+    "current_service_verified": false,
+    "mapQuery": "Lacovia, St. Elizabeth, Jamaica",
+    "location": "Lacovia, St. Elizabeth, Jamaica",
+    "mapScope": "area",
+    "mapNote": "Map search for the named place or area. Arrange the actual entrance, guide meeting point and access with your host; this is not a confirmed tour departure."
   },
   {
     "id": "parish-blenheim",
@@ -426,7 +554,11 @@
     "practical": "Best for an arranged birthplace and exhibition visit with local interpretation. Allow about 45–90 minutes, a planning estimate. Confirm opening, admission, the approach road, parking, seating and mobility access. An old webpage’s daily-opening sentence is not a confirmed present schedule. Pair with Lucea as a separate Hanover history stop rather than assuming a ready-made tour circuit.",
     "source": "https://www.jnht.com/site_blenheim.php",
     "status": "Arrange access before travelling",
-    "current_service_verified": false
+    "current_service_verified": false,
+    "mapQuery": "Blenheim, Hanover, Jamaica",
+    "location": "Blenheim, Hanover, Jamaica",
+    "mapScope": "area",
+    "mapNote": "Map search for the named place or area. Arrange the actual entrance, guide meeting point and access with your host; this is not a confirmed tour departure."
   },
   {
     "id": "parish-stonygut",
@@ -439,7 +571,11 @@
     "practical": "Arrange a locally informed Stony Gut visit before leaving your southeastern base. Confirm lawful entry, guide availability, road approach, walking surfaces, seating and toilets. Allow 60–90 minutes for an agreed visit as a planning estimate; this is not a booked tour or a verified step-free route.",
     "source": "https://www.jnht.com/site_stony_gut.php",
     "status": "Arrange access before travelling",
-    "current_service_verified": false
+    "current_service_verified": false,
+    "mapQuery": "Stony Gut, St. Thomas, Jamaica",
+    "location": "Stony Gut, St. Thomas, Jamaica",
+    "mapScope": "area",
+    "mapNote": "Map search for the named place or area. Arrange the actual entrance, guide meeting point and access with your host; this is not a confirmed tour departure."
   },
   {
     "id": "parish-chapelton",
@@ -452,7 +588,11 @@
     "practical": "Plan a short, locally informed daytime Chapelton visit. Confirm park access, traffic crossings, seating, toilets and any guided interpretation. Allow 45–90 minutes as a planning estimate, with the actual transfer from your base kept separate.",
     "source": "https://jnht.com/site_Chapelton_Clock_Tower.php",
     "status": "Arrange access before travelling",
-    "current_service_verified": false
+    "current_service_verified": false,
+    "mapQuery": "Chapelton, Clarendon, Jamaica",
+    "location": "Chapelton, Clarendon, Jamaica",
+    "mapScope": "area",
+    "mapNote": "Map search for the named place or area. Arrange the actual entrance, guide meeting point and access with your host; this is not a confirmed tour departure."
   },
   {
     "id": "parish-fourpaths",
@@ -465,7 +605,11 @@
     "practical": "Ask JNHT or the relevant property authority about lawful exterior viewing or an arranged heritage visit. No current passenger service, museum opening or interior admission is implied. Keep clear of tracks and working property; confirm a safe waiting and pickup point.",
     "source": "https://www.jnht.com/site_four_paths_railway_station.php",
     "status": "Arrange access before travelling",
-    "current_service_verified": false
+    "current_service_verified": false,
+    "mapQuery": "Four Paths, Clarendon, Jamaica",
+    "location": "Four Paths, Clarendon, Jamaica",
+    "mapScope": "area",
+    "mapNote": "Map search for the named place or area. Arrange the actual entrance, guide meeting point and access with your host; this is not a confirmed tour departure."
   },
   {
     "id": "parish-milkriver",
@@ -478,7 +622,11 @@
     "practical": "Confirm the actual bath or hotel service, booking, price, duration, changing facilities, steps and assistance with the operator. Use an appropriate qualified source for personal health suitability. Allow the booked service and your real transfer to determine the day; no therapeutic result is promised.",
     "source": "https://www.mot.gov.jm/agency/milk-river-hotel-and-spa",
     "status": "Arrange access before travelling",
-    "current_service_verified": false
+    "current_service_verified": false,
+    "mapQuery": "Milk River Bath, Clarendon, Jamaica",
+    "location": "Milk River Bath, Clarendon, Jamaica",
+    "mapScope": "area",
+    "mapNote": "Map search for the named place or area. Arrange the actual entrance, guide meeting point and access with your host; this is not a confirmed tour departure."
   },
   {
     "id": "parish-masonriver",
@@ -492,6 +640,10 @@
     "practical": "Ask the Natural History Museum about current hosted visits to Mason River, including location, charges, trail condition, boots or footwear, toilets, shade and assistance. Confirm access before travelling; museum office hours are not reserve opening hours. Keep to the agreed route.",
     "source": "https://nhmj-ioj.org.jm/mason-river-protected-area-game-sanctuary-ramsar-site/",
     "status": "Arrange access before travelling",
-    "current_service_verified": false
+    "current_service_verified": false,
+    "mapQuery": "Mason River, Clarendon, Jamaica",
+    "location": "Mason River, Clarendon, Jamaica",
+    "mapScope": "area",
+    "mapNote": "Map search for the named place or area. Arrange the actual entrance, guide meeting point and access with your host; this is not a confirmed tour departure."
   }
 ]
