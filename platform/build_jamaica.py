@@ -45,6 +45,9 @@ def package(source, dest):
     parser=References();parser.feed(html)
     parser.refs += css_urls(" ".join(re.findall(r"<style\b[^>]*>(.*?)</style>", html, re.I | re.S)))
     outputs=set()
+    unavailable=[]
+    placeholder="/assets/tonys-guide-image-placeholder.svg"
+    image_extensions={".jpg",".jpeg",".png",".webp",".gif",".avif"}
     for ref in parser.refs:
         candidate=local_path(ref)
         if candidate is None: continue
@@ -54,10 +57,19 @@ def package(source, dest):
         if root not in target.parents and root!=target:
             raise ValueError("Asset escapes source directory: "+ref)
         if not target.is_file():
+            if target.suffix.lower() in image_extensions:
+                unavailable.append(ref)
+                html=html.replace(ref,placeholder)
+                continue
             raise FileNotFoundError("Missing local asset: "+ref+" (looked for "+str(target)+")")
         outputs.add((target,rel))
     dest.mkdir(parents=True,exist_ok=True)
-    shutil.copy2(source,dest/"index.html")
+    (dest/"index.html").write_text(html,encoding="utf-8")
+    if unavailable:
+        fallback=dest/"assets"/"tonys-guide-image-placeholder.svg"
+        fallback.parent.mkdir(parents=True,exist_ok=True)
+        fallback.write_text('<svg xmlns="http://www.w3.org/2000/svg" width="960" height="640" viewBox="0 0 960 640"><rect width="960" height="640" fill="#e7e7df"/><path d="M200 430L370 270L480 365L600 225L760 430" fill="none" stroke="#adb6a7" stroke-width="22"/><text x="480" y="515" text-anchor="middle" font-family="sans-serif" font-size="24" fill="#4f5d54">Image being updated</text></svg>',encoding="utf-8")
+        print("WARN: substituted",len(unavailable),"missing images",unavailable[:12])
     # CSS assets can reference fonts and further images; inspect them recursively.
     pending=list(outputs)
     checked=set()
