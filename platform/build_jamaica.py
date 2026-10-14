@@ -6,7 +6,7 @@ Does not modify the live site or Render configuration.
 from html.parser import HTMLParser
 from pathlib import Path
 from urllib.parse import urlsplit, unquote
-import shutil, sys, re
+import shutil, sys, re, subprocess
 
 class References(HTMLParser):
     def __init__(self):
@@ -95,4 +95,27 @@ def package(source, dest):
     return len(outputs)
 if __name__=="__main__":
     if len(sys.argv)!=3: raise SystemExit(__doc__)
-    package(sys.argv[1],sys.argv[2])
+    # The canonical Jamaica builder extracts embedded, credited base64 images
+    # into public/assets. Never replace original images with placeholders.
+    dest=Path(sys.argv[2]).resolve()
+    source=Path(sys.argv[1]).resolve()
+    if dest==source.parent or source.parent in dest.parents:
+        raise ValueError("Destination must be outside source directory")
+    dest.mkdir(parents=True,exist_ok=True)
+    subprocess.run(["node","jamaica/scripts/build.cjs","--output",str(dest/"index.html")],check=True)
+    built=dest/"index.html"
+    html=built.read_text(encoding="utf-8")
+    refs=References()
+    refs.feed(html)
+    refs.refs += css_urls(" ".join(re.findall(r"<style\\b[^>]*>(.*?)</style>",html,re.I|re.S)))
+    missing=[]
+    for ref in refs.refs:
+        loc=local_path(ref)
+        if loc:
+            candidate=(dest/loc.lstrip("/")).resolve()
+            if dest not in candidate.parents or not candidate.is_file():
+                missing.append(ref)
+    if missing:
+        raise FileNotFoundError("Generated output contains missing assets: "+repr(missing[:20]))
+    print("PASS: canonical Jamaica builder output and",len(refs.refs),"asset references checked")
+
