@@ -6,7 +6,7 @@ Does not modify the live site or Render configuration.
 from html.parser import HTMLParser
 from pathlib import Path
 from urllib.parse import urlsplit, unquote
-import shutil, sys
+import shutil, sys, re
 
 class References(HTMLParser):
     def __init__(self):
@@ -19,8 +19,13 @@ class References(HTMLParser):
             key="href"
         else: return
         if a.get(key): self.refs.append(a[key])
+        if a.get("style"):
+            self.refs += css_urls(a["style"])
         if tag in ("img","source") and a.get("srcset"):
             self.refs += [item.strip().split()[0] for item in a["srcset"].split(",") if item.strip()]
+def css_urls(style):
+    return [x.strip().strip('\\\"\\\'') for x in re.findall(r"url\\(\\s*([^)]*?)\\s*\\)", style, re.I)]
+
 def local_path(reference):
     if reference.startswith(("#","//","data:","mailto:","tel:","javascript:")): return None
     parsed=urlsplit(reference)
@@ -38,6 +43,7 @@ def package(source, dest):
         raise ValueError("Destination must be outside the source directory")
     html=source.read_text(encoding="utf-8")
     parser=References();parser.feed(html)
+    parser.refs += css_urls(" ".join(re.findall(r"<style\\b[^>]*>(.*?)</style>", html, re.I | re.S)))
     outputs=set()
     for ref in parser.refs:
         candidate=local_path(ref)
@@ -52,6 +58,24 @@ def package(source, dest):
         outputs.add((target,rel))
     dest.mkdir(parents=True,exist_ok=True)
     shutil.copy2(source,dest/"index.html")
+    # CSS assets can reference fonts and further images; inspect them recursively.
+    pending=list(outputs)
+    checked=set()
+    while pending:
+        target, rel=pending.pop()
+        if rel in checked: continue
+        checked.add(rel)
+        if target.suffix.lower()==".css":
+            css=target.read_text(encoding="utf-8")
+            for ref in css_urls(css):
+                candidate=local_path(ref)
+                if candidate is None: continue
+                child_rel=str((Path(rel).parent / candidate.lstrip("/")).as_posix()) if not candidate.startswith("/") else candidate.lstrip("/")
+                child=(root/child_rel).resolve()
+                if root not in child.parents and child!=root: raise ValueError("CSS asset escapes source directory: "+ref)
+                if not child.is_file(): raise FileNotFoundError("Missing CSS asset: "+ref)
+                item=(child,child_rel)
+                if item not in outputs: outputs.add(item);pending.append(item)
     for target,rel in sorted(outputs,key=lambda x:x[1]):
         final=dest/rel;final.parent.mkdir(parents=True,exist_ok=True)
         shutil.copy2(target,final)
