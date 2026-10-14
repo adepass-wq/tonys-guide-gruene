@@ -24,7 +24,7 @@ class References(HTMLParser):
         if tag in ("img","source") and a.get("srcset"):
             self.refs += [item.strip().split()[0] for item in a["srcset"].split(",") if item.strip()]
 def css_urls(style):
-    return [x.strip().strip('\\\"\\\'') for x in re.findall(r"url\\(\\s*([^)]*?)\\s*\\)", style, re.I)]
+    return [x.strip().strip(chr(34) + chr(39)) for x in re.findall(r"url\(\s*([^)]*?)\s*\)", style, re.I)]
 
 def local_path(reference):
     if reference.startswith(("#","//","data:","mailto:","tel:","javascript:")): return None
