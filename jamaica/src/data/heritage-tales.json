@@ -1,0 +1,218 @@
+[
+  {
+    "id": "heritage-tale-ch1a",
+    "title": "The Fish-basket.",
+    "teller": "George Parkes, Mandeville.",
+    "group": "Power & trickery",
+    "tone": "Darker",
+    "note": "Threats, killing and an animal death.",
+    "summary": "A stolen catch becomes a contest between physical force and deception."
+  },
+  {
+    "id": "heritage-tale-ch1b",
+    "title": "The Storm.",
+    "teller": "Vivian Bailey, Mandeville.",
+    "group": "Power & trickery",
+    "tone": "Trickery",
+    "note": "Deception and rough treatment.",
+    "summary": "A storm warning gets Tiger tied to his own mango tree."
+  },
+  {
+    "id": "heritage-tale-ch3",
+    "title": "Tiger as Riding-horse.",
+    "teller": "William Forbes, Dry River.",
+    "group": "Power & trickery",
+    "tone": "Trickery",
+    "note": "Humiliation and a song referring to death.",
+    "summary": "A boast about Tiger becomes a public demonstration."
+  },
+  {
+    "id": "heritage-tale-ch6",
+    "title": "Tiger’s Breakfast.",
+    "teller": "Richard Morgan, Santa Cruz Mountains.",
+    "group": "Power & trickery",
+    "tone": "Darker",
+    "note": "Food theft, bodily injury and animal cruelty.",
+    "summary": "A breakfast trick is answered by a dangerous instruction."
+  },
+  {
+    "id": "heritage-tale-ch9",
+    "title": "The Christening.",
+    "teller": "Charles Wright, Maroon Town, Cock-pit country.",
+    "group": "Power & trickery",
+    "tone": "Trickery",
+    "note": "Theft and false accusation.",
+    "summary": "Names of imaginary children conceal a disappearing shared meal."
+  },
+  {
+    "id": "heritage-tale-ch20",
+    "title": "Tacoomah’s Corn-piece.",
+    "teller": "Adolphus Iron, Claremont, St. Ann.",
+    "group": "Power & trickery",
+    "tone": "Darker",
+    "note": "Crop theft and a death.",
+    "summary": "Anansi’s music gives instructions while providing him with an alibi."
+  },
+  {
+    "id": "heritage-tale-ch40a",
+    "title": "The Rain.",
+    "teller": "Richard Pottinger, Claremont, St. Ann.",
+    "group": "Animal explanations",
+    "tone": "Trickery",
+    "note": "Threat of being eaten.",
+    "summary": "A goat uses transformation and another animal’s help to escape."
+  },
+  {
+    "id": "heritage-tale-ch41",
+    "title": "Turtle’s Escape.",
+    "teller": "Henry Spence, Bog, Westmoreland.",
+    "group": "Animal explanations",
+    "tone": "Trickery",
+    "note": "Threat of being cooked and eaten.",
+    "summary": "Turtle turns the expected behaviour of cooking water into a route out."
+  },
+  {
+    "id": "heritage-tale-ch43",
+    "title": "Quit-quit and Anansi.",
+    "teller": "David Roach, Lacovia. / Henry Spence, Bog, Westmoreland.",
+    "group": "Music & riddles",
+    "tone": "Trickery",
+    "note": "Rivalry, humiliation and nudity.",
+    "summary": "Two versions let music, food and rivalry change who wins attention."
+  },
+  {
+    "id": "heritage-tale-ch46",
+    "title": "Why Tumble-bug Rolls in the Dung.",
+    "teller": "William Forbes, Dry River, Cock-pit country.",
+    "group": "Animal explanations",
+    "tone": "Trickery",
+    "note": "Dung, theft and humiliation.",
+    "summary": "Swapped jars turn a marriage competition into an animal explanation."
+  },
+  {
+    "id": "heritage-tale-ch48",
+    "title": "Why Dog is always Looking.",
+    "teller": "Moses Hendricks, Mandeville.",
+    "group": "Animal explanations",
+    "tone": "Trickery",
+    "note": "Deception about land and food.",
+    "summary": "Anansi’s description of a yam harvest depends on a change of scale."
+  },
+  {
+    "id": "heritage-tale-ch49",
+    "title": "Why Rocks at the River are covered with Moss.",
+    "teller": "Sarah Vassel, Bog, Westmoreland.",
+    "group": "Animal explanations",
+    "tone": "Darker",
+    "note": "Injury and the removal of skin.",
+    "summary": "A rock asks to share a meal, then refuses to let Anansi leave."
+  },
+  {
+    "id": "heritage-tale-ch52",
+    "title": "Why Toad Croaks.",
+    "teller": "Richard Morgan, Santa Cruz Mountains.",
+    "group": "Animal explanations",
+    "tone": "Darker",
+    "note": "Attempted scalding and a threat of death.",
+    "summary": "Toad completes a task, but the promised reward becomes a threat."
+  },
+  {
+    "id": "heritage-tale-ch53",
+    "title": "Why Woodpecker Bores Wood.",
+    "teller": "Samuel Wright, Maroon Town, Cock-pit country.",
+    "group": "Animal explanations",
+    "tone": "Reflective",
+    "note": "A mother’s illness, death and burial.",
+    "summary": "A burial promise explains woodpecker’s work."
+  },
+  {
+    "id": "heritage-tale-ch56",
+    "title": "Rat’s Wedding.",
+    "teller": "Thomas Williams, Harmony Hall, Cock-pit country.",
+    "group": "Animal explanations",
+    "tone": "Darker",
+    "note": "A rat is trapped and killed; widowhood.",
+    "summary": "Burnt wedding rice draws Rat away from his new wife."
+  },
+  {
+    "id": "heritage-tale-ch61",
+    "title": "The Fasting Trial (fragment).",
+    "teller": "Julia Gentle, Santa Cruz Mountains.",
+    "group": "Music & riddles",
+    "tone": "Reflective",
+    "note": "Hunger; the source labels this a fragment.",
+    "summary": "A brief fasting contest is preserved with two sets of song words."
+  },
+  {
+    "id": "heritage-tale-ch64",
+    "title": "Settling the Father’s Debt.",
+    "teller": "Simeon Falconer, Santa Cruz Mountains.",
+    "group": "Music & riddles",
+    "tone": "Reflective",
+    "note": "A dying child, parasites and household debt.",
+    "summary": "A child’s riddling explanations become payment of a family debt."
+  },
+  {
+    "id": "heritage-tale-ch67",
+    "title": "The Tree-wife.",
+    "teller": "Thomas White, Maroon Town.",
+    "group": "Magic & households",
+    "tone": "Reflective",
+    "note": "Magical marriage, nakedness and a disputed household relationship.",
+    "summary": "A tree becomes a wife; a song follows a trail of answers."
+  },
+  {
+    "id": "heritage-tale-ch72",
+    "title": "The Barking Puppy.",
+    "teller": "Alfred Williams, Maroon Town, Cock-pit country.",
+    "group": "Magic & households",
+    "tone": "Darker",
+    "note": "Graphic animal cruelty and a fatal violent attack.",
+    "summary": "A warning survives repeated attempts to silence it."
+  },
+  {
+    "id": "heritage-tale-ch73b",
+    "title": "The Golden Cage.",
+    "teller": "William Harris, Maggotty.",
+    "group": "Magic & households",
+    "tone": "Darker",
+    "note": "A child is thrown into a well; retaliatory violence.",
+    "summary": "A king’s daughter and a bird’s warning song."
+  },
+  {
+    "id": "heritage-tale-ch90",
+    "title": "Bird Arinto.",
+    "teller": "Mrs. Ramtalli, Maggotty.",
+    "group": "Magic & households",
+    "tone": "Darker",
+    "note": "A flesh-eating bird, abandonment and killing.",
+    "summary": "David Lawrence defeats a bird; Anansi claims the achievement."
+  },
+  {
+    "id": "heritage-tale-ch92a",
+    "title": "Anansi and Mosquito.",
+    "teller": "George Parkes, Mandeville.",
+    "group": "Power & trickery",
+    "tone": "Trickery",
+    "note": "Betrayal and an unpaid collaborator.",
+    "summary": "Mosquito learns a hidden name, but Anansi keeps the reward."
+  },
+  {
+    "id": "heritage-tale-ch99",
+    "title": "The Water Crayfish.",
+    "teller": "Moses Hendricks, Mandeville.",
+    "group": "Magic & households",
+    "tone": "Darker",
+    "note": "A child is hit; a magical child leaves a household.",
+    "summary": "A found child returns to the river and reveals another identity."
+  },
+  {
+    "id": "heritage-tale-ch118",
+    "title": "Robin as Fortune-teller.",
+    "teller": "Henry Spence, Bog, Westmoreland.",
+    "group": "Music & riddles",
+    "tone": "Trickery",
+    "note": "Animals killed for food and a false claim to special knowledge.",
+    "summary": "Accidental remarks make Robin look like a successful fortune-teller."
+  }
+]
