@@ -6,7 +6,7 @@ function disclosure(node,title,id){const d=document.createElement('details');d.c
 const intro=page.querySelector('.page-intro');intro.querySelector('h1').textContent='Make a good Jamaica day.';
 intro.querySelectorAll(':scope > p:not(.eyebrow):not(.route-collection-link)').forEach(p=>p.remove());
 const lead=document.createElement('p');lead.textContent='Choose your region and time. Save a suggested day, then adjust only what you need.';intro.querySelector('h1').after(lead);
-const nav=page.querySelector('.plan-steps');nav.innerHTML='<a href="#trip-planner">1 · Choose a day</a><a href="#trip-shortlist-section">2 · Your saved places</a><a href="#customize-day">3 · Customize your day</a><a href="#all-tools">All tools →</a>';intro.after(nav,E('trip-planner'),E('trip-shortlist-section'));
+const nav=page.querySelector('.plan-steps');nav.innerHTML='<a href="#trip-planner">1 · Choose a day</a><a href="#trip-shortlist-section">2 · Your saved places</a><a href="#customize-day">3 · Refine your day</a><a href="#trip-takeaway">4 · Take it with you</a>';intro.after(nav,E('trip-planner'),E('trip-shortlist-section'));
 const savedHeading=E('trip-shortlist-section').querySelector('h2');savedHeading.textContent='Your saved places. Your day.';
 const planHow=page.querySelector('.plan-howto');planHow.innerHTML='Save a suggested day below. Its places carry into comparison and timing; you can change the order or remove stops.';
 // Put region before the length choices, with date and activity preferences secondary.
@@ -16,12 +16,12 @@ const alternatives=E('travel-alternatives');disclosure(alternatives,'Rain, mobil
 const savedWork=E('my-jamaica');page.append(savedWork);disclosure(savedWork,'Saved reading & trip counts');
 const contacts=E('visitor-resource-desk');page.append(contacts);disclosure(contacts,'Contacts, transport & accessibility');
 const reading=E('my-reading');disclosure(reading,'Your saved reading & notes');
-const cloud=page.querySelector('.trip-cloud');disclosure(cloud,'Download, share or print your trip');
+const cloud=page.querySelector('.trip-cloud');disclosure(cloud,'Take your day with you: download, share or print','trip-takeaway');
 const email=E('edition-email-form');disclosure(email,'Get Jamaica updates (optional)');
 // Permanent directory provides one-click access even when optional modules are collapsed.
 const tools=E('tools'),catalog=tools.querySelector('.tool-shortcuts');catalog.id='all-tools';catalog.setAttribute('aria-label','All planning tools');
 const toolIntro=tools.querySelector('.page-intro');toolIntro.querySelector('h2').textContent='All tools';toolIntro.querySelector('p:last-child').textContent='Go straight to any tool, or open the optional controls below.';
-const custom=document.createElement('details');custom.id='customize-day';custom.className='simple-disclosure wrap';custom.innerHTML='<summary>Customize your day</summary><p>Use your saved places, compare alternatives, adjust timing or enter your quoted costs.</p>';catalog.after(custom);
+const custom=document.createElement('details');custom.id='customize-day';custom.className='simple-disclosure wrap';custom.innerHTML='<summary>Refine your day (optional)</summary><p>Use your saved places, compare alternatives, adjust timing or enter your quoted costs.</p>';catalog.after(custom);disclosure(catalog,'All planning tools','planning-tool-directory');
 for(const id of ['stop-comparison','personal-day','travel-budget'])custom.append(E(id).closest('.plan-tool-disclosure'));
 const checklist=E('trip-checklist').closest('.plan-tool-disclosure');E('trip-shortlist-section').querySelector('.wrap').append(checklist);
 const connected=E('connected-travel-tools');connected.hidden=true; // Only the now-empty section heading remains.
@@ -61,6 +61,4 @@ E('schedule-stops').addEventListener('change',showStops);if(saved().length)syncT
 function openTarget(){let id;try{id=decodeURIComponent(location.hash.slice(1));}catch(e){return;}const target=E(id);if(!target)return;for(let n=target.parentElement;n;n=n.parentElement)if(n.tagName==='DETAILS')n.open=true;if(target.tagName==='DETAILS')target.open=true;}
 window.addEventListener('hashchange',openTarget);openTarget();
 const budgetNote=E('budget-note');budgetNote.classList.add('budget-completeness');
-// Three primary history paths; specialist entry points are one disclosure away.
-const historyNav=E('history').querySelector('nav[aria-label="Choose how to explore"]');if(historyNav){const links=[...historyNav.querySelectorAll('a')],more=document.createElement('details');more.className='simple-disclosure';more.innerHTML='<summary>More ways to explore history</summary>';for(const a of links){if(['#stories','#parish-library','#learning-desk'].includes(a.getAttribute('href'))){a.textContent={'#stories':'Search history','#parish-library':'Choose a parish','#learning-desk':'Follow a learning path'}[a.getAttribute('href')];}else more.append(a);}historyNav.after(more);const grid=E('learn-jamaica').querySelector('.intent-grid');for(const a of [...grid.children]){if(!['#stories','#parish-library','#learning-desk'].includes(a.getAttribute('href')))more.append(a);else a.querySelector('h3').textContent={'#stories':'Search history','#parish-library':'Choose a parish','#learning-desk':'Follow a learning path'}[a.getAttribute('href')];}more.append(E('learn-jamaica').querySelector('.learning-collection-links'));}
 })();

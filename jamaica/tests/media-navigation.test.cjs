@@ -3,7 +3,7 @@ const {site}=require('./helpers.cjs');
 test('collection directory opens each destination and retains reciprocal navigation',()=>{
  const s=site({initialHash:'#culture-directory'});try{
   assert.equal(s.E('history').hidden,false);
-  const links=[...s.E('culture-directory').querySelectorAll('nav a')];assert.equal(links.length,12);
+  const links=[...s.E('culture-directory').querySelectorAll('nav a')];assert.equal(links.length,6);
   for(const a of links){const id=a.hash.slice(1);assert.ok(s.E(id),id);s.route(id);assert.equal(s.E(id).closest('.guide-page').hidden,false,id);}
   for(const id of ['music','voices','storytelling','watch'])assert.ok(s.E(id).querySelector('a[href="#culture-directory"]'),id);
   for(const a of s.d.querySelectorAll('.reading-article')){assert.ok(a.querySelector('.culture-collection-nav'));const outline=a.querySelector('.culture-outline');if(outline)assert.ok(outline.compareDocumentPosition(a.querySelector('.narrative-body'))&s.w.Node.DOCUMENT_POSITION_FOLLOWING);}
