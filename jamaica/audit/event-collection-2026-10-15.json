@@ -1,0 +1,299 @@
+{
+  "checked": "2026-10-15",
+  "policy": "Collect published organisational announcements; no individual submissions.",
+  "added": [
+    {
+      "id": "local-lovers-rock-a-night-of-british-reggae",
+      "name": "Lovers Rock: A Night of British Reggae",
+      "start": "2026-10-16",
+      "end": "2026-10-17",
+      "area": "North coast",
+      "genre": "Music & nightlife",
+      "location": "Ocean 11 Restaurant & Bar, 6 Fisherman’s Point Road, Ocho Rios",
+      "description": "Real Rock’s British-reggae evening runs from 7 p.m. on Friday to 2 a.m. Saturday.",
+      "call": "A local Ocho Rios music night. Arrange your late return before arrival.",
+      "cost": "Presold JMD 4,000 shown; confirm fees and availability.",
+      "source": "https://touchstonelink.com/event/lovers-rock-a-night-of-british-reggae/",
+      "verify": "https://touchstonelink.com/event/lovers-rock-a-night-of-british-reggae/",
+      "map": "Ocean 11 Restaurant & Bar, 6 Fisherman’s Point Road, Ocho Rios, Jamaica",
+      "parishes": [
+        "St. Ann"
+      ],
+      "checked": "2026-10-15",
+      "sourceKind": "Organiser ticket listing"
+    },
+    {
+      "id": "local-roots-of-jamaica",
+      "name": "Roots of Jamaica: culture at Hope Gardens",
+      "start": "2026-10-17",
+      "end": "2026-10-17",
+      "area": "Elsewhere in Jamaica",
+      "genre": "Culture & family",
+      "location": "The Poetry Corner, Hope Botanical Gardens, 227 Old Hope Road",
+      "description": "Heritage day with poetry, storytelling, artisans, music and food, 11 a.m.–5 p.m.",
+      "call": "Bring a blanket for the lawn. The organiser prohibits outside food and drink and does not allow re-entry.",
+      "cost": "Advertised adult JMD 1,000, child JMD 500; under 3 free. Confirm booking total.",
+      "source": "https://touchstonelink.com/event/roots-of-jamaica/",
+      "verify": "https://touchstonelink.com/event/roots-of-jamaica/",
+      "map": "The Poetry Corner, Hope Botanical Gardens, 227 Old Hope Road, Jamaica",
+      "parishes": [
+        "St. Andrew"
+      ],
+      "checked": "2026-10-15",
+      "sourceKind": "Organiser ticket listing"
+    },
+    {
+      "id": "local-jesus-kulcha",
+      "name": "Jesus Kulcha: Old Harbour worship and performances",
+      "start": "2026-10-18",
+      "end": "2026-10-18",
+      "area": "Elsewhere in Jamaica",
+      "genre": "Culture & family",
+      "location": "Old Harbour High School grounds, 33 South Street, Old Harbour",
+      "description": "The Ecclesia Family Ministries presents worship and live performances. Gates open at 6 p.m.; programme starts at 7 p.m.",
+      "call": "A faith-centred local evening. Check seating and access with the organiser.",
+      "cost": "General admission JMD 4,000 shown; confirm fees and availability.",
+      "source": "https://touchstonelink.com/event/jesus-kulcha/",
+      "verify": "https://touchstonelink.com/event/jesus-kulcha/",
+      "map": "Old Harbour High School grounds, 33 South Street, Old Harbour, Jamaica",
+      "parishes": [
+        "St. Catherine"
+      ],
+      "checked": "2026-10-15",
+      "sourceKind": "Organiser ticket listing"
+    },
+    {
+      "id": "local-boo-at-the-zoo-2026",
+      "name": "Boo at the Zoo: two Halloween evenings",
+      "start": "2026-10-23",
+      "end": "2026-10-24",
+      "area": "Elsewhere in Jamaica",
+      "genre": "Culture & family",
+      "location": "Hope Zoo, Hope Gardens, Old Hope Road",
+      "description": "Two separately ticketed evenings: family Halloween activities on 23 October and The Ark Party on 24 October. Published event span is 4 p.m. Friday to 10 p.m. Saturday; this is not continuous admission.",
+      "call": "Choose the appropriate night and confirm its opening time and age guidance. Each ticket covers one night only; no re-entry or outside food.",
+      "cost": "Adult presold JMD 3,000 and family packages shown. Check the selected night and current total.",
+      "source": "https://touchstonelink.com/event/boo-at-the-zoo-2026/",
+      "verify": "https://touchstonelink.com/event/boo-at-the-zoo-2026/",
+      "map": "Hope Zoo, Hope Gardens, Old Hope Road, Jamaica",
+      "parishes": [
+        "St. Andrew"
+      ],
+      "checked": "2026-10-15",
+      "sourceKind": "Organiser ticket listing"
+    },
+    {
+      "id": "local-grace-and-gratitude",
+      "name": "Grace & Gratitude: Merl Grove benefit gospel concert",
+      "start": "2026-11-07",
+      "end": "2026-11-07",
+      "area": "Elsewhere in Jamaica",
+      "genre": "Culture & family",
+      "location": "Karam Speid Auditorium, Merl Grove High School, 77 Constant Spring Road",
+      "description": "School homecoming gospel concert supporting student and educational initiatives, presented by the past students’ alliance and PTA. Doors 3:30 p.m.; show 5 p.m.",
+      "call": "A school-community benefit with public ticket categories. Confirm auditorium access and seating.",
+      "cost": "Advertised general JMD 3,500; VIP JMD 5,800. Confirm fees.",
+      "source": "https://touchstonelink.com/event/grace-and-gratitude/",
+      "verify": "https://touchstonelink.com/event/grace-and-gratitude/",
+      "map": "Karam Speid Auditorium, Merl Grove High School, 77 Constant Spring Road, Jamaica",
+      "parishes": [
+        "St. Andrew"
+      ],
+      "checked": "2026-10-15",
+      "sourceKind": "Organiser ticket listing"
+    },
+    {
+      "id": "local-seychella-beach-society",
+      "name": "Seychella Beach Society",
+      "start": "2026-12-20",
+      "end": "2026-12-20",
+      "area": "North coast",
+      "genre": "Music & nightlife",
+      "location": "East Beach, Boscobel, St. Mary",
+      "description": "Ticketed seaside music and social event, noon–6 p.m.",
+      "call": "Plan your beach-day transport and check admission conditions. This is an event booking, not a general beach-access notice.",
+      "cost": "Published ticket categories JMD 4,000–5,000; confirm fees and availability.",
+      "source": "https://touchstonelink.com/event/seychella-beach-society/",
+      "verify": "https://touchstonelink.com/event/seychella-beach-society/",
+      "map": "East Beach, Boscobel, St. Mary, Jamaica",
+      "parishes": [
+        "St. Mary"
+      ],
+      "checked": "2026-10-15",
+      "sourceKind": "Organiser ticket listing"
+    },
+    {
+      "id": "local-frenchmen-rise-up-oct-2026",
+      "name": "Frenchmen: Rise Up",
+      "start": "2026-10-17",
+      "end": "2026-10-17",
+      "area": "North coast",
+      "genre": "Music & nightlife",
+      "location": "Ocho Rios, St. Ann; exact event venue to confirm",
+      "description": "Breakfast-inclusive cooler fete, 7 a.m.–1 p.m.",
+      "call": "Confirm the exact venue, age rules and return transport. This is one separately ticketed Frenchmen event, not an additional passport-package event.",
+      "cost": "Event-specific tiers and inclusions; check the booking page.",
+      "source": "https://touchstonelink.com/event/frenchmen-rise-up-oct-2026/",
+      "verify": "https://touchstonelink.com/event/frenchmen-rise-up-oct-2026/",
+      "map": "Ocho Rios, St. Ann; exact event venue to confirm, Jamaica",
+      "parishes": [
+        "St. Ann"
+      ],
+      "checked": "2026-10-15",
+      "sourceKind": "Organiser ticket listing",
+      "mapScope": "area",
+      "mapNote": "Town search only. Obtain the exact event venue from the organiser before travelling."
+    },
+    {
+      "id": "local-frenchmen-nitecap-oct-2026",
+      "name": "Frenchmen: Nitecap",
+      "start": "2026-10-17",
+      "end": "2026-10-18",
+      "area": "North coast",
+      "genre": "Music & nightlife",
+      "location": "Ocho Rios, St. Ann; exact event venue to confirm",
+      "description": "Late-night party from 9 p.m. Saturday to 2 a.m. Sunday.",
+      "call": "Confirm the exact venue, age rules and return transport. This is one separately ticketed Frenchmen event, not an additional passport-package event.",
+      "cost": "Event-specific tiers and inclusions; check the booking page.",
+      "source": "https://touchstonelink.com/event/frenchmen-nitecap-oct-2026/",
+      "verify": "https://touchstonelink.com/event/frenchmen-nitecap-oct-2026/",
+      "map": "Ocho Rios, St. Ann; exact event venue to confirm, Jamaica",
+      "parishes": [
+        "St. Ann"
+      ],
+      "checked": "2026-10-15",
+      "sourceKind": "Organiser ticket listing",
+      "mapScope": "area",
+      "mapNote": "Town search only. Obtain the exact event venue from the organiser before travelling."
+    },
+    {
+      "id": "local-frenchmen-foreplay-oct-2026",
+      "name": "Frenchmen: Foreplay",
+      "start": "2026-10-18",
+      "end": "2026-10-19",
+      "area": "North coast",
+      "genre": "Music & nightlife",
+      "location": "Ocho Rios, St. Ann; exact event venue to confirm",
+      "description": "All-inclusive beach party from 4 p.m. Sunday until midnight.",
+      "call": "Confirm the exact venue, age rules and return transport. This is one separately ticketed Frenchmen event, not an additional passport-package event.",
+      "cost": "Event-specific tiers and inclusions; check the booking page.",
+      "source": "https://touchstonelink.com/event/frenchmen-foreplay-oct-2026/",
+      "verify": "https://touchstonelink.com/event/frenchmen-foreplay-oct-2026/",
+      "map": "Ocho Rios, St. Ann; exact event venue to confirm, Jamaica",
+      "parishes": [
+        "St. Ann"
+      ],
+      "checked": "2026-10-15",
+      "sourceKind": "Organiser ticket listing",
+      "mapScope": "area",
+      "mapNote": "Town search only. Obtain the exact event venue from the organiser before travelling."
+    },
+    {
+      "id": "local-i-love-90s-fresh-kicks-and-fly-chicks",
+      "name": "I Love 90s: Fresh Kicks and Fly Chicks",
+      "start": "2026-11-15",
+      "end": "2026-11-15",
+      "area": "Elsewhere in Jamaica",
+      "genre": "Music & nightlife",
+      "location": "Devon House, 26 Hope Road, St. Andrew",
+      "description": "Blaktie Events’ retro music and social afternoon, 4–10 p.m.",
+      "call": "Book the event separately from any Devon House tour. Arrange an evening return.",
+      "cost": "Page displays conflicting JMD 6,000 and JMD 7,000 amounts. Check the checkout total before paying.",
+      "source": "https://touchstonelink.com/event/i-love-90s-fresh-kicks-and-fly-chicks/",
+      "verify": "https://touchstonelink.com/event/i-love-90s-fresh-kicks-and-fly-chicks/",
+      "map": "Devon House, 26 Hope Road, St. Andrew, Jamaica",
+      "parishes": [
+        "St. Andrew"
+      ],
+      "checked": "2026-10-15",
+      "sourceKind": "Organiser ticket listing"
+    },
+    {
+      "id": "local-cocktails-and-canvases-in-paris",
+      "name": "Cocktails and Canvases in Paris",
+      "start": "2026-11-22",
+      "end": "2026-11-22",
+      "area": "Elsewhere in Jamaica",
+      "genre": "Food & music",
+      "location": "Trio Grill, Wine & Bar, 64 Hope Road",
+      "description": "Guided painting with materials and drinks, 2–6 p.m.; advertised for ages 18 and older.",
+      "call": "A creative social session. Check drink inclusions and transport before booking.",
+      "cost": "Presold JMD 12,000 shown; other tiers may differ. Confirm total; no refund after purchase.",
+      "source": "https://touchstonelink.com/event/cocktails-and-canvases-in-paris/",
+      "verify": "https://touchstonelink.com/event/cocktails-and-canvases-in-paris/",
+      "map": "Trio Grill, Wine & Bar, 64 Hope Road, Jamaica",
+      "parishes": [
+        "St. Andrew"
+      ],
+      "checked": "2026-10-15",
+      "sourceKind": "Organiser ticket listing"
+    },
+    {
+      "id": "local-fantasy-brunch",
+      "name": "Fantasy Brunch",
+      "start": "2026-11-29",
+      "end": "2026-11-29",
+      "area": "Elsewhere in Jamaica",
+      "genre": "Food & music",
+      "location": "Polyanna, 8 Stanton Terrace, Kingston",
+      "description": "Hello Bartender Ja’s food, music and social event, 11 a.m.–7 p.m.",
+      "call": "Check what the ticket includes and dietary options before reserving.",
+      "cost": "Early-bird JMD 4,500 shown; tiers may differ. Confirm current total and availability.",
+      "source": "https://touchstonelink.com/event/fantasy-brunch/",
+      "verify": "https://touchstonelink.com/event/fantasy-brunch/",
+      "map": "Polyanna, 8 Stanton Terrace, Kingston, Jamaica",
+      "parishes": [
+        "St. Andrew"
+      ],
+      "checked": "2026-10-15",
+      "sourceKind": "Organiser ticket listing"
+    },
+    {
+      "id": "local-rewind",
+      "name": "Rewind: The Elegant Edition",
+      "start": "2026-12-05",
+      "end": "2026-12-06",
+      "area": "Elsewhere in Jamaica",
+      "genre": "Music & nightlife",
+      "location": "Footprints Café, 5 Belmont Road, Kingston",
+      "description": "Eighties and nineties DJ night with food included, 8 p.m.–3 a.m.",
+      "call": "Ages 18 and older. Set up a late-night ride before going.",
+      "cost": "Advertised presold JMD 4,000; gate JMD 5,000, with service fees additional.",
+      "source": "https://touchstonelink.com/event/rewind/",
+      "verify": "https://touchstonelink.com/event/rewind/",
+      "map": "Footprints Café, 5 Belmont Road, Kingston, Jamaica",
+      "parishes": [
+        "St. Andrew"
+      ],
+      "checked": "2026-10-15",
+      "sourceKind": "Organiser ticket listing"
+    },
+    {
+      "id": "local-seychella-winter-garden",
+      "name": "Seychella Winter Garden",
+      "start": "2026-12-24",
+      "end": "2026-12-25",
+      "area": "Elsewhere in Jamaica",
+      "genre": "Music & nightlife",
+      "location": "Devon House, 26 Hope Road, St. Andrew",
+      "description": "Christmas Eve social and music event, 7 p.m.–midnight.",
+      "call": "Confirm inclusions, age policy and holiday transport. The beach-event bundle is not counted as an extra event.",
+      "cost": "Published ticket categories JMD 4,000–5,000; confirm fees and availability.",
+      "source": "https://touchstonelink.com/event/seychella-winter-garden/",
+      "verify": "https://touchstonelink.com/event/seychella-winter-garden/",
+      "map": "Devon House, 26 Hope Road, St. Andrew, Jamaica",
+      "parishes": [
+        "St. Andrew"
+      ],
+      "checked": "2026-10-15",
+      "sourceKind": "Organiser ticket listing"
+    }
+  ],
+  "excluded": [
+    "Frenchmen passport and Seychella bundle: duplicate package products",
+    "2025 JCDC parish PDFs: wrong year",
+    "Cross-island relay: no daily parish schedule established",
+    "Running Events races: retain as discovery source until venue/details checked"
+  ],
+  "automaticRefresh": false
+}
