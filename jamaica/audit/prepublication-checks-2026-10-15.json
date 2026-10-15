@@ -1,0 +1,261 @@
+{
+  "status": "Staged; not published",
+  "release": {
+    "command": "npm run release:prepare",
+    "tests": 85,
+    "passed": 85,
+    "failed": 0,
+    "platform_tests": 2,
+    "platform_passed": 2,
+    "build_before_css_fix_sha256": "729296efcfc2e121e6fbbb62a83f252e90b71968a5bfef1938dcf8d6d1568ec2",
+    "final_sha256": "4864d3f1c620fcdb87489b476b4b011c6d8d5a92fc9e3fd5f475c557cd24ce4f",
+    "final_css_only_repair": "Correct later homepage stylesheet from three to two wide-screen columns; retain descriptions and 18px headings on phones. DOM and JavaScript unchanged.",
+    "checks_after_repair": [
+      "npm run build",
+      "npm run check",
+      "python3 platform/release.py check",
+      "Source-level CSS cascade at five widths"
+    ]
+  },
+  "reader_journeys": {
+    "passed": [
+      "Parish and subject search opens a complete, sourced history",
+      "1921 player request and global stop controls work in the DOM",
+      "Anancy collection opens an attributed historical tale",
+      "A Portland day saves locally, feeds comparison and timing, and opens export/share controls",
+      "Media-stop control changes dock at simulated phone/desktop widths (layout not verified)"
+    ],
+    "errors": []
+  },
+  "public_1921_sample_streams": [
+    {
+      "item": "dz0117003",
+      "archive_label": {
+        "none": [
+          "54-147-F (Roberts and Beckwith) SCY 3854"
+        ]
+      },
+      "playback_in_browser_verified": false,
+      "heard_verified": false,
+      "bytes": 158197,
+      "streams": [
+        {
+          "codec_name": "aac",
+          "sample_rate": "44100",
+          "channels": 2
+        }
+      ],
+      "decode_passed": true,
+      "errors": ""
+    },
+    {
+      "item": "k0698r79j",
+      "archive_label": {
+        "none": [
+          "54-147-F (Roberts and Beckwith) SCY 3841 Strip 2"
+        ]
+      },
+      "playback_in_browser_verified": false,
+      "heard_verified": false,
+      "bytes": 245039,
+      "streams": [
+        {
+          "codec_name": "aac",
+          "sample_rate": "44100",
+          "channels": 2
+        }
+      ],
+      "decode_passed": true,
+      "errors": ""
+    }
+  ],
+  "smithsonian_sample": {
+    "source": "https://folkways-media.si.edu/audio/samples/folkways/FW04232/FW04232_01.mp3",
+    "codec": "mp3",
+    "sample_rate": 44100,
+    "channels": 2,
+    "preview_duration_seconds": 30.040816,
+    "first_five_seconds_decode_passed": true,
+    "browser_playback_verified": false,
+    "heard_verified": false
+  },
+  "bbc_player": {
+    "source": "https://www.bbc.co.uk/programmes/p06bsp3f/player",
+    "http_status": 200,
+    "browser_playback_verified": false
+  },
+  "stylesheet_audit": {
+    "method": "CSSOM rule matching and cascade priority with width conditions; no layout engine or screenshots",
+    "before": [
+      {
+        "width": 1280,
+        "grid": {
+          "value": "repeat(3,1fr)",
+          "selector": ".home-travel-paths",
+          "score": 100,
+          "order": 1417
+        },
+        "description": {
+          "value": "block",
+          "selector": ".home-travel-paths small",
+          "score": 101,
+          "order": 1419
+        }
+      },
+      {
+        "width": 900,
+        "grid": {
+          "value": "repeat(3,1fr)",
+          "selector": ".home-travel-paths",
+          "score": 100,
+          "order": 1441
+        },
+        "description": {
+          "value": "block",
+          "selector": ".home-travel-paths small",
+          "score": 101,
+          "order": 1443
+        }
+      },
+      {
+        "width": 768,
+        "grid": {
+          "value": "repeat(3,1fr)",
+          "selector": ".home-travel-paths",
+          "score": 100,
+          "order": 1525
+        },
+        "description": {
+          "value": "block",
+          "selector": ".home-travel-paths small",
+          "score": 101,
+          "order": 1527
+        }
+      },
+      {
+        "width": 650,
+        "grid": {
+          "value": "1fr",
+          "selector": ".home-travel-paths",
+          "score": 100,
+          "order": 1655
+        },
+        "description": {
+          "value": "none",
+          "selector": ".home-travel-paths small",
+          "score": 101,
+          "order": 1660
+        }
+      },
+      {
+        "width": 390,
+        "grid": {
+          "value": "1fr",
+          "selector": ".home-travel-paths",
+          "score": 100,
+          "order": 1726
+        },
+        "description": {
+          "value": "none",
+          "selector": ".home-travel-paths small",
+          "score": 101,
+          "order": 1731
+        }
+      }
+    ],
+    "after": [
+      {
+        "width": 1280,
+        "grid": {
+          "value": "repeat(2,minmax(0,1fr))",
+          "selector": ".home-travel-paths",
+          "score": 100,
+          "order": 1417
+        },
+        "description": {
+          "value": "block",
+          "selector": ".home-travel-paths small",
+          "score": 101,
+          "order": 1419
+        }
+      },
+      {
+        "width": 900,
+        "grid": {
+          "value": "repeat(2,minmax(0,1fr))",
+          "selector": ".home-travel-paths",
+          "score": 100,
+          "order": 1441
+        },
+        "description": {
+          "value": "block",
+          "selector": ".home-travel-paths small",
+          "score": 101,
+          "order": 1443
+        }
+      },
+      {
+        "width": 768,
+        "grid": {
+          "value": "repeat(2,minmax(0,1fr))",
+          "selector": ".home-travel-paths",
+          "score": 100,
+          "order": 1525
+        },
+        "description": {
+          "value": "block",
+          "selector": ".home-travel-paths small",
+          "score": 101,
+          "order": 1527
+        }
+      },
+      {
+        "width": 650,
+        "grid": {
+          "value": "1fr",
+          "selector": ".home-travel-paths",
+          "score": 100,
+          "order": 1655
+        },
+        "description": {
+          "value": "block",
+          "selector": ".home-travel-paths small",
+          "score": 101,
+          "order": 1660
+        }
+      },
+      {
+        "width": 390,
+        "grid": {
+          "value": "1fr",
+          "selector": ".home-travel-paths",
+          "score": 100,
+          "order": 1726
+        },
+        "description": {
+          "value": "block",
+          "selector": ".home-travel-paths small",
+          "score": 101,
+          "order": 1731
+        }
+      }
+    ]
+  },
+  "hosting": {
+    "service_id": "srv-db65ugt9fdbs73eu8rug",
+    "name": "tonys-guide-jamaica",
+    "repo": "https://github.com/adepass-wq/tonys-guide-gruene",
+    "watched_branch": "jamaica-production-migration-2026-10-14",
+    "auto_deploy": "yes",
+    "build_command": "npm run release:prepare",
+    "publish_directory": "public",
+    "production_settings_changed": false
+  },
+  "browser_review": {
+    "completed": false,
+    "desktop_mobile_layout_verified": false,
+    "third_party_in_browser_playback_verified": false,
+    "reason": "Supported control-browser capability unavailable in this session; both skill catalogs checked. Executor catalog reports missing browser capability root. Plugin searches did not surface a usable Browser connection.",
+    "workflow_instruction": "If $control-browser is unavailable, skip browser QA: do not start a preview server, install a browser, or improvise another browser-control path."
+  }
+}
