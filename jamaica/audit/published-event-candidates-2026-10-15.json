@@ -1,0 +1,1155 @@
+{
+  "checked": "2026-10-15",
+  "discovered": 68,
+  "records": [
+    {
+      "source": "https://www.caribtix.com/event/a-christmas-fantasia-17480",
+      "name": "A Christmas Fantasia",
+      "sourceStart": "2026-12-13T22:00:00.000Z",
+      "sourceEnd": "2026-12-14T00:00:00.000Z",
+      "jamaicaStart": "2026-12-13T17:00:00-05:00",
+      "jamaicaEnd": "2026-12-13T19:00:00-05:00",
+      "location": {
+        "@type": "Place",
+        "name": "St. Augustine's Chapel, Kingston College Campus",
+        "address": {
+          "@type": "PostalAddress",
+          "streetAddress": "2a North Street, Down Town",
+          "addressLocality": "Kingston",
+          "addressRegion": "Kingston Parish",
+          "addressCountry": "Jamaica"
+        }
+      },
+      "organiser": {
+        "@type": "Organization",
+        "name": "Kingston College Chapel Choir",
+        "url": "https://www.caribtix.com/event/a-christmas-fantasia-17480"
+      }
+    },
+    {
+      "source": "https://www.caribtix.com/event/a-soca-dancehall-experience-breeze-17502",
+      "name": "A Soca Dancehall Experience - Breeze",
+      "sourceStart": "2026-11-15T17:00:00.000Z",
+      "sourceEnd": "2026-11-16T05:00:00.000Z",
+      "jamaicaStart": "2026-11-15T12:00:00-05:00",
+      "jamaicaEnd": "2026-11-16T00:00:00-05:00",
+      "location": {
+        "@type": "Place",
+        "name": "Port Royal Cruise Port",
+        "address": {
+          "@type": "PostalAddress",
+          "streetAddress": "Port Royal Main Road",
+          "addressLocality": "Kingston",
+          "addressRegion": "Kingston Parish",
+          "addressCountry": "Jamaica"
+        }
+      },
+      "organiser": {
+        "@type": "Organization",
+        "name": "Fire Sign",
+        "url": "https://www.caribtix.com/event/a-soca-dancehall-experience-breeze-17502"
+      }
+    },
+    {
+      "source": "https://www.caribtix.com/event/alist-17284",
+      "name": "A - List",
+      "sourceStart": "2026-12-26T02:00:00.000Z",
+      "sourceEnd": "2026-12-26T07:00:00.000Z",
+      "jamaicaStart": "2026-12-25T21:00:00-05:00",
+      "jamaicaEnd": "2026-12-26T02:00:00-05:00",
+      "location": {
+        "@type": "Place",
+        "name": "Kingston",
+        "address": {
+          "@type": "PostalAddress",
+          "streetAddress": "Kingston, Jamaica",
+          "addressLocality": "Kingston",
+          "addressRegion": "St. Andrew Parish",
+          "addressCountry": "Jamaica"
+        }
+      },
+      "organiser": {
+        "@type": "Organization",
+        "name": "A - List",
+        "url": "https://www.caribtix.com/event/alist-17284"
+      }
+    },
+    {
+      "source": "https://www.caribtix.com/event/artfelt-unplugged-blooming-17483",
+      "name": "ArtFelt: Unplugged - BLOOMING",
+      "sourceStart": "2026-10-24T02:00:00.000Z",
+      "sourceEnd": "2026-10-24T06:00:00.000Z",
+      "jamaicaStart": "2026-10-23T21:00:00-05:00",
+      "jamaicaEnd": "2026-10-24T01:00:00-05:00",
+      "location": {
+        "@type": "Place",
+        "name": "The Lawns of the Senior Common Room, UWI Mona",
+        "address": {
+          "@type": "PostalAddress",
+          "streetAddress": "Gibraltar Road",
+          "addressLocality": "Kingston",
+          "addressRegion": "St. Andrew Parish",
+          "addressCountry": "Jamaica"
+        }
+      },
+      "organiser": {
+        "@type": "Organization",
+        "name": "Akoustic Jamaica",
+        "url": "https://www.caribtix.com/event/artfelt-unplugged-blooming-17483"
+      }
+    },
+    {
+      "source": "https://www.caribtix.com/event/becoming-better-international-womens-conference-17431",
+      "name": "Becoming Better International Women's Conference",
+      "sourceStart": "2026-12-05T16:00:00.000Z",
+      "sourceEnd": "2026-12-06T17:00:00.000Z",
+      "jamaicaStart": "2026-12-05T11:00:00-05:00",
+      "jamaicaEnd": "2026-12-06T12:00:00-05:00",
+      "location": {
+        "@type": "Place",
+        "name": "Shortwood Teachers' College Auditorium",
+        "address": {
+          "@type": "PostalAddress",
+          "streetAddress": "Constant Spring",
+          "addressLocality": "Kingston",
+          "addressRegion": "St. Andrew Parish",
+          "addressCountry": "Jamaica"
+        }
+      },
+      "organiser": {
+        "@type": "Organization",
+        "name": "God's Rising Ministry",
+        "url": "https://www.caribtix.com/event/becoming-better-international-womens-conference-17431"
+      }
+    },
+    {
+      "source": "https://www.caribtix.com/event/bikini-brunch-17430",
+      "name": "Bikini Brunch",
+      "sourceStart": "2026-11-29T01:00:00.000Z",
+      "sourceEnd": "2026-11-29T04:30:00.000Z",
+      "jamaicaStart": "2026-11-28T20:00:00-05:00",
+      "jamaicaEnd": "2026-11-28T23:30:00-05:00",
+      "location": {
+        "@type": "Place",
+        "name": "Ranny Williams Entertainment Centre",
+        "address": {
+          "@type": "PostalAddress",
+          "streetAddress": "36 Hope Road",
+          "addressLocality": "Kingston",
+          "addressRegion": "St. Andrew Parish",
+          "addressCountry": "Jamaica"
+        }
+      },
+      "organiser": {
+        "@type": "Organization",
+        "name": "Bikini Brunch",
+        "url": "https://www.caribtix.com/event/bikini-brunch-17430"
+      }
+    },
+    {
+      "source": "https://www.caribtix.com/event/bring-yuh-basket-17500",
+      "name": "Bring Yuh Basket",
+      "sourceStart": "2026-11-22T18:00:00.000Z",
+      "sourceEnd": "2026-11-23T00:00:00.000Z",
+      "jamaicaStart": "2026-11-22T13:00:00-05:00",
+      "jamaicaEnd": "2026-11-22T19:00:00-05:00",
+      "location": {
+        "@type": "Place",
+        "name": "Hope Gardens",
+        "address": {
+          "@type": "PostalAddress",
+          "streetAddress": "Hope Gardens",
+          "addressLocality": "Kingston",
+          "addressRegion": "St. Andrew Parish",
+          "addressCountry": "Jamaica"
+        }
+      },
+      "organiser": {
+        "@type": "Organization",
+        "name": "National Conservation Trust Fund of Jamaica",
+        "url": "https://www.caribtix.com/event/bring-yuh-basket-17500"
+      }
+    },
+    {
+      "source": "https://www.caribtix.com/event/bruv-ultimate-musical-festival-17329",
+      "name": "Bruv Ultimate Musical Festival",
+      "sourceStart": "2026-11-07T17:00:00.000Z",
+      "sourceEnd": "2026-11-08T07:00:00.000Z",
+      "jamaicaStart": "2026-11-07T12:00:00-05:00",
+      "jamaicaEnd": "2026-11-08T02:00:00-05:00",
+      "location": {
+        "@type": "Place",
+        "name": "Portmore Harbour",
+        "address": {
+          "@type": "PostalAddress",
+          "streetAddress": "1 Fort Augusta Drive",
+          "addressLocality": "Portmore",
+          "addressCountry": "Jamaica"
+        }
+      },
+      "organiser": {
+        "@type": "Organization",
+        "name": "Global Musiq Entertainment",
+        "url": "https://www.caribtix.com/event/bruv-ultimate-musical-festival-17329"
+      }
+    },
+    {
+      "source": "https://www.caribtix.com/event/champagne-mornings-premium-breakfast-series-17210",
+      "name": "Champagne Mornings \"Premium Breakfast Series\"",
+      "sourceStart": "2026-10-19T15:00:00.000Z",
+      "sourceEnd": "2026-10-19T21:00:00.000Z",
+      "jamaicaStart": "2026-10-19T10:00:00-05:00",
+      "jamaicaEnd": "2026-10-19T16:00:00-05:00",
+      "location": {
+        "@type": "Place",
+        "name": "Portmore",
+        "address": {
+          "@type": "PostalAddress",
+          "streetAddress": "Portmore, Jamaica",
+          "addressLocality": "Portmore",
+          "addressRegion": "St. Catherine Parish",
+          "addressCountry": "Jamaica"
+        }
+      },
+      "organiser": {
+        "@type": "Organization",
+        "name": "Champagne Mornings",
+        "url": "https://www.caribtix.com/event/champagne-mornings-premium-breakfast-series-17210"
+      }
+    },
+    {
+      "source": "https://www.caribtix.com/event/changing-lives-book-launch-17515",
+      "name": "Changing Lives Book Launch",
+      "sourceStart": "2026-12-06T22:00:00.000Z",
+      "sourceEnd": "2026-12-06T23:30:00.000Z",
+      "jamaicaStart": "2026-12-06T17:00:00-05:00",
+      "jamaicaEnd": "2026-12-06T18:30:00-05:00",
+      "location": {
+        "@type": "Place",
+        "name": "The Girl Guides Association of Jamaica",
+        "address": {
+          "@type": "PostalAddress",
+          "streetAddress": "2 Waterloo Road",
+          "addressLocality": "Kingston",
+          "addressRegion": "St. Andrew Parish",
+          "addressCountry": "Jamaica"
+        }
+      },
+      "organiser": {
+        "@type": "Organization",
+        "name": "Claudine Bailey",
+        "url": "https://www.caribtix.com/event/changing-lives-book-launch-17515"
+      }
+    },
+    {
+      "source": "https://www.caribtix.com/event/chillin-on-the-farm-17288",
+      "name": "Chillin' On The Farm",
+      "sourceStart": "2026-11-01T19:00:00.000Z",
+      "sourceEnd": "2026-11-02T03:00:00.000Z",
+      "jamaicaStart": "2026-11-01T14:00:00-05:00",
+      "jamaicaEnd": "2026-11-01T22:00:00-05:00",
+      "location": {
+        "@type": "Place",
+        "name": "Murray's Farm",
+        "address": {
+          "@type": "PostalAddress",
+          "streetAddress": "Toll Gate, Jamaica",
+          "addressLocality": "Toll Gate",
+          "addressRegion": "Clarendon",
+          "addressCountry": "Jamaica"
+        }
+      },
+      "organiser": {
+        "@type": "Organization",
+        "name": "Wright Image",
+        "url": "https://www.caribtix.com/event/chillin-on-the-farm-17288"
+      }
+    },
+    {
+      "source": "https://www.caribtix.com/event/club-ecstasy-hallowhine-17446",
+      "name": "Club Ecstasy - Hallowhine",
+      "sourceStart": "2026-10-25T04:00:00.000Z",
+      "sourceEnd": "2026-10-25T09:00:00.000Z",
+      "jamaicaStart": "2026-10-24T23:00:00-05:00",
+      "jamaicaEnd": "2026-10-25T04:00:00-05:00",
+      "location": {
+        "@type": "Place",
+        "name": "Ribbiz Ultra Lounge",
+        "address": {
+          "@type": "PostalAddress",
+          "streetAddress": "7-9 Ardenne Road, New Kingston",
+          "addressLocality": "Kingston",
+          "addressRegion": "St. Andrew Parish",
+          "addressCountry": "Jamaica"
+        }
+      },
+      "organiser": {
+        "@type": "Organization",
+        "name": "Waves Entertainment",
+        "url": "https://www.caribtix.com/event/club-ecstasy-hallowhine-17446"
+      }
+    },
+    {
+      "source": "https://www.caribtix.com/event/concacaf-caribbean-cup-17385",
+      "name": "Concacaf Caribbean Cup - Portmore United FC",
+      "sourceStart": "2026-10-13T23:00:00.000Z",
+      "sourceEnd": "2026-11-01T01:00:00.000Z",
+      "jamaicaStart": "2026-10-13T18:00:00-05:00",
+      "jamaicaEnd": "2026-10-31T20:00:00-05:00",
+      "location": {
+        "@type": "Place",
+        "name": "Sabina Park",
+        "address": {
+          "@type": "PostalAddress",
+          "streetAddress": "24 South Camp Road",
+          "addressLocality": "Kingston",
+          "addressRegion": "St. Andrew Parish",
+          "addressCountry": "Jamaica"
+        }
+      },
+      "organiser": {
+        "@type": "Organization",
+        "name": "Portmore United FC",
+        "url": "https://www.caribtix.com/event/concacaf-caribbean-cup-17385"
+      }
+    },
+    {
+      "source": "https://www.caribtix.com/event/euphoria-brunch-17290",
+      "name": "Euphoria Escape - The Ultimate Day and Night Rave",
+      "sourceStart": "2026-10-24T17:00:00.000Z",
+      "sourceEnd": "2026-10-25T05:00:00.000Z",
+      "jamaicaStart": "2026-10-24T12:00:00-05:00",
+      "jamaicaEnd": "2026-10-25T00:00:00-05:00",
+      "location": {
+        "@type": "Place",
+        "name": "Shop #44 Caledonia Court Plaza",
+        "address": {
+          "@type": "PostalAddress",
+          "streetAddress": "29-31 Caledonia Road",
+          "addressLocality": "Mandeville",
+          "addressRegion": "Manchester Parish",
+          "addressCountry": "Jamaica"
+        }
+      },
+      "organiser": {
+        "@type": "Organization",
+        "name": "Mirage Marketing Ltd.",
+        "url": "https://www.caribtix.com/event/euphoria-brunch-17290"
+      }
+    },
+    {
+      "source": "https://www.caribtix.com/event/fanatic-ochi-17273",
+      "name": "Fanatic Ochi",
+      "sourceStart": "2026-10-17T03:00:00.000Z",
+      "sourceEnd": "2026-10-17T08:00:00.000Z",
+      "jamaicaStart": "2026-10-16T22:00:00-05:00",
+      "jamaicaEnd": "2026-10-17T03:00:00-05:00",
+      "location": {
+        "@type": "Place",
+        "name": "Plantation Cove",
+        "address": {
+          "@type": "PostalAddress",
+          "streetAddress": "Priory, Jamaica",
+          "addressLocality": "Priory",
+          "addressRegion": "St. Ann Parish",
+          "addressCountry": "Jamaica"
+        }
+      },
+      "organiser": {
+        "@type": "Organization",
+        "name": "CNA Entertainment",
+        "url": "https://www.caribtix.com/event/fanatic-ochi-17273"
+      }
+    },
+    {
+      "source": "https://www.caribtix.com/event/fete-gala-17505",
+      "name": "Xodus Fete Gala",
+      "sourceStart": "2027-04-01T01:00:00.000Z",
+      "sourceEnd": "2027-04-01T07:00:00.000Z",
+      "jamaicaStart": "2027-03-31T20:00:00-05:00",
+      "jamaicaEnd": "2027-04-01T02:00:00-05:00",
+      "location": {
+        "@type": "Place",
+        "name": "Kingston",
+        "address": {
+          "@type": "PostalAddress",
+          "streetAddress": "Kingston, Jamaica",
+          "addressLocality": "Kingston",
+          "addressRegion": "St. Andrew Parish",
+          "addressCountry": "Jamaica"
+        }
+      },
+      "organiser": {
+        "@type": "Organization",
+        "name": "Xodus Carnival",
+        "url": "http://xoduscarnival.com"
+      }
+    },
+    {
+      "source": "https://www.caribtix.com/event/holy-rave-halloween-17412",
+      "name": "Holy Rave - Halloween",
+      "sourceStart": "2026-11-01T03:00:00.000Z",
+      "sourceEnd": "2026-11-01T08:00:00.000Z",
+      "jamaicaStart": "2026-10-31T22:00:00-05:00",
+      "jamaicaEnd": "2026-11-01T03:00:00-05:00",
+      "location": {
+        "@type": "Place",
+        "name": "Kingston",
+        "address": {
+          "@type": "PostalAddress",
+          "streetAddress": "Kingston, Jamaica",
+          "addressLocality": "Kingston",
+          "addressRegion": "St. Andrew Parish",
+          "addressCountry": "Jamaica"
+        }
+      },
+      "organiser": {
+        "@type": "Organization",
+        "name": "Holy Rave",
+        "url": "https://www.caribtix.com/event/holy-rave-halloween-17412"
+      }
+    },
+    {
+      "source": "https://www.caribtix.com/event/jpl-arnett-gradens-fc-17445",
+      "name": "JPL - Arnett Gradens FC",
+      "sourceStart": "2026-10-05T22:05:00.000Z",
+      "sourceEnd": "2027-01-29T04:00:00.000Z",
+      "jamaicaStart": "2026-10-05T17:05:00-05:00",
+      "jamaicaEnd": "2027-01-28T23:00:00-05:00",
+      "location": {
+        "@type": "Place",
+        "name": "JWN Anthony Spaulding Sports Complex",
+        "address": {
+          "@type": "PostalAddress",
+          "streetAddress": "Trench Town",
+          "addressLocality": "Kingston",
+          "addressRegion": "St. Andrew Parish",
+          "addressCountry": "Jamaica"
+        }
+      },
+      "organiser": {
+        "@type": "Organization",
+        "name": "Arnette Gardens FC",
+        "url": "https://www.caribtix.com/event/jpl-arnett-gradens-fc-17445"
+      }
+    },
+    {
+      "source": "https://www.caribtix.com/event/jpl-cavalier-sc-17481",
+      "name": "JPL - Cavalier SC",
+      "sourceStart": "2026-10-11T20:30:00.000Z",
+      "sourceEnd": "2027-02-10T04:00:00.000Z",
+      "jamaicaStart": "2026-10-11T15:30:00-05:00",
+      "jamaicaEnd": "2027-02-09T23:00:00-05:00",
+      "location": {
+        "@type": "Place",
+        "name": "Turner's Oval - Cavalier Soccer Club",
+        "address": {
+          "@type": "PostalAddress",
+          "streetAddress": "3P6X+6XC, Turners, Jamaica",
+          "addressLocality": "Turners",
+          "addressRegion": "Clarendon",
+          "addressCountry": "Jamaica"
+        }
+      },
+      "organiser": {
+        "@type": "Organization",
+        "name": "Cavalier SC",
+        "url": "https://www.caribtix.com/event/jpl-cavalier-sc-17481"
+      }
+    },
+    {
+      "source": "https://www.caribtix.com/event/jpl-waterhouse-fc-17471",
+      "name": "JPL - Waterhouse FC",
+      "sourceStart": "2026-10-12T22:00:00.000Z",
+      "sourceEnd": "2027-02-08T04:00:00.000Z",
+      "jamaicaStart": "2026-10-12T17:00:00-05:00",
+      "jamaicaEnd": "2027-02-07T23:00:00-05:00",
+      "location": {
+        "@type": "Place",
+        "name": "Waterhouse Football Field",
+        "address": {
+          "@type": "PostalAddress",
+          "streetAddress": "West Bay Farm Road, Olympic Gardens",
+          "addressLocality": "Kingston",
+          "addressRegion": "St. Andrew Parish",
+          "addressCountry": "Jamaica"
+        }
+      },
+      "organiser": {
+        "@type": "Organization",
+        "name": "Waterhouse FC",
+        "url": "https://www.caribtix.com/event/jpl-waterhouse-fc-17471"
+      }
+    },
+    {
+      "source": "https://www.caribtix.com/event/lost-in-paradise-17508",
+      "name": "Lost In Paradise",
+      "sourceStart": "2027-04-02T21:00:00.000Z",
+      "sourceEnd": "2027-04-03T04:00:00.000Z",
+      "jamaicaStart": "2027-04-02T16:00:00-05:00",
+      "jamaicaEnd": "2027-04-02T23:00:00-05:00",
+      "location": {
+        "@type": "Place",
+        "name": "Kingston",
+        "address": {
+          "@type": "PostalAddress",
+          "streetAddress": "Kingston, Jamaica",
+          "addressLocality": "Kingston",
+          "addressRegion": "St. Andrew Parish",
+          "addressCountry": "Jamaica"
+        }
+      },
+      "organiser": {
+        "@type": "Organization",
+        "name": "Xodus Carnival",
+        "url": "http://xoduscarnival.com"
+      }
+    },
+    {
+      "source": "https://www.caribtix.com/event/love-note-a-soulful-lovers-rock-experience-17415",
+      "name": "Love Note - A Soulful Lovers Rock Experience",
+      "sourceStart": "2026-12-27T21:00:00.000Z",
+      "sourceEnd": "2026-12-28T03:00:00.000Z",
+      "jamaicaStart": "2026-12-27T16:00:00-05:00",
+      "jamaicaEnd": "2026-12-27T22:00:00-05:00",
+      "location": {
+        "@type": "Place",
+        "name": "Old Golf Academy",
+        "address": {
+          "@type": "PostalAddress",
+          "streetAddress": "Park Place, New Kingston",
+          "addressLocality": "Kingston",
+          "addressRegion": "St. Andrew Parish",
+          "addressCountry": "Jamaica"
+        }
+      },
+      "organiser": {
+        "@type": "Organization",
+        "name": "Love Note",
+        "url": "https://www.caribtix.com/event/love-note-a-soulful-lovers-rock-experience-17415"
+      }
+    },
+    {
+      "source": "https://www.caribtix.com/event/mainstage-17627",
+      "name": "Mainstage",
+      "sourceStart": "2026-12-19T02:00:00.000Z",
+      "sourceEnd": "2026-12-19T07:00:00.000Z",
+      "jamaicaStart": "2026-12-18T21:00:00-05:00",
+      "jamaicaEnd": "2026-12-19T02:00:00-05:00",
+      "location": {
+        "@type": "Place",
+        "name": "Kingston Polo Club Caymanas Estates",
+        "address": {
+          "@type": "PostalAddress",
+          "streetAddress": "238Q+8V8, Central Village, Jamaica",
+          "addressLocality": "Central Village",
+          "addressRegion": "St. Catherine Parish",
+          "addressCountry": "Jamaica"
+        }
+      },
+      "organiser": {
+        "@type": "Organization",
+        "name": "Phillpots",
+        "url": "https://www.caribtix.com/event/mainstage-17627"
+      }
+    },
+    {
+      "source": "https://www.caribtix.com/event/mellovibes-november-17472",
+      "name": "Mello Vibes - Ladies Night",
+      "sourceStart": "2026-11-29T02:00:00.000Z",
+      "sourceEnd": "2026-11-29T08:00:00.000Z",
+      "jamaicaStart": "2026-11-28T21:00:00-05:00",
+      "jamaicaEnd": "2026-11-29T03:00:00-05:00",
+      "location": {
+        "@type": "Place",
+        "name": "Mas Camp, Jamaica National Stadium",
+        "address": {
+          "@type": "PostalAddress",
+          "streetAddress": "263H+36C, Kingston, Jamaica",
+          "addressLocality": "Kingston",
+          "addressRegion": "St. Andrew Parish",
+          "addressCountry": "Jamaica"
+        }
+      },
+      "organiser": {
+        "@type": "Organization",
+        "name": "Mello Vibes",
+        "url": "https://www.caribtix.com/event/mellovibes-november-17472"
+      }
+    },
+    {
+      "source": "https://www.caribtix.com/event/monday-night-football-match-day-1-17417",
+      "name": "Jamaica Premier League Football",
+      "sourceStart": "2026-09-27T22:30:00.000Z",
+      "sourceEnd": "2027-02-10T04:00:00.000Z",
+      "jamaicaStart": "2026-09-27T17:30:00-05:00",
+      "jamaicaEnd": "2027-02-09T23:00:00-05:00",
+      "location": {
+        "@type": "Place",
+        "name": "Stadium East",
+        "address": {
+          "@type": "PostalAddress",
+          "streetAddress": "Mountain View Avenue",
+          "addressLocality": "Kingston",
+          "addressRegion": "St. Andrew Parish",
+          "addressCountry": "Jamaica"
+        }
+      },
+      "organiser": {
+        "@type": "Organization",
+        "name": "Independence Park Ltd",
+        "url": "https://www.caribtix.com/event/monday-night-football-match-day-1-17417"
+      }
+    },
+    {
+      "source": "https://www.caribtix.com/event/no-rush-17623",
+      "name": "No Rush",
+      "sourceStart": "2026-11-22T01:30:00.000Z",
+      "sourceEnd": "2026-11-22T07:00:00.000Z",
+      "jamaicaStart": "2026-11-21T20:30:00-05:00",
+      "jamaicaEnd": "2026-11-22T02:00:00-05:00",
+      "location": {
+        "@type": "Place",
+        "name": "Vin's Pharmacy",
+        "address": {
+          "@type": "PostalAddress",
+          "streetAddress": "31 Burke Road",
+          "addressLocality": "Spanish Town",
+          "addressRegion": "St. Catherine Parish",
+          "addressCountry": "Jamaica"
+        }
+      },
+      "organiser": {
+        "@type": "Organization",
+        "name": "No Rush Entertainment",
+        "url": "https://www.caribtix.com/event/no-rush-17623"
+      }
+    },
+    {
+      "source": "https://www.caribtix.com/event/patrick-browns-the-gallis-and-the-rolling-calf-17217",
+      "name": "Patrick Brown's The Gallis and the Rolling Calf",
+      "sourceStart": "2026-07-25T01:00:00.000Z",
+      "sourceEnd": "2026-10-20T03:00:40.000Z",
+      "jamaicaStart": "2026-07-24T20:00:00-05:00",
+      "jamaicaEnd": "2026-10-19T22:00:40-05:00",
+      "location": {
+        "@type": "Place",
+        "name": "Courtleigh Auditorium",
+        "address": {
+          "@type": "PostalAddress",
+          "streetAddress": "New Kingston",
+          "addressLocality": "Kingston",
+          "addressRegion": "St. Andrew Parish",
+          "addressCountry": "Jamaica"
+        }
+      },
+      "organiser": {
+        "@type": "Organization",
+        "name": "Jambiz International Ltd.",
+        "url": "https://www.caribtix.com/event/patrick-browns-the-gallis-and-the-rolling-calf-17217"
+      }
+    },
+    {
+      "source": "https://www.caribtix.com/event/phenomenal-i-am-5-a-night-of-mystery-17203",
+      "name": "Phenomenal I Am 5 : A Night of Mystery",
+      "sourceStart": "2026-12-12T23:30:00.000Z",
+      "sourceEnd": "2026-12-13T03:30:00.000Z",
+      "jamaicaStart": "2026-12-12T18:30:00-05:00",
+      "jamaicaEnd": "2026-12-12T22:30:00-05:00",
+      "location": {
+        "@type": "Place",
+        "name": "The Wortley Home For Girls",
+        "address": {
+          "@type": "PostalAddress",
+          "streetAddress": "193 Constant Spring Road, Constant Spring",
+          "addressLocality": "Kingston",
+          "addressRegion": "St. Andrew Parish",
+          "addressCountry": "Jamaica"
+        }
+      },
+      "organiser": {
+        "@type": "Organization",
+        "name": "Imagine Walls Interior Consulting",
+        "url": "https://www.caribtix.com/event/phenomenal-i-am-5-a-night-of-mystery-17203"
+      }
+    },
+    {
+      "source": "https://www.caribtix.com/event/pulse-17214",
+      "name": "PULSE",
+      "sourceStart": "2026-12-20T02:00:00.000Z",
+      "sourceEnd": "2026-12-20T07:00:00.000Z",
+      "jamaicaStart": "2026-12-19T21:00:00-05:00",
+      "jamaicaEnd": "2026-12-20T02:00:00-05:00",
+      "location": {
+        "@type": "Place",
+        "name": "Footprints Café | Restaurant & Lounge. Catering & Events Hosting",
+        "address": {
+          "@type": "PostalAddress",
+          "streetAddress": "5 Belmont Road, New Kingston",
+          "addressLocality": "Kingston",
+          "addressRegion": "St. Andrew Parish",
+          "addressCountry": "Jamaica"
+        }
+      },
+      "organiser": {
+        "@type": "Organization",
+        "name": "Pulse Events Ja",
+        "url": "https://www.caribtix.com/event/pulse-17214"
+      }
+    },
+    {
+      "source": "https://www.caribtix.com/event/raise-the-roof-for-zion-5k-runwalk-17630",
+      "name": "Raise the Roof for Zion 5K Run/Walk",
+      "sourceStart": "2026-12-05T10:30:00.000Z",
+      "sourceEnd": "2026-12-05T14:30:00.000Z",
+      "jamaicaStart": "2026-12-05T05:30:00-05:00",
+      "jamaicaEnd": "2026-12-05T09:30:00-05:00",
+      "location": {
+        "@type": "Place",
+        "name": "Hopewell Sports and Community Centre",
+        "address": {
+          "@type": "PostalAddress",
+          "streetAddress": "FX3G+7H4, Hopewell, Jamaica",
+          "addressLocality": "Hopewell",
+          "addressRegion": "Hanover Parish",
+          "addressCountry": "Jamaica"
+        }
+      },
+      "organiser": {
+        "@type": "Organization",
+        "name": "Hopewell Missionary Church",
+        "url": "https://www.caribtix.com/event/raise-the-roof-for-zion-5k-runwalk-17630"
+      }
+    },
+    {
+      "source": "https://www.caribtix.com/event/scream-halloween-festival-5-16774",
+      "name": "Scream Halloween Festival 5",
+      "sourceStart": "2026-11-01T02:00:00.000Z",
+      "sourceEnd": "2026-11-01T07:00:00.000Z",
+      "jamaicaStart": "2026-10-31T21:00:00-05:00",
+      "jamaicaEnd": "2026-11-01T02:00:00-05:00",
+      "location": {
+        "@type": "Place",
+        "name": "Kingston",
+        "address": {
+          "@type": "PostalAddress",
+          "streetAddress": "Kingston, Jamaica",
+          "addressLocality": "Kingston",
+          "addressRegion": "St. Andrew Parish",
+          "addressCountry": "Jamaica"
+        }
+      },
+      "organiser": {
+        "@type": "Organization",
+        "name": "Phillpots",
+        "url": "https://www.caribtix.com/event/scream-halloween-festival-5-16774"
+      }
+    },
+    {
+      "source": "https://www.caribtix.com/event/sneak-out-season-sos-17289",
+      "name": "Sneak out Season (SOS)",
+      "sourceStart": "2026-12-19T02:00:00.000Z",
+      "sourceEnd": "2026-12-19T07:00:00.000Z",
+      "jamaicaStart": "2026-12-18T21:00:00-05:00",
+      "jamaicaEnd": "2026-12-19T02:00:00-05:00",
+      "location": {
+        "@type": "Place",
+        "name": "House of Leo",
+        "address": {
+          "@type": "PostalAddress",
+          "streetAddress": "3 Cargill Avenue",
+          "addressLocality": "Kingston",
+          "addressRegion": "St. Andrew Parish",
+          "addressCountry": "Jamaica"
+        }
+      },
+      "organiser": {
+        "@type": "Organization",
+        "name": "Nova Collective",
+        "url": "https://www.caribtix.com/event/sneak-out-season-sos-17289"
+      }
+    },
+    {
+      "source": "https://www.caribtix.com/event/sunsetontheestate-17409",
+      "name": "Sunset on the Estate",
+      "sourceStart": "2026-12-20T19:00:00.000Z",
+      "sourceEnd": "2026-12-21T03:00:00.000Z",
+      "jamaicaStart": "2026-12-20T14:00:00-05:00",
+      "jamaicaEnd": "2026-12-20T22:00:00-05:00",
+      "location": {
+        "@type": "Place",
+        "name": "Woodleigh Estate",
+        "address": {
+          "@type": "PostalAddress",
+          "streetAddress": "XQ85+PPV, May Pen, Jamaica",
+          "addressLocality": "May Pen",
+          "addressRegion": "Clarendon",
+          "addressCountry": "Jamaica"
+        }
+      },
+      "organiser": {
+        "@type": "Organization",
+        "name": "Woodleigh Shooting Range & Gun Club",
+        "url": "https://www.caribtix.com/event/sunsetontheestate-17409"
+      }
+    },
+    {
+      "source": "https://www.caribtix.com/event/teen-jamboree-jamaica-16901",
+      "name": "Teen Jamboree Jamaica",
+      "sourceStart": "2026-12-27T19:00:00.000Z",
+      "sourceEnd": "2026-12-28T04:00:00.000Z",
+      "jamaicaStart": "2026-12-27T14:00:00-05:00",
+      "jamaicaEnd": "2026-12-27T23:00:00-05:00",
+      "location": {
+        "@type": "Place",
+        "name": "Dinthill Technical High School",
+        "address": {
+          "@type": "PostalAddress",
+          "streetAddress": "4XGC+7VV, Linstead, Jamaica",
+          "addressLocality": "Linstead",
+          "addressRegion": "St. Catherine Parish",
+          "addressCountry": "Jamaica"
+        }
+      },
+      "organiser": {
+        "@type": "Organization",
+        "name": "Broadleaf Entertainment",
+        "url": "https://www.caribtix.com/event/teen-jamboree-jamaica-16901"
+      }
+    },
+    {
+      "source": "https://www.caribtix.com/event/the-return-of-zebra-17328",
+      "name": "The Return of Zebra",
+      "sourceStart": "2026-11-07T17:00:00.000Z",
+      "sourceEnd": "2026-11-08T07:00:00.000Z",
+      "jamaicaStart": "2026-11-07T12:00:00-05:00",
+      "jamaicaEnd": "2026-11-08T02:00:00-05:00",
+      "location": {
+        "@type": "Place",
+        "name": "Portmore Harbour",
+        "address": {
+          "@type": "PostalAddress",
+          "streetAddress": "1 Fort Augusta Drive",
+          "addressLocality": "Portmore",
+          "addressCountry": "Jamaica"
+        }
+      },
+      "organiser": {
+        "@type": "Organization",
+        "name": "Global Musiq Entertainment",
+        "url": "https://www.caribtix.com/event/the-return-of-zebra-17328"
+      }
+    },
+    {
+      "source": "https://www.caribtix.com/event/treasure-beach-food-rum-reggae-festival-17365",
+      "name": "Treasure Beach Food, Rum & Reggae Festival",
+      "sourceStart": "2026-11-07T02:00:00.000Z",
+      "sourceEnd": "2026-11-08T23:00:00.000Z",
+      "jamaicaStart": "2026-11-06T21:00:00-05:00",
+      "jamaicaEnd": "2026-11-08T18:00:00-05:00",
+      "location": {
+        "@type": "Place",
+        "name": "Treasure Beach",
+        "address": {
+          "@type": "PostalAddress",
+          "streetAddress": "Treasure Beach, Jamaica",
+          "addressLocality": "Treasure Beach",
+          "addressRegion": "St. Elizabeth Parish",
+          "addressCountry": "Jamaica"
+        }
+      },
+      "organiser": {
+        "@type": "Organization",
+        "name": "Treasure Beach Food, Rum & Reggae",
+        "url": "https://www.caribtix.com/event/treasure-beach-food-rum-reggae-festival-17365"
+      }
+    },
+    {
+      "source": "https://www.caribtix.com/event/tropical-bliss-the-ultimate-brunch-party-17440",
+      "name": "Tropical Bliss \"The Ultimate Brunch Party\"",
+      "sourceStart": "2026-12-06T19:00:00.000Z",
+      "sourceEnd": "2026-12-07T01:00:00.000Z",
+      "jamaicaStart": "2026-12-06T14:00:00-05:00",
+      "jamaicaEnd": "2026-12-06T20:00:00-05:00",
+      "location": {
+        "@type": "Place",
+        "name": "Kingston",
+        "address": {
+          "@type": "PostalAddress",
+          "streetAddress": "Kingston, Jamaica",
+          "addressLocality": "Kingston",
+          "addressRegion": "St. Andrew Parish",
+          "addressCountry": "Jamaica"
+        }
+      },
+      "organiser": {
+        "@type": "Organization",
+        "name": "Tropical Bliss",
+        "url": "https://www.caribtix.com/event/tropical-bliss-the-ultimate-brunch-party-17440"
+      }
+    },
+    {
+      "source": "https://www.caribtix.com/event/tsunami-soca-masquerade-17354",
+      "name": "Tsunami Soca Masquerade",
+      "sourceStart": "2026-11-29T01:00:00.000Z",
+      "sourceEnd": "2026-11-29T08:00:00.000Z",
+      "jamaicaStart": "2026-11-28T20:00:00-05:00",
+      "jamaicaEnd": "2026-11-29T03:00:00-05:00",
+      "location": {
+        "@type": "Place",
+        "name": "HQ 2nd District JDF CG",
+        "address": {
+          "@type": "PostalAddress",
+          "streetAddress": "Main Street",
+          "addressLocality": "Discovery Bay",
+          "addressRegion": "St. Ann Parish",
+          "addressCountry": "Jamaica"
+        }
+      },
+      "organiser": {
+        "@type": "Organization",
+        "name": "1Bossy Entertainment",
+        "url": "https://www.caribtix.com/event/tsunami-soca-masquerade-17354"
+      }
+    },
+    {
+      "source": "https://www.caribtix.com/event/tuesday-nyammings-17127",
+      "name": "Tuesday Nyammings",
+      "sourceStart": "2026-06-24T00:00:35.000Z",
+      "sourceEnd": "2026-10-28T04:00:44.000Z",
+      "jamaicaStart": "2026-06-23T19:00:35-05:00",
+      "jamaicaEnd": "2026-10-27T23:00:44-05:00",
+      "location": {
+        "@type": "Place",
+        "name": "Janga's Soundbar & Grill",
+        "address": {
+          "@type": "PostalAddress",
+          "streetAddress": "22 Belmont Road, New Kingston",
+          "addressLocality": "Kingston",
+          "addressRegion": "St. Andrew Parish",
+          "addressCountry": "Jamaica"
+        }
+      },
+      "organiser": {
+        "@type": "Organization",
+        "name": "Jangas",
+        "url": "https://www.caribtix.com/event/tuesday-nyammings-17127"
+      }
+    },
+    {
+      "source": "https://www.caribtix.com/event/vegan-vybz-16761",
+      "name": "Vegan Vybz Fest 2027",
+      "sourceStart": "2027-06-06T15:00:00.000Z",
+      "sourceEnd": "2027-06-07T03:00:00.000Z",
+      "jamaicaStart": "2027-06-06T10:00:00-05:00",
+      "jamaicaEnd": "2027-06-06T22:00:00-05:00",
+      "location": {
+        "@type": "Place",
+        "name": "Downtown Kingston Waterfront",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Kingston",
+          "addressCountry": "Jamaica"
+        }
+      },
+      "organiser": {
+        "@type": "Organization",
+        "name": "Vegan Vybz Fest",
+        "url": "https://www.caribtix.com/event/vegan-vybz-16761"
+      }
+    },
+    {
+      "source": "https://www.caribtix.com/event/wata-pon-dryland-17414",
+      "name": "Wata pon Dryland",
+      "sourceStart": "2026-12-25T01:00:00.000Z",
+      "sourceEnd": "2026-12-25T07:00:00.000Z",
+      "jamaicaStart": "2026-12-24T20:00:00-05:00",
+      "jamaicaEnd": "2026-12-25T02:00:00-05:00",
+      "location": {
+        "@type": "Place",
+        "name": "Arnett Gardens Mini Complex & Play Park",
+        "address": {
+          "@type": "PostalAddress",
+          "streetAddress": "Kingston, Jamaica",
+          "addressLocality": "Kingston",
+          "addressRegion": "St. Andrew Parish",
+          "addressCountry": "Jamaica"
+        }
+      },
+      "organiser": {
+        "@type": "Organization",
+        "name": "Wata Pon Dryland",
+        "url": "https://www.caribtix.com/event/wata-pon-dryland-17414"
+      }
+    },
+    {
+      "source": "https://www.caribtix.com/event/wetter-is-better-17396",
+      "name": "Wetter is Better",
+      "sourceStart": "2026-12-29T21:00:00.000Z",
+      "sourceEnd": "2026-12-30T08:00:00.000Z",
+      "jamaicaStart": "2026-12-29T16:00:00-05:00",
+      "jamaicaEnd": "2026-12-30T03:00:00-05:00",
+      "location": {
+        "@type": "Place",
+        "name": "Toll Gate Community Center",
+        "address": {
+          "@type": "PostalAddress",
+          "streetAddress": "Toll Gate, Jamaica",
+          "addressLocality": "Toll Gate",
+          "addressRegion": "Clarendon",
+          "addressCountry": "Jamaica"
+        }
+      },
+      "organiser": {
+        "@type": "Organization",
+        "name": "Intrigue 12",
+        "url": "https://www.caribtix.com/event/wetter-is-better-17396"
+      }
+    },
+    {
+      "source": "https://www.caribtix.com/event/xodus-wet-17504",
+      "name": "Xodus WET Music Festival",
+      "sourceStart": "2027-01-02T09:00:00.000Z",
+      "sourceEnd": "2027-01-02T16:00:00.000Z",
+      "jamaicaStart": "2027-01-02T04:00:00-05:00",
+      "jamaicaEnd": "2027-01-02T11:00:00-05:00",
+      "location": {
+        "@type": "Place",
+        "name": "Kingston",
+        "address": {
+          "@type": "PostalAddress",
+          "streetAddress": "Kingston, Jamaica",
+          "addressLocality": "Kingston",
+          "addressRegion": "St. Andrew Parish",
+          "addressCountry": "Jamaica"
+        }
+      },
+      "organiser": {
+        "@type": "Organization",
+        "name": "Xodus Carnival",
+        "url": "http://xoduscarnival.com"
+      }
+    },
+    {
+      "source": "https://www.caribtix.com/event/xodus-wet-music-festival-17507",
+      "name": "Xodus Wet Music Festival",
+      "sourceStart": "2027-04-02T09:00:00.000Z",
+      "sourceEnd": "2027-04-02T16:00:00.000Z",
+      "jamaicaStart": "2027-04-02T04:00:00-05:00",
+      "jamaicaEnd": "2027-04-02T11:00:00-05:00",
+      "location": {
+        "@type": "Place",
+        "name": "Kingston",
+        "address": {
+          "@type": "PostalAddress",
+          "streetAddress": "Kingston, Jamaica",
+          "addressLocality": "Kingston",
+          "addressRegion": "St. Andrew Parish",
+          "addressCountry": "Jamaica"
+        }
+      },
+      "organiser": {
+        "@type": "Organization",
+        "name": "Xodus Carnival",
+        "url": "http://xoduscarnival.com"
+      }
+    },
+    {
+      "source": "https://www.caribtix.com/event/xodus-wet-music-festival-17509",
+      "name": "Xodus Wet Music Festival",
+      "sourceStart": "2027-10-18T09:00:00.000Z",
+      "sourceEnd": "2027-10-18T16:00:00.000Z",
+      "jamaicaStart": "2027-10-18T04:00:00-05:00",
+      "jamaicaEnd": "2027-10-18T11:00:00-05:00",
+      "location": {
+        "@type": "Place",
+        "name": "Kingston",
+        "address": {
+          "@type": "PostalAddress",
+          "streetAddress": "Kingston, Jamaica",
+          "addressLocality": "Kingston",
+          "addressRegion": "St. Andrew Parish",
+          "addressCountry": "Jamaica"
+        }
+      },
+      "organiser": {
+        "@type": "Organization",
+        "name": "Xodus Carnival",
+        "url": "http://xoduscarnival.com"
+      }
+    },
+    {
+      "source": "https://www.caribtix.com/event/xodus-x-mas-tailgate-17510",
+      "name": "Xodus X-MAS Tailgate",
+      "sourceStart": "2026-12-30T23:00:00.000Z",
+      "sourceEnd": "2026-12-31T05:00:00.000Z",
+      "jamaicaStart": "2026-12-30T18:00:00-05:00",
+      "jamaicaEnd": "2026-12-31T00:00:00-05:00",
+      "location": {
+        "@type": "Place",
+        "name": "Kingston",
+        "address": {
+          "@type": "PostalAddress",
+          "streetAddress": "Kingston, Jamaica",
+          "addressLocality": "Kingston",
+          "addressRegion": "St. Andrew Parish",
+          "addressCountry": "Jamaica"
+        }
+      },
+      "organiser": {
+        "@type": "Organization",
+        "name": "Xodus Carnival",
+        "url": "http://xoduscarnival.com"
+      }
+    },
+    {
+      "source": "https://www.caribtix.com/event/xodus-x-mas-tailgate-copy-2026-10-04234341-17512",
+      "name": "Xodus Tailgate",
+      "sourceStart": "2027-03-29T23:00:00.000Z",
+      "sourceEnd": "2027-03-30T05:00:00.000Z",
+      "jamaicaStart": "2027-03-29T18:00:00-05:00",
+      "jamaicaEnd": "2027-03-30T00:00:00-05:00",
+      "location": {
+        "@type": "Place",
+        "name": "Kingston",
+        "address": {
+          "@type": "PostalAddress",
+          "streetAddress": "Kingston, Jamaica",
+          "addressLocality": "Kingston",
+          "addressRegion": "St. Andrew Parish",
+          "addressCountry": "Jamaica"
+        }
+      },
+      "organiser": {
+        "@type": "Organization",
+        "name": "Xodus Carnival",
+        "url": "http://xoduscarnival.com"
+      }
+    },
+    {
+      "source": "https://www.caribtix.com/event/yesterday-the-best-of-the-90s-copy-2026-09-21225100-17451",
+      "name": "Yesterday - The Best of 90's -2010",
+      "sourceStart": "2026-11-01T02:00:00.000Z",
+      "sourceEnd": "2026-11-01T08:00:00.000Z",
+      "jamaicaStart": "2026-10-31T21:00:00-05:00",
+      "jamaicaEnd": "2026-11-01T03:00:00-05:00",
+      "location": {
+        "@type": "Place",
+        "name": "Jamaica National Stadium Parking Lot",
+        "address": {
+          "@type": "PostalAddress",
+          "streetAddress": "262G+CXX, Kingston, Jamaica",
+          "addressLocality": "Kingston",
+          "addressRegion": "St. Andrew Parish",
+          "addressCountry": "Jamaica"
+        }
+      },
+      "organiser": {
+        "@type": "Organization",
+        "name": "Yesterday",
+        "url": "https://www.caribtix.com/event/yesterday-the-best-of-the-90s-copy-2026-09-21225100-17451"
+      }
+    }
+  ],
+  "requiresReview": true
+}

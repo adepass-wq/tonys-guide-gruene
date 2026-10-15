@@ -1,0 +1,98 @@
+[
+  {
+    "event": "island-a-christmas-fantasia-17480",
+    "source": "https://www.caribtix.com/event/a-christmas-fantasia-17480",
+    "original": "https://cdn.ticmint.com/events/1790372788453-ChatGPT%20Image%20Sep%2025%2C%202026%2C%2011_37_04%20PM.png",
+    "sourceBytes": 2110825,
+    "originalSha256": "8c7e7b4bef25c7eb78ecbd1136209e6db9ad150f656faff8bb569f326bf6e381",
+    "delivery": "/assets/82d59f39f7397d15877b3859.webp",
+    "deliveryBytes": 79346,
+    "width": 768,
+    "height": 768,
+    "transformation": "Proportional resize and WebP compression only; poster content retained."
+  },
+  {
+    "event": "island-artfelt-unplugged-blooming-17483",
+    "source": "https://www.caribtix.com/event/artfelt-unplugged-blooming-17483",
+    "original": "https://cdn.ticmint.com/events/1790624473943-ChatGPT%20Image%20Sep%2028%2C%202026%2C%2009_35_05%20PM.png",
+    "sourceBytes": 1958903,
+    "originalSha256": "8eb94f1260ee98d929fdfa3a10f543064469130200df309417a74be21b3971cb",
+    "delivery": "/assets/26b053482a85e3f26d9dafdc.webp",
+    "deliveryBytes": 79558,
+    "width": 768,
+    "height": 768,
+    "transformation": "Proportional resize and WebP compression only; poster content retained."
+  },
+  {
+    "event": "island-euphoria-brunch-17290",
+    "source": "https://www.caribtix.com/event/euphoria-brunch-17290",
+    "original": "https://cdn.ticmint.com/events/1791233426871-Euphoria%20Escape%20Neon%20Jungle%20Flyer.png",
+    "sourceBytes": 2603923,
+    "originalSha256": "52b1906e4dd5fd4f2932fb89b47c848e71eaf96d5ffa888c12f215263d903db6",
+    "delivery": "/assets/528c2dd25a52efe834bc275b.webp",
+    "deliveryBytes": 134808,
+    "width": 768,
+    "height": 768,
+    "transformation": "Proportional resize and WebP compression only; poster content retained."
+  },
+  {
+    "event": "island-fanatic-ochi-17273",
+    "source": "https://www.caribtix.com/event/fanatic-ochi-17273",
+    "original": "https://cdn.ticmint.com/events/1791815471942-Fanatic_Ochi_1000x1000.png",
+    "sourceBytes": 1464132,
+    "originalSha256": "46547a3a5a0054f010352283dcbb1a73665cd965bed5bb6a6acb182f2e0a4f8e",
+    "delivery": "/assets/aabb42ab4772dbc763add0ad.webp",
+    "deliveryBytes": 122878,
+    "width": 768,
+    "height": 768,
+    "transformation": "Proportional resize and WebP compression only; poster content retained."
+  },
+  {
+    "event": "island-love-note-a-soulful-lovers-rock-experience-17415",
+    "source": "https://www.caribtix.com/event/love-note-a-soulful-lovers-rock-experience-17415",
+    "original": "https://cdn.ticmint.com/events/1789769890577-LOVENOTECARIB1000x1000pix.png",
+    "sourceBytes": 1492242,
+    "originalSha256": "996b99ed2fb63bf2dd8f4293f3c949e71c13543fc7afeb4550ff9542840d393b",
+    "delivery": "/assets/5e29480735b514f11ebe7549.webp",
+    "deliveryBytes": 114446,
+    "width": 768,
+    "height": 768,
+    "transformation": "Proportional resize and WebP compression only; poster content retained."
+  },
+  {
+    "event": "island-phenomenal-i-am-5-a-night-of-mystery-17203",
+    "source": "https://www.caribtix.com/event/phenomenal-i-am-5-a-night-of-mystery-17203",
+    "original": "https://cdn.ticmint.com/events/1783967302928-1000_1000.png",
+    "sourceBytes": 3403119,
+    "originalSha256": "242e2a0e27e470de6adacc23d8bfab6a8c5b4f57f9482677583a391503a83268",
+    "delivery": "/assets/7bd4771bf8f9b28c6e4512e0.webp",
+    "deliveryBytes": 143190,
+    "width": 768,
+    "height": 768,
+    "transformation": "Proportional resize and WebP compression only; poster content retained."
+  },
+  {
+    "event": "island-raise-the-roof-for-zion-5k-runwalk-17630",
+    "source": "https://www.caribtix.com/event/raise-the-roof-for-zion-5k-runwalk-17630",
+    "original": "https://cdn.ticmint.com/events/1792009422118-Raise%20the%20Roof%20for%20Zion%205K.png",
+    "sourceBytes": 1998730,
+    "originalSha256": "2b0de5c328553f37c6385729c366f2fbb289fb78e710041b6a5a23f61138a396",
+    "delivery": "/assets/b5d94692d4444af0f58f8f22.webp",
+    "deliveryBytes": 82806,
+    "width": 768,
+    "height": 768,
+    "transformation": "Proportional resize and WebP compression only; poster content retained."
+  },
+  {
+    "event": "island-tsunami-soca-masquerade-17354",
+    "source": "https://www.caribtix.com/event/tsunami-soca-masquerade-17354",
+    "original": "https://cdn.ticmint.com/events/1787246844146-Tsunami_Online_Ad_1000x1000.png",
+    "sourceBytes": 1822948,
+    "originalSha256": "598655025bfa522690b8cc13315026693fa8a0f2c69761f7494b6f667a25e1d3",
+    "delivery": "/assets/99ace0e96a3e70bdcf6b7e56.webp",
+    "deliveryBytes": 105450,
+    "width": 768,
+    "height": 768,
+    "transformation": "Proportional resize and WebP compression only; poster content retained."
+  }
+]

@@ -321,5 +321,233 @@
     ],
     "mapQuery": "Natural History Museum of Jamaica, Kingston, Jamaica",
     "mapNote": "Museum location only; confirm whether this session is here, at another venue, or online."
+  },
+  {
+    "id": "island-roots-bamboo",
+    "name": "Roots Bamboo: Reggae pon di Beach",
+    "days": [
+      1,
+      3,
+      5
+    ],
+    "monthly": "",
+    "schedule": "Monday, Wednesday & Friday; ask for doors",
+    "description": "The resort publishes three weekly live-reggae nights and free entrance. Confirm this week’s show, artist and start time.",
+    "location": "Roots Bamboo Beach Resort, Norman Manley Boulevard, Negril",
+    "parishes": [
+      "Westmoreland"
+    ],
+    "genre": "Concerts & live music",
+    "area": "Elsewhere in Jamaica",
+    "source": "https://www.rootsbamboobeachresort.com/explore-the-island",
+    "checked": "2026-10-15",
+    "recheckAfter": "2026-11-01",
+    "mapQuery": "Roots Bamboo Beach Resort, Norman Manley Boulevard, Negril, Jamaica"
+  },
+  {
+    "id": "island-charela",
+    "name": "Charela Inn live jazz, reggae & R&B",
+    "days": [
+      4,
+      6
+    ],
+    "monthly": "",
+    "schedule": "Thursday & Saturday; reserve and confirm time",
+    "description": "The venue publishes two weekly entertainment nights with local bands and artists. Reserve dinner or ask about attending just the performance.",
+    "location": "Charela Inn, Norman Manley Boulevard, Negril",
+    "parishes": [
+      "Westmoreland"
+    ],
+    "genre": "Concerts & live music",
+    "area": "Elsewhere in Jamaica",
+    "source": "https://www.charelainn.com/entertainment",
+    "checked": "2026-10-15",
+    "recheckAfter": "2026-11-01",
+    "mapQuery": "Charela Inn, Norman Manley Boulevard, Negril, Jamaica"
+  },
+  {
+    "id": "island-alfreds",
+    "name": "Alfred’s Ocean Palace beach-stage reggae",
+    "days": [],
+    "monthly": "",
+    "schedule": "Ask venue for the next published show",
+    "description": "The venue describes roots, rock and reggae performances on its beach stage. Confirm the actual date and artist rather than relying on an old weekly schedule.",
+    "location": "Alfred’s Ocean Palace, Norman Manley Boulevard, Negril",
+    "parishes": [
+      "Westmoreland"
+    ],
+    "genre": "Concerts & live music",
+    "area": "Elsewhere in Jamaica",
+    "source": "https://www.alfredsoceanpalace.com/entertainment/",
+    "checked": "2026-10-15",
+    "recheckAfter": "2026-11-01",
+    "mapQuery": "Alfred’s Ocean Palace, Norman Manley Boulevard, Negril, Jamaica"
+  },
+  {
+    "id": "island-pier-wednesday",
+    "name": "Pier 1 Star Struck Wednesdays",
+    "days": [
+      3
+    ],
+    "monthly": "",
+    "schedule": "Wednesday; confirm doors and admission",
+    "description": "Weekly waterfront entertainment with fashion, talent and music. Ask for this week’s format and current admission.",
+    "location": "Pier 1, Howard Cooke Boulevard, Montego Bay",
+    "parishes": [
+      "St. James"
+    ],
+    "genre": "Music & nightlife",
+    "area": "Elsewhere in Jamaica",
+    "source": "https://pier1jamaica.com/locations/on-the-waterfront/",
+    "checked": "2026-10-15",
+    "recheckAfter": "2026-11-01",
+    "mapQuery": "Pier 1, Howard Cooke Boulevard, Montego Bay, Jamaica"
+  },
+  {
+    "id": "island-pier-friday",
+    "name": "Pier 1 Pier Pressure Fridays",
+    "days": [
+      5
+    ],
+    "monthly": "",
+    "schedule": "Friday night; confirm doors",
+    "description": "The venue publishes this weekly party. Check age rules and current ticket or table requirements.",
+    "location": "Pier 1, Howard Cooke Boulevard, Montego Bay",
+    "parishes": [
+      "St. James"
+    ],
+    "genre": "Music & nightlife",
+    "area": "Elsewhere in Jamaica",
+    "source": "https://pier1jamaica.com/locations/on-the-waterfront/",
+    "checked": "2026-10-15",
+    "recheckAfter": "2026-11-01",
+    "mapQuery": "Pier 1, Howard Cooke Boulevard, Montego Bay, Jamaica"
+  },
+  {
+    "id": "island-skyline-friday",
+    "name": "Skyline Levels: Thank Jah It’s Friday",
+    "days": [
+      5
+    ],
+    "monthly": "",
+    "schedule": "Friday; confirm this week’s edition",
+    "description": "Roots selectors and reggae selections are described in the venue’s standing programme. The dated calendar has no current shows; confirm before travelling.",
+    "location": "Skyline Levels, Skyline Drive, St. Andrew",
+    "parishes": [
+      "St. Andrew"
+    ],
+    "genre": "Music & nightlife",
+    "area": "Elsewhere in Jamaica",
+    "source": "https://skylinelevels.com/events/",
+    "checked": "2026-10-15",
+    "recheckAfter": "2026-11-01",
+    "mapQuery": "Skyline Levels, Skyline Drive, St. Andrew, Jamaica"
+  },
+  {
+    "id": "island-skyline-saturday",
+    "name": "Skyline Levels: Satta Nite Live",
+    "days": [
+      6
+    ],
+    "monthly": "",
+    "schedule": "Saturday programme; confirm this week’s edition",
+    "description": "Standing programme describes live reggae, with full-band or acoustic formats. Current dated performance and lineup require confirmation.",
+    "location": "Skyline Levels, Skyline Drive, St. Andrew",
+    "parishes": [
+      "St. Andrew"
+    ],
+    "genre": "Concerts & live music",
+    "area": "Elsewhere in Jamaica",
+    "source": "https://skylinelevels.com/events/",
+    "checked": "2026-10-15",
+    "recheckAfter": "2026-11-01",
+    "mapQuery": "Skyline Levels, Skyline Drive, St. Andrew, Jamaica"
+  },
+  {
+    "id": "island-dubwise",
+    "name": "Dubwise Café reggae programme",
+    "days": [],
+    "monthly": "",
+    "schedule": "Three reggae nights weekly; check actual nights and lineup",
+    "description": "Dubwise publishes a Kingston reggae programme, but its page mixes venue hours with session days. Check the current calendar rather than treating all opening nights as concerts.",
+    "location": "Dubwise Café, 82 Lady Musgrave Road, St. Andrew",
+    "parishes": [
+      "St. Andrew"
+    ],
+    "genre": "Concerts & live music",
+    "area": "Elsewhere in Jamaica",
+    "source": "https://www.dubwisejamaica.com/our-story",
+    "checked": "2026-10-15",
+    "recheckAfter": "2026-11-01",
+    "mapQuery": "Dubwise Café, 82 Lady Musgrave Road, St. Andrew, Jamaica"
+  },
+  {
+    "id": "island-gallis",
+    "name": "The Gallis and the Rolling Calf",
+    "days": [
+      6,
+      0
+    ],
+    "monthly": "",
+    "schedule": "Published Saturday & Sunday shows at 5 p.m. and 8 p.m.; confirm tickets",
+    "description": "Jambiz’s dark comedy connects Jamaican folklore with contemporary theatre. Ticket series ends 19 October; select an actual remaining show.",
+    "location": "Courtleigh Auditorium, St. Lucia Avenue, New Kingston",
+    "parishes": [
+      "St. Andrew"
+    ],
+    "genre": "Theatre & dance",
+    "area": "Elsewhere in Jamaica",
+    "source": "https://www.caribtix.com/event/patrick-browns-the-gallis-and-the-rolling-calf-17217",
+    "checked": "2026-10-15",
+    "recheckAfter": "2026-11-01",
+    "mapQuery": "Courtleigh Auditorium, St. Lucia Avenue, New Kingston, Jamaica",
+    "ends": "2026-10-19"
+  },
+  {
+    "id": "island-nyammings",
+    "name": "Janga’s Tuesday Nyammings",
+    "days": [
+      2
+    ],
+    "monthly": "",
+    "schedule": "Tuesday evening; confirm service and booking",
+    "description": "Food-and-music programme at Janga’s Soundbar & Grill. Current booking series ends 27 October.",
+    "location": "Janga’s Soundbar & Grill, 22 Belmont Road, New Kingston",
+    "parishes": [
+      "St. Andrew"
+    ],
+    "genre": "Food & music",
+    "area": "Elsewhere in Jamaica",
+    "source": "https://www.caribtix.com/event/tuesday-nyammings-17127",
+    "checked": "2026-10-15",
+    "recheckAfter": "2026-11-01",
+    "mapQuery": "Janga’s Soundbar & Grill, 22 Belmont Road, New Kingston, Jamaica",
+    "ends": "2026-10-27"
+  },
+  {
+    "id": "island-ngj-wood-water",
+    "name": "Of Wood and Water: Scotiabank Collection",
+    "days": [
+      0,
+      2,
+      3,
+      4,
+      5,
+      6
+    ],
+    "monthly": "",
+    "schedule": "Exhibition extended through 1 November; gallery hours apply",
+    "description": "Works explore land, nature, people and spirituality. Closed Mondays and public holidays; confirm current gallery admission.",
+    "location": "National Gallery of Jamaica, 12 Ocean Boulevard",
+    "parishes": [
+      "Kingston"
+    ],
+    "genre": "Art & exhibitions",
+    "area": "Elsewhere in Jamaica",
+    "source": "https://nationalgalleryofjamaica.wordpress.com/2026/09/11/extended-until-november-1-2026-of-wood-and-water-the-scotiabank-collection/",
+    "checked": "2026-10-15",
+    "recheckAfter": "2026-11-01",
+    "mapQuery": "National Gallery of Jamaica, 12 Ocean Boulevard, Jamaica",
+    "ends": "2026-11-01"
   }
 ]

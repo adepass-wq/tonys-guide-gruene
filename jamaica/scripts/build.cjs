@@ -14,6 +14,8 @@ const generated={
 };
 html=html.replace(token,(all,kind,name)=>{if(kind!=='generated'||!generated[name])throw Error('Unknown template token '+all);return (typeof generated[name]==='string'?generated[name]:JSON.stringify(generated[name])).replace(/<\/script/gi,'<\\/script');});if(/\{\{(?:include|generated)\b/.test(html))throw Error('Unresolved source token');
 const articleIds=[...d.querySelectorAll('.reading-article')].map(el=>el.id);if(articleIds.length!==metadata.length||new Set(metadata.map(m=>m.id)).size!==metadata.length)throw Error('Article metadata and reader fragments do not agree');
+// Compact embedded data as the event inventory grows; preserve parsed values and script boundaries.
+html=html.replace(/(<script\b[^>]*\btype=["']application\/json["'][^>]*>)([\s\S]*?)(<\/script\s*>)/gi,(all,open,body,close)=>open+JSON.stringify(JSON.parse(body)).replace(/<\/script/gi,'<\\/script')+close);
 // Keep original media bytes and credits, but deliver images as reusable static files.
 const check=process.argv.includes('--check'),defaultOutput=path.resolve(__dirname,'../index.html'),assetRoot=output===defaultOutput?path.resolve(__dirname,'../../public/assets'):path.join(path.dirname(output),'assets'),assets=new Map();
 html=html.replace(/data:image\/(jpeg|png|webp|gif);base64,([A-Za-z0-9+/=]+)/g,(all,type,data)=>{const bytes=Buffer.from(data,'base64'),name=crypto.createHash('sha256').update(bytes).digest('hex').slice(0,24)+'.'+(type==='jpeg'?'jpg':type);assets.set(name,bytes);return '/assets/'+name;});
