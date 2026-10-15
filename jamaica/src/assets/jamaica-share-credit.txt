@@ -1,0 +1,6 @@
+Tony’s Guide Jamaica social sharing card, 15 October 2026.
+Photo: Dunn’s River Falls, St. Ann, March 2025, Dr. Thomas Liptak.
+Source: https://commons.wikimedia.org/wiki/File:Jamaica_Ocho_Rios_Dunn%27s_River_Falls_1.jpg
+License: https://creativecommons.org/licenses/by-sa/4.0/
+Changes: photo cropped; text and branded layout added. Composite distributed under CC BY-SA 4.0.
+SVG source: jamaica-share.svg. JPEG: public/assets/jamaica-share-20261015.jpg.
