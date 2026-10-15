@@ -1,0 +1,723 @@
+{
+  "changed": [
+    "jamaica/src/routes/route-stelizabeth-freedom-land.html",
+    "jamaica/src/routes/route-stmary-garden-country-commerce.html",
+    "jamaica/src/routes/route-estates-labour-records.html",
+    "jamaica/src/routes/route-portland-maroon-living-heritage.html",
+    "jamaica/src/routes/route-western-shore-towns.html",
+    "jamaica/src/routes/route-stann-limestone-hill-food.html",
+    "jamaica/src/routes/route-western-ports-resistance.html",
+    "jamaica/src/routes/route-mountain-water-coffee.html",
+    "jamaica/src/routes/route-stmary-working-coast.html",
+    "jamaica/src/routes/route-central-town-country.html",
+    "jamaica/src/routes/route-mona-hope-land-knowledge.html",
+    "jamaica/src/routes/route-stann-layers.html",
+    "jamaica/src/routes/route-southcoast-water-food.html",
+    "jamaica/src/routes/route-portland-harbour-jerk.html",
+    "jamaica/src/routes/route-kingston-voices.html",
+    "jamaica/src/routes/route-kingston-garvey-public-power.html",
+    "jamaica/src/routes/route-western-labour-law.html",
+    "jamaica/src/routes/route-stthomas-justice-water.html",
+    "jamaica/src/routes/route-stthomas-art-headland.html",
+    "jamaica/src/routes/route-manchester-freedom-rail.html",
+    "jamaica/src/articles/legacy-munro.html",
+    "jamaica/src/articles/parish-milkriver.html",
+    "jamaica/src/articles/jh-oracabessa.html",
+    "jamaica/src/articles/parish-chapelton.html",
+    "jamaica/src/articles/parish-kenilworth.html",
+    "jamaica/src/articles/heritage-tale-ch49.html",
+    "jamaica/src/articles/parish-flatbridge.html",
+    "jamaica/src/articles/parish-fortcharlotte.html",
+    "jamaica/src/articles/history-melissa-falmouth.html",
+    "jamaica/src/articles/read-names.html",
+    "jamaica/src/articles/parish-mona.html",
+    "jamaica/src/articles/legacy-drax.html",
+    "jamaica/src/articles/culture-feature-0.html",
+    "jamaica/src/articles/culture-feature-7.html",
+    "jamaica/src/articles/object-market.html",
+    "jamaica/src/articles/parish-sligoville.html",
+    "jamaica/src/articles/parish-masonriver.html",
+    "jamaica/src/articles/read-garvey.html",
+    "jamaica/src/articles/legacy-hellshire.html",
+    "jamaica/src/articles/reconsidered-obeah.html",
+    "jamaica/src/articles/reconsidered-music.html",
+    "jamaica/src/articles/parish-bath-gardens.html",
+    "jamaica/src/articles/heritage-tale-ch1a.html",
+    "jamaica/src/articles/heritage-tale-ch56.html",
+    "jamaica/src/articles/reconsidered-indenture.html",
+    "jamaica/src/articles/jh-castleton.html",
+    "jamaica/src/articles/heritage-anancy.html",
+    "jamaica/src/articles/legacy-suttons.html",
+    "jamaica/src/articles/reconsidered-markets.html",
+    "jamaica/src/articles/parish-morantpoint.html",
+    "jamaica/src/articles/heritage-tale-ch20.html",
+    "jamaica/src/articles/heritage-africa.html",
+    "jamaica/src/articles/heritage-tale-ch46.html",
+    "jamaica/src/articles/legacy-daddy-rock.html",
+    "jamaica/src/articles/parish-goodhope.html",
+    "jamaica/src/articles/legacy-bath-jacob.html",
+    "jamaica/src/articles/heritage-tale-ch52.html",
+    "jamaica/src/articles/hh-harmony.html",
+    "jamaica/src/articles/object-banana.html",
+    "jamaica/src/articles/heritage-beyond-anancy.html",
+    "jamaica/src/articles/reconsidered-tourist-postcard.html",
+    "jamaica/src/articles/parish-folly.html",
+    "jamaica/src/articles/parish-halsehall.html",
+    "jamaica/src/articles/parish-titchfield.html",
+    "jamaica/src/articles/read-town.html",
+    "jamaica/src/articles/history-great-houses.html",
+    "jamaica/src/articles/heritage-tale-ch6.html",
+    "jamaica/src/articles/heritage-tale-ch72.html",
+    "jamaica/src/articles/reconsidered-taino.html",
+    "jamaica/src/articles/parish-frome.html",
+    "jamaica/src/articles/history-housing.html",
+    "jamaica/src/articles/history-una-marson.html",
+    "jamaica/src/articles/parish-mooretown.html",
+    "jamaica/src/articles/legacy-hibbert.html",
+    "jamaica/src/articles/legacy-kromanti.html",
+    "jamaica/src/articles/parish-kumina.html",
+    "jamaica/src/articles/history-morant.html",
+    "jamaica/src/articles/history-tacky.html",
+    "jamaica/src/articles/jh-annotto.html",
+    "jamaica/src/articles/heritage-tale-ch1b.html",
+    "jamaica/src/articles/hh-food.html",
+    "jamaica/src/articles/parish-lucea.html",
+    "jamaica/src/articles/culture-feature-6.html",
+    "jamaica/src/articles/parish-mckay.html",
+    "jamaica/src/articles/parish-stokeshall.html",
+    "jamaica/src/articles/parish-spanishtown.html",
+    "jamaica/src/articles/heritage-tale-ch43.html",
+    "jamaica/src/articles/reconsidered-rastafari.html",
+    "jamaica/src/articles/read-culture.html",
+    "jamaica/src/articles/parish-roxborough.html",
+    "jamaica/src/articles/jh-highgate.html",
+    "jamaica/src/articles/parish-cinchona.html",
+    "jamaica/src/articles/heritage-tale-ch92a.html",
+    "jamaica/src/articles/legacy-ackendown.html",
+    "jamaica/src/articles/reconsidered-women-1938.html",
+    "jamaica/src/articles/reconsidered-black-christianity.html",
+    "jamaica/src/articles/parish-blenheim.html",
+    "jamaica/src/articles/heritage-tale-ch48.html",
+    "jamaica/src/articles/history-jamaica.html",
+    "jamaica/src/articles/legacy-hope.html",
+    "jamaica/src/articles/heritage-tale-ch41.html",
+    "jamaica/src/articles/reconsidered-emancipation.html",
+    "jamaica/src/articles/heritage-tale-ch61.html",
+    "jamaica/src/articles/parish-devon.html",
+    "jamaica/src/articles/read-maroon.html",
+    "jamaica/src/articles/parish-yallahs.html",
+    "jamaica/src/articles/parish-stonygut.html",
+    "jamaica/src/articles/parish-lacovia.html",
+    "jamaica/src/articles/hh-seville.html",
+    "jamaica/src/articles/parish-marshallspen.html",
+    "jamaica/src/articles/heritage-tale-ch3.html",
+    "jamaica/src/articles/parish-kendal.html",
+    "jamaica/src/articles/heritage-tale-ch90.html",
+    "jamaica/src/articles/read-villages.html",
+    "jamaica/src/articles/history-windrush.html",
+    "jamaica/src/articles/legacy-salters.html",
+    "jamaica/src/articles/parish-seaford.html",
+    "jamaica/src/articles/legacy-fairfield.html",
+    "jamaica/src/articles/history-ocho-stann.html",
+    "jamaica/src/articles/hh-nine.html",
+    "jamaica/src/articles/heritage-tale-ch99.html",
+    "jamaica/src/articles/heritage-tale-ch9.html",
+    "jamaica/src/articles/heritage-tale-ch64.html",
+    "jamaica/src/articles/jh-port-maria.html",
+    "jamaica/src/articles/parish-burchell.html",
+    "jamaica/src/articles/hh-sleep.html",
+    "jamaica/src/articles/read-seville.html",
+    "jamaica/src/articles/legacy-tryall.html",
+    "jamaica/src/articles/parish-ward.html",
+    "jamaica/src/articles/reconsidered-tacky-atlantic.html",
+    "jamaica/src/articles/history-stjames.html",
+    "jamaica/src/articles/language-geography-class.html",
+    "jamaica/src/articles/parish-libertyhall.html",
+    "jamaica/src/articles/heritage-tale-ch53.html",
+    "jamaica/src/articles/history-migration.html",
+    "jamaica/src/articles/jh-stannbay.html",
+    "jamaica/src/articles/reconsidered-before-windrush.html",
+    "jamaica/src/articles/heritage-tale-ch73b.html",
+    "jamaica/src/articles/parish-mandeville.html",
+    "jamaica/src/articles/reconsidered-morant.html",
+    "jamaica/src/articles/jh-1907.html",
+    "jamaica/src/articles/parish-blackriver.html",
+    "jamaica/src/articles/history-stmary-hills.html",
+    "jamaica/src/articles/parish-kingston-rail.html",
+    "jamaica/src/articles/history-cockpit.html",
+    "jamaica/src/articles/parish-maidstone.html",
+    "jamaica/src/articles/parish-accompong.html",
+    "jamaica/src/articles/heritage-tale-ch40a.html",
+    "jamaica/src/articles/early-jamaican-voices.html",
+    "jamaica/src/articles/history-trelawny-falmouth.html",
+    "jamaica/src/articles/parish-fourpaths.html",
+    "jamaica/src/articles/heritage-tale-ch118.html",
+    "jamaica/src/articles/hh-build.html",
+    "jamaica/src/articles/read-church.html",
+    "jamaica/src/articles/parish-savannalamar.html",
+    "jamaica/src/articles/heritage-tale-ch67.html",
+    "jamaica/src/articles/reconsidered-maroons.html",
+    "jamaica/src/articles/history-dancehall.html",
+    "jamaica/src/pages/plan-your-day.html",
+    "jamaica/src/pages/cruise.html",
+    "jamaica/src/pages/safety.html",
+    "jamaica/src/pages/sources.html",
+    "jamaica/src/pages/storytelling.html",
+    "jamaica/src/pages/thematic-routes.html",
+    "jamaica/src/pages/guides.html",
+    "jamaica/src/pages/events.html",
+    "jamaica/src/pages/corridors.html",
+    "jamaica/src/places/food-11.html",
+    "jamaica/src/places/scotchies.html",
+    "jamaica/src/places/food-2.html",
+    "jamaica/src/places/national-peak.html",
+    "jamaica/src/places/rionuevo.html",
+    "jamaica/src/places/stannbay.html",
+    "jamaica/src/places/sharkies.html",
+    "jamaica/src/places/national-devon.html",
+    "jamaica/src/places/national-blackriver.html",
+    "jamaica/src/places/yaaman-cooking.html",
+    "jamaica/src/places/food-18.html",
+    "jamaica/src/places/national-goodhope.html",
+    "jamaica/src/places/baybeach.html",
+    "jamaica/src/places/stush.html",
+    "jamaica/src/places/food-7.html",
+    "jamaica/src/places/national-frenchmans.html",
+    "jamaica/src/places/white-river-oldroad.html",
+    "jamaica/src/places/harmony.html",
+    "jamaica/src/places/food-plantation.html",
+    "jamaica/src/places/food-20.html",
+    "jamaica/src/places/food-25.html",
+    "jamaica/src/places/food-8.html",
+    "jamaica/src/places/turtlepark.html",
+    "jamaica/src/places/food-4.html",
+    "jamaica/src/places/puerto.html",
+    "jamaica/src/places/national-treasure.html",
+    "jamaica/src/places/misst.html",
+    "jamaica/src/places/national-ricks.html",
+    "jamaica/src/places/food-bambooblu.html",
+    "jamaica/src/places/national-gallery.html",
+    "jamaica/src/places/food-16.html",
+    "jamaica/src/places/castleton.html",
+    "jamaica/src/places/national-ys.html",
+    "jamaica/src/places/sunvalley.html",
+    "jamaica/src/places/food-24.html",
+    "jamaica/src/places/national-rosehall.html",
+    "jamaica/src/places/food-10.html",
+    "jamaica/src/places/food-14.html",
+    "jamaica/src/places/national-lagoon.html",
+    "jamaica/src/places/dunn.html",
+    "jamaica/src/places/island-village.html",
+    "jamaica/src/places/pineapple-market.html",
+    "jamaica/src/places/food-oceans11.html",
+    "jamaica/src/places/national-reach.html",
+    "jamaica/src/places/blue.html",
+    "jamaica/src/places/national-falmouth.html",
+    "jamaica/src/places/food-23.html",
+    "jamaica/src/places/national-holywell.html",
+    "jamaica/src/places/seville.html",
+    "jamaica/src/places/food-1.html",
+    "jamaica/src/places/national-doctors.html",
+    "jamaica/src/places/konoko.html",
+    "jamaica/src/places/national-negrilbeach.html",
+    "jamaica/src/places/firefly.html",
+    "jamaica/src/places/food-21.html",
+    "jamaica/src/places/annotto.html",
+    "jamaica/src/places/mystic.html",
+    "jamaica/src/places/hermosa-day.html",
+    "jamaica/src/places/regional-mandeville.html",
+    "jamaica/src/places/national-riogrande.html",
+    "jamaica/src/places/white-river.html",
+    "jamaica/src/places/food-17.html",
+    "jamaica/src/places/food-9.html",
+    "jamaica/src/places/food-5.html",
+    "jamaica/src/places/coconut-market.html",
+    "jamaica/src/places/ocho-snorkel.html",
+    "jamaica/src/places/seville-horse.html",
+    "jamaica/src/places/food-starliner.html",
+    "jamaica/src/places/oracabessa.html",
+    "jamaica/src/places/food-22.html",
+    "jamaica/src/places/portmaria.html",
+    "jamaica/src/places/food-12.html",
+    "jamaica/src/places/dunn-zipline.html",
+    "jamaica/src/places/food-15.html",
+    "jamaica/src/places/food-13.html",
+    "jamaica/src/places/garfield-diving.html",
+    "jamaica/src/places/food-19.html",
+    "jamaica/src/places/national-marley.html",
+    "jamaica/src/places/food-3.html",
+    "jamaica/src/places/caves.html",
+    "jamaica/src/places/nine.html",
+    "jamaica/src/places/craftmarket.html",
+    "jamaica/src/places/seville-atv.html",
+    "jamaica/src/data/travel-places.json",
+    "jamaica/src/data/travel-events.json",
+    "jamaica/src/data/travel-visuals.json"
+  ],
+  "removed": [
+    {
+      "path": "jamaica/src/articles/parish-milkriver.html",
+      "text": "Source review: 13 October 2026. Catalogue dates, historical claims and editorial interpretations are distinguished. Photograph capture dates and permissions are not inferred from a source URL."
+    },
+    {
+      "path": "jamaica/src/articles/parish-chapelton.html",
+      "text": "Source review: 13 October 2026. Catalogue dates, historical claims and editorial interpretations are distinguished. Photograph capture dates and permissions are not inferred from a source URL."
+    },
+    {
+      "path": "jamaica/src/articles/parish-kenilworth.html",
+      "text": "Sources checked 12 October 2026. Date and attribution limits are retained with the images. Reported findings, later recollections and interpretation are distinguished. Visit durations are planning estimates; present access requires confirmation."
+    },
+    {
+      "path": "jamaica/src/articles/heritage-tale-ch49.html",
+      "text": "This reading prompt is Tony’s Guide’s interpretation, not a statement attributed to the historical teller."
+    },
+    {
+      "path": "jamaica/src/articles/heritage-tale-ch49.html",
+      "text": "Source checked 13 October 2026. No invented dialogue, synthetic speech or modern tale silently substituted."
+    },
+    {
+      "path": "jamaica/src/articles/parish-flatbridge.html",
+      "text": "Sources checked 12–13 October 2026. Historical evidence, catalogue labels and editorial interpretation are distinguished. Image dates and credits retain their limits. Visit durations are estimates; current access and playback have not been independently confirmed."
+    },
+    {
+      "path": "jamaica/src/articles/parish-fortcharlotte.html",
+      "text": "Sources checked 12–13 October 2026. Historical evidence, catalogue labels and editorial interpretation are distinguished. Image dates and credits retain their limits. Visit durations are estimates; current access and playback have not been independently confirmed."
+    },
+    {
+      "path": "jamaica/src/articles/history-melissa-falmouth.html",
+      "text": "Historical interpretation and visitor advice are Tony’s Guide’s synthesis. Access information checked against the linked publisher pages on October 12, 2026; a listing is not a same-day operating guarantee."
+    },
+    {
+      "path": "jamaica/src/articles/parish-mona.html",
+      "text": "Sources checked 12–13 October 2026. Historical evidence, catalogue labels and editorial interpretation are distinguished. Image dates and credits retain their limits. Visit durations are estimates; current access and playback have not been independently confirmed."
+    },
+    {
+      "path": "jamaica/src/articles/parish-masonriver.html",
+      "text": "Source review: 13 October 2026. Catalogue dates, historical claims and editorial interpretations are distinguished. Photograph capture dates and permissions are not inferred from a source URL."
+    },
+    {
+      "path": "jamaica/src/articles/reconsidered-obeah.html",
+      "text": "Sources checked 13 October 2026. The opening account is an analytical target, not a survey of Jamaican beliefs. Source access is described individually; identified books are not represented as fully read. Historical findings, attributed interpretations and the guide’s reading exercises are distinguished."
+    },
+    {
+      "path": "jamaica/src/articles/reconsidered-music.html",
+      "text": "Sources checked 13 October 2026. The opening claim is a shorthand being tested, not the result of a survey of public belief. Documentary fact, scholarly interpretation and the guide’s reading questions are distinguished. Genre relationships are not claimed to form one uninterrupted chronology. Scholarly abstracts, institutional summaries and actual recording records are distinguished."
+    },
+    {
+      "path": "jamaica/src/articles/heritage-tale-ch1a.html",
+      "text": "This reading prompt is Tony’s Guide’s interpretation, not a statement attributed to the historical teller."
+    },
+    {
+      "path": "jamaica/src/articles/heritage-tale-ch1a.html",
+      "text": "Source checked 13 October 2026. No invented dialogue, synthetic speech or modern tale silently substituted."
+    },
+    {
+      "path": "jamaica/src/articles/heritage-tale-ch56.html",
+      "text": "This reading prompt is Tony’s Guide’s interpretation, not a statement attributed to the historical teller."
+    },
+    {
+      "path": "jamaica/src/articles/heritage-tale-ch56.html",
+      "text": "Source checked 13 October 2026. No invented dialogue, synthetic speech or modern tale silently substituted."
+    },
+    {
+      "path": "jamaica/src/articles/reconsidered-indenture.html",
+      "text": "Sources checked 13 October 2026. The opening claim is a shorthand being tested, not the result of a survey of public belief. Documentary fact, scholarly interpretation and the guide’s reading questions are distinguished. The collection description is linked with its original document illustrations. No private immigration record has been newly obtained or an individual genealogy invented."
+    },
+    {
+      "path": "jamaica/src/articles/heritage-anancy.html",
+      "text": "Sources checked 13 October 2026. Interpretive questions are the guide's; they are not statements attributed to historical tellers."
+    },
+    {
+      "path": "jamaica/src/articles/reconsidered-markets.html",
+      "text": "Sources checked 13 October 2026. The opening claim is a shorthand being tested, not the result of a survey of public belief. Documentary fact, scholarly interpretation and the guide’s reading questions are distinguished. The archaeology paper’s images remain available through its publisher-hosted PDF; the guide does not claim to identify pictured archaeological objects from its own fieldwork."
+    },
+    {
+      "path": "jamaica/src/articles/parish-morantpoint.html",
+      "text": "Sources checked 12–13 October 2026. Historical evidence, catalogue labels and editorial interpretation are distinguished. Image dates and credits retain their limits. Visit durations are estimates; current access and playback have not been independently confirmed."
+    },
+    {
+      "path": "jamaica/src/articles/heritage-tale-ch20.html",
+      "text": "This reading prompt is Tony’s Guide’s interpretation, not a statement attributed to the historical teller."
+    },
+    {
+      "path": "jamaica/src/articles/heritage-tale-ch20.html",
+      "text": "Source checked 13 October 2026. No invented dialogue, synthetic speech or modern tale silently substituted."
+    },
+    {
+      "path": "jamaica/src/articles/heritage-africa.html",
+      "text": "Sources checked 13 October 2026. Plot comparisons above are editorial interpretations, not claims of a demonstrated one-to-one transmission history."
+    },
+    {
+      "path": "jamaica/src/articles/heritage-tale-ch46.html",
+      "text": "This reading prompt is Tony’s Guide’s interpretation, not a statement attributed to the historical teller."
+    },
+    {
+      "path": "jamaica/src/articles/heritage-tale-ch46.html",
+      "text": "Source checked 13 October 2026. No invented dialogue, synthetic speech or modern tale silently substituted."
+    },
+    {
+      "path": "jamaica/src/articles/parish-goodhope.html",
+      "text": "Sources checked 12–13 October 2026. Historical evidence, catalogue labels and editorial interpretation are distinguished. Image dates and credits retain their limits. Visit durations are estimates; current access and playback have not been independently confirmed."
+    },
+    {
+      "path": "jamaica/src/articles/heritage-tale-ch52.html",
+      "text": "This reading prompt is Tony’s Guide’s interpretation, not a statement attributed to the historical teller."
+    },
+    {
+      "path": "jamaica/src/articles/heritage-tale-ch52.html",
+      "text": "Source checked 13 October 2026. No invented dialogue, synthetic speech or modern tale silently substituted."
+    },
+    {
+      "path": "jamaica/src/articles/hh-harmony.html",
+      "text": "Source records checked 12 October 2026. Interpretive questions are distinguished from documented site findings."
+    },
+    {
+      "path": "jamaica/src/articles/heritage-beyond-anancy.html",
+      "text": "Sources checked 13 October 2026. No imagined historical dialogue or synthetic speech added."
+    },
+    {
+      "path": "jamaica/src/articles/reconsidered-tourist-postcard.html",
+      "text": "Sources checked 13 October 2026. The opening account is an analytical target, not a survey of Jamaican beliefs. Source access is described individually; identified books are not represented as fully read. Historical findings, attributed interpretations and the guide’s reading exercises are distinguished."
+    },
+    {
+      "path": "jamaica/src/articles/parish-folly.html",
+      "text": "Sources checked 12–13 October 2026. Historical evidence, catalogue labels and editorial interpretation are distinguished. Image dates and credits retain their limits. Visit durations are estimates; current access and playback have not been independently confirmed."
+    },
+    {
+      "path": "jamaica/src/articles/parish-halsehall.html",
+      "text": "Sources checked 12–13 October 2026. Historical evidence, catalogue labels and editorial interpretation are distinguished. Image dates and credits retain their limits. Visit durations are estimates; current access and playback have not been independently confirmed."
+    },
+    {
+      "path": "jamaica/src/articles/history-great-houses.html",
+      "text": "Historical interpretation and visitor advice are Tony’s Guide’s synthesis. Access information checked against the linked publisher pages on October 12, 2026; a listing is not a same-day operating guarantee."
+    },
+    {
+      "path": "jamaica/src/articles/heritage-tale-ch6.html",
+      "text": "This reading prompt is Tony’s Guide’s interpretation, not a statement attributed to the historical teller."
+    },
+    {
+      "path": "jamaica/src/articles/heritage-tale-ch6.html",
+      "text": "Source checked 13 October 2026. No invented dialogue, synthetic speech or modern tale silently substituted."
+    },
+    {
+      "path": "jamaica/src/articles/heritage-tale-ch72.html",
+      "text": "This reading prompt is Tony’s Guide’s interpretation, not a statement attributed to the historical teller."
+    },
+    {
+      "path": "jamaica/src/articles/heritage-tale-ch72.html",
+      "text": "Source checked 13 October 2026. No invented dialogue, synthetic speech or modern tale silently substituted."
+    },
+    {
+      "path": "jamaica/src/articles/reconsidered-taino.html",
+      "text": "Sources checked 13 October 2026. The opening account is an analytical target, not a survey of Jamaican beliefs. Source access is described individually; identified books are not represented as fully read. Historical findings, attributed interpretations and the guide’s reading exercises are distinguished."
+    },
+    {
+      "path": "jamaica/src/articles/parish-frome.html",
+      "text": "Sources checked 12 October 2026. Date and attribution limits are retained with the images. Reported findings, later recollections and interpretation are distinguished. Visit durations are planning estimates; present access requires confirmation."
+    },
+    {
+      "path": "jamaica/src/articles/history-housing.html",
+      "text": "Historical interpretation and visitor advice are Tony’s Guide’s synthesis. Access information checked against the linked publisher pages on October 12, 2026; a listing is not a same-day operating guarantee."
+    },
+    {
+      "path": "jamaica/src/articles/history-una-marson.html",
+      "text": "Sources checked 12 October 2026. The clip records an interview setting, with preparation or rehearsal not established. Jamaican origin is attributed to Marson; the guest is not labeled Jamaican."
+    },
+    {
+      "path": "jamaica/src/articles/parish-mooretown.html",
+      "text": "Sources checked 12–13 October 2026. Historical evidence, catalogue labels and editorial interpretation are distinguished. Image dates and credits retain their limits. Visit durations are estimates; current access and playback have not been independently confirmed."
+    },
+    {
+      "path": "jamaica/src/articles/parish-kumina.html",
+      "text": "Source review: 13 October 2026. Catalogue dates, historical claims and editorial interpretations are distinguished. Photograph capture dates and permissions are not inferred from a source URL."
+    },
+    {
+      "path": "jamaica/src/articles/heritage-tale-ch1b.html",
+      "text": "This reading prompt is Tony’s Guide’s interpretation, not a statement attributed to the historical teller."
+    },
+    {
+      "path": "jamaica/src/articles/heritage-tale-ch1b.html",
+      "text": "Source checked 13 October 2026. No invented dialogue, synthetic speech or modern tale silently substituted."
+    },
+    {
+      "path": "jamaica/src/articles/hh-food.html",
+      "text": "Source records checked 12 October 2026. Interpretive questions are distinguished from documented site findings."
+    },
+    {
+      "path": "jamaica/src/articles/parish-mckay.html",
+      "text": "Sources checked 12 October 2026. Date and attribution limits are retained with the images. Reported findings, later recollections and interpretation are distinguished. Visit durations are planning estimates; present access requires confirmation."
+    },
+    {
+      "path": "jamaica/src/articles/parish-stokeshall.html",
+      "text": "Sources checked 12–13 October 2026. Historical evidence, catalogue labels and editorial interpretation are distinguished. Image dates and credits retain their limits. Visit durations are estimates; current access and playback have not been independently confirmed."
+    },
+    {
+      "path": "jamaica/src/articles/parish-spanishtown.html",
+      "text": "Sources checked 12–13 October 2026. Historical evidence, catalogue labels and editorial interpretation are distinguished. Image dates and credits retain their limits. Visit durations are estimates; current access and playback have not been independently confirmed."
+    },
+    {
+      "path": "jamaica/src/articles/heritage-tale-ch43.html",
+      "text": "This reading prompt is Tony’s Guide’s interpretation, not a statement attributed to the historical teller."
+    },
+    {
+      "path": "jamaica/src/articles/heritage-tale-ch43.html",
+      "text": "Source checked 13 October 2026. No invented dialogue, synthetic speech or modern tale silently substituted."
+    },
+    {
+      "path": "jamaica/src/articles/reconsidered-rastafari.html",
+      "text": "Sources checked 13 October 2026. The opening claim is a shorthand being tested, not the result of a survey of public belief. Documentary fact, scholarly interpretation and the guide’s reading questions are distinguished. Trailer identity and metadata were checked; actual playback and the full film were not viewed. Official-source retrieval limits are retained in the notes rather than replaced by invented quotations."
+    },
+    {
+      "path": "jamaica/src/articles/parish-roxborough.html",
+      "text": "Sources checked 12 October 2026. Date and attribution limits are retained with the images. Reported findings, later recollections and interpretation are distinguished. Visit durations are planning estimates; present access requires confirmation."
+    },
+    {
+      "path": "jamaica/src/articles/parish-cinchona.html",
+      "text": "Sources checked 12–13 October 2026. Historical evidence, catalogue labels and editorial interpretation are distinguished. Image dates and credits retain their limits. Visit durations are estimates; current access and playback have not been independently confirmed."
+    },
+    {
+      "path": "jamaica/src/articles/heritage-tale-ch92a.html",
+      "text": "This reading prompt is Tony’s Guide’s interpretation, not a statement attributed to the historical teller."
+    },
+    {
+      "path": "jamaica/src/articles/heritage-tale-ch92a.html",
+      "text": "Source checked 13 October 2026. No invented dialogue, synthetic speech or modern tale silently substituted."
+    },
+    {
+      "path": "jamaica/src/articles/reconsidered-women-1938.html",
+      "text": "Sources checked 13 October 2026. The opening account is an analytical target, not a survey of Jamaican beliefs. Source access is described individually; identified books are not represented as fully read. Historical findings, attributed interpretations and the guide’s reading exercises are distinguished."
+    },
+    {
+      "path": "jamaica/src/articles/reconsidered-black-christianity.html",
+      "text": "Sources checked 13 October 2026. The opening account is an analytical target, not a survey of Jamaican beliefs. Source access is described individually; identified books are not represented as fully read. Historical findings, attributed interpretations and the guide’s reading exercises are distinguished."
+    },
+    {
+      "path": "jamaica/src/articles/parish-blenheim.html",
+      "text": "Sources checked 12–13 October 2026. Historical evidence, catalogue labels and editorial interpretation are distinguished. Image dates and credits retain their limits. Visit durations are estimates; current access and playback have not been independently confirmed."
+    },
+    {
+      "path": "jamaica/src/articles/heritage-tale-ch48.html",
+      "text": "This reading prompt is Tony’s Guide’s interpretation, not a statement attributed to the historical teller."
+    },
+    {
+      "path": "jamaica/src/articles/heritage-tale-ch48.html",
+      "text": "Source checked 13 October 2026. No invented dialogue, synthetic speech or modern tale silently substituted."
+    },
+    {
+      "path": "jamaica/src/articles/history-jamaica.html",
+      "text": "Historical interpretation and visitor advice are Tony’s Guide’s synthesis. Access information checked against the linked publisher pages on October 12, 2026; a listing is not a same-day operating guarantee."
+    },
+    {
+      "path": "jamaica/src/articles/heritage-tale-ch41.html",
+      "text": "This reading prompt is Tony’s Guide’s interpretation, not a statement attributed to the historical teller."
+    },
+    {
+      "path": "jamaica/src/articles/heritage-tale-ch41.html",
+      "text": "Source checked 13 October 2026. No invented dialogue, synthetic speech or modern tale silently substituted."
+    },
+    {
+      "path": "jamaica/src/articles/reconsidered-emancipation.html",
+      "text": "Sources checked 13 October 2026. The opening claim is a shorthand being tested, not the result of a survey of public belief. Documentary fact, scholarly interpretation and the guide’s reading questions are distinguished. Williams’s historical wording is not modernised into a fabricated transcript. Photographs are later representations and are dated accordingly."
+    },
+    {
+      "path": "jamaica/src/articles/heritage-tale-ch61.html",
+      "text": "This reading prompt is Tony’s Guide’s interpretation, not a statement attributed to the historical teller."
+    },
+    {
+      "path": "jamaica/src/articles/heritage-tale-ch61.html",
+      "text": "Source checked 13 October 2026. No invented dialogue, synthetic speech or modern tale silently substituted."
+    },
+    {
+      "path": "jamaica/src/articles/parish-yallahs.html",
+      "text": "Source review: 13 October 2026. Catalogue dates, historical claims and editorial interpretations are distinguished. Photograph capture dates and permissions are not inferred from a source URL."
+    },
+    {
+      "path": "jamaica/src/articles/parish-stonygut.html",
+      "text": "Source review: 13 October 2026. Catalogue dates, historical claims and editorial interpretations are distinguished. Photograph capture dates and permissions are not inferred from a source URL."
+    },
+    {
+      "path": "jamaica/src/articles/parish-lacovia.html",
+      "text": "Sources checked 12–13 October 2026. Historical evidence, catalogue labels and editorial interpretation are distinguished. Image dates and credits retain their limits. Visit durations are estimates; current access and playback have not been independently confirmed."
+    },
+    {
+      "path": "jamaica/src/articles/hh-seville.html",
+      "text": "Source records checked 12 October 2026. Interpretive questions are distinguished from documented site findings."
+    },
+    {
+      "path": "jamaica/src/articles/parish-marshallspen.html",
+      "text": "Sources checked 12–13 October 2026. Historical evidence, catalogue labels and editorial interpretation are distinguished. Image dates and credits retain their limits. Visit durations are estimates; current access and playback have not been independently confirmed."
+    },
+    {
+      "path": "jamaica/src/articles/heritage-tale-ch3.html",
+      "text": "This reading prompt is Tony’s Guide’s interpretation, not a statement attributed to the historical teller."
+    },
+    {
+      "path": "jamaica/src/articles/heritage-tale-ch3.html",
+      "text": "Source checked 13 October 2026. No invented dialogue, synthetic speech or modern tale silently substituted."
+    },
+    {
+      "path": "jamaica/src/articles/parish-kendal.html",
+      "text": "Sources checked 12 October 2026. Date and attribution limits are retained with the images. Reported findings, later recollections and interpretation are distinguished. Visit durations are planning estimates; present access requires confirmation."
+    },
+    {
+      "path": "jamaica/src/articles/heritage-tale-ch90.html",
+      "text": "This reading prompt is Tony’s Guide’s interpretation, not a statement attributed to the historical teller."
+    },
+    {
+      "path": "jamaica/src/articles/heritage-tale-ch90.html",
+      "text": "Source checked 13 October 2026. No invented dialogue, synthetic speech or modern tale silently substituted."
+    },
+    {
+      "path": "jamaica/src/articles/history-windrush.html",
+      "text": "Source descriptions checked 12 October 2026. The 1948 film is contemporary; later interviews and modern transcriptions must retain their own dates. This article does not identify unnamed filmed passengers by resemblance to a manifest entry."
+    },
+    {
+      "path": "jamaica/src/articles/history-ocho-stann.html",
+      "text": "Historical interpretation and visitor advice are Tony’s Guide’s synthesis. Access information checked against the linked publisher pages on October 12, 2026; a listing is not a same-day operating guarantee."
+    },
+    {
+      "path": "jamaica/src/articles/hh-nine.html",
+      "text": "Source records checked 12 October 2026. Interpretive questions are distinguished from documented site findings."
+    },
+    {
+      "path": "jamaica/src/articles/heritage-tale-ch99.html",
+      "text": "This reading prompt is Tony’s Guide’s interpretation, not a statement attributed to the historical teller."
+    },
+    {
+      "path": "jamaica/src/articles/heritage-tale-ch99.html",
+      "text": "Source checked 13 October 2026. No invented dialogue, synthetic speech or modern tale silently substituted."
+    },
+    {
+      "path": "jamaica/src/articles/heritage-tale-ch9.html",
+      "text": "This reading prompt is Tony’s Guide’s interpretation, not a statement attributed to the historical teller."
+    },
+    {
+      "path": "jamaica/src/articles/heritage-tale-ch9.html",
+      "text": "Source checked 13 October 2026. No invented dialogue, synthetic speech or modern tale silently substituted."
+    },
+    {
+      "path": "jamaica/src/articles/heritage-tale-ch64.html",
+      "text": "This reading prompt is Tony’s Guide’s interpretation, not a statement attributed to the historical teller."
+    },
+    {
+      "path": "jamaica/src/articles/heritage-tale-ch64.html",
+      "text": "Source checked 13 October 2026. No invented dialogue, synthetic speech or modern tale silently substituted."
+    },
+    {
+      "path": "jamaica/src/articles/jh-port-maria.html",
+      "text": "Source records checked 12 October 2026. Interpretive questions are distinguished from documented site findings."
+    },
+    {
+      "path": "jamaica/src/articles/parish-burchell.html",
+      "text": "Sources checked 12–13 October 2026. Historical evidence, catalogue labels and editorial interpretation are distinguished. Image dates and credits retain their limits. Visit durations are estimates; current access and playback have not been independently confirmed."
+    },
+    {
+      "path": "jamaica/src/articles/hh-sleep.html",
+      "text": "Source records checked 12 October 2026. Interpretive questions are distinguished from documented site findings."
+    },
+    {
+      "path": "jamaica/src/articles/parish-ward.html",
+      "text": "Sources checked 12–13 October 2026. Historical evidence, catalogue labels and editorial interpretation are distinguished. Image dates and credits retain their limits. Visit durations are estimates; current access and playback have not been independently confirmed."
+    },
+    {
+      "path": "jamaica/src/articles/reconsidered-tacky-atlantic.html",
+      "text": "Sources checked 13 October 2026. The opening account is an analytical target, not a survey of Jamaican beliefs. Source access is described individually; identified books are not represented as fully read. Historical findings, attributed interpretations and the guide’s reading exercises are distinguished."
+    },
+    {
+      "path": "jamaica/src/articles/history-stjames.html",
+      "text": "Historical interpretation and visitor advice are Tony’s Guide’s synthesis. Access information checked against the linked publisher pages on October 12, 2026; a listing is not a same-day operating guarantee."
+    },
+    {
+      "path": "jamaica/src/articles/language-geography-class.html",
+      "text": "Research and stream checks: 13 October 2026. Editorial synthesis by Tony’s Guide; no new fieldwork or class classification of the recorded speakers. Adaptations of Farquharson’s APiCS survey and Irvine-Sobers’s open book are credited under CC BY 4.0. Other research is paraphrased within the consulted material’s scope. Full archival streams are supplied by the Smithsonian; links do not imply permission to republish copies. Archive catalogue metadata was checked against its XML finding aid. MP3 responses and decoding were checked; heard playback, exact excerpt times and each speaker’s degree of microphone-related self-monitoring have not been verified. No fabricated transcripts or voice imitations are supplied."
+    },
+    {
+      "path": "jamaica/src/articles/parish-libertyhall.html",
+      "text": "Sources checked 12–13 October 2026. Historical evidence, catalogue labels and editorial interpretation are distinguished. Image dates and credits retain their limits. Visit durations are estimates; current access and playback have not been independently confirmed."
+    },
+    {
+      "path": "jamaica/src/articles/heritage-tale-ch53.html",
+      "text": "This reading prompt is Tony’s Guide’s interpretation, not a statement attributed to the historical teller."
+    },
+    {
+      "path": "jamaica/src/articles/heritage-tale-ch53.html",
+      "text": "Source checked 13 October 2026. No invented dialogue, synthetic speech or modern tale silently substituted."
+    },
+    {
+      "path": "jamaica/src/articles/reconsidered-before-windrush.html",
+      "text": "Sources checked 13 October 2026. The opening account is an analytical target, not a survey of Jamaican beliefs. Source access is described individually; identified books are not represented as fully read. Historical findings, attributed interpretations and the guide’s reading exercises are distinguished."
+    },
+    {
+      "path": "jamaica/src/articles/heritage-tale-ch73b.html",
+      "text": "This reading prompt is Tony’s Guide’s interpretation, not a statement attributed to the historical teller."
+    },
+    {
+      "path": "jamaica/src/articles/heritage-tale-ch73b.html",
+      "text": "Source checked 13 October 2026. No invented dialogue, synthetic speech or modern tale silently substituted."
+    },
+    {
+      "path": "jamaica/src/articles/reconsidered-morant.html",
+      "text": "Sources checked 13 October 2026. The opening claim is a shorthand being tested, not the result of a survey of public belief. Documentary fact, scholarly interpretation and the guide’s reading questions are distinguished. The reinterpretation is credited to Connolly under CC BY 4.0. The historical scene is not reconstructed with invented dialogue."
+    },
+    {
+      "path": "jamaica/src/articles/history-stmary-hills.html",
+      "text": "Historical interpretation and visitor advice are Tony’s Guide’s synthesis. Access information checked against the linked publisher pages on October 12, 2026; a listing is not a same-day operating guarantee."
+    },
+    {
+      "path": "jamaica/src/articles/history-cockpit.html",
+      "text": "Historical interpretation and visitor advice are Tony’s Guide’s synthesis. Access information checked against the linked publisher pages on October 12, 2026; a listing is not a same-day operating guarantee."
+    },
+    {
+      "path": "jamaica/src/articles/parish-accompong.html",
+      "text": "Sources checked 12 October 2026. Date and attribution limits are retained with the images. Reported findings, later recollections and interpretation are distinguished. Visit durations are planning estimates; present access requires confirmation."
+    },
+    {
+      "path": "jamaica/src/articles/heritage-tale-ch40a.html",
+      "text": "This reading prompt is Tony’s Guide’s interpretation, not a statement attributed to the historical teller."
+    },
+    {
+      "path": "jamaica/src/articles/heritage-tale-ch40a.html",
+      "text": "Source checked 13 October 2026. No invented dialogue, synthetic speech or modern tale silently substituted."
+    },
+    {
+      "path": "jamaica/src/articles/early-jamaican-voices.html",
+      "text": "Publisher records, BBC clip/player metadata and public sample endpoints checked 12 October 2026. Learning prompts are Tony’s Guide’s interpretation. No fabricated voices, invented transcript or parish-wide accent classification is supplied."
+    },
+    {
+      "path": "jamaica/src/articles/history-trelawny-falmouth.html",
+      "text": "Historical interpretation and visitor advice are Tony’s Guide’s synthesis. Access information checked against the linked publisher pages on October 12, 2026; a listing is not a same-day operating guarantee."
+    },
+    {
+      "path": "jamaica/src/articles/parish-fourpaths.html",
+      "text": "Source review: 13 October 2026. Catalogue dates, historical claims and editorial interpretations are distinguished. Photograph capture dates and permissions are not inferred from a source URL."
+    },
+    {
+      "path": "jamaica/src/articles/heritage-tale-ch118.html",
+      "text": "This reading prompt is Tony’s Guide’s interpretation, not a statement attributed to the historical teller."
+    },
+    {
+      "path": "jamaica/src/articles/heritage-tale-ch118.html",
+      "text": "Source checked 13 October 2026. No invented dialogue, synthetic speech or modern tale silently substituted."
+    },
+    {
+      "path": "jamaica/src/articles/hh-build.html",
+      "text": "Source records checked 12 October 2026. Interpretive questions are distinguished from documented site findings."
+    },
+    {
+      "path": "jamaica/src/articles/parish-savannalamar.html",
+      "text": "Sources checked 12–13 October 2026. Historical evidence, catalogue labels and editorial interpretation are distinguished. Image dates and credits retain their limits. Visit durations are estimates; current access and playback have not been independently confirmed."
+    },
+    {
+      "path": "jamaica/src/articles/heritage-tale-ch67.html",
+      "text": "This reading prompt is Tony’s Guide’s interpretation, not a statement attributed to the historical teller."
+    },
+    {
+      "path": "jamaica/src/articles/heritage-tale-ch67.html",
+      "text": "Source checked 13 October 2026. No invented dialogue, synthetic speech or modern tale silently substituted."
+    },
+    {
+      "path": "jamaica/src/articles/reconsidered-maroons.html",
+      "text": "Sources checked 13 October 2026. The opening claim is a shorthand being tested, not the result of a survey of public belief. Documentary fact, scholarly interpretation and the guide’s reading questions are distinguished. The public-domain treaty is quoted directly. Limited-access scholarship is identified by the material actually consulted; no claim is made to have read unavailable full texts."
+    }
+  ]
+}
