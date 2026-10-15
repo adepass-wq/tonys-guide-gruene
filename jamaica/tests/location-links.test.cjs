@@ -12,7 +12,8 @@ test('every guide, route stop, event and rendered activity has a location; plann
  const s=site();try{
  for(const p of data('travel-places')){const el=s.E('travel-'+p.id);assert(el.querySelector('.location-links .guide-location'),p.id);assert(maps(el).length,p.id);maps(el).forEach(valid);}
  for(const r of data('thematic-routes')){const stops=[...s.E(r.id).querySelectorAll('.thematic-stops > li')];assert.equal(stops.length,r.stops.length);for(const stop of stops){assert(stop.querySelector('.guide-location'));maps(stop).forEach(valid);assert(maps(stop).length);}}
- for(const e of data('travel-events')){const el=s.E('event-'+e.id);assert(el.querySelector('.location-links'),e.id);if(!e.national){assert(maps(el).length,e.id);maps(el).forEach(valid);}else assert(!maps(el).length);}
+ const activeEventIds=new Set(s.w.TGEventInventory.events.map(e=>e.id));
+ for(const e of data('travel-events')){const el=s.E('event-'+e.id);if(!activeEventIds.has(e.id)){assert.equal(el,null,'Expired event card: '+e.id);continue;}assert(el,e.id);assert(el.querySelector('.location-links'),e.id);if(!e.national){assert(maps(el).length,e.id);maps(el).forEach(valid);}else assert(!maps(el).length);}
  for(const h of data('parish-outings'))assert(maps(s.E(h.article)).length,h.id);
  s.route('activity-directory');while(!s.E('activity-more').hidden)s.E('activity-more').click();
  for(const c of s.E('activity-directory-cards').children){assert(c.querySelector('.location-links .guide-location'));assert(maps(c).length);maps(c).forEach(valid);}
