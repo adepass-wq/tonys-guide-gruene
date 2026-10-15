@@ -1,0 +1,1215 @@
+{
+  "checked": "2026-10-15",
+  "added": [
+    {
+      "id": "community-90s-playground-2",
+      "name": "90’s Playground",
+      "start": "2026-10-17",
+      "end": "2026-10-18",
+      "area": "North coast",
+      "genre": "Music & nightlife",
+      "location": "Shazz Grounds, Priory, St. Ann",
+      "description": "1990s and early-2000s dancehall, soul, hip-hop and soca. Confirm opening time; the calendar carries conflicting times.",
+      "call": "Confirm current arrangements.",
+      "cost": "Confirm current admission and availability.",
+      "source": "https://wehfigo.com/listing/90s-playground-2/",
+      "map": "Shazz Grounds, Priory, St. Ann, Jamaica",
+      "parishes": [
+        "St. Ann"
+      ],
+      "checked": "2026-10-15",
+      "sourceKind": "Published event calendar"
+    },
+    {
+      "id": "community-bike-car-show",
+      "name": "StuntCity Bike & Car Show",
+      "start": "2026-11-08",
+      "end": "2026-11-09",
+      "area": "Elsewhere in Jamaica",
+      "genre": "Sports & community",
+      "location": "Pine Plaza, Junction, St. Elizabeth",
+      "description": "Motorcycle and car displays with Destiny Sound System. Announced for 8 November; confirm show hours and admission.",
+      "call": "Confirm current arrangements.",
+      "cost": "Confirm current admission and availability.",
+      "source": "https://wehfigo.com/listing/bike-car-show/",
+      "map": "Pine Plaza, Junction, St. Elizabeth, Jamaica",
+      "parishes": [
+        "St. Elizabeth"
+      ],
+      "checked": "2026-10-15",
+      "sourceKind": "Published event calendar"
+    },
+    {
+      "id": "community-brunch-pon-di-farm",
+      "name": "Brunch Pon Di Farm: Rodeo Edition",
+      "start": "2026-11-29",
+      "end": "2026-11-30",
+      "area": "Elsewhere in Jamaica",
+      "genre": "Food & music",
+      "location": "Bybrook Farm, Bog Walk, St. Catherine",
+      "description": "Food-inclusive farm party with selectors and rodeo-themed dress, 4pm–midnight.",
+      "call": "Confirm current arrangements.",
+      "cost": "Confirm current admission and availability.",
+      "source": "https://wehfigo.com/listing/brunch-pon-di-farm/",
+      "map": "Bybrook Farm, Bog Walk, St. Catherine, Jamaica",
+      "parishes": [
+        "St. Catherine"
+      ],
+      "checked": "2026-10-15",
+      "sourceKind": "Published event calendar"
+    },
+    {
+      "id": "community-fright-fest",
+      "name": "Fright Fest",
+      "start": "2026-10-31",
+      "end": "2026-11-01",
+      "area": "North coast",
+      "genre": "Music & nightlife",
+      "location": "Pier 1, Howard Cooke Boulevard, Montego Bay",
+      "description": "Halloween costume party, 8pm–2am, with individual and group costume competitions.",
+      "call": "Confirm current arrangements.",
+      "cost": "Confirm current admission and availability.",
+      "source": "https://wehfigo.com/listing/fright-fest/",
+      "map": "Pier 1, Howard Cooke Boulevard, Montego Bay, Jamaica",
+      "parishes": [
+        "St. James"
+      ],
+      "checked": "2026-10-15",
+      "sourceKind": "Published event calendar"
+    },
+    {
+      "id": "community-ghosted-%f0%9f%91%bb",
+      "name": "Ghosted: Halloween at UTech Western Campus",
+      "start": "2026-10-30",
+      "end": "2026-10-31",
+      "area": "North coast",
+      "genre": "Music & nightlife",
+      "location": "UTech Western Campus, Montego Bay",
+      "description": "Halloween campus party advertised for 7pm–midnight. Confirm visitor admission and the campus entrance.",
+      "call": "Confirm current arrangements.",
+      "cost": "Confirm current admission and availability.",
+      "source": "https://wehfigo.com/listing/ghosted-%f0%9f%91%bb/",
+      "map": "UTech Western Campus, Montego Bay, Jamaica",
+      "parishes": [
+        "St. James"
+      ],
+      "checked": "2026-10-15",
+      "sourceKind": "Published event calendar"
+    },
+    {
+      "id": "community-girl-rush",
+      "name": "Girlz Rush Saturday: anniversary celebration",
+      "start": "2026-10-17",
+      "end": "2026-10-18",
+      "area": "Elsewhere in Jamaica",
+      "genre": "Music & nightlife",
+      "location": "33 Ward Avenue, Mandeville, Manchester",
+      "description": "Anniversary party at 33 Ward Avenue on 17 October. Confirm opening and closing times.",
+      "call": "Confirm current arrangements.",
+      "cost": "Confirm current admission and availability.",
+      "source": "https://wehfigo.com/listing/girl-rush/",
+      "map": "33 Ward Avenue, Mandeville, Manchester, Jamaica",
+      "parishes": [
+        "Manchester"
+      ],
+      "checked": "2026-10-15",
+      "sourceKind": "Published event calendar"
+    },
+    {
+      "id": "community-heroes-of-speed-meets-drift-ruption",
+      "name": "Heroes of Speed meets Drift Ruption",
+      "start": "2026-10-19",
+      "end": "2026-10-19",
+      "area": "North coast",
+      "genre": "Sports & community",
+      "location": "Dover Raceway, St. Ann",
+      "description": "JRDC and Scott’s Auto combine circuit racing and drifting on Heroes’ Day. Gates open at 7am.",
+      "call": "Confirm current arrangements.",
+      "cost": "Confirm current admission and availability.",
+      "source": "https://wehfigo.com/listing/heroes-of-speed-meets-drift-ruption/",
+      "map": "Dover Raceway, St. Ann, Jamaica",
+      "parishes": [
+        "St. Ann"
+      ],
+      "checked": "2026-10-15",
+      "sourceKind": "Published event calendar"
+    },
+    {
+      "id": "community-jamaica-ultimate-athlete-challenge",
+      "name": "Jamaica Ultimate Athlete Challenge: main race day",
+      "start": "2026-11-21",
+      "end": "2026-11-21",
+      "area": "Elsewhere in Jamaica",
+      "genre": "Sports & community",
+      "location": "Tru-Juice Farms, Bog Walk, St. Catherine",
+      "description": "A two-kilometre obstacle competition for individual athletes and corporate teams; 21 November is the main race day.",
+      "call": "Confirm current arrangements.",
+      "cost": "Confirm current admission and availability.",
+      "source": "https://wehfigo.com/listing/jamaica-ultimate-athlete-challenge/",
+      "verify": "https://www.jamaicaobserver.com/2026/08/13/jamaica-set-first-ultimate-athlete-challenge/",
+      "map": "Tru-Juice Farms, Bog Walk, St. Catherine, Jamaica",
+      "parishes": [
+        "St. Catherine"
+      ],
+      "checked": "2026-10-15",
+      "sourceKind": "Published event calendar"
+    },
+    {
+      "id": "community-ladies-love-reggae",
+      "name": "Ladies Love Reggae: Heroes Weekend edition",
+      "start": "2026-10-15",
+      "end": "2026-10-16",
+      "area": "Elsewhere in Jamaica",
+      "genre": "Music & nightlife",
+      "location": "Dubwise Café, 82 Lady Musgrave Road, St. Andrew",
+      "description": "Dubwise’s dated 15 October reggae session, advertised from 8pm. Confirm admission and the current selector programme.",
+      "call": "Confirm current arrangements.",
+      "cost": "Confirm current admission and availability.",
+      "source": "https://wehfigo.com/listing/ladies-love-reggae/",
+      "map": "Dubwise Café, 82 Lady Musgrave Road, St. Andrew, Jamaica",
+      "parishes": [
+        "St. Andrew"
+      ],
+      "checked": "2026-10-15",
+      "sourceKind": "Published event calendar"
+    },
+    {
+      "id": "community-lets-groove-2",
+      "name": "Let’s Groove Dance Party",
+      "start": "2026-10-24",
+      "end": "2026-10-25",
+      "area": "Elsewhere in Jamaica",
+      "genre": "Music & nightlife",
+      "location": "Ranny Williams Entertainment Centre, 36 Hope Road, St. Andrew",
+      "description": "1990s and 2000s dance party with DJ Smurf, ZJ Liquid and Collin Hinds, from 9pm.",
+      "call": "Confirm current arrangements.",
+      "cost": "Confirm current admission and availability.",
+      "source": "https://wehfigo.com/listing/lets-groove-2/",
+      "map": "Ranny Williams Entertainment Centre, 36 Hope Road, St. Andrew, Jamaica",
+      "parishes": [
+        "St. Andrew"
+      ],
+      "checked": "2026-10-15",
+      "sourceKind": "Published event calendar"
+    },
+    {
+      "id": "community-praise-in-the-park",
+      "name": "Praise in the Park 4.0",
+      "start": "2026-10-16",
+      "end": "2026-10-16",
+      "area": "Elsewhere in Jamaica",
+      "genre": "Concerts & live music",
+      "location": "Emancipation Park, New Kingston, St. Andrew",
+      "description": "Credit Unions of Jamaica’s annual music, praise and community celebration; published admission is free.",
+      "call": "Confirm current arrangements.",
+      "cost": "Confirm current admission and availability.",
+      "source": "https://wehfigo.com/listing/praise-in-the-park/",
+      "map": "Emancipation Park, New Kingston, St. Andrew, Jamaica",
+      "parishes": [
+        "St. Andrew"
+      ],
+      "checked": "2026-10-15",
+      "sourceKind": "Published event calendar"
+    },
+    {
+      "id": "community-spirits-of-the-caribbean",
+      "name": "Spirits of the Caribbean",
+      "start": "2026-10-31",
+      "end": "2026-10-31",
+      "area": "North coast",
+      "genre": "Food & music",
+      "location": "Tiamo Beach Resort and Spa, Runaway Bay, St. Ann",
+      "description": "Halloween beach evening, 6–11:30pm, with street food, a DJ, bonfire and costume contest. Tickets and resort-guest passes differ.",
+      "call": "Confirm current arrangements.",
+      "cost": "Confirm current admission and availability.",
+      "source": "https://wehfigo.com/listing/spirits-of-the-caribbean/",
+      "map": "Tiamo Beach Resort and Spa, Runaway Bay, St. Ann, Jamaica",
+      "parishes": [
+        "St. Ann"
+      ],
+      "checked": "2026-10-15",
+      "sourceKind": "Published event calendar"
+    },
+    {
+      "id": "community-st-bess-tarmac-rally",
+      "name": "St. Bess Tarmac Rally",
+      "start": "2026-10-25",
+      "end": "2026-10-25",
+      "area": "Elsewhere in Jamaica",
+      "genre": "Sports & community",
+      "location": "Coke Drive, Lititz, St. Elizabeth",
+      "description": "Mobay Racing Association’s tarmac rally starts at 9am; stages close to traffic at 8am. Follow the marshals’ spectator directions.",
+      "call": "Confirm current arrangements.",
+      "cost": "Confirm current admission and availability.",
+      "source": "https://wehfigo.com/listing/st-bess-tarmac-rally/",
+      "map": "Coke Drive, Lititz, St. Elizabeth, Jamaica",
+      "parishes": [
+        "St. Elizabeth"
+      ],
+      "checked": "2026-10-15",
+      "sourceKind": "Published event calendar"
+    },
+    {
+      "id": "community-the-final-fete",
+      "name": "The Final Fete: staging three",
+      "start": "2026-11-01",
+      "end": "2026-11-01",
+      "area": "North coast",
+      "genre": "Music & nightlife",
+      "location": "Roots 21, Port Antonio, Portland",
+      "description": "Portland party advertised for 1 November from 9:30pm. Confirm the finishing time directly with the venue.",
+      "call": "Confirm the closing time, ticket arrangements and current programme with Roots 21.",
+      "cost": "Confirm current admission and availability.",
+      "source": "https://wehfigo.com/listing/the-final-fete/",
+      "map": "Roots 21, Port Antonio, Portland, Jamaica",
+      "parishes": [
+        "Portland"
+      ],
+      "checked": "2026-10-15",
+      "sourceKind": "Published event calendar"
+    },
+    {
+      "id": "community-ward-21-the-haunted-asylum",
+      "name": "Ward 21: The Haunted Asylum",
+      "start": "2026-10-31",
+      "end": "2026-11-01",
+      "area": "North coast",
+      "genre": "Concerts & live music",
+      "location": "Pure Ultra Lounge, 1137 Sugarmill Road, Ironshore, Montego Bay",
+      "description": "Halloween night with an advertised live RajahWild performance, from 10pm. Confirm lineup and age restrictions.",
+      "call": "Confirm current arrangements.",
+      "cost": "Confirm current admission and availability.",
+      "source": "https://wehfigo.com/listing/ward-21-the-haunted-asylum/",
+      "map": "Pure Ultra Lounge, 1137 Sugarmill Road, Ironshore, Montego Bay, Jamaica",
+      "parishes": [
+        "St. James"
+      ],
+      "checked": "2026-10-15",
+      "sourceKind": "Published event calendar"
+    },
+    {
+      "id": "community-young-and-a-dweet-cookout-brunchin-style",
+      "name": "Young and a Dweet: Cookout Brunchin’ Style",
+      "start": "2026-12-03",
+      "end": "2026-12-03",
+      "area": "Elsewhere in Jamaica",
+      "genre": "Food & music",
+      "location": "Chestnut Lane, Kingston",
+      "description": "Dated cookout and music programme on 3 December. Confirm the exact street entrance and food arrangements.",
+      "call": "Confirm current arrangements.",
+      "cost": "Confirm current admission and availability.",
+      "source": "https://wehfigo.com/listing/young-and-a-dweet-cookout-brunchin-style/",
+      "map": "Chestnut Lane, Kingston, Jamaica",
+      "parishes": [
+        "Kingston"
+      ],
+      "checked": "2026-10-15",
+      "sourceKind": "Published event calendar",
+      "mapScope": "area",
+      "mapNote": "Area map; confirm the event entrance or meeting point with the organiser."
+    },
+    {
+      "id": "community-17th-annual-kiwanis-providence-montego-bay-5k-run-walk-wheelchair-for-breast-cancer-awareness",
+      "name": "Kiwanis Providence Montego Bay 5K: breast cancer awareness",
+      "start": "2026-10-25",
+      "end": "2026-10-25",
+      "area": "North coast",
+      "genre": "Sports & community",
+      "location": "Harmony Beach Park, Montego Bay, St. James",
+      "description": "Run, walk and wheelchair event. Warm-up is advertised for 6am, with the race starting at 6:30am. Register with the race organiser.",
+      "call": "Confirm current arrangements.",
+      "cost": "Confirm current admission and availability.",
+      "source": "https://wehfigo.com/listing/17th-annual-kiwanis-providence-montego-bay-5k-run-walk-wheelchair-for-breast-cancer-awareness/",
+      "map": "Harmony Beach Park, Montego Bay, St. James, Jamaica",
+      "parishes": [
+        "St. James"
+      ],
+      "checked": "2026-10-15",
+      "sourceKind": "Published event calendar"
+    },
+    {
+      "id": "community-acafest-2026",
+      "name": "Acafest 2026",
+      "start": "2026-11-14",
+      "end": "2026-11-15",
+      "area": "Elsewhere in Jamaica",
+      "genre": "Concerts & live music",
+      "location": "NCU Gymnatorium, Mandeville, Manchester",
+      "description": "Vocal Union and Jamaican a cappella performers in Mandeville, advertised for 7pm. Confirm current tickets and student eligibility.",
+      "call": "Confirm current arrangements.",
+      "cost": "Confirm current admission and availability.",
+      "source": "https://wehfigo.com/listing/acafest-2026/",
+      "map": "NCU Gymnatorium, Mandeville, Manchester, Jamaica",
+      "parishes": [
+        "Manchester"
+      ],
+      "checked": "2026-10-15",
+      "sourceKind": "Published event calendar"
+    },
+    {
+      "id": "community-all-hands-on-deck",
+      "name": "All Hands on Deck: Montego Bay",
+      "start": "2026-11-15",
+      "end": "2026-11-16",
+      "area": "North coast",
+      "genre": "Music & nightlife",
+      "location": "Doctor’s Cave Beach, Montego Bay, St. James",
+      "description": "Ticketed yacht party advertised from 3pm. Confirm the vessel, boarding point and check-in deadline before departure.",
+      "call": "Confirm current arrangements.",
+      "cost": "Confirm current admission and availability.",
+      "source": "https://wehfigo.com/listing/all-hands-on-deck/",
+      "map": "Doctor’s Cave Beach, Montego Bay, St. James, Jamaica",
+      "parishes": [
+        "St. James"
+      ],
+      "checked": "2026-10-15",
+      "sourceKind": "Published event calendar"
+    },
+    {
+      "id": "community-brunch-at-brewed",
+      "name": "Brunch at Brew’d",
+      "start": "2026-10-17",
+      "end": "2026-10-17",
+      "area": "Elsewhere in Jamaica",
+      "genre": "Food & music",
+      "location": "Police Officers’ Club, Hope Road, St. Andrew",
+      "description": "Food, fashion and music at the Police Officers’ Club, 4–10pm on 17 October.",
+      "call": "Confirm current arrangements.",
+      "cost": "Confirm current admission and availability.",
+      "source": "https://wehfigo.com/listing/brunch-at-brewed/",
+      "map": "Police Officers’ Club, Hope Road, St. Andrew, Jamaica",
+      "parishes": [
+        "St. Andrew"
+      ],
+      "checked": "2026-10-15",
+      "sourceKind": "Published event calendar"
+    },
+    {
+      "id": "community-chilliz",
+      "name": "Chillz: Halloween edition",
+      "start": "2026-10-31",
+      "end": "2026-11-01",
+      "area": "North coast",
+      "genre": "Music & nightlife",
+      "location": "Da’Vue, Jimmy Cliff Boulevard, Montego Bay",
+      "description": "Halloween party at Da’Vue on 31 October. Confirm opening time, dress rules and ticket availability.",
+      "call": "Confirm current arrangements.",
+      "cost": "Confirm current admission and availability.",
+      "source": "https://wehfigo.com/listing/chilliz/",
+      "map": "Da’Vue, Jimmy Cliff Boulevard, Montego Bay, Jamaica",
+      "parishes": [
+        "St. James"
+      ],
+      "checked": "2026-10-15",
+      "sourceKind": "Published event calendar"
+    },
+    {
+      "id": "community-city-life-brunch",
+      "name": "City Life Brunch",
+      "start": "2026-10-18",
+      "end": "2026-10-18",
+      "area": "North coast",
+      "genre": "Food & music",
+      "location": "Shazz Grounds, Priory, St. Ann",
+      "description": "Food-inclusive Heroes Weekend brunch with selectors, advertised for 4–10pm.",
+      "call": "Confirm current arrangements.",
+      "cost": "Confirm current admission and availability.",
+      "source": "https://wehfigo.com/listing/city-life-brunch/",
+      "map": "Shazz Grounds, Priory, St. Ann, Jamaica",
+      "parishes": [
+        "St. Ann"
+      ],
+      "checked": "2026-10-15",
+      "sourceKind": "Published event calendar"
+    },
+    {
+      "id": "community-craft-with-a-difference",
+      "name": "Craft with a Difference",
+      "start": "2026-11-28",
+      "end": "2026-11-28",
+      "area": "North coast",
+      "genre": "Art & exhibitions",
+      "location": "Turtle River Park, Ocho Rios, St. Ann",
+      "description": "TPDCo and UDC’s free craft event features Jamaican artisans, demonstrations and cultural activities, 11am–8pm.",
+      "call": "Confirm current arrangements.",
+      "cost": "Confirm current admission and availability.",
+      "source": "https://wehfigo.com/listing/craft-with-a-difference/",
+      "verify": "https://jm.linkedin.com/company/tourism-product-development-company-limited",
+      "map": "Turtle River Park, Ocho Rios, St. Ann, Jamaica",
+      "parishes": [
+        "St. Ann"
+      ],
+      "checked": "2026-10-15",
+      "sourceKind": "Published event calendar"
+    },
+    {
+      "id": "community-decades-rewind",
+      "name": "Decades Rewind",
+      "start": "2026-10-24",
+      "end": "2026-10-25",
+      "area": "North coast",
+      "genre": "Music & nightlife",
+      "location": "Brewery Montego Bay, St. James",
+      "description": "1990s and 2000s music and throwback dress at the Brewery on 24 October. Confirm tickets with the venue.",
+      "call": "Confirm current arrangements.",
+      "cost": "Confirm current admission and availability.",
+      "source": "https://wehfigo.com/listing/decades-rewind/",
+      "map": "Brewery Montego Bay, St. James, Jamaica",
+      "parishes": [
+        "St. James"
+      ],
+      "checked": "2026-10-15",
+      "sourceKind": "Published event calendar"
+    },
+    {
+      "id": "community-dnd-all-white-affair",
+      "name": "DND: All White Affair",
+      "start": "2026-10-17",
+      "end": "2026-10-18",
+      "area": "Elsewhere in Jamaica",
+      "genre": "Music & nightlife",
+      "location": "Starz Fusion, 2A Chelsea Avenue, St. Andrew",
+      "description": "All-white party at Starz Fusion on 17 October, advertised from 9pm.",
+      "call": "Confirm current arrangements.",
+      "cost": "Confirm current admission and availability.",
+      "source": "https://wehfigo.com/listing/dnd-all-white-affair/",
+      "map": "Starz Fusion, 2A Chelsea Avenue, St. Andrew, Jamaica",
+      "parishes": [
+        "St. Andrew"
+      ],
+      "checked": "2026-10-15",
+      "sourceKind": "Published event calendar"
+    },
+    {
+      "id": "community-edo-tensei",
+      "name": "Anime Yado × MECA: Halloween cosplay night",
+      "start": "2026-10-31",
+      "end": "2026-11-01",
+      "area": "Elsewhere in Jamaica",
+      "genre": "Culture & family",
+      "location": "MECA, Constant Spring Road, St. Andrew",
+      "description": "Anime, cosplay and gaming with Plush Planet, advertised for 7pm–midnight. Confirm age restrictions and admission.",
+      "call": "Confirm current arrangements.",
+      "cost": "Confirm current admission and availability.",
+      "source": "https://wehfigo.com/listing/edo-tensei/",
+      "map": "MECA, Constant Spring Road, St. Andrew, Jamaica",
+      "parishes": [
+        "St. Andrew"
+      ],
+      "checked": "2026-10-15",
+      "sourceKind": "Published event calendar"
+    },
+    {
+      "id": "community-firefighters-ball",
+      "name": "Firefighters’ Ball 2026",
+      "start": "2026-10-31",
+      "end": "2026-11-01",
+      "area": "North coast",
+      "genre": "Culture & family",
+      "location": "Sandals Dunn’s River, Mammee Bay, St. Ann",
+      "description": "Jamaica Fire Brigade’s formal evening at Sandals Dunn’s River. Advance ticket and guest-entry arrangements apply.",
+      "call": "Confirm current arrangements.",
+      "cost": "Confirm current admission and availability.",
+      "source": "https://wehfigo.com/listing/firefighters-ball/",
+      "map": "Sandals Dunn’s River, Mammee Bay, St. Ann, Jamaica",
+      "parishes": [
+        "St. Ann"
+      ],
+      "checked": "2026-10-15",
+      "sourceKind": "Published event calendar"
+    },
+    {
+      "id": "community-fiwi-fashion-show",
+      "name": "F.I.W.I Fashion Show",
+      "start": "2026-12-05",
+      "end": "2026-12-06",
+      "area": "Elsewhere in Jamaica",
+      "genre": "Art & exhibitions",
+      "location": "Kaiser Resort, West End, Negril, Westmoreland",
+      "description": "Jamaican and international designers in Negril, advertised for 5pm–midnight with a silver-and-white dress theme.",
+      "call": "Confirm current arrangements.",
+      "cost": "Confirm current admission and availability.",
+      "source": "https://wehfigo.com/listing/fiwi-fashion-show/",
+      "map": "Kaiser Resort, West End, Negril, Westmoreland, Jamaica",
+      "parishes": [
+        "Westmoreland"
+      ],
+      "checked": "2026-10-15",
+      "sourceKind": "Published event calendar"
+    },
+    {
+      "id": "community-grow-with-honeybees-sip-paint-plant",
+      "name": "Grow with Honeybee: Sip, Paint, Plant",
+      "start": "2026-10-25",
+      "end": "2026-10-25",
+      "area": "Elsewhere in Jamaica",
+      "genre": "Art & exhibitions",
+      "location": "La Cribb Bar and Lounge, 53 Mountain View Avenue, St. Andrew",
+      "description": "Creative herb-planter workshop, 3–8pm. The published package includes materials, herbs, food and drinks; reserve a place.",
+      "call": "Confirm current arrangements.",
+      "cost": "Confirm current admission and availability.",
+      "source": "https://wehfigo.com/listing/grow-with-honeybees-sip-paint-plant/",
+      "map": "La Cribb Bar and Lounge, 53 Mountain View Avenue, St. Andrew, Jamaica",
+      "parishes": [
+        "St. Andrew"
+      ],
+      "checked": "2026-10-15",
+      "sourceKind": "Published event calendar"
+    },
+    {
+      "id": "community-high-tides",
+      "name": "High Tide: Baddies on the River",
+      "start": "2026-10-18",
+      "end": "2026-10-18",
+      "area": "North coast",
+      "genre": "Food & music",
+      "location": "Rio Nuevo River, St. Mary",
+      "description": "Heroes Sunday river party, 1–9pm. Admission and packages with transport differ; confirm the river meeting point.",
+      "call": "Confirm current arrangements.",
+      "cost": "Confirm current admission and availability.",
+      "source": "https://wehfigo.com/listing/high-tides/",
+      "map": "Rio Nuevo River, St. Mary, Jamaica",
+      "parishes": [
+        "St. Mary"
+      ],
+      "checked": "2026-10-15",
+      "sourceKind": "Published event calendar",
+      "mapScope": "area",
+      "mapNote": "Area map; confirm the event entrance or meeting point with the organiser."
+    },
+    {
+      "id": "community-honda-vs-nissan",
+      "name": "Honda vs Nissan: 4JR Car Show",
+      "start": "2026-10-24",
+      "end": "2026-10-24",
+      "area": "North coast",
+      "genre": "Sports & community",
+      "location": "Moneague Training Camp, Moneague, St. Ann",
+      "description": "Car-show gathering from 5pm. Spectator admission is advertised as free; vehicle entry has a separate fee.",
+      "call": "Confirm current arrangements.",
+      "cost": "Confirm current admission and availability.",
+      "source": "https://wehfigo.com/listing/honda-vs-nissan/",
+      "map": "Moneague Training Camp, Moneague, St. Ann, Jamaica",
+      "parishes": [
+        "St. Ann"
+      ],
+      "checked": "2026-10-15",
+      "sourceKind": "Published event calendar"
+    },
+    {
+      "id": "community-jimuaa-expo",
+      "name": "Jimuaa Expo 2026",
+      "start": "2026-12-05",
+      "end": "2026-12-05",
+      "area": "Elsewhere in Jamaica",
+      "genre": "Learning & business",
+      "location": "The Summit, 16 Chelsea Avenue, St. Andrew",
+      "description": "Free-admission expo with Christmas shopping, exhibitors, seminars and networking, advertised for 11am–7pm.",
+      "call": "Confirm current arrangements.",
+      "cost": "Confirm current admission and availability.",
+      "source": "https://wehfigo.com/listing/jimuaa-expo/",
+      "map": "The Summit, 16 Chelsea Avenue, St. Andrew, Jamaica",
+      "parishes": [
+        "St. Andrew"
+      ],
+      "checked": "2026-10-15",
+      "sourceKind": "Published event calendar"
+    },
+    {
+      "id": "community-let-loose-pan-di-beach",
+      "name": "Let Loose: Pan Di Beach",
+      "start": "2026-10-17",
+      "end": "2026-10-18",
+      "area": "Elsewhere in Jamaica",
+      "genre": "Music & nightlife",
+      "location": "Portmore Harbour Beach, St. Catherine",
+      "description": "Blackwater Entertainment’s beach party, 4pm–midnight on 17 October. Confirm ticket tier and entrance.",
+      "call": "Confirm current arrangements.",
+      "cost": "Confirm current admission and availability.",
+      "source": "https://wehfigo.com/listing/let-loose-pan-di-beach/",
+      "map": "Portmore Harbour Beach, St. Catherine, Jamaica",
+      "parishes": [
+        "St. Catherine"
+      ],
+      "checked": "2026-10-15",
+      "sourceKind": "Published event calendar"
+    },
+    {
+      "id": "community-mask-a-raid",
+      "name": "Mask-a-Raid",
+      "start": "2026-10-17",
+      "end": "2026-10-18",
+      "area": "Elsewhere in Jamaica",
+      "genre": "Music & nightlife",
+      "location": "A. Z. Preston Hall, UWI Mona, St. Andrew",
+      "description": "Masked water-themed party at UWI Mona on 17 October. Confirm public access, age rules and the hall entrance.",
+      "call": "Confirm current arrangements.",
+      "cost": "Confirm current admission and availability.",
+      "source": "https://wehfigo.com/listing/mask-a-raid/",
+      "map": "A. Z. Preston Hall, UWI Mona, St. Andrew, Jamaica",
+      "parishes": [
+        "St. Andrew"
+      ],
+      "checked": "2026-10-15",
+      "sourceKind": "Published event calendar"
+    },
+    {
+      "id": "community-maypen-nite-kitchen",
+      "name": "May Pen Nite Kitchen",
+      "start": "2026-11-27",
+      "end": "2026-11-27",
+      "area": "Elsewhere in Jamaica",
+      "genre": "Food & music",
+      "location": "Old Police Station, May Pen, Clarendon",
+      "description": "Clarendon food-village evening on 27 November, advertised from 6pm. Confirm the vendor programme and admission.",
+      "call": "Confirm current arrangements.",
+      "cost": "Confirm current admission and availability.",
+      "source": "https://wehfigo.com/listing/maypen-nite-kitchen/",
+      "map": "Old Police Station, May Pen, Clarendon, Jamaica",
+      "parishes": [
+        "Clarendon"
+      ],
+      "checked": "2026-10-15",
+      "sourceKind": "Published event calendar"
+    },
+    {
+      "id": "community-neon-society",
+      "name": "Neon Society",
+      "start": "2026-12-12",
+      "end": "2026-12-13",
+      "area": "Elsewhere in Jamaica",
+      "genre": "Music & nightlife",
+      "location": "Sherlock Community Centre, Duhaney Park, St. Andrew",
+      "description": "Glow-themed selector party on 12 December at Sherlock Community Centre. Confirm opening time and admission.",
+      "call": "Confirm current arrangements.",
+      "cost": "Confirm current admission and availability.",
+      "source": "https://wehfigo.com/listing/neon-society/",
+      "map": "Sherlock Community Centre, Duhaney Park, St. Andrew, Jamaica",
+      "parishes": [
+        "St. Andrew"
+      ],
+      "checked": "2026-10-15",
+      "sourceKind": "Published event calendar"
+    },
+    {
+      "id": "community-sharkies-seafood-festival",
+      "name": "Sharkies Seafood Festival",
+      "start": "2026-10-19",
+      "end": "2026-10-20",
+      "area": "North coast",
+      "genre": "Food & music",
+      "location": "Sharkies Seafood Restaurant, Salem, Runaway Bay, St. Ann",
+      "description": "The restaurant’s annual seafood festival is advertised for 19 October. Confirm serving hours and the day’s programme.",
+      "call": "Confirm current arrangements.",
+      "cost": "Confirm current admission and availability.",
+      "source": "https://wehfigo.com/listing/sharkies-seafood-festival/",
+      "map": "Sharkies Seafood Restaurant, Salem, Runaway Bay, St. Ann, Jamaica",
+      "parishes": [
+        "St. Ann"
+      ],
+      "checked": "2026-10-15",
+      "sourceKind": "Published event calendar"
+    },
+    {
+      "id": "community-skoolz-out-night-is-young",
+      "name": "Skoolz Out: Night is Young",
+      "start": "2026-12-11",
+      "end": "2026-12-12",
+      "area": "Elsewhere in Jamaica",
+      "genre": "Music & nightlife",
+      "location": "Ranny Williams Entertainment Centre, 36 Hope Road, St. Andrew",
+      "description": "Dated December party at Ranny Williams. Confirm age restrictions, current tickets and closing time.",
+      "call": "Confirm current arrangements.",
+      "cost": "Confirm current admission and availability.",
+      "source": "https://wehfigo.com/listing/skoolz-out-night-is-young/",
+      "map": "Ranny Williams Entertainment Centre, 36 Hope Road, St. Andrew, Jamaica",
+      "parishes": [
+        "St. Andrew"
+      ],
+      "checked": "2026-10-15",
+      "sourceKind": "Published event calendar"
+    },
+    {
+      "id": "community-spartan-glow-party",
+      "name": "Spartan Glow Party",
+      "start": "2026-11-14",
+      "end": "2026-11-15",
+      "area": "North coast",
+      "genre": "Concerts & live music",
+      "location": "Spartan Lounge, Runaway Bay, St. Ann",
+      "description": "Rooftop glow party with an advertised Sita Lyrical performance on 14 November; no cover charge is advertised.",
+      "call": "Confirm current arrangements.",
+      "cost": "Confirm current admission and availability.",
+      "source": "https://wehfigo.com/listing/spartan-glow-party/",
+      "map": "Spartan Lounge, Runaway Bay, St. Ann, Jamaica",
+      "parishes": [
+        "St. Ann"
+      ],
+      "checked": "2026-10-15",
+      "sourceKind": "Published event calendar"
+    },
+    {
+      "id": "community-st-thomas-curry-festival",
+      "name": "St. Thomas Curry Festival",
+      "start": "2026-10-18",
+      "end": "2026-10-18",
+      "area": "Elsewhere in Jamaica",
+      "genre": "Food & music",
+      "location": "Yallahs Primary School, St. Thomas",
+      "description": "Family curry festival with music, rides and an advertised One Supreme appearance. Free admission until 4pm; later adult admission applies.",
+      "call": "Confirm current arrangements.",
+      "cost": "Confirm current admission and availability.",
+      "source": "https://wehfigo.com/listing/st-thomas-curry-festival/",
+      "map": "Yallahs Primary School, St. Thomas, Jamaica",
+      "parishes": [
+        "St. Thomas"
+      ],
+      "checked": "2026-10-15",
+      "sourceKind": "Published event calendar"
+    },
+    {
+      "id": "community-summit-river-soiree",
+      "name": "Summit River Soiree",
+      "start": "2026-10-25",
+      "end": "2026-10-25",
+      "area": "Elsewhere in Jamaica",
+      "genre": "Food & music",
+      "location": "Powergrid Lounge, St. Toolis River, Porus, Manchester",
+      "description": "River-side selector party, 11am–6pm. The announcement specifies 18+ and ID; food is sold separately.",
+      "call": "Confirm current arrangements.",
+      "cost": "Confirm current admission and availability.",
+      "source": "https://wehfigo.com/listing/summit-river-soiree/",
+      "map": "Powergrid Lounge, St. Toolis River, Porus, Manchester, Jamaica",
+      "parishes": [
+        "Manchester"
+      ],
+      "checked": "2026-10-15",
+      "sourceKind": "Published event calendar"
+    },
+    {
+      "id": "community-sunset-mimosas",
+      "name": "Sunset Mimosas",
+      "start": "2026-12-06",
+      "end": "2026-12-06",
+      "area": "Elsewhere in Jamaica",
+      "genre": "Food & music",
+      "location": "Kirkvine Sports Club, Manchester",
+      "description": "Manchester brunch programme advertised for 6 December, 2–10pm. Confirm ticket release and entertainment.",
+      "call": "Confirm current arrangements.",
+      "cost": "Confirm current admission and availability.",
+      "source": "https://wehfigo.com/listing/sunset-mimosas/",
+      "map": "Kirkvine Sports Club, Manchester, Jamaica",
+      "parishes": [
+        "Manchester"
+      ],
+      "checked": "2026-10-15",
+      "sourceKind": "Published event calendar"
+    },
+    {
+      "id": "community-sunset-rave-red-white-brunch",
+      "name": "Sunset Rave: Red and White Brunch",
+      "start": "2026-12-06",
+      "end": "2026-12-06",
+      "area": "Elsewhere in Jamaica",
+      "genre": "Food & music",
+      "location": "Mignot Estate, Clarendon Park, Clarendon",
+      "description": "Tenth-anniversary brunch at Mignot Estate on 6 December, advertised for 2–11pm.",
+      "call": "Confirm current arrangements.",
+      "cost": "Confirm current admission and availability.",
+      "source": "https://wehfigo.com/listing/sunset-rave-red-white-brunch/",
+      "map": "Mignot Estate, Clarendon Park, Clarendon, Jamaica",
+      "parishes": [
+        "Clarendon"
+      ],
+      "checked": "2026-10-15",
+      "sourceKind": "Published event calendar"
+    },
+    {
+      "id": "community-b4-after",
+      "name": "B4 & After: Halloween Edition",
+      "start": "2026-10-31",
+      "end": "2026-11-01",
+      "area": "Elsewhere in Jamaica",
+      "genre": "Music & nightlife",
+      "location": "Sky Ultra Lounge, 7–9 Ardenne Road, St. Andrew",
+      "description": "GG4W Events’ Halloween party, advertised for 10pm–3am.",
+      "call": "Confirm current arrangements.",
+      "cost": "Confirm current admission and availability.",
+      "source": "https://www.ticketgateway.com/event/view/b4-after-halloween2026",
+      "map": "Sky Ultra Lounge, 7–9 Ardenne Road, St. Andrew, Jamaica",
+      "parishes": [
+        "St. Andrew"
+      ],
+      "checked": "2026-10-15"
+    },
+    {
+      "id": "community-pcf",
+      "name": "Pool Cooler Fete: South Beach Edition",
+      "start": "2026-10-16",
+      "end": "2026-10-17",
+      "area": "Elsewhere in Jamaica",
+      "genre": "Music & nightlife",
+      "location": "Caymanas Golf and Country Club, Caymanas Estate, St. Catherine",
+      "description": "Taylor Made Events’ tenth-anniversary Pool Cooler Fete, from 7pm.",
+      "call": "Confirm current arrangements.",
+      "cost": "Confirm current admission and availability.",
+      "source": "https://www.ticketgateway.com/event/view/pcf--south-beach-edition",
+      "map": "Caymanas Golf and Country Club, Caymanas Estate, St. Catherine, Jamaica",
+      "parishes": [
+        "St. Catherine"
+      ],
+      "checked": "2026-10-15"
+    },
+    {
+      "id": "community-memories",
+      "name": "Memories Jamaica 2026",
+      "start": "2026-10-17",
+      "end": "2026-10-17",
+      "area": "North coast",
+      "genre": "Music & nightlife",
+      "location": "Ocho Rios, St. Ann; exact venue to confirm",
+      "description": "All-white music event advertised by memoriesJA for 5–11pm. Confirm the exact venue directly with the organiser.",
+      "call": "Confirm current arrangements.",
+      "cost": "Confirm current admission and availability.",
+      "source": "https://www.ticketgateway.com/event/view/memoriesja2026",
+      "map": "Ocho Rios, St. Ann; exact venue to confirm, Jamaica",
+      "parishes": [
+        "St. Ann"
+      ],
+      "checked": "2026-10-15",
+      "mapScope": "area",
+      "mapNote": "Ocho Rios area search; the organiser’s ticket page does not identify a precise venue."
+    },
+    {
+      "id": "community-greatness-brunch",
+      "name": "Greatness Pink & White Brunch",
+      "start": "2026-10-19",
+      "end": "2026-10-19",
+      "area": "Elsewhere in Jamaica",
+      "genre": "Food & music",
+      "location": "East Lawn, Devon House, 26 Hope Road, St. Andrew",
+      "description": "Taylor Made Events’ food-inclusive holiday brunch, 2–10pm, with restaurants, cooking stations and music.",
+      "call": "Confirm current arrangements.",
+      "cost": "Confirm current admission and availability.",
+      "source": "https://www.ticketgateway.com/event/view/greatness-pink-white-brunch",
+      "map": "East Lawn, Devon House, 26 Hope Road, St. Andrew, Jamaica",
+      "parishes": [
+        "St. Andrew"
+      ],
+      "checked": "2026-10-15"
+    },
+    {
+      "id": "community-recall",
+      "name": "Recall Throwback Festival: Straight Jeans & Fitted",
+      "start": "2026-10-17",
+      "end": "2026-10-18",
+      "area": "Elsewhere in Jamaica",
+      "genre": "Music & nightlife",
+      "location": "Mas Camp, National Stadium, St. Andrew",
+      "description": "Taylor Made Events’ 1990s and 2000s selector party, 9pm–2am. This is a separate Greatness Weekend event.",
+      "call": "Confirm current arrangements.",
+      "cost": "Confirm current admission and availability.",
+      "source": "https://brandbuilder.ticketgateway.com/event/view/recall--throwback-festival---straight-jean---fitted",
+      "map": "Mas Camp, National Stadium, St. Andrew, Jamaica",
+      "parishes": [
+        "St. Andrew"
+      ],
+      "checked": "2026-10-15"
+    },
+    {
+      "id": "community-livewire",
+      "name": "Live Wire with Capleton",
+      "start": "2026-10-31",
+      "end": "2026-11-01",
+      "area": "Elsewhere in Jamaica",
+      "genre": "Concerts & live music",
+      "location": "The Wharf Estate, Lot 4 Salt River Road, Longville Park, Clarendon",
+      "description": "Yung Kingz’ live Capleton concert, advertised for 9pm–2am.",
+      "call": "Confirm current arrangements.",
+      "cost": "Confirm current admission and availability.",
+      "source": "https://www.ticketgateway.com/event/view/livewire",
+      "map": "The Wharf Estate, Lot 4 Salt River Road, Longville Park, Clarendon, Jamaica",
+      "parishes": [
+        "Clarendon"
+      ],
+      "checked": "2026-10-15"
+    },
+    {
+      "id": "community-mayhem",
+      "name": "Mayhem: Beach Mayniacs",
+      "start": "2026-11-01",
+      "end": "2026-11-01",
+      "area": "North coast",
+      "genre": "Music & nightlife",
+      "location": "Plantation Cove, Priory, St. Ann",
+      "description": "Prodigy Entertainment’s beach cooler fete, 2–8pm. The organiser specifies 18+ and a 6pm cooler-entry cutoff.",
+      "call": "Confirm current arrangements.",
+      "cost": "Confirm current admission and availability.",
+      "source": "https://letscausemayhem.com/",
+      "map": "Plantation Cove, Priory, St. Ann, Jamaica",
+      "parishes": [
+        "St. Ann"
+      ],
+      "checked": "2026-10-15"
+    },
+    {
+      "id": "community-jerk-experience",
+      "name": "The Jerk Experience: Jamaica Jerk Championship weekend",
+      "start": "2026-12-04",
+      "end": "2026-12-06",
+      "area": "Elsewhere in Jamaica",
+      "genre": "Food & music",
+      "location": "The Cliff Hotel and Spa, West End, Negril, Westmoreland",
+      "description": "Ticketed public jerk-cuisine experiences accompany the championship weekend. The judged competition itself is closed; book the public programme.",
+      "call": "Confirm current arrangements.",
+      "cost": "Confirm current admission and availability.",
+      "source": "https://jamaicajerkchampionship.com/",
+      "map": "The Cliff Hotel and Spa, West End, Negril, Westmoreland, Jamaica",
+      "parishes": [
+        "Westmoreland"
+      ],
+      "checked": "2026-10-15"
+    },
+    {
+      "id": "community-rosehall",
+      "name": "Rose Hall Halloween Haunted Night Tours",
+      "start": "2026-10-28",
+      "end": "2026-10-31",
+      "area": "North coast",
+      "genre": "Culture & family",
+      "location": "Rose Hall Great House, St. James",
+      "description": "One-hour Halloween tours run over four evenings. The operator advertises a 6:30–8:30pm tour window; reserve a specific departure.",
+      "call": "Confirm current arrangements.",
+      "cost": "Confirm current admission and availability.",
+      "source": "https://rosehall.com/halloween2026/",
+      "map": "Rose Hall Great House, St. James, Jamaica",
+      "parishes": [
+        "St. James"
+      ],
+      "checked": "2026-10-15"
+    },
+    {
+      "id": "community-nejc-banquet",
+      "name": "North East Jamaica Conference: 20th Anniversary & Awards Banquet",
+      "start": "2026-10-25",
+      "end": "2026-10-25",
+      "area": "North coast",
+      "genre": "Culture & family",
+      "location": "Holiday Haven Resort, Runaway Bay, St. Ann",
+      "description": "Anniversary and awards banquet advertised by the conference for 4–7pm. Confirm tickets and guest arrangements.",
+      "call": "Confirm current arrangements.",
+      "cost": "Confirm current admission and availability.",
+      "source": "https://www.northeastja.org/media/events/20th-anniversary-awards-banquet/",
+      "map": "Holiday Haven Resort, Runaway Bay, St. Ann, Jamaica",
+      "parishes": [
+        "St. Ann"
+      ],
+      "checked": "2026-10-15"
+    },
+    {
+      "id": "community-national-womens-ministry-annual-convention",
+      "name": "National Women’s Ministry Annual Convention",
+      "start": "2026-10-17",
+      "end": "2026-10-17",
+      "area": "Elsewhere in Jamaica",
+      "genre": "Culture & family",
+      "location": "Mineral Heights Missionary Church, Platinum Avenue, Mineral Heights, May Pen, Clarendon",
+      "description": "Women’s ministry convention at Mineral Heights, 10am–4pm. All women are invited; confirm any registration requirements.",
+      "call": "Confirm current arrangements.",
+      "cost": "Confirm current admission and availability.",
+      "source": "https://the-mcaj.org/event/national-womens-ministry-annual-convention/",
+      "map": "Mineral Heights Missionary Church, Platinum Avenue, Mineral Heights, May Pen, Clarendon, Jamaica",
+      "parishes": [
+        "Clarendon"
+      ],
+      "checked": "2026-10-15"
+    },
+    {
+      "id": "community-national-boys-symposium",
+      "name": "National Boys Symposium",
+      "start": "2026-10-24",
+      "end": "2026-10-24",
+      "area": "Elsewhere in Jamaica",
+      "genre": "Culture & family",
+      "location": "The Kendal Camp and Conference Centre, Kendal, Mandeville, Manchester",
+      "description": "Evangelism and Missions Department and National Men’s Ministry symposium at Kendal. Confirm registration, participant ages and supervision.",
+      "call": "Confirm current arrangements.",
+      "cost": "Confirm current admission and availability.",
+      "source": "https://the-mcaj.org/event/national-boys-symposium/2026-10-24/",
+      "map": "The Kendal Camp and Conference Centre, Kendal, Mandeville, Manchester, Jamaica",
+      "parishes": [
+        "Manchester"
+      ],
+      "checked": "2026-10-15"
+    },
+    {
+      "id": "community-rosemount-mcs-community-health-fair-and-outreach",
+      "name": "Rosemount MC’s Community Health Fair and Outreach",
+      "start": "2026-10-24",
+      "end": "2026-10-24",
+      "area": "North coast",
+      "genre": "Sports & community",
+      "location": "Rosemount Missionary Church, 7 Vernons Drive, Montego Bay, St. James",
+      "description": "Caribbean Health and Wellness Foundation and Rosemount Missionary Church’s community outreach, 10am–3pm. Check which services will be available.",
+      "call": "Confirm current arrangements.",
+      "cost": "Confirm current admission and availability.",
+      "source": "https://the-mcaj.org/event/rosemount-mcs-community-health-fair-and-outreach/",
+      "map": "Rosemount Missionary Church, 7 Vernons Drive, Montego Bay, St. James, Jamaica",
+      "parishes": [
+        "St. James"
+      ],
+      "checked": "2026-10-15"
+    },
+    {
+      "id": "community-harvest-and-thanksgiving-service-waterford-missionary-church",
+      "name": "Harvest and Thanksgiving Service – Waterford Missionary Church",
+      "start": "2026-10-25",
+      "end": "2026-10-25",
+      "area": "Elsewhere in Jamaica",
+      "genre": "Culture & family",
+      "location": "Waterford Missionary Church, 3154A Caymanas Drive, Waterford, St. Catherine",
+      "description": "Community harvest and thanksgiving service from 9am. The church welcomes all visitors.",
+      "call": "Confirm current arrangements.",
+      "cost": "Confirm current admission and availability.",
+      "source": "https://the-mcaj.org/event/harvest-and-thanksgiving-service-waterford-missionary-church/",
+      "map": "Waterford Missionary Church, 3154A Caymanas Drive, Waterford, St. Catherine, Jamaica",
+      "parishes": [
+        "St. Catherine"
+      ],
+      "checked": "2026-10-15"
+    },
+    {
+      "id": "community-hephzibah-mc-mens-link-up-and-rally",
+      "name": "Hephzibah MC Men’s Link-Up and Rally",
+      "start": "2026-10-30",
+      "end": "2026-10-30",
+      "area": "Elsewhere in Jamaica",
+      "genre": "Culture & family",
+      "location": "Hephzibah Missionary Church, Coley Mountain, Manchester",
+      "description": "Men’s fellowship evening, 6–9:30pm, with dominoes, draughts, music and a live concert.",
+      "call": "Confirm current arrangements.",
+      "cost": "Confirm current admission and availability.",
+      "source": "https://the-mcaj.org/event/hephzibah-mc-mens-link-up-and-rally/",
+      "map": "Hephzibah Missionary Church, Coley Mountain, Manchester, Jamaica",
+      "parishes": [
+        "Manchester"
+      ],
+      "checked": "2026-10-15"
+    },
+    {
+      "id": "community-nmym-annual-youth-convention-2",
+      "name": "2026 Annual Youth Convention",
+      "start": "2026-11-29",
+      "end": "2026-11-29",
+      "area": "Elsewhere in Jamaica",
+      "genre": "Culture & family",
+      "location": "The Kendal Camp and Conference Centre, Kendal, Mandeville, Manchester",
+      "description": "Youth convention at Kendal, starting at 9:30am, with regional praise teams, talent winners and a guest speaker.",
+      "call": "Confirm current arrangements.",
+      "cost": "Confirm current admission and availability.",
+      "source": "https://the-mcaj.org/event/nmym-annual-youth-convention-2/",
+      "map": "The Kendal Camp and Conference Centre, Kendal, Mandeville, Manchester, Jamaica",
+      "parishes": [
+        "Manchester"
+      ],
+      "checked": "2026-10-15"
+    },
+    {
+      "id": "community-family-fest-mobay",
+      "name": "Jamaica Family Fest: Montego Bay",
+      "start": "2026-10-17",
+      "end": "2026-10-17",
+      "area": "North coast",
+      "genre": "Culture & family",
+      "location": "Harmony Beach Park, Montego Bay, St. James",
+      "description": "Family festival with food, business and education exhibitors, artisan stalls and entertainment. Confirm the specific city’s entrance and hours.",
+      "call": "Confirm current arrangements.",
+      "cost": "Confirm current admission and availability.",
+      "source": "https://wehfigo.com/listing/jamaica-family-fest-2026/",
+      "map": "Harmony Beach Park, Montego Bay, St. James, Jamaica",
+      "parishes": [
+        "St. James"
+      ],
+      "checked": "2026-10-15"
+    },
+    {
+      "id": "community-family-fest-kingston",
+      "name": "Jamaica Family Fest: Kingston",
+      "start": "2026-10-19",
+      "end": "2026-10-19",
+      "area": "Elsewhere in Jamaica",
+      "genre": "Culture & family",
+      "location": "Kingston Waterfront, Kingston",
+      "description": "Family festival with food, business and education exhibitors, artisan stalls and entertainment. Confirm the specific city’s entrance and hours.",
+      "call": "Confirm current arrangements.",
+      "cost": "Confirm current admission and availability.",
+      "source": "https://wehfigo.com/listing/jamaica-family-fest-2026/",
+      "map": "Kingston Waterfront, Kingston, Jamaica",
+      "parishes": [
+        "Kingston"
+      ],
+      "checked": "2026-10-15"
+    }
+  ],
+  "corrected": [
+    {
+      "id": "bzr",
+      "before": {
+        "id": "bzr",
+        "name": "BZR WKND 2026",
+        "start": "2026-10-16",
+        "end": "2026-10-19",
+        "area": "Elsewhere in Jamaica",
+        "genre": "Music & nightlife",
+        "location": "Kingston; JTB identifies National Stadium for the headline event",
+        "description": "Four-day music and entertainment programme. Individual parties have separate venues and tickets; confirm each event rather than treating the stadium as the whole weekend's location.",
+        "call": "An overnight Kingston plan, not an easy addition to an Ocho Rios beach afternoon.",
+        "cost": "Event-specific ticket categories; organiser confirmation required.",
+        "source": "https://www.visitjamaica.com/blog/post/events-happening-in-jamaica/",
+        "verify": "https://www.visitjamaica.com/event/bzr-wknd-2026/1439/",
+        "map": "National Stadium, Kingston, Jamaica",
+        "parishes": [
+          "St. Andrew"
+        ],
+        "parish_note": "Headline stadium venue is in St. Andrew; confirm each additional party venue.",
+        "mapNote": "Map is for the headline stadium venue only. Other weekend parties have separate venues."
+      },
+      "after": {
+        "id": "bzr",
+        "name": "BZR WKND marquee concert — rescheduled",
+        "start": "2026-12-20",
+        "end": "2026-12-20",
+        "area": "Elsewhere in Jamaica",
+        "genre": "Music & nightlife",
+        "location": "Kingston / St. Andrew; rescheduled venue to confirm",
+        "description": "The marquee concert has moved from 18 October to 20 December following Cardi B’s withdrawal. A revised lineup and venue arrangements require organiser confirmation.",
+        "call": "Check the revised programme and ticket or refund arrangements before making travel plans.",
+        "cost": "Event-specific ticket categories; organiser confirmation required.",
+        "source": "https://www.jamaicaobserver.com/2026/10/13/bzr-delayed-concert-postponed-december-patrons-offered-refunds/",
+        "verify": "https://www.bzrweekend.com/",
+        "map": "Kingston, Jamaica",
+        "parishes": [
+          "St. Andrew"
+        ],
+        "mapNote": "Kingston area search; confirm the rescheduled venue.",
+        "mapScope": "area",
+        "checked": "2026-10-15"
+      }
+    }
+  ],
+  "excluded": [
+    "Duplicate 90s Playground, Let’s Groove, Soak and Shake and Memories entries",
+    "BZR October dates superseded by December postponement",
+    "James Bond Night: calendar says 30 October but description says 10 October",
+    "Hope Zoo Halloween: already covered by Boo at the Zoo",
+    "CUPS: conflicting venue and hours",
+    "OTN: weekday conflicts with 2026 date",
+    "Undated/unknown-venue and past records; weekend package passes already represented by their individual parties"
+  ],
+  "reviewNotes": {
+    "calendar": "Published public calendar entries, not independently confirmed organiser attendance guarantees. Each card links its source.",
+    "timeCorrections": "Craft 11am; Brunch at Brew’d 4–10pm same day; Rose Hall operator 28–31 October 6:30–8:30pm; Greatness primary same-day 19 October.",
+    "finalFete": "Only announced 1 November start retained; erroneous same-day 1am end not asserted.",
+    "memories": "Ticket publisher identifies Ocho Rios only; calendar’s precise Dunn’s River claim not presented as confirmed."
+  }
+}
