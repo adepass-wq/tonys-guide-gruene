@@ -1,0 +1,29 @@
+name: Verify Jamaica Foodways staging
+on:
+  push:
+    branches:
+      - staging/jamaica-foodways-2026-10-15
+  pull_request:
+    paths:
+      - 'jamaica/**'
+      - 'package.json'
+      - 'package-lock.json'
+  workflow_dispatch:
+jobs:
+  foodways:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: read
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '24'
+          cache: npm
+      - run: npm ci
+      - run: npm run build
+      - run: npm run verify
+      - name: Verify Foodways browser DOM
+        run: node --test jamaica/tests/foodways-browser-smoke.test.cjs
+      - name: Check generated assets
+        run: test -s jamaica/index.html && test -s public/index.html || test -s jamaica/index.html
