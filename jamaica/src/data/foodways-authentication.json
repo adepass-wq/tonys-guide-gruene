@@ -1,0 +1,3862 @@
+{
+  "reviewedOn": "2026-10-16",
+  "scope": "107 archived entry records, including aliases and combinations; not 107 independent traditions",
+  "kitchenTests": 0,
+  "authenticatedArchiveFormulas": 0,
+  "statusCounts": {
+    "published-preparation": 70,
+    "documented-variation": 19,
+    "dish-only": 6,
+    "related-evidence": 8,
+    "unresolved": 4
+  },
+  "sources": [
+    {
+      "id": "FW-S001",
+      "url": "https://gracefoods.com/recipe-a-z/recipe/4582-ackee-and-saltfish",
+      "title": "Ackee and Saltfish",
+      "author": "Grace Foods (corporate recipe publisher; named cook not shown on this recipe page)",
+      "publicationDate": null,
+      "accessed": "2026-10-16",
+      "retrieval": "page-read",
+      "locator": "Ingredients and preparation section",
+      "quantityWitness": "1 teaspoon(s) Grace caribbean traditions black pepper",
+      "hasPreparationText": true,
+      "webReference": "turn37view0"
+    },
+    {
+      "id": "FW-S002",
+      "url": "https://jamaicanfoodsandrecipes.com/jamaican-callaloo-recipe-with-saltfish/",
+      "title": "Jamaican Callaloo Recipe with Saltfish",
+      "author": "Lesa",
+      "publicationDate": null,
+      "accessed": "2026-10-16",
+      "retrieval": "page-read",
+      "locator": "Ingredients and preparation section",
+      "quantityWitness": "688 g Callaloo 2 bunches",
+      "hasPreparationText": true,
+      "webReference": "turn36view0"
+    },
+    {
+      "id": "FW-S003",
+      "url": "https://cooklikeajamaican.com/fried-dumplings/",
+      "title": "Fried Dumplings – Cook Like a Jamaican",
+      "author": "Recipes",
+      "publicationDate": null,
+      "accessed": "2026-10-16",
+      "retrieval": "page-read",
+      "locator": "Ingredients and preparation section",
+      "quantityWitness": "2 cups (500 mL) All-purpose flour",
+      "hasPreparationText": true,
+      "webReference": "turn43view0"
+    },
+    {
+      "id": "FW-S004",
+      "url": "https://jamaicans.com/chef-noel-cunningham-jamaican-festival-recipe/",
+      "title": "Chef Noel Cunningham Jamaican Festival Recipe",
+      "author": "Chef Noel Cunningham",
+      "publicationDate": "Mon, September 19, 2016",
+      "accessed": "2026-10-16",
+      "retrieval": "page-read",
+      "locator": "Ingredients and preparation section",
+      "quantityWitness": "2 Cups of flour",
+      "hasPreparationText": false,
+      "webReference": "turn39view0"
+    },
+    {
+      "id": "FW-S005",
+      "url": "https://gracefoods.com/recipe-a-z/recipe/4831-rice-and-peas",
+      "title": "Rice and Peas",
+      "author": "Grace Foods (corporate recipe publisher; named cook not shown on this recipe page)",
+      "publicationDate": null,
+      "accessed": "2026-10-16",
+      "retrieval": "page-read",
+      "locator": "Ingredients and preparation section",
+      "quantityWitness": "2 cup(s) Grace Coconut Milk",
+      "hasPreparationText": true,
+      "webReference": "turn38view0"
+    },
+    {
+      "id": "FW-S006",
+      "url": "https://jamaicanfoodsandrecipes.com/authentic-jamaican-brown-strew-chicken/",
+      "title": "Authentic Jamaican Brown Stew Chicken Recipe",
+      "author": "Lesa",
+      "publicationDate": null,
+      "accessed": "2026-10-16",
+      "retrieval": "page-read",
+      "locator": "Ingredients and preparation section",
+      "quantityWitness": "771 g Chicken",
+      "hasPreparationText": true,
+      "webReference": "turn40view0"
+    },
+    {
+      "id": "FW-S007",
+      "url": "https://gracefoods.com/recipe-a-z/recipe/5200-curried-goat",
+      "title": "Curried Goat",
+      "author": "Grace Foods (corporate recipe publisher; named cook not shown on this recipe page)",
+      "publicationDate": null,
+      "accessed": "2026-10-16",
+      "retrieval": "page-read",
+      "locator": "Ingredients and preparation section",
+      "quantityWitness": "3 pound(s) goat meat",
+      "hasPreparationText": true,
+      "webReference": "turn41view0"
+    },
+    {
+      "id": "FW-S008",
+      "url": "https://jamaicans.com/stewpeas/",
+      "title": "Jamaican Stew Peas Recipe",
+      "author": "Grace \"Grandma\" Reynolds",
+      "publicationDate": "Sun, March 14, 2004",
+      "accessed": "2026-10-16",
+      "retrieval": "page-read",
+      "locator": "Ingredients and preparation section",
+      "quantityWitness": "2 cups red peas",
+      "hasPreparationText": true,
+      "webReference": "turn42view0"
+    },
+    {
+      "id": "FW-S009",
+      "url": "https://gracefoods.com/recipe-a-z/recipe/1672-escoveitched-fish",
+      "title": "Escoveitched Fish",
+      "author": "Grace Foods (corporate recipe publisher; named cook not shown on this recipe page)",
+      "publicationDate": null,
+      "accessed": "2026-10-16",
+      "retrieval": "page-read",
+      "locator": "Ingredients and preparation section",
+      "quantityWitness": "2 pound(s) Snapper Fish",
+      "hasPreparationText": true,
+      "webReference": "turn44view0"
+    },
+    {
+      "id": "FW-S010",
+      "url": "https://jamaicanfoodsandrecipes.com/mackerel-rundown-recipe/",
+      "title": "Mackerel Rundown Recipe",
+      "author": "Lesa",
+      "publicationDate": null,
+      "accessed": "2026-10-16",
+      "retrieval": "page-read",
+      "locator": "Ingredients and preparation section",
+      "quantityWitness": "260 g Salt mackerel",
+      "hasPreparationText": true,
+      "webReference": "turn45view0"
+    },
+    {
+      "id": "FW-S011",
+      "url": "https://jamaicans.com/spotatop/",
+      "title": "Jamaican Sweet Potato Pudding Recipe",
+      "author": "Winsome Murphy",
+      "publicationDate": "Sun, March 14, 2004",
+      "accessed": "2026-10-16",
+      "retrieval": "page-read",
+      "locator": "Ingredients and preparation section",
+      "quantityWitness": "2 pounds sweet potato",
+      "hasPreparationText": true,
+      "webReference": "turn51view0"
+    },
+    {
+      "id": "FW-S012",
+      "url": "https://jamaicanfoodsandrecipes.com/jamaican-sorrel-drink-recipe/",
+      "title": "Jamaican Sorrel drink recipe",
+      "author": "Lesa",
+      "publicationDate": null,
+      "accessed": "2026-10-16",
+      "retrieval": "page-read",
+      "locator": "Ingredients and preparation section",
+      "quantityWitness": "Servings: 8 Cups",
+      "hasPreparationText": true,
+      "webReference": "turn47view0"
+    },
+    {
+      "id": "FW-S013",
+      "url": "https://jamaicanfoodsandrecipes.com/jamaican-cornmeal-porridge-with-coconut-milk/",
+      "title": "Jamaican Cornmeal Porridge With Coconut Milk",
+      "author": "Lesa",
+      "publicationDate": null,
+      "accessed": "2026-10-16",
+      "retrieval": "page-read",
+      "locator": "Ingredients and preparation section",
+      "quantityWitness": "1. Prepare 2 cups of fresh coconut milk, then pour",
+      "hasPreparationText": true,
+      "webReference": "turn46view0"
+    },
+    {
+      "id": "FW-S014",
+      "url": "https://jamaicans.com/jamaican-stamp-and-go-recipe/",
+      "title": "Jamaican Stamp And Go Recipe",
+      "author": "Joan Lue",
+      "publicationDate": "Sat, October 1, 2016",
+      "accessed": "2026-10-16",
+      "retrieval": "page-read",
+      "locator": "Ingredients and preparation section",
+      "quantityWitness": "½ lb. (225 grams) Salted Codfish",
+      "hasPreparationText": true,
+      "webReference": "turn50view0"
+    },
+    {
+      "id": "FW-S015",
+      "url": "https://gracefoods.com/recipe-a-z/recipe/5194-bammy",
+      "title": "Bammy",
+      "author": "Grace Foods (corporate recipe publisher; named cook not shown on this recipe page)",
+      "publicationDate": null,
+      "accessed": "2026-10-16",
+      "retrieval": "page-read",
+      "locator": "Ingredients and preparation section",
+      "quantityWitness": "2 pound(s) cassava",
+      "hasPreparationText": true,
+      "webReference": "turn49view0"
+    },
+    {
+      "id": "FW-S016",
+      "url": "https://jamaicans.com/roastbreadfruit/",
+      "title": "Roast Breadfruit",
+      "author": "Winsome Murphy",
+      "publicationDate": "Sun, March 14, 2004",
+      "accessed": "2026-10-16",
+      "retrieval": "page-read",
+      "locator": "Ingredients and preparation section",
+      "quantityWitness": null,
+      "hasPreparationText": true,
+      "webReference": "turn48view0"
+    },
+    {
+      "id": "FW-S017",
+      "url": "https://jamaicanfoodsandrecipes.com/coconut-rice-recipe/",
+      "title": "Easy Jamaican Coconut Rice Recipe",
+      "author": "Lesa",
+      "publicationDate": null,
+      "accessed": "2026-10-16",
+      "retrieval": "page-read",
+      "locator": "Ingredients and preparation section",
+      "quantityWitness": "1 lb Basmati rice",
+      "hasPreparationText": true,
+      "webReference": "turn53view0"
+    },
+    {
+      "id": "FW-S018",
+      "url": "https://jamaicans.com/jamaican-jerk-chicken-recipe/",
+      "title": "Miss G’s Jamaican Jerk Chicken Recipe",
+      "author": "Miss G",
+      "publicationDate": "Sat, January 19, 2019",
+      "accessed": "2026-10-16",
+      "retrieval": "page-read",
+      "locator": "Ingredients and preparation section",
+      "quantityWitness": null,
+      "hasPreparationText": true,
+      "webReference": "turn59view0"
+    },
+    {
+      "id": "FW-S019",
+      "url": "https://gracefoods.com/recipe-a-z/recipe/4896-curried-chicken",
+      "title": "Curried Chicken",
+      "author": "Grace Foods (corporate recipe publisher; named cook not shown on this recipe page)",
+      "publicationDate": null,
+      "accessed": "2026-10-16",
+      "retrieval": "page-read",
+      "locator": "Ingredients and preparation section",
+      "quantityWitness": "3 1/2 pound(s) chicken",
+      "hasPreparationText": true,
+      "webReference": "turn54view0"
+    },
+    {
+      "id": "FW-S020",
+      "url": "https://thatgirlcookshealthy.com/ital-stew/",
+      "title": "Ital Stew (Vegan, Paleo, GF)",
+      "author": "Charla",
+      "publicationDate": "Oct 26, 2019 by 【1†Charla】",
+      "accessed": "2026-10-16",
+      "retrieval": "page-read",
+      "locator": "Ingredients and preparation section",
+      "quantityWitness": "Add the sweet potato, dasheen, carrots along with 1 cup",
+      "hasPreparationText": true,
+      "webReference": "turn52view0"
+    },
+    {
+      "id": "FW-S021",
+      "url": "https://gracefoods.com/recipe-a-z/recipe/1764-fancys-jamaican-steamed-fish",
+      "title": "Fancy's Jamaican Steamed Fish",
+      "author": "Grace Foods (corporate recipe publisher; named cook not shown on this recipe page)",
+      "publicationDate": null,
+      "accessed": "2026-10-16",
+      "retrieval": "page-read",
+      "locator": "Ingredients and preparation section",
+      "quantityWitness": "2 cup(s) fish stock",
+      "hasPreparationText": true,
+      "webReference": "turn56view0"
+    },
+    {
+      "id": "FW-S022",
+      "url": "https://jamaicans.com/chef-noel-cunninghams-peppered-shrimp-boil-recipe/",
+      "title": "Chef Noel Cunningham’s Peppered Shrimp Boil Recipe",
+      "author": "Chef Noel Cunningham",
+      "publicationDate": "Mon, September 14, 2020",
+      "accessed": "2026-10-16",
+      "retrieval": "page-read",
+      "locator": "Ingredients and preparation section",
+      "quantityWitness": "1 lb of raw shrimp with shell and head, deveined",
+      "hasPreparationText": true,
+      "webReference": "turn55view0"
+    },
+    {
+      "id": "FW-S023",
+      "url": "https://cooklikeajamaican.com/banana-fritters/",
+      "title": "Banana Fritters – Cook Like a Jamaican",
+      "author": "Home",
+      "publicationDate": null,
+      "accessed": "2026-10-16",
+      "retrieval": "page-read",
+      "locator": "Ingredients and preparation section",
+      "quantityWitness": "1⅔ (600 mL) cup mashed overripe Bananas (about 3-5 medium",
+      "hasPreparationText": true,
+      "webReference": "turn58view0"
+    },
+    {
+      "id": "FW-S024",
+      "url": "https://jamaicanfoodsandrecipes.com/the-best-jamaican-ginger-beer-recipe/",
+      "title": "The best Jamaican ginger beer recipe",
+      "author": "Lesa",
+      "publicationDate": null,
+      "accessed": "2026-10-16",
+      "retrieval": "page-read",
+      "locator": "Ingredients and preparation section",
+      "quantityWitness": "Servings: 12 Cups",
+      "hasPreparationText": true,
+      "webReference": "turn57view0"
+    },
+    {
+      "id": "FW-S025",
+      "url": "https://jamaicans.com/chef-cunnys-jamaican-style-hominy-corn-porridge/",
+      "title": "Chef Cunny’s Jamaican-style Hominy corn Porridge",
+      "author": "Chef Noel Cunningham",
+      "publicationDate": "Tue, July 12, 2016",
+      "accessed": "2026-10-16",
+      "retrieval": "page-read",
+      "locator": "Ingredients and preparation section",
+      "quantityWitness": "1 cup Hominy Corn",
+      "hasPreparationText": true,
+      "webReference": "turn63view0"
+    },
+    {
+      "id": "FW-S026",
+      "url": "https://jamaicanfoodsandrecipes.com/jamaican-banana-porridge/",
+      "title": "Jamaican banana porridge",
+      "author": "Lesa",
+      "publicationDate": null,
+      "accessed": "2026-10-16",
+      "retrieval": "page-read",
+      "locator": "Ingredients and preparation section",
+      "quantityWitness": "2 Cups Coconut milk",
+      "hasPreparationText": true,
+      "webReference": "turn61view0"
+    },
+    {
+      "id": "FW-S027",
+      "url": "https://jamaicanfoodsandrecipes.com/jamaican-plantain-porridge-recipe/",
+      "title": "Jamaican plantain porridge recipe",
+      "author": "Lesa",
+      "publicationDate": null,
+      "accessed": "2026-10-16",
+      "retrieval": "page-read",
+      "locator": "Ingredients and preparation section",
+      "quantityWitness": "1 ½ cups Coconut milk See notes",
+      "hasPreparationText": true,
+      "webReference": "turn65view0"
+    },
+    {
+      "id": "FW-S028",
+      "url": "https://jamaicans.com/chef-noel-cunninghams-peanut-porridge-recipe/",
+      "title": "Chef Noel Cunningham’s Peanut Porridge Recipe",
+      "author": " Chef Noel Cunningham ",
+      "publicationDate": "Sat, July 14, 2018",
+      "accessed": "2026-10-16",
+      "retrieval": "page-read",
+      "locator": "Ingredients and preparation section",
+      "quantityWitness": "2 cups raw peanut",
+      "hasPreparationText": true,
+      "webReference": "turn60view0"
+    },
+    {
+      "id": "FW-S029",
+      "url": "https://gracefoods.com/recipe-a-z/recipe/4920-oats-porridge",
+      "title": "Oats Porridge",
+      "author": "Grace Foods (corporate recipe publisher; named cook not shown on this recipe page)",
+      "publicationDate": null,
+      "accessed": "2026-10-16",
+      "retrieval": "page-read",
+      "locator": "Ingredients and preparation section",
+      "quantityWitness": "10 cup(s) water",
+      "hasPreparationText": true,
+      "webReference": "turn62view0"
+    },
+    {
+      "id": "FW-S030",
+      "url": "https://www.visitjamaica.com/blog/post/where-to-eat-on-jamaicas-south-coast/",
+      "title": "Where to Eat on Jamaica's South Coast",
+      "author": "Jamaica Tourist Board",
+      "publicationDate": null,
+      "accessed": "2026-10-16",
+      "retrieval": "page-read",
+      "locator": "Named page section",
+      "quantityWitness": null,
+      "hasPreparationText": false,
+      "webReference": "turn67view0"
+    },
+    {
+      "id": "FW-S031",
+      "url": "https://jamaicanfoodsandrecipes.com/jamaican-steamed-cabbage-recipe/",
+      "title": "Jamaican Steamed Cabbage Recipe",
+      "author": "Lesa",
+      "publicationDate": null,
+      "accessed": "2026-10-16",
+      "retrieval": "page-read",
+      "locator": "Ingredients and preparation section",
+      "quantityWitness": "710 g white cabbage shredded",
+      "hasPreparationText": true,
+      "webReference": "turn66view0"
+    },
+    {
+      "id": "FW-S032",
+      "url": "https://gracefoods.com/recipe-a-z/recipe/5116-boiled-green-banana",
+      "title": "Boiled Green Banana",
+      "author": "Grace Foods (corporate recipe publisher; named cook not shown on this recipe page)",
+      "publicationDate": null,
+      "accessed": "2026-10-16",
+      "retrieval": "page-read",
+      "locator": "Ingredients and preparation section",
+      "quantityWitness": "1/2 teaspoon(s) salt",
+      "hasPreparationText": true,
+      "webReference": "turn64view0"
+    },
+    {
+      "id": "FW-S033",
+      "url": "https://jamaicanfoodsandrecipes.com/how-to-cook-jamaican-hard-food/",
+      "title": "How To Cook Jamaican Hard Food?",
+      "author": "Lesa",
+      "publicationDate": null,
+      "accessed": "2026-10-16",
+      "retrieval": "page-read",
+      "locator": "Ingredients and preparation section",
+      "quantityWitness": "½ lb Yellow yam",
+      "hasPreparationText": true,
+      "webReference": "turn70view0"
+    },
+    {
+      "id": "FW-S034",
+      "url": "https://jamaicanfoodsandrecipes.com/jamaican-pumpkin-rice/",
+      "title": "Jamaican Pumpkin Rice Recipe",
+      "author": "Lesa",
+      "publicationDate": null,
+      "accessed": "2026-10-16",
+      "retrieval": "page-read",
+      "locator": "Ingredients and preparation section",
+      "quantityWitness": "1 lb Basmati rice",
+      "hasPreparationText": true,
+      "webReference": "turn74view0"
+    },
+    {
+      "id": "FW-S035",
+      "url": "https://jamaicans.com/chef-noel-cunninghams-spicy-curried-shrimp/",
+      "title": "Chef Noel Cunningham’s Spicy Curried Shrimp",
+      "author": " Chef Noel Cunningham ",
+      "publicationDate": "Thu, April 25, 2019",
+      "accessed": "2026-10-16",
+      "retrieval": "page-read",
+      "locator": "Ingredients and preparation section",
+      "quantityWitness": "1 tbsp vegetable oil",
+      "hasPreparationText": true,
+      "webReference": "turn73view0"
+    },
+    {
+      "id": "FW-S036",
+      "url": "https://gracefoods.com/recipe-a-z/recipe/4709-lentil-stew",
+      "title": "Lentil Stew",
+      "author": "Grace Foods (corporate recipe publisher; named cook not shown on this recipe page)",
+      "publicationDate": null,
+      "accessed": "2026-10-16",
+      "retrieval": "page-read",
+      "locator": "Ingredients and preparation section",
+      "quantityWitness": "2 cup(s) lentils",
+      "hasPreparationText": true,
+      "webReference": "turn68view0"
+    },
+    {
+      "id": "FW-S037",
+      "url": "https://jamaicanfoodsandrecipes.com/prawns-cooked-in-coconut-milk/",
+      "title": "Prawns Cooked In Coconut Milk With Okra (Jamaican Style)",
+      "author": "Lesa",
+      "publicationDate": null,
+      "accessed": "2026-10-16",
+      "retrieval": "page-read",
+      "locator": "Ingredients and preparation section",
+      "quantityWitness": "500 g Prawns Remove shell",
+      "hasPreparationText": true,
+      "webReference": "turn71view0"
+    },
+    {
+      "id": "FW-S038",
+      "url": "https://jamaicans.com/friedsprat/",
+      "title": "Fried Sprat",
+      "author": " Xavier Murphy ",
+      "publicationDate": "Sun, March 14, 2004",
+      "accessed": "2026-10-16",
+      "retrieval": "page-read",
+      "locator": "Ingredients and preparation section",
+      "quantityWitness": "### 【27† Brazil Is Out. So Which World Cup 2026",
+      "hasPreparationText": true,
+      "webReference": "turn72view0"
+    },
+    {
+      "id": "FW-S039",
+      "url": "https://gracefoods.com/recipe-a-z/recipe/1630-cornmeal-pudding",
+      "title": "Cornmeal Pudding",
+      "author": "Grace Foods (corporate recipe publisher; named cook not shown on this recipe page)",
+      "publicationDate": null,
+      "accessed": "2026-10-16",
+      "retrieval": "page-read",
+      "locator": "Ingredients and preparation section",
+      "quantityWitness": "2 cup(s) Grace Coconut Milk",
+      "hasPreparationText": true,
+      "webReference": "turn75view0"
+    },
+    {
+      "id": "FW-S040",
+      "url": "https://gracefoods.com/recipe-a-z/recipe/5101-coconut-drops",
+      "title": "Coconut Drops",
+      "author": "Grace Foods (corporate recipe publisher; named cook not shown on this recipe page)",
+      "publicationDate": null,
+      "accessed": "2026-10-16",
+      "retrieval": "page-read",
+      "locator": "Ingredients and preparation section",
+      "quantityWitness": "4 cup(s) water",
+      "hasPreparationText": true,
+      "webReference": "turn69view0"
+    },
+    {
+      "id": "FW-S041",
+      "url": "https://jamaicans.com/tamarindballs-2/",
+      "title": "Tamarind Balls Recipe",
+      "author": "Xavier Murphy",
+      "publicationDate": "Wed, March 20, 2013",
+      "accessed": "2026-10-16",
+      "retrieval": "page-read",
+      "locator": "Ingredients and preparation section",
+      "quantityWitness": "2 lb of Tamarinds (shells removed)",
+      "hasPreparationText": true,
+      "webReference": "turn81view0"
+    },
+    {
+      "id": "FW-S042",
+      "url": "https://jamaicanfoodsandrecipes.com/refreshing-soursop-juice-recipe/",
+      "title": "Refreshing Soursop Juice Recipe",
+      "author": "Lesa",
+      "publicationDate": null,
+      "accessed": "2026-10-16",
+      "retrieval": "page-read",
+      "locator": "Ingredients and preparation section",
+      "quantityWitness": "880 g ripe soursop",
+      "hasPreparationText": true,
+      "webReference": "turn83view0"
+    },
+    {
+      "id": "FW-S043",
+      "url": "https://foodiejoanie.wordpress.com/tag/jamaican-tea/",
+      "title": "Tag: Jamaican Tea",
+      "author": "Publisher attribution only; individual cook not established",
+      "publicationDate": null,
+      "accessed": "2026-10-16",
+      "retrieval": "page-read",
+      "locator": "Named page section",
+      "quantityWitness": "2 cups fresh mint leaves with stems, washed and picked",
+      "hasPreparationText": false,
+      "webReference": "turn79view0"
+    },
+    {
+      "id": "FW-S044",
+      "url": "https://gracefoods.com/recipe-a-z/recipe/4623-ackee-and-corned-pork",
+      "title": "Ackee and Corned Pork # 1",
+      "author": "Grace Foods (corporate recipe publisher; named cook not shown on this recipe page)",
+      "publicationDate": null,
+      "accessed": "2026-10-16",
+      "retrieval": "page-read",
+      "locator": "Ingredients and preparation section",
+      "quantityWitness": "1 1/2 pound(s) corned pork",
+      "hasPreparationText": true,
+      "webReference": "turn78view0"
+    },
+    {
+      "id": "FW-S045",
+      "url": "https://jamaicans.com/jamaican-salt-mackerel-recipe/",
+      "title": "Jamaican Salt Mackerel Recipe – Pickled Mackerel",
+      "author": "Xavier Murphy",
+      "publicationDate": "Sun, June 10, 2018",
+      "accessed": "2026-10-16",
+      "retrieval": "page-read",
+      "locator": "Ingredients and preparation section",
+      "quantityWitness": "1 lb. Mackerel",
+      "hasPreparationText": true,
+      "webReference": "turn82view0"
+    },
+    {
+      "id": "FW-S046",
+      "url": "https://jamaicans.com/jamaican-coco-bread-recipe/",
+      "title": "Jamaican Coco Bread Recipe",
+      "author": "Board member “Ackee and Saltfish” (pseudonym; not individually verified)",
+      "publicationDate": "Sun, March 14, 2004",
+      "accessed": "2026-10-16",
+      "retrieval": "page-read",
+      "locator": "Ingredients and preparation section",
+      "quantityWitness": "9. Half a cup of walnut meats may be added",
+      "hasPreparationText": true,
+      "webReference": "turn77view0"
+    },
+    {
+      "id": "FW-S047",
+      "url": "https://jamaicans.com/jamaican-hardough-bread-recipe-2/",
+      "title": "Chef Sian’s Jamaican Hardough Bread Recipe",
+      "author": "Sian Rose",
+      "publicationDate": "Sat, July 9, 2016",
+      "accessed": "2026-10-16",
+      "retrieval": "page-read",
+      "locator": "Ingredients and preparation section",
+      "quantityWitness": "1. Reserve ¼ cup flour for rolling. Combine dry ingredients",
+      "hasPreparationText": true,
+      "webReference": "turn80view0"
+    },
+    {
+      "id": "FW-S048",
+      "url": "https://jamaicans.com/bulla/",
+      "title": "Bulla",
+      "author": " Grace \"Grandma\" Reynolds ",
+      "publicationDate": "Thu, October 13, 2005",
+      "accessed": "2026-10-16",
+      "retrieval": "page-read",
+      "locator": "Ingredients and preparation section",
+      "quantityWitness": "2 3/4 cups brown sugar",
+      "hasPreparationText": true,
+      "webReference": "turn76view0"
+    },
+    {
+      "id": "FW-S049",
+      "url": "https://jamaicans.com/chef-noel-cunninghams-jamaican-easter-bun/",
+      "title": "Chef Noel Cunningham’s Jamaican Easter Bun",
+      "author": " Chef Noel Cunningham ",
+      "publicationDate": "Sat, March 30, 2019",
+      "accessed": "2026-10-16",
+      "retrieval": "page-read",
+      "locator": "Ingredients and preparation section",
+      "quantityWitness": "2 tbsp. melted margarine",
+      "hasPreparationText": true,
+      "webReference": "turn84view0"
+    },
+    {
+      "id": "FW-S050",
+      "url": "https://jamaicans.com/jamaican-spiced-easter-bun-recipe/",
+      "title": "Jamaican Spiced Easter Bun Recipe: Kerri-Ann’s Kravings",
+      "author": "Kerri-Ann’s Kravings",
+      "publicationDate": "Wed, March 25, 2020",
+      "accessed": "2026-10-16",
+      "retrieval": "page-read",
+      "locator": "Ingredients and preparation section",
+      "quantityWitness": "3 tbsp butter + 1 tsp to grease the baking",
+      "hasPreparationText": true,
+      "webReference": "turn85view0"
+    },
+    {
+      "id": "FW-S051",
+      "url": "https://jamaicans.com/jackasscornrecipe/",
+      "title": "Jackass Corn Recipe (Donkey Corn)",
+      "author": "Winsome Murphy",
+      "publicationDate": "Sun, October 7, 2012",
+      "accessed": "2026-10-16",
+      "retrieval": "page-read",
+      "locator": "Ingredients and preparation section",
+      "quantityWitness": "1 cup all-purpose flour",
+      "hasPreparationText": true,
+      "webReference": "turn91view0"
+    },
+    {
+      "id": "FW-S052",
+      "url": "https://jamaicans.com/chef-sians-turn-cornmeal-with-corned-pork-recipe/",
+      "title": "Chef Sian’s Turn Cornmeal with Corned Pork Recipe",
+      "author": "Sian Rose",
+      "publicationDate": "Tue, February 23, 2016",
+      "accessed": "2026-10-16",
+      "retrieval": "page-read",
+      "locator": "Ingredients and preparation section",
+      "quantityWitness": "¼ LB Corned pork, cubed",
+      "hasPreparationText": true,
+      "webReference": "turn88view0"
+    },
+    {
+      "id": "FW-S053",
+      "url": "https://thatgirlcookshealthy.com/cornmeal-cou-cou/",
+      "title": "Cornmeal Cou Cou (Coo Coo)",
+      "author": "Charla",
+      "publicationDate": "Apr 18, 2024 by 【1†Charla】",
+      "accessed": "2026-10-16",
+      "retrieval": "page-read",
+      "locator": "Ingredients and preparation section",
+      "quantityWitness": "There should be a total of 4 cups if you",
+      "hasPreparationText": true,
+      "webReference": "turn89view0"
+    },
+    {
+      "id": "FW-S054",
+      "url": "https://jamaicans.com/jerkpork/",
+      "title": "Jamaican Jerk Pork Recipe",
+      "author": "Xavier Murphy",
+      "publicationDate": "Sun, March 14, 2004",
+      "accessed": "2026-10-16",
+      "retrieval": "page-read",
+      "locator": "Ingredients and preparation section",
+      "quantityWitness": "5 lb Pork Shoulder (cut up)",
+      "hasPreparationText": true,
+      "webReference": "turn86view0"
+    },
+    {
+      "id": "FW-S055",
+      "url": "https://jamaicans.com/jamaican-braised-oxtail-beans/",
+      "title": "Chef Noel Cunningham Jamaican Braised Oxtail & Beans",
+      "author": "Chef Noel Cunningham",
+      "publicationDate": "Tue, November 8, 2016",
+      "accessed": "2026-10-16",
+      "retrieval": "page-read",
+      "locator": "Ingredients and preparation section",
+      "quantityWitness": "2 lb oxtails",
+      "hasPreparationText": true,
+      "webReference": "turn87view0"
+    },
+    {
+      "id": "FW-S056",
+      "url": "https://jamaicanfoodsandrecipes.com/jamaican-pepper-steak-recipe/",
+      "title": "Jamaican Pepper Steak Recipe",
+      "author": "Lesa",
+      "publicationDate": null,
+      "accessed": "2026-10-16",
+      "retrieval": "page-read",
+      "locator": "Ingredients and preparation section",
+      "quantityWitness": "Beef broth: There is a likelihood you may not need",
+      "hasPreparationText": true,
+      "webReference": "turn90view0"
+    },
+    {
+      "id": "FW-S057",
+      "url": "https://jamaicans.com/celebrating-hearty-jamaican-stews-for-world-food-day-with-easy-to-try-recipes-from-mona-made-it/",
+      "title": "Celebrating Hearty Jamaican Stews for World Food Day with Easy-to-try Recipes from Mona Made It",
+      "author": "Mona Made It (recipe credit on roundup; individual identity not verified)",
+      "publicationDate": "Wed, October 16, 2024",
+      "accessed": "2026-10-16",
+      "retrieval": "page-read",
+      "locator": "Ingredients and preparation section",
+      "quantityWitness": "3-4 lbs oxtail, cleaned and cut into pieces",
+      "hasPreparationText": true,
+      "webReference": "turn95view0"
+    },
+    {
+      "id": "FW-S058",
+      "url": "https://gracefoods.com/recipe-a-z/recipe/4681-grace-gungo-peas-soup",
+      "title": "Grace Gungo Peas Soup",
+      "author": "Grace Foods (corporate recipe publisher; named cook not shown on this recipe page)",
+      "publicationDate": null,
+      "accessed": "2026-10-16",
+      "retrieval": "page-read",
+      "locator": "Ingredients and preparation section",
+      "quantityWitness": "6 cup(s) water",
+      "hasPreparationText": true,
+      "webReference": "turn97view0"
+    },
+    {
+      "id": "FW-S059",
+      "url": "https://jamaicans.com/jamaicanchickenfootsoup/",
+      "title": "Jamaican Chicken Foot Soup Recipe",
+      "author": "Xavier Murphy",
+      "publicationDate": "Mon, October 21, 2013",
+      "accessed": "2026-10-16",
+      "retrieval": "page-read",
+      "locator": "Ingredients and preparation section",
+      "quantityWitness": "2 lb. chicken foot (Skinned and nails cut-off)",
+      "hasPreparationText": true,
+      "webReference": "turn92view0"
+    },
+    {
+      "id": "FW-S060",
+      "url": "https://gracefoods.com/recipe-a-z/recipe/4943-grace-ham-bone-red-peas-soup",
+      "title": "Grace Ham Bone Red Peas Soup",
+      "author": "Grace Foods (corporate recipe publisher; named cook not shown on this recipe page)",
+      "publicationDate": null,
+      "accessed": "2026-10-16",
+      "retrieval": "page-read",
+      "locator": "Ingredients and preparation section",
+      "quantityWitness": "16 cup(s) water",
+      "hasPreparationText": true,
+      "webReference": "turn94view0"
+    },
+    {
+      "id": "FW-S061",
+      "url": "https://gracefoods.com/recipe-a-z/recipe/1822-mannish-water",
+      "title": "Mannish Water",
+      "author": "Grace Foods (corporate recipe publisher; named cook not shown on this recipe page)",
+      "publicationDate": null,
+      "accessed": "2026-10-16",
+      "retrieval": "page-read",
+      "locator": "Ingredients and preparation section",
+      "quantityWitness": "2 pound(s) goat head and belly",
+      "hasPreparationText": true,
+      "webReference": "turn96view0"
+    },
+    {
+      "id": "FW-S062",
+      "url": "https://jamaicanfoodsandrecipes.com/jamaican-fish-tea-soup/",
+      "title": "Jamaican Fish Tea Soup Recipe",
+      "author": "Lesa",
+      "publicationDate": null,
+      "accessed": "2026-10-16",
+      "retrieval": "page-read",
+      "locator": "Ingredients and preparation section",
+      "quantityWitness": "1 Cup plain flour",
+      "hasPreparationText": true,
+      "webReference": "turn98view0"
+    },
+    {
+      "id": "FW-S063",
+      "url": "https://gracefoods.com/recipe-a-z/recipes/archive",
+      "title": "Recipes Archive List",
+      "author": "Grace Foods (corporate recipe publisher; named cook not shown on this recipe page)",
+      "publicationDate": null,
+      "accessed": "2026-10-16",
+      "retrieval": "page-read",
+      "locator": "Named page section",
+      "quantityWitness": null,
+      "hasPreparationText": false,
+      "webReference": "turn99view0"
+    },
+    {
+      "id": "FW-S064",
+      "url": "https://jamaicans.com/jamaican-pepperpot-soup-recipe/",
+      "title": "Jamaican Pepperpot Soup Recipe",
+      "author": "Winsome Murphy",
+      "publicationDate": "Sun, March 14, 2004",
+      "accessed": "2026-10-16",
+      "retrieval": "page-read",
+      "locator": "Ingredients and preparation section",
+      "quantityWitness": "1 lb Callaloo (approximately 8 stalks) –",
+      "hasPreparationText": true,
+      "webReference": "turn93view0"
+    },
+    {
+      "id": "FW-S065",
+      "url": "https://gracefoods.com/recipe-a-z/recipe/4648-cow-foot-and-broad-beans",
+      "title": "Cow Foot and Broad Beans",
+      "author": "Grace Foods (corporate recipe publisher; named cook not shown on this recipe page)",
+      "publicationDate": null,
+      "accessed": "2026-10-16",
+      "retrieval": "page-read",
+      "locator": "Ingredients and preparation section",
+      "quantityWitness": "4 pound(s) cow foot",
+      "hasPreparationText": true,
+      "webReference": "turn107view0"
+    },
+    {
+      "id": "FW-S066",
+      "url": "https://gracefoods.com/recipe-a-z/recipe/4741-curried-tripe-a-beans",
+      "title": "Curried Tripe & Beans",
+      "author": "Grace Foods (corporate recipe publisher; named cook not shown on this recipe page)",
+      "publicationDate": null,
+      "accessed": "2026-10-16",
+      "retrieval": "page-read",
+      "locator": "Ingredients and preparation section",
+      "quantityWitness": "3 pound(s) cow tripe",
+      "hasPreparationText": true,
+      "webReference": "turn103view0"
+    },
+    {
+      "id": "FW-S067",
+      "url": "https://jamaicanfoodsandrecipes.com/curry-chickpeas-jamaican-style/",
+      "title": "Curry Chickpeas (Jamaican Style)",
+      "author": "Lesa",
+      "publicationDate": null,
+      "accessed": "2026-10-16",
+      "retrieval": "page-read",
+      "locator": "Ingredients and preparation section",
+      "quantityWitness": "1. Toast the curry: First, you want to toast curry",
+      "hasPreparationText": true,
+      "webReference": "turn101view0"
+    },
+    {
+      "id": "FW-S068",
+      "url": "https://originalflava.com/vegan/ital-rundown/",
+      "title": "Ital Rundown - Original Flava",
+      "author": "Original Flava",
+      "publicationDate": null,
+      "accessed": "2026-10-16",
+      "retrieval": "page-read",
+      "locator": "Named page section",
+      "quantityWitness": null,
+      "hasPreparationText": false,
+      "webReference": "turn100view0"
+    },
+    {
+      "id": "FW-S069",
+      "url": "https://notwithoutcake.com/2018/01/07/ackee-callaloo-and-pumpkin-veganuary/",
+      "title": "Ackee, Callaloo and Pumpkin | VEGANUARY",
+      "author": "Not Without Cake (individual identity not verified)",
+      "publicationDate": null,
+      "accessed": "2026-10-16",
+      "retrieval": "page-read",
+      "locator": "Ingredients and preparation section",
+      "quantityWitness": "2 garlic cloves",
+      "hasPreparationText": false,
+      "webReference": "turn106view0"
+    },
+    {
+      "id": "FW-S070",
+      "url": "https://jamaicanfoodsandrecipes.com/jamaican-brown-stew-fish-recipe/",
+      "title": "Jamaican Brown Stew Fish Recipe",
+      "author": "Lesa",
+      "publicationDate": null,
+      "accessed": "2026-10-16",
+      "retrieval": "page-read",
+      "locator": "Ingredients and preparation section",
+      "quantityWitness": "632 g Fresh fish",
+      "hasPreparationText": true,
+      "webReference": "turn102view0"
+    },
+    {
+      "id": "FW-S071",
+      "url": "https://jamaicanfoodsandrecipes.com/jamaican-saltfish-run-down-rundung/",
+      "title": "Jamaican Saltfish Run Down (Rundung)",
+      "author": "Lesa",
+      "publicationDate": null,
+      "accessed": "2026-10-16",
+      "retrieval": "page-read",
+      "locator": "Ingredients and preparation section",
+      "quantityWitness": "2 Cups Homemade coconut milk canned coconut is an option",
+      "hasPreparationText": true,
+      "webReference": "turn104view0"
+    },
+    {
+      "id": "FW-S072",
+      "url": "https://jamaicans.com/solomon-a-gundy-recipe/",
+      "title": "Jamaican Solomon-A-Gundy Recipe",
+      "author": "Winsome Murphy",
+      "publicationDate": "Sat, March 5, 2011",
+      "accessed": "2026-10-16",
+      "retrieval": "page-read",
+      "locator": "Ingredients and preparation section",
+      "quantityWitness": "1 ½ lb. Smoked Herring",
+      "hasPreparationText": true,
+      "webReference": "turn105view0"
+    },
+    {
+      "id": "FW-S073",
+      "url": "https://jamaicanfoodsandrecipes.com/jamaican-steamed-fish-recipe/",
+      "title": "Authentic Jamaican Steamed Fish Recipe",
+      "author": "Lesa",
+      "publicationDate": null,
+      "accessed": "2026-10-16",
+      "retrieval": "page-read",
+      "locator": "Ingredients and preparation section",
+      "quantityWitness": "1½ lbs Fresh fish See notes",
+      "hasPreparationText": true,
+      "webReference": "turn113view0"
+    },
+    {
+      "id": "FW-S074",
+      "url": "https://jamdownfoodie.com/broiled-lobster-tails/",
+      "title": "Broiled Lobster Tails",
+      "author": "Yanikie Tucker / Jamdown Foodie",
+      "publicationDate": null,
+      "accessed": "2026-10-16",
+      "retrieval": "page-read",
+      "locator": "Ingredients and preparation section",
+      "quantityWitness": "1 teaspoon cracked pepper",
+      "hasPreparationText": true,
+      "webReference": "turn109view0"
+    },
+    {
+      "id": "FW-S075",
+      "url": "https://jamaicans.com/jangasoup/",
+      "title": "Janga Soup – Jamaican Crayfish Soup",
+      "author": "Winsome Murphy",
+      "publicationDate": "Mon, August 15, 2011",
+      "accessed": "2026-10-16",
+      "retrieval": "page-read",
+      "locator": "Ingredients and preparation section",
+      "quantityWitness": "1 lb Janga crayfish",
+      "hasPreparationText": true,
+      "webReference": "turn114view0"
+    },
+    {
+      "id": "FW-S076",
+      "url": "https://jamaicans.com/saltfish/",
+      "title": "Jamaican Pick Up Saltfish Recipe",
+      "author": "Winsome Murphy",
+      "publicationDate": "Sun, March 14, 2004",
+      "accessed": "2026-10-16",
+      "retrieval": "page-read",
+      "locator": "Ingredients and preparation section",
+      "quantityWitness": "1/2 pound salt fish",
+      "hasPreparationText": true,
+      "webReference": "turn115view0"
+    },
+    {
+      "id": "FW-S077",
+      "url": "https://gracefoods.com/recipe-a-z/recipe/4769-gizzada",
+      "title": "Gizzada",
+      "author": "Grace Foods (corporate recipe publisher; named cook not shown on this recipe page)",
+      "publicationDate": null,
+      "accessed": "2026-10-16",
+      "retrieval": "page-read",
+      "locator": "Ingredients and preparation section",
+      "quantityWitness": "1 pound(s) pastry flour",
+      "hasPreparationText": true,
+      "webReference": "turn111view0"
+    },
+    {
+      "id": "FW-S078",
+      "url": "https://gracefoods.com/recipe-a-z/recipe/1808-grater-cake-pink-on-top",
+      "title": "Grater Cake (Pink On Top)",
+      "author": "Grace Foods (corporate recipe publisher; named cook not shown on this recipe page)",
+      "publicationDate": null,
+      "accessed": "2026-10-16",
+      "retrieval": "page-read",
+      "locator": "Ingredients and preparation section",
+      "quantityWitness": "3 cup(s) dried coconut",
+      "hasPreparationText": true,
+      "webReference": "turn110view0"
+    },
+    {
+      "id": "FW-S079",
+      "url": "https://jamaicanfoodsandrecipes.com/peanut-drops-recipe/",
+      "title": "Peanut Drops Recipe",
+      "author": "Lesa",
+      "publicationDate": null,
+      "accessed": "2026-10-16",
+      "retrieval": "page-read",
+      "locator": "Ingredients and preparation section",
+      "quantityWitness": "4 Cups Roasted peanuts",
+      "hasPreparationText": true,
+      "webReference": "turn112view0"
+    },
+    {
+      "id": "FW-S080",
+      "url": "https://jamaicans.com/plantain/",
+      "title": "Jamaican Plantain Tart Recipe",
+      "author": " Winsome Murphy ",
+      "publicationDate": "Sun, March 14, 2004",
+      "accessed": "2026-10-16",
+      "retrieval": "page-read",
+      "locator": "Ingredients and preparation section",
+      "quantityWitness": "2 lb flour",
+      "hasPreparationText": true,
+      "webReference": "turn108view0"
+    },
+    {
+      "id": "FW-S081",
+      "url": "https://gracefoods.com/recipe-a-z/recipe/1800-sweet-potato-pone?print=1&tmpl=component",
+      "title": "Sweet Potato Pone",
+      "author": "Grace Foods (corporate recipe publisher; named cook not shown on this recipe page)",
+      "publicationDate": null,
+      "accessed": "2026-10-16",
+      "retrieval": "page-read",
+      "locator": "Ingredients and preparation section",
+      "quantityWitness": "1 cup(s) wine",
+      "hasPreparationText": true,
+      "webReference": "turn123view0"
+    },
+    {
+      "id": "FW-S082",
+      "url": "https://gracefoods.com/recipe-a-z/recipe/4997-cassava-pone",
+      "title": "Cassava Pone",
+      "author": "Grace Foods (corporate recipe publisher; named cook not shown on this recipe page)",
+      "publicationDate": null,
+      "accessed": "2026-10-16",
+      "retrieval": "page-read",
+      "locator": "Ingredients and preparation section",
+      "quantityWitness": "2 cup(s) cassava, grated",
+      "hasPreparationText": true,
+      "webReference": "turn119view0"
+    },
+    {
+      "id": "FW-S083",
+      "url": "https://thatgirlcookshealthy.com/jamaican-asham/",
+      "title": "Jamaican Asham",
+      "author": "Charla",
+      "publicationDate": "May 24, 2020 by 【1†Charla】",
+      "accessed": "2026-10-16",
+      "retrieval": "page-read",
+      "locator": "Ingredients and preparation section",
+      "quantityWitness": "2 cups of loose sweet corn kernels (or use 1",
+      "hasPreparationText": true,
+      "webReference": "turn122view0"
+    },
+    {
+      "id": "FW-S084",
+      "url": "https://gracefoods.com/recipe-a-z/recipe/4817-cornmeal-duckunoo",
+      "title": "Duckunoo",
+      "author": "Grace Foods (corporate recipe publisher; named cook not shown on this recipe page)",
+      "publicationDate": null,
+      "accessed": "2026-10-16",
+      "retrieval": "page-read",
+      "locator": "Ingredients and preparation section",
+      "quantityWitness": "4 cup(s) Grace Cornmeal",
+      "hasPreparationText": true,
+      "webReference": "turn118view0"
+    },
+    {
+      "id": "FW-S085",
+      "url": "https://cooklikeajamaican.com/recipe/",
+      "title": "Recipes – Cook Like a Jamaican",
+      "author": "Recipes",
+      "publicationDate": null,
+      "accessed": "2026-10-16",
+      "retrieval": "page-read",
+      "locator": "Named page section",
+      "quantityWitness": null,
+      "hasPreparationText": false,
+      "webReference": "turn117view0"
+    },
+    {
+      "id": "FW-S086",
+      "url": "https://jamaicans.com/chef-sian-jamaican-black-cake-recipe-caribbean-christmas-cake/",
+      "title": "Chef Sian Jamaican Black Cake Recipe (Caribbean Christmas Cake)",
+      "author": "Sian Rose",
+      "publicationDate": "Wed, October 11, 2017",
+      "accessed": "2026-10-16",
+      "retrieval": "page-read",
+      "locator": "Ingredients and preparation section",
+      "quantityWitness": "*2 lb. wine soaked fruits* see notes",
+      "hasPreparationText": true,
+      "webReference": "turn120view0"
+    },
+    {
+      "id": "FW-S087",
+      "url": "https://jamaicans.com/jamaican-rum-cake-recipe/",
+      "title": "Miss G’s Simple Jamaican Rum Cake Recipe – aka Jamaican Christmas Cake or Jamaican Fruit Cake",
+      "author": "Miss G",
+      "publicationDate": "Wed, December 23, 2015",
+      "accessed": "2026-10-16",
+      "retrieval": "page-read",
+      "locator": "Ingredients and preparation section",
+      "quantityWitness": "Celebrating Christmas in Jamaican style is never complete without Jamaican",
+      "hasPreparationText": true,
+      "webReference": "turn116view0"
+    },
+    {
+      "id": "FW-S088",
+      "url": "https://www.uncommoncaribbean.com/caribbean/make-your-own-home-made-guava-cheese/",
+      "title": "How To Make Your Own Home Made Guava Cheese",
+      "author": "Publisher attribution only; individual cook not established",
+      "publicationDate": null,
+      "accessed": "2026-10-16",
+      "retrieval": "page-read",
+      "locator": "Ingredients and preparation section",
+      "quantityWitness": null,
+      "hasPreparationText": true,
+      "webReference": "turn121view0"
+    },
+    {
+      "id": "FW-S089",
+      "url": "https://jamaicans.com/irishmoss/",
+      "title": "Jamaican Irish Moss Recipe",
+      "author": "Winsome Murphy",
+      "publicationDate": "Mon, September 20, 2010",
+      "accessed": "2026-10-16",
+      "retrieval": "page-read",
+      "locator": "Ingredients and preparation section",
+      "quantityWitness": "¾ lb Irish Moss",
+      "hasPreparationText": true,
+      "webReference": "turn127view0"
+    },
+    {
+      "id": "FW-S090",
+      "url": "https://jamaicans.com/jamaican-carrot-juice-guinness/",
+      "title": "Chef Noel Cunningham Jamaican Carrot Juice with Guinness",
+      "author": " Chef Noel Cunningham ",
+      "publicationDate": "Tue, January 10, 2017",
+      "accessed": "2026-10-16",
+      "retrieval": "page-read",
+      "locator": "Ingredients and preparation section",
+      "quantityWitness": "2 lb whole carrots",
+      "hasPreparationText": true,
+      "webReference": "turn128view0"
+    },
+    {
+      "id": "FW-S091",
+      "url": "https://jamaicanfoodsandrecipes.com/peanut-punch-recipe/",
+      "title": "Peanut Punch Recipe",
+      "author": "Lesa",
+      "publicationDate": null,
+      "accessed": "2026-10-16",
+      "retrieval": "page-read",
+      "locator": "Ingredients and preparation section",
+      "quantityWitness": "35 g Raw peanut",
+      "hasPreparationText": true,
+      "webReference": "turn126view0"
+    },
+    {
+      "id": "FW-S092",
+      "url": "https://jamaicans.com/chef-noel-cunninghams-june-plum-drink/",
+      "title": "Chef Noel Cunningham’s June Plum Drink",
+      "author": " Chef Noel Cunningham ",
+      "publicationDate": "Sun, July 22, 2018",
+      "accessed": "2026-10-16",
+      "retrieval": "page-read",
+      "locator": "Ingredients and preparation section",
+      "quantityWitness": "10 cups water",
+      "hasPreparationText": false,
+      "webReference": "turn129view0"
+    },
+    {
+      "id": "FW-S093",
+      "url": "https://jamaicanfoodsandrecipes.com/tamarind-drink-recipe/",
+      "title": "Tamarind Drink Recipe",
+      "author": "Lesa",
+      "publicationDate": null,
+      "accessed": "2026-10-16",
+      "retrieval": "page-read",
+      "locator": "Ingredients and preparation section",
+      "quantityWitness": "Tamarind: I’m using about 604g (1lb. 53oz) tamarind. That’s about",
+      "hasPreparationText": true,
+      "webReference": "turn125view0"
+    },
+    {
+      "id": "FW-S094",
+      "url": "https://www.visitjamaica.com/best-of-jamaica/food/",
+      "title": "Food For The Palate; Food For The Soul",
+      "author": "Jamaica Tourist Board",
+      "publicationDate": null,
+      "accessed": "2026-10-16",
+      "retrieval": "page-read",
+      "locator": "Named page section",
+      "quantityWitness": null,
+      "hasPreparationText": false,
+      "webReference": "turn131view0"
+    },
+    {
+      "id": "FW-S095",
+      "url": "https://www.stabroeknews.com/2024/05/12/sunday/tastes-like-home/my-moms-mauby/",
+      "title": "My Mom’s Mauby",
+      "author": "Fitness and Nutrition",
+      "publicationDate": null,
+      "accessed": "2026-10-16",
+      "retrieval": "page-read",
+      "locator": "Ingredients and preparation section",
+      "quantityWitness": "✿ 1 ½ cups water",
+      "hasPreparationText": true,
+      "webReference": "turn124view0"
+    },
+    {
+      "id": "FW-S096",
+      "url": "https://topsjamaicanteas.com/tops/cerasee/",
+      "title": "Cerasee",
+      "author": "Perishables Jamaica Ltd / Tops",
+      "publicationDate": null,
+      "accessed": "2026-10-16",
+      "retrieval": "page-read",
+      "locator": "Named page section",
+      "quantityWitness": "Pour 1 cup freshly boiled water over 1 – 2",
+      "hasPreparationText": false,
+      "webReference": "turn130view0"
+    },
+    {
+      "id": "FW-S097",
+      "url": "https://jamaicanbikkle.com/Recipe/jamaican-guava-jam",
+      "title": "Jamaican Guava Jam Recipe - JamaicanBikkle",
+      "author": "JamaicanBikkle (individual cook not identified)",
+      "publicationDate": null,
+      "accessed": "2026-10-16",
+      "retrieval": "page-read",
+      "locator": "Ingredients and preparation section",
+      "quantityWitness": "1 lb sugar",
+      "hasPreparationText": true,
+      "webReference": "turn133view0"
+    },
+    {
+      "id": "FW-S098",
+      "url": "https://old.jamaica-gleaner.com/gleaner/20070913/cook/cook3.html",
+      "title": "Internal Error ()",
+      "author": "Publisher attribution only; individual cook not established",
+      "publicationDate": null,
+      "accessed": "2026-10-16",
+      "retrieval": "failed",
+      "locator": "Named page section",
+      "quantityWitness": null,
+      "hasPreparationText": false,
+      "webReference": "turn132view0"
+    },
+    {
+      "id": "FW-S099",
+      "url": "https://jamaicanfoodsandrecipes.com/jamaican-fried-dumplings/",
+      "title": "Jamaican Fried Dumplings Recipe",
+      "author": "Lesa",
+      "publicationDate": null,
+      "accessed": "2026-10-16",
+      "retrieval": "page-read",
+      "locator": "Ingredients and preparation section",
+      "quantityWitness": "358 g Plain flour",
+      "hasPreparationText": true,
+      "webReference": "turn141view0"
+    },
+    {
+      "id": "FW-S100",
+      "url": "https://jamaicanfoodsandrecipes.com/jamaican-banana-fritters/",
+      "title": "Best Jamaican Banana Fritters Recipe",
+      "author": "Lesa",
+      "publicationDate": null,
+      "accessed": "2026-10-16",
+      "retrieval": "page-read",
+      "locator": "Ingredients and preparation section",
+      "quantityWitness": "60 g Plain flour",
+      "hasPreparationText": true,
+      "webReference": "turn147view0"
+    },
+    {
+      "id": "FW-S101",
+      "url": "https://www.myforkinglife.com/jamaican-coco-bread/",
+      "title": "Jamaican Coco Bread",
+      "author": "Tanya Harris",
+      "publicationDate": "Jul 5, 2026 by 【8†Tanya Harris】 ",
+      "accessed": "2026-10-16",
+      "retrieval": "page-read",
+      "locator": "Ingredients and preparation section",
+      "quantityWitness": "Instant dry yeast. This recipe uses 2¼ teaspoons, which is",
+      "hasPreparationText": true,
+      "webReference": "turn151view0"
+    },
+    {
+      "id": "FW-S102",
+      "url": "https://jamaicans.com/jerkchicken/",
+      "title": "Jamaican Jerk Chicken Recipe",
+      "author": "Xavier Murphy",
+      "publicationDate": "Sun, March 14, 2004",
+      "accessed": "2026-10-16",
+      "retrieval": "page-read",
+      "locator": "Ingredients and preparation section",
+      "quantityWitness": "4 lbs. Chicken",
+      "hasPreparationText": true,
+      "webReference": "turn142view0"
+    },
+    {
+      "id": "FW-S103",
+      "url": "https://gracefoods.com/recipe-a-z/recipe/4832-saturday-soupbeef-soup",
+      "title": "Saturday Soup/Beef Soup",
+      "author": "Grace Foods (corporate recipe publisher; named cook not shown on this recipe page)",
+      "publicationDate": null,
+      "accessed": "2026-10-16",
+      "retrieval": "page-read",
+      "locator": "Ingredients and preparation section",
+      "quantityWitness": "24 cup(s) water",
+      "hasPreparationText": true,
+      "webReference": "turn144view0"
+    },
+    {
+      "id": "FW-S104",
+      "url": "https://jamaicans.com/coconuttoto/",
+      "title": "Jamaican Coconut Toto Recipe",
+      "author": "Grace \"Grandma\" Reynolds",
+      "publicationDate": "Tue, August 29, 2006",
+      "accessed": "2026-10-16",
+      "retrieval": "page-read",
+      "locator": "Ingredients and preparation section",
+      "quantityWitness": "3 cups flour",
+      "hasPreparationText": true,
+      "webReference": "turn154view0"
+    },
+    {
+      "id": "FW-S105",
+      "url": "https://www.kingsja.com/pages/recipe",
+      "title": "Jamaican Pepper Sauce Recipe",
+      "author": "King’s Jamaican (corporate recipe publisher)",
+      "publicationDate": null,
+      "accessed": "2026-10-16",
+      "retrieval": "page-read",
+      "locator": "Ingredients and preparation section",
+      "quantityWitness": "- 1 cup vinegar",
+      "hasPreparationText": true,
+      "webReference": "turn143view0"
+    },
+    {
+      "id": "FW-S106",
+      "url": "https://topsjamaicanteas.com/tops/classic-peppermint/",
+      "title": "Classic Peppermint",
+      "author": "Perishables Jamaica Ltd / Tops",
+      "publicationDate": null,
+      "accessed": "2026-10-16",
+      "retrieval": "page-read",
+      "locator": "Named page section",
+      "quantityWitness": "Pour 1 cup freshly boiled water over 1 – 2",
+      "hasPreparationText": false,
+      "webReference": "turn146view0"
+    },
+    {
+      "id": "FW-S107",
+      "url": "https://www.visitjamaica.com/blog/post/60-reasons-to-visit-jamaica/",
+      "title": "60 Reasons to Visit Jamaica",
+      "author": "Jamaica Tourist Board",
+      "publicationDate": null,
+      "accessed": "2026-10-16",
+      "retrieval": "page-read",
+      "locator": "Named page section",
+      "quantityWitness": null,
+      "hasPreparationText": false,
+      "webReference": "turn148view0"
+    },
+    {
+      "id": "FW-S108",
+      "url": "https://www.src.gov.jm/food-processing-manufacturing/",
+      "title": "Food Processing & Manufacturing",
+      "author": "Scientific Research Council, Jamaica",
+      "publicationDate": null,
+      "accessed": "2026-10-16",
+      "retrieval": "page-read",
+      "locator": "Named page section",
+      "quantityWitness": null,
+      "hasPreparationText": true,
+      "webReference": "turn150view0"
+    },
+    {
+      "id": "FW-S109",
+      "url": "https://nlj.gov.jm/history-notes-jamaica/",
+      "title": "History Notes: Information on Jamaica’s Culture & Heritage | The National Library of Jamaica",
+      "author": "Maps and Plans",
+      "publicationDate": null,
+      "accessed": "2026-10-16",
+      "retrieval": "page-read",
+      "locator": "Named page section",
+      "quantityWitness": null,
+      "hasPreparationText": false,
+      "webReference": "turn153view0"
+    },
+    {
+      "id": "FW-S110",
+      "url": "https://www.uwipress.com/9789766409111/jamaican-food/",
+      "title": "Jamaican Food",
+      "author": "Publisher attribution only; individual cook not established",
+      "publicationDate": "2022-04-01",
+      "accessed": "2026-10-16",
+      "retrieval": "page-read",
+      "locator": "Named page section",
+      "quantityWitness": "Plantain /133 Banana /139 Breadfruit /145 Ackee /151 Avocado /158",
+      "hasPreparationText": true,
+      "webReference": "turn149view0"
+    },
+    {
+      "id": "FW-S111",
+      "url": "https://jamaicanfoodsandrecipes.com/author/lesa/",
+      "title": "Internal Error ()",
+      "author": "Publisher attribution only; individual cook not established",
+      "publicationDate": null,
+      "accessed": "2026-10-16",
+      "retrieval": "failed",
+      "locator": "Named page section",
+      "quantityWitness": null,
+      "hasPreparationText": false,
+      "webReference": "turn140view0"
+    },
+    {
+      "id": "FW-S112",
+      "url": "https://thatgirlcookshealthy.com/about/",
+      "title": "Internal Error ()",
+      "author": "Charla",
+      "publicationDate": null,
+      "accessed": "2026-10-16",
+      "retrieval": "failed",
+      "locator": "Named page section",
+      "quantityWitness": null,
+      "hasPreparationText": false,
+      "webReference": "turn152view0"
+    },
+    {
+      "id": "FW-S113",
+      "url": "https://originalflava.com/about-us/",
+      "title": "Internal Error ()",
+      "author": "Original Flava",
+      "publicationDate": null,
+      "accessed": "2026-10-16",
+      "retrieval": "failed",
+      "locator": "Named page section",
+      "quantityWitness": null,
+      "hasPreparationText": false,
+      "webReference": "turn145view0"
+    }
+  ],
+  "entries": [
+    {
+      "number": 1,
+      "id": "foodway-1",
+      "name": "Ackee and saltfish",
+      "category": "Breakfast",
+      "status": "published-preparation",
+      "sourceIds": [
+        "FW-S001"
+      ],
+      "note": "Grace publishes a canned-ackee preparation with saltfish, garlic and Scotch bonnet. This does not authenticate the archived 300 g cod formula.",
+      "formulaStatus": "withheld-unverified",
+      "kitchenStatus": "not-tested",
+      "historicalOrigin": "not-established-by-recipe-source",
+      "regionalAttribution": "None inferred",
+      "sourceClarificationRequired": false,
+      "archivedFormulaFingerprint": [
+        "1 can (540 g) drained commercially processed ackee",
+        "300 g salted cod, desalted and flaked"
+      ],
+      "reviewedOn": "2026-10-16",
+      "publishedPreparation": {
+        "sourceId": "FW-S001",
+        "yield": "4 people",
+        "ingredients": [
+          "1 teaspoon Grace Caribbean Traditions black pepper",
+          "1 small sweet pepper, julienned",
+          "1 can Grace ackee in brine, drained",
+          "1 teaspoon chopped Scotch bonnet pepper",
+          "1 medium onion, chopped",
+          "1 medium tomato, chopped",
+          "1 tablespoon Grace vegetable oil",
+          "2 stalks escallion, chopped",
+          "1/2 pound saltfish",
+          "2 cloves garlic, chopped"
+        ],
+        "steps": [
+          "Soak the saltfish in cold water for about an hour. Discard that water, add fresh water and cook the fish until tender. Remove bones and flake it.",
+          "Sauté the onion, garlic, escallion, tomato and both peppers in the oil. Add the fish, drained canned ackee and black pepper.",
+          "Combine gently, cover and leave over low heat for about two minutes."
+        ],
+        "status": "Documented source transcription; not kitchen-tested by Tony’s Guide",
+        "treatment": "Source ingredient quantities preserved; directions paraphrased. No conversions or substitutions.",
+        "limitation": "The source uses commercially canned ackee. Can size is not specified; do not invent a gram conversion.",
+        "displayMode": "preparation"
+      }
+    },
+    {
+      "number": 2,
+      "id": "foodway-2",
+      "name": "Callaloo and saltfish",
+      "category": "Breakfast",
+      "status": "published-preparation",
+      "sourceIds": [
+        "FW-S002"
+      ],
+      "note": "Lesa documents fresh callaloo with desalted cod. Her quantities and the archived formulation differ; callaloo names also differ across Caribbean islands.",
+      "formulaStatus": "withheld-unverified",
+      "kitchenStatus": "not-tested",
+      "historicalOrigin": "not-established-by-recipe-source",
+      "regionalAttribution": "None inferred",
+      "sourceClarificationRequired": false,
+      "archivedFormulaFingerprint": [
+        "450 g trimmed callaloo, finely chopped",
+        "180 g salted cod, desalted and flaked"
+      ],
+      "reviewedOn": "2026-10-16"
+    },
+    {
+      "number": 3,
+      "id": "foodway-3",
+      "name": "Fried dumplings",
+      "category": "Breads",
+      "status": "published-preparation",
+      "sourceIds": [
+        "FW-S099"
+      ],
+      "note": "Lesa documents flour dumplings fried in oil, with optional butter. Keep this separate from sweet cornmeal festival.",
+      "formulaStatus": "withheld-unverified",
+      "kitchenStatus": "not-tested",
+      "historicalOrigin": "not-established-by-recipe-source",
+      "regionalAttribution": "None inferred",
+      "sourceClarificationRequired": false,
+      "archivedFormulaFingerprint": [
+        "250 g (2 cups) plain flour",
+        "2 tsp baking powder"
+      ],
+      "reviewedOn": "2026-10-16"
+    },
+    {
+      "number": 4,
+      "id": "foodway-4",
+      "name": "Festival",
+      "category": "Breads",
+      "status": "published-preparation",
+      "sourceIds": [
+        "FW-S004"
+      ],
+      "note": "Chef Noel Cunningham publishes a flour-and-cornmeal festival with milk, butter and optional nutmeg. Attribute this version to him rather than treating its proportions as universal.",
+      "formulaStatus": "withheld-unverified",
+      "kitchenStatus": "not-tested",
+      "historicalOrigin": "not-established-by-recipe-source",
+      "regionalAttribution": "None inferred",
+      "sourceClarificationRequired": false,
+      "archivedFormulaFingerprint": [
+        "190 g plain flour",
+        "60 g fine cornmeal"
+      ],
+      "reviewedOn": "2026-10-16"
+    },
+    {
+      "number": 5,
+      "id": "foodway-5",
+      "name": "Rice and peas",
+      "category": "Main dishes",
+      "status": "published-preparation",
+      "sourceIds": [
+        "FW-S005"
+      ],
+      "note": "Grace uses canned kidney beans and coconut milk. The archived draft starts with dried beans; those procedures are not interchangeable.",
+      "formulaStatus": "withheld-unverified",
+      "kitchenStatus": "not-tested",
+      "historicalOrigin": "not-established-by-recipe-source",
+      "regionalAttribution": "None inferred",
+      "sourceClarificationRequired": false,
+      "archivedFormulaFingerprint": [
+        "200 g dried kidney beans, soaked overnight and safely boiled",
+        "400 ml coconut milk"
+      ],
+      "reviewedOn": "2026-10-16",
+      "publishedPreparation": {
+        "sourceId": "FW-S005",
+        "yield": "4 people",
+        "ingredients": [
+          "2 cups Grace coconut milk",
+          "1 1/2 cups water",
+          "1 stalk escallion, crushed",
+          "1 small onion, chopped",
+          "2 sprigs thyme",
+          "1 can Grace red kidney beans",
+          "1/2 teaspoon salt",
+          "2 1/2 cups Grace rice",
+          "1 small whole Scotch bonnet pepper"
+        ],
+        "steps": [
+          "Bring the coconut milk and water to a boil in a three-litre pot. Stir in the escallion, onion, thyme, canned beans and salt.",
+          "Add the rice and whole pepper. Cover and return to a boil, then lower the heat and cook until the rice is tender.",
+          "Keep the pepper intact when stirring."
+        ],
+        "status": "Documented source transcription; not kitchen-tested by Tony’s Guide",
+        "treatment": "Source ingredient quantities preserved; directions paraphrased. No conversions or substitutions.",
+        "limitation": "This is Grace’s canned-bean version. The source does not specify rice variety, can weight or a rinsing/draining instruction; no conversions or dried-bean substitution are supplied.",
+        "displayMode": "preparation"
+      }
+    },
+    {
+      "number": 6,
+      "id": "foodway-6",
+      "name": "Brown stew chicken",
+      "category": "Main dishes",
+      "status": "published-preparation",
+      "sourceIds": [
+        "FW-S006"
+      ],
+      "note": "Lesa describes browning chicken before simmering it with vegetables and sauce. The source supports her preparation, not the archived proportions.",
+      "formulaStatus": "withheld-unverified",
+      "kitchenStatus": "not-tested",
+      "historicalOrigin": "not-established-by-recipe-source",
+      "regionalAttribution": "None inferred",
+      "sourceClarificationRequired": false,
+      "archivedFormulaFingerprint": [
+        "800 g chicken pieces",
+        "1 onion, sliced"
+      ],
+      "reviewedOn": "2026-10-16"
+    },
+    {
+      "number": 7,
+      "id": "foodway-7",
+      "name": "Curry goat",
+      "category": "Main dishes",
+      "status": "published-preparation",
+      "sourceIds": [
+        "FW-S007"
+      ],
+      "note": "Grace documents a goat curry with a refrigerated marinade and searing stage. Tenderness and cooking duration depend on the cut.",
+      "formulaStatus": "withheld-unverified",
+      "kitchenStatus": "not-tested",
+      "historicalOrigin": "not-established-by-recipe-source",
+      "regionalAttribution": "None inferred",
+      "sourceClarificationRequired": false,
+      "archivedFormulaFingerprint": [
+        "800 g bone-in goat pieces",
+        "2 tbsp Jamaican curry powder"
+      ],
+      "reviewedOn": "2026-10-16"
+    },
+    {
+      "number": 8,
+      "id": "foodway-8",
+      "name": "Stew peas",
+      "category": "Main dishes",
+      "status": "published-preparation",
+      "sourceIds": [
+        "FW-S008"
+      ],
+      "note": "Grace “Grandma” Reynolds publishes stew peas with salted and stewing meats, coconut milk and spinners. A meatless version requires separate attribution.",
+      "formulaStatus": "withheld-unverified",
+      "kitchenStatus": "not-tested",
+      "historicalOrigin": "not-established-by-recipe-source",
+      "regionalAttribution": "None inferred",
+      "sourceClarificationRequired": false,
+      "archivedFormulaFingerprint": [
+        "250 g dried kidney beans, soaked and safely boiled",
+        "400 ml coconut milk"
+      ],
+      "reviewedOn": "2026-10-16"
+    },
+    {
+      "number": 9,
+      "id": "foodway-9",
+      "name": "Escovitch fish",
+      "category": "Seafood",
+      "status": "published-preparation",
+      "sourceIds": [
+        "FW-S009"
+      ],
+      "note": "Grace documents fried fish served with escovitch sauce, and explicitly names bammy or festival as accompaniments. Its sauce is a separate preparation.",
+      "formulaStatus": "withheld-unverified",
+      "kitchenStatus": "not-tested",
+      "historicalOrigin": "not-established-by-recipe-source",
+      "regionalAttribution": "None inferred",
+      "sourceClarificationRequired": false,
+      "archivedFormulaFingerprint": [
+        "800 g cleaned snapper or firm fish",
+        "120 ml white vinegar"
+      ],
+      "reviewedOn": "2026-10-16"
+    },
+    {
+      "number": 10,
+      "id": "foodway-10",
+      "name": "Mackerel rundown",
+      "category": "Seafood",
+      "status": "published-preparation",
+      "sourceIds": [
+        "FW-S010"
+      ],
+      "note": "Lesa distinguishes salted-mackerel rundown from an ordinary fish stew and discusses coconut reduction. Preserve that distinction when comparing methods.",
+      "formulaStatus": "withheld-unverified",
+      "kitchenStatus": "not-tested",
+      "historicalOrigin": "not-established-by-recipe-source",
+      "regionalAttribution": "None inferred",
+      "sourceClarificationRequired": false,
+      "archivedFormulaFingerprint": [
+        "500 g fresh mackerel fillets or properly desalted mackerel",
+        "400 ml coconut milk"
+      ],
+      "reviewedOn": "2026-10-16"
+    },
+    {
+      "number": 11,
+      "id": "foodway-11",
+      "name": "Sweet potato pudding",
+      "category": "Desserts",
+      "status": "published-preparation",
+      "sourceIds": [
+        "FW-S011"
+      ],
+      "note": "Winsome Murphy publishes sweet potato pudding with flour, coconut milk and raisins. This is one published version, not a validated replacement for the archived draft.",
+      "formulaStatus": "withheld-unverified",
+      "kitchenStatus": "not-tested",
+      "historicalOrigin": "not-established-by-recipe-source",
+      "regionalAttribution": "None inferred",
+      "sourceClarificationRequired": false,
+      "archivedFormulaFingerprint": [
+        "800 g grated Caribbean sweet potato",
+        "400 ml coconut milk"
+      ],
+      "reviewedOn": "2026-10-16"
+    },
+    {
+      "number": 12,
+      "id": "foodway-12",
+      "name": "Sorrel drink",
+      "category": "Drinks",
+      "status": "published-preparation",
+      "sourceIds": [
+        "FW-S012"
+      ],
+      "note": "Lesa documents sorrel with ginger and spices and discusses versions with and without rum and wine. Alcohol must be disclosed when present.",
+      "formulaStatus": "withheld-unverified",
+      "kitchenStatus": "not-tested",
+      "historicalOrigin": "not-established-by-recipe-source",
+      "regionalAttribution": "None inferred",
+      "sourceClarificationRequired": false,
+      "archivedFormulaFingerprint": [
+        "35 g dried edible hibiscus (sorrel) calyces",
+        "1 litre water"
+      ],
+      "reviewedOn": "2026-10-16"
+    },
+    {
+      "number": 13,
+      "id": "foodways-added-1",
+      "name": "Cornmeal porridge",
+      "category": "Breakfast",
+      "status": "published-preparation",
+      "sourceIds": [
+        "FW-S013"
+      ],
+      "note": "Lesa publishes a coconut-milk cornmeal porridge. Milk choices and sweetening belong to the named preparation.",
+      "formulaStatus": "withheld-unverified",
+      "kitchenStatus": "not-tested",
+      "historicalOrigin": "not-established-by-recipe-source",
+      "regionalAttribution": "None inferred",
+      "sourceClarificationRequired": false,
+      "archivedFormulaFingerprint": [
+        "100 g fine cornmeal",
+        "700 ml water"
+      ],
+      "reviewedOn": "2026-10-16"
+    },
+    {
+      "number": 14,
+      "id": "foodways-added-2",
+      "name": "Saltfish fritters",
+      "category": "Breakfast",
+      "status": "published-preparation",
+      "sourceIds": [
+        "FW-S014"
+      ],
+      "note": "Jamaican chef Joan Lue identifies stamp and go as saltfish fritters. Her recipe is a source for both names; the two archive records are not two distinct traditions.",
+      "formulaStatus": "withheld-unverified",
+      "kitchenStatus": "not-tested",
+      "historicalOrigin": "not-established-by-recipe-source",
+      "regionalAttribution": "None inferred",
+      "sourceClarificationRequired": false,
+      "archivedFormulaFingerprint": [
+        "200 g salt cod",
+        "180 g plain flour"
+      ],
+      "reviewedOn": "2026-10-16"
+    },
+    {
+      "number": 15,
+      "id": "foodways-added-3",
+      "name": "Bammy",
+      "category": "Breads & sides",
+      "status": "published-preparation",
+      "sourceIds": [
+        "FW-S015"
+      ],
+      "note": "Grace documents grating, pressing and griddle cooking cassava. This is documentary evidence, not a validated detoxification protocol for an unidentified cassava variety.",
+      "formulaStatus": "withheld-unverified",
+      "kitchenStatus": "not-tested",
+      "historicalOrigin": "not-established-by-recipe-source",
+      "regionalAttribution": "None inferred",
+      "sourceClarificationRequired": true,
+      "archivedFormulaFingerprint": [
+        "500 g commercially prepared, food-safe grated cassava",
+        "1/2 tsp salt"
+      ],
+      "reviewedOn": "2026-10-16"
+    },
+    {
+      "number": 16,
+      "id": "foodways-added-4",
+      "name": "Roast breadfruit",
+      "category": "Breads & sides",
+      "status": "published-preparation",
+      "sourceIds": [
+        "FW-S016"
+      ],
+      "note": "Winsome Murphy describes roasting a whole breadfruit and serving it in pieces. No invented fixed roasting time is added here.",
+      "formulaStatus": "withheld-unverified",
+      "kitchenStatus": "not-tested",
+      "historicalOrigin": "not-established-by-recipe-source",
+      "regionalAttribution": "None inferred",
+      "sourceClarificationRequired": false,
+      "archivedFormulaFingerprint": [
+        "1 mature breadfruit (about 1 kg)",
+        "1 tbsp oil optional"
+      ],
+      "reviewedOn": "2026-10-16"
+    },
+    {
+      "number": 17,
+      "id": "foodways-added-5",
+      "name": "Coconut rice",
+      "category": "Breads & sides",
+      "status": "published-preparation",
+      "sourceIds": [
+        "FW-S017"
+      ],
+      "note": "Lesa publishes coconut rice as a Jamaican preparation. It should not be confused with rice and peas, which contains beans or peas.",
+      "formulaStatus": "withheld-unverified",
+      "kitchenStatus": "not-tested",
+      "historicalOrigin": "not-established-by-recipe-source",
+      "regionalAttribution": "None inferred",
+      "sourceClarificationRequired": false,
+      "archivedFormulaFingerprint": [
+        "300 g rinsed long-grain rice",
+        "400 ml coconut milk"
+      ],
+      "reviewedOn": "2026-10-16"
+    },
+    {
+      "number": 18,
+      "id": "foodways-added-6",
+      "name": "Jerk chicken",
+      "category": "Main dishes",
+      "status": "published-preparation",
+      "sourceIds": [
+        "FW-S102"
+      ],
+      "note": "Xavier Murphy publishes a jerk-chicken preparation using a separately supplied jerk seasoning. This documents a present-day version, not a historic Maroon spice formula.",
+      "formulaStatus": "withheld-unverified",
+      "kitchenStatus": "not-tested",
+      "historicalOrigin": "not-established-by-recipe-source",
+      "regionalAttribution": "None inferred",
+      "sourceClarificationRequired": false,
+      "archivedFormulaFingerprint": [
+        "1 kg chicken pieces",
+        "2 tbsp ground allspice"
+      ],
+      "reviewedOn": "2026-10-16"
+    },
+    {
+      "number": 19,
+      "id": "foodways-added-7",
+      "name": "Curried chicken",
+      "category": "Main dishes",
+      "status": "published-preparation",
+      "sourceIds": [
+        "FW-S019"
+      ],
+      "note": "Grace publishes curried chicken and identifies optional carrot and potato additions. Those options belong to this source, rather than to a claimed national rule.",
+      "formulaStatus": "withheld-unverified",
+      "kitchenStatus": "not-tested",
+      "historicalOrigin": "not-established-by-recipe-source",
+      "regionalAttribution": "None inferred",
+      "sourceClarificationRequired": false,
+      "archivedFormulaFingerprint": [
+        "900 g chicken pieces",
+        "2 tbsp Jamaican curry powder"
+      ],
+      "reviewedOn": "2026-10-16"
+    },
+    {
+      "number": 20,
+      "id": "foodways-added-8",
+      "name": "Ital vegetable stew",
+      "category": "Main dishes",
+      "status": "documented-variation",
+      "sourceIds": [
+        "FW-S020"
+      ],
+      "note": "Charla publishes an Ital vegetable stew with ground provisions. It is the same source family as the Ital stew record below, not a separate parish tradition.",
+      "formulaStatus": "withheld-unverified",
+      "kitchenStatus": "not-tested",
+      "historicalOrigin": "not-established-by-recipe-source",
+      "regionalAttribution": "None inferred",
+      "sourceClarificationRequired": false,
+      "archivedFormulaFingerprint": [
+        "250 g pumpkin cubes",
+        "200 g callaloo or washed leafy greens"
+      ],
+      "reviewedOn": "2026-10-16"
+    },
+    {
+      "number": 21,
+      "id": "foodways-added-9",
+      "name": "Steamed snapper",
+      "category": "Fish & seafood",
+      "status": "published-preparation",
+      "sourceIds": [
+        "FW-S021"
+      ],
+      "note": "Fancy’s preparation on Grace uses snapper, stock, vegetables and crackers. The source supports this named version without establishing a parish origin.",
+      "formulaStatus": "withheld-unverified",
+      "kitchenStatus": "not-tested",
+      "historicalOrigin": "not-established-by-recipe-source",
+      "regionalAttribution": "None inferred",
+      "sourceClarificationRequired": false,
+      "archivedFormulaFingerprint": [
+        "4 cleaned snapper portions (about 200 g each)",
+        "1 carrot"
+      ],
+      "reviewedOn": "2026-10-16"
+    },
+    {
+      "number": 22,
+      "id": "foodways-added-10",
+      "name": "Pepper shrimp",
+      "category": "Fish & seafood",
+      "status": "documented-variation",
+      "sourceIds": [
+        "FW-S022"
+      ],
+      "note": "Chef Noel Cunningham’s peppered shrimp boil includes potatoes and corn. It is a named contemporary variation, not a reconstruction of every Middle Quarters vendor’s method.",
+      "formulaStatus": "withheld-unverified",
+      "kitchenStatus": "not-tested",
+      "historicalOrigin": "not-established-by-recipe-source",
+      "regionalAttribution": "None inferred",
+      "sourceClarificationRequired": false,
+      "archivedFormulaFingerprint": [
+        "500 g cleaned raw shrimp",
+        "1 Scotch bonnet, finely chopped"
+      ],
+      "reviewedOn": "2026-10-16"
+    },
+    {
+      "number": 23,
+      "id": "foodways-added-11",
+      "name": "Banana fritters",
+      "category": "Sweet dishes",
+      "status": "published-preparation",
+      "sourceIds": [
+        "FW-S100"
+      ],
+      "note": "Lesa publishes banana fritters using ripe bananas and flour. Her egg-free preparation is attributed to her; no claim is made that every household excludes eggs.",
+      "formulaStatus": "withheld-unverified",
+      "kitchenStatus": "not-tested",
+      "historicalOrigin": "not-established-by-recipe-source",
+      "regionalAttribution": "None inferred",
+      "sourceClarificationRequired": false,
+      "archivedFormulaFingerprint": [
+        "3 ripe bananas",
+        "160 g plain flour"
+      ],
+      "reviewedOn": "2026-10-16"
+    },
+    {
+      "number": 24,
+      "id": "foodways-added-12",
+      "name": "Ginger beer",
+      "category": "Drinks",
+      "status": "published-preparation",
+      "sourceIds": [
+        "FW-S024"
+      ],
+      "note": "Lesa publishes a ginger drink with lime and sweetening. This is not evidence of a fermented beverage or of a safe fermentation procedure.",
+      "formulaStatus": "withheld-unverified",
+      "kitchenStatus": "not-tested",
+      "historicalOrigin": "not-established-by-recipe-source",
+      "regionalAttribution": "None inferred",
+      "sourceClarificationRequired": false,
+      "archivedFormulaFingerprint": [
+        "150 g fresh ginger",
+        "1.5 litres water"
+      ],
+      "reviewedOn": "2026-10-16"
+    },
+    {
+      "number": 25,
+      "id": "foodways-next-1",
+      "name": "Hominy corn porridge",
+      "category": "Breakfast",
+      "status": "documented-variation",
+      "sourceIds": [
+        "FW-S025"
+      ],
+      "note": "Chef Noel Cunningham uses hominy with a cream-of-wheat and flour thickener, and discusses alternatives. Preserve that specific variation.",
+      "formulaStatus": "withheld-unverified",
+      "kitchenStatus": "not-tested",
+      "historicalOrigin": "not-established-by-recipe-source",
+      "regionalAttribution": "None inferred",
+      "sourceClarificationRequired": false,
+      "archivedFormulaFingerprint": [
+        "250 g dried hominy corn",
+        "1.5 L water"
+      ],
+      "reviewedOn": "2026-10-16"
+    },
+    {
+      "number": 26,
+      "id": "foodways-next-2",
+      "name": "Green banana porridge",
+      "category": "Breakfast",
+      "status": "published-preparation",
+      "sourceIds": [
+        "FW-S026"
+      ],
+      "note": "Lesa documents porridge made with green bananas and coconut milk. This is different from a ripe-banana fritter batter.",
+      "formulaStatus": "withheld-unverified",
+      "kitchenStatus": "not-tested",
+      "historicalOrigin": "not-established-by-recipe-source",
+      "regionalAttribution": "None inferred",
+      "sourceClarificationRequired": false,
+      "archivedFormulaFingerprint": [
+        "4 green bananas",
+        "750 ml water"
+      ],
+      "reviewedOn": "2026-10-16"
+    },
+    {
+      "number": 27,
+      "id": "foodways-next-3",
+      "name": "Plantain porridge",
+      "category": "Breakfast",
+      "status": "published-preparation",
+      "sourceIds": [
+        "FW-S027"
+      ],
+      "note": "Lesa documents green-plantain porridge. The recipe supports this preparation without dating its invention.",
+      "formulaStatus": "withheld-unverified",
+      "kitchenStatus": "not-tested",
+      "historicalOrigin": "not-established-by-recipe-source",
+      "regionalAttribution": "None inferred",
+      "sourceClarificationRequired": false,
+      "archivedFormulaFingerprint": [
+        "2 green plantains",
+        "700 ml water"
+      ],
+      "reviewedOn": "2026-10-16"
+    },
+    {
+      "number": 28,
+      "id": "foodways-next-4",
+      "name": "Peanut porridge",
+      "category": "Breakfast",
+      "status": "published-preparation",
+      "sourceIds": [
+        "FW-S028"
+      ],
+      "note": "Chef Noel Cunningham publishes peanut porridge with oatmeal. The page lists vanilla twice in different amounts; clarification is required before reproducing its formula.",
+      "formulaStatus": "withheld-unverified",
+      "kitchenStatus": "not-tested",
+      "historicalOrigin": "not-established-by-recipe-source",
+      "regionalAttribution": "None inferred",
+      "sourceClarificationRequired": true,
+      "archivedFormulaFingerprint": [
+        "150 g unsalted roasted peanuts",
+        "80 g oats"
+      ],
+      "reviewedOn": "2026-10-16"
+    },
+    {
+      "number": 29,
+      "id": "foodways-next-5",
+      "name": "Oats porridge",
+      "category": "Breakfast",
+      "status": "published-preparation",
+      "sourceIds": [
+        "FW-S029"
+      ],
+      "note": "Grace publishes an oats porridge with dairy, spices and optional raisins. Its larger batch does not validate the smaller archived formula.",
+      "formulaStatus": "withheld-unverified",
+      "kitchenStatus": "not-tested",
+      "historicalOrigin": "not-established-by-recipe-source",
+      "regionalAttribution": "None inferred",
+      "sourceClarificationRequired": false,
+      "archivedFormulaFingerprint": [
+        "160 g rolled oats",
+        "850 ml water"
+      ],
+      "reviewedOn": "2026-10-16",
+      "publishedPreparation": {
+        "sourceId": "FW-S029",
+        "yield": "6 people",
+        "ingredients": [
+          "10 cups water, divided",
+          "1/2 cup evaporated milk",
+          "1 whole cinnamon leaf",
+          "1/2 cup raisins, optional",
+          "1 1/4 teaspoons salt",
+          "3 cups Grace oats",
+          "1 nutmeg, grated",
+          "1 teaspoon cinnamon powder",
+          "1 1/2 teaspoons vanilla essence",
+          "1 1/2 cups sweetened condensed milk"
+        ],
+        "steps": [
+          "Bring eight cups of the water to a boil with evaporated milk, cinnamon leaf, optional raisins and salt.",
+          "Mix the oats, nutmeg and cinnamon powder. Combine vanilla with the remaining two cups of water, then stir that liquid into the oats.",
+          "Stir the oat mixture into the boiling liquid. When it boils again, reduce the heat and cook for about five minutes. Stir in the condensed milk and serve hot."
+        ],
+        "status": "Documented source transcription; not kitchen-tested by Tony’s Guide",
+        "treatment": "Source ingredient quantities preserved; directions paraphrased. No conversions or substitutions.",
+        "limitation": "The published ingredient list says one nutmeg, not one teaspoon. That quantity is retained as a source record and needs clarification and a kitchen trial before adopting this as a Tony’s Guide formula.",
+        "displayMode": "source-record"
+      }
+    },
+    {
+      "number": 30,
+      "id": "foodways-next-6",
+      "name": "Stamp and go",
+      "category": "Breakfast",
+      "status": "published-preparation",
+      "sourceIds": [
+        "FW-S014"
+      ],
+      "note": "Joan Lue explicitly calls stamp and go a saltfish fritter. Keep the name as an alias and preserve the duplicate record for audit.",
+      "formulaStatus": "withheld-unverified",
+      "kitchenStatus": "not-tested",
+      "historicalOrigin": "not-established-by-recipe-source",
+      "regionalAttribution": "None inferred",
+      "sourceClarificationRequired": false,
+      "archivedFormulaFingerprint": [
+        "250 g desalted salt cod",
+        "170 g plain flour"
+      ],
+      "reviewedOn": "2026-10-16",
+      "relatedEntry": "foodways-added-2"
+    },
+    {
+      "number": 31,
+      "id": "foodways-next-7",
+      "name": "Callaloo omelette",
+      "category": "Breakfast",
+      "status": "dish-only",
+      "sourceIds": [
+        "FW-S030"
+      ],
+      "note": "The Jamaica Tourist Board names a callaloo omelette at Smurfs Café, Treasure Beach, in a 2018 feature. That establishes a menu item at that date, not the café’s recipe or current availability.",
+      "formulaStatus": "withheld-unverified",
+      "kitchenStatus": "not-tested",
+      "historicalOrigin": "not-established-by-recipe-source",
+      "regionalAttribution": "None inferred",
+      "sourceClarificationRequired": false,
+      "archivedFormulaFingerprint": [
+        "4 eggs",
+        "160 g washed, cooked callaloo"
+      ],
+      "reviewedOn": "2026-10-16"
+    },
+    {
+      "number": 32,
+      "id": "foodways-next-8",
+      "name": "Steamed cabbage breakfast",
+      "category": "Breakfast",
+      "status": "published-preparation",
+      "sourceIds": [
+        "FW-S031"
+      ],
+      "note": "Lesa documents steamed cabbage and its accompaniments. “Breakfast” is a serving context, not proof of a distinct cabbage formula.",
+      "formulaStatus": "withheld-unverified",
+      "kitchenStatus": "not-tested",
+      "historicalOrigin": "not-established-by-recipe-source",
+      "regionalAttribution": "None inferred",
+      "sourceClarificationRequired": false,
+      "archivedFormulaFingerprint": [
+        "1/2 cabbage (500 g)",
+        "1 carrot"
+      ],
+      "reviewedOn": "2026-10-16"
+    },
+    {
+      "number": 33,
+      "id": "foodways-next-9",
+      "name": "Boiled green banana",
+      "category": "Breads & sides",
+      "status": "published-preparation",
+      "sourceIds": [
+        "FW-S032"
+      ],
+      "note": "Grace publishes a boiled green-banana preparation. The source quantities and the archived mixed-seasoning version are not certified equivalent.",
+      "formulaStatus": "withheld-unverified",
+      "kitchenStatus": "not-tested",
+      "historicalOrigin": "not-established-by-recipe-source",
+      "regionalAttribution": "None inferred",
+      "sourceClarificationRequired": false,
+      "archivedFormulaFingerprint": [
+        "8 green bananas",
+        "1.5 L water"
+      ],
+      "reviewedOn": "2026-10-16"
+    },
+    {
+      "number": 34,
+      "id": "foodways-next-10",
+      "name": "Boiled yam and dumpling",
+      "category": "Breads & sides",
+      "status": "published-preparation",
+      "sourceIds": [
+        "FW-S033"
+      ],
+      "note": "Lesa’s hard-food guide documents a combined pot of ground provisions and dumplings. Do not count every combination as a separate inherited recipe.",
+      "formulaStatus": "withheld-unverified",
+      "kitchenStatus": "not-tested",
+      "historicalOrigin": "not-established-by-recipe-source",
+      "regionalAttribution": "None inferred",
+      "sourceClarificationRequired": false,
+      "archivedFormulaFingerprint": [
+        "500 g white yam",
+        "220 g plain flour"
+      ],
+      "reviewedOn": "2026-10-16"
+    },
+    {
+      "number": 35,
+      "id": "foodways-next-11",
+      "name": "Pumpkin rice",
+      "category": "Breads & sides",
+      "status": "documented-variation",
+      "sourceIds": [
+        "FW-S034"
+      ],
+      "note": "Lesa distinguishes plain pumpkin rice from a more seasoned family version. The family account is attributed to her rather than generalized to a parish.",
+      "formulaStatus": "withheld-unverified",
+      "kitchenStatus": "not-tested",
+      "historicalOrigin": "not-established-by-recipe-source",
+      "regionalAttribution": "None inferred",
+      "sourceClarificationRequired": false,
+      "archivedFormulaFingerprint": [
+        "350 g pumpkin",
+        "300 g long-grain rice"
+      ],
+      "reviewedOn": "2026-10-16"
+    },
+    {
+      "number": 36,
+      "id": "foodways-next-12",
+      "name": "Curried shrimp",
+      "category": "Main dishes",
+      "status": "published-preparation",
+      "sourceIds": [
+        "FW-S035"
+      ],
+      "note": "Chef Noel Cunningham publishes spicy curried shrimp with coconut milk. It is a named cook’s variation.",
+      "formulaStatus": "withheld-unverified",
+      "kitchenStatus": "not-tested",
+      "historicalOrigin": "not-established-by-recipe-source",
+      "regionalAttribution": "None inferred",
+      "sourceClarificationRequired": false,
+      "archivedFormulaFingerprint": [
+        "600 g peeled raw shrimp",
+        "1.5 tbsp Jamaican curry powder"
+      ],
+      "reviewedOn": "2026-10-16"
+    },
+    {
+      "number": 37,
+      "id": "foodways-next-13",
+      "name": "Stewed lentils",
+      "category": "Main dishes",
+      "status": "documented-variation",
+      "sourceIds": [
+        "FW-S036"
+      ],
+      "note": "Grace publishes lentil stew served with pasta and cheese. This establishes a contemporary corporate preparation, not an ancient or necessarily Ital tradition.",
+      "formulaStatus": "withheld-unverified",
+      "kitchenStatus": "not-tested",
+      "historicalOrigin": "not-established-by-recipe-source",
+      "regionalAttribution": "None inferred",
+      "sourceClarificationRequired": false,
+      "archivedFormulaFingerprint": [
+        "250 g dried lentils",
+        "800 ml water"
+      ],
+      "reviewedOn": "2026-10-16"
+    },
+    {
+      "number": 38,
+      "id": "foodways-next-14",
+      "name": "Coconut shrimp",
+      "category": "Fish & seafood",
+      "status": "documented-variation",
+      "sourceIds": [
+        "FW-S037"
+      ],
+      "note": "Lesa explicitly describes her coconut-milk prawns as a rundown-inspired preparation. “Inspired by” must remain visible.",
+      "formulaStatus": "withheld-unverified",
+      "kitchenStatus": "not-tested",
+      "historicalOrigin": "not-established-by-recipe-source",
+      "regionalAttribution": "None inferred",
+      "sourceClarificationRequired": false,
+      "archivedFormulaFingerprint": [
+        "600 g cleaned shrimp",
+        "250 ml coconut milk"
+      ],
+      "reviewedOn": "2026-10-16"
+    },
+    {
+      "number": 39,
+      "id": "foodways-next-15",
+      "name": "Fried sprat",
+      "category": "Fish & seafood",
+      "status": "published-preparation",
+      "sourceIds": [
+        "FW-S038"
+      ],
+      "note": "Xavier Murphy publishes fried sprat with seasoning. The archive’s ingredients and timing remain untested.",
+      "formulaStatus": "withheld-unverified",
+      "kitchenStatus": "not-tested",
+      "historicalOrigin": "not-established-by-recipe-source",
+      "regionalAttribution": "None inferred",
+      "sourceClarificationRequired": false,
+      "archivedFormulaFingerprint": [
+        "600 g cleaned small sprat",
+        "2 tbsp lime juice"
+      ],
+      "reviewedOn": "2026-10-16"
+    },
+    {
+      "number": 40,
+      "id": "foodways-next-16",
+      "name": "Cornmeal pudding",
+      "category": "Sweet dishes",
+      "status": "published-preparation",
+      "sourceIds": [
+        "FW-S039"
+      ],
+      "note": "Grace publishes cornmeal pudding with a separately prepared soft top. Do not merge its ingredients with another pudding without identifying the adaptation.",
+      "formulaStatus": "withheld-unverified",
+      "kitchenStatus": "not-tested",
+      "historicalOrigin": "not-established-by-recipe-source",
+      "regionalAttribution": "None inferred",
+      "sourceClarificationRequired": false,
+      "archivedFormulaFingerprint": [
+        "240 g fine cornmeal",
+        "500 ml coconut milk"
+      ],
+      "reviewedOn": "2026-10-16"
+    },
+    {
+      "number": 41,
+      "id": "foodways-next-17",
+      "name": "Coconut drops",
+      "category": "Sweet dishes",
+      "status": "published-preparation",
+      "sourceIds": [
+        "FW-S040"
+      ],
+      "note": "Grace documents diced-coconut drops with sugar and ginger. The page labels them dessert and gives a batch yield; its automatic person count should not be treated as a tested serving.",
+      "formulaStatus": "withheld-unverified",
+      "kitchenStatus": "not-tested",
+      "historicalOrigin": "not-established-by-recipe-source",
+      "regionalAttribution": "None inferred",
+      "sourceClarificationRequired": false,
+      "archivedFormulaFingerprint": [
+        "300 g diced fresh coconut",
+        "250 g brown sugar"
+      ],
+      "reviewedOn": "2026-10-16",
+      "publishedPreparation": {
+        "sourceId": "FW-S040",
+        "yield": "12 drops (publisher yield)",
+        "ingredients": [
+          "4 cups water",
+          "2 cups dry coconut, diced",
+          "1 1/2 cups dark sugar",
+          "1 tablespoon ginger"
+        ],
+        "steps": [
+          "Boil the water with the diced coconut for about forty minutes.",
+          "Add sugar and ginger. Continue boiling until syrupy; Grace gives about thirty to thirty-five minutes for this stage.",
+          "Spoon tablespoon portions onto a wet cookie sheet, one of the surfaces Grace specifies. Leave them to cool and set."
+        ],
+        "status": "Documented source transcription; not kitchen-tested by Tony’s Guide",
+        "treatment": "Source ingredient quantities preserved; directions paraphrased. No conversions or substitutions.",
+        "limitation": "The source does not specify the ginger’s cut. Its stated yield is twelve drops; the automatic “one person” header is not used as a serving claim.",
+        "displayMode": "preparation"
+      }
+    },
+    {
+      "number": 42,
+      "id": "foodways-next-18",
+      "name": "Tamarind balls",
+      "category": "Sweet dishes",
+      "status": "published-preparation",
+      "sourceIds": [
+        "FW-S041"
+      ],
+      "note": "Xavier Murphy publishes tamarind balls, including an optional rum addition. The source’s preservation suggestion is not treated as a validated shelf-life claim.",
+      "formulaStatus": "withheld-unverified",
+      "kitchenStatus": "not-tested",
+      "historicalOrigin": "not-established-by-recipe-source",
+      "regionalAttribution": "None inferred",
+      "sourceClarificationRequired": false,
+      "archivedFormulaFingerprint": [
+        "250 g seedless tamarind pulp",
+        "150 g brown sugar plus extra for rolling"
+      ],
+      "reviewedOn": "2026-10-16"
+    },
+    {
+      "number": 43,
+      "id": "foodways-next-19",
+      "name": "Soursop juice",
+      "category": "Drinks",
+      "status": "published-preparation",
+      "sourceIds": [
+        "FW-S042"
+      ],
+      "note": "Lesa publishes a lime-based soursop drink and discusses other versions. Do not collapse milk-based and lime-based drinks into one fixed formula.",
+      "formulaStatus": "withheld-unverified",
+      "kitchenStatus": "not-tested",
+      "historicalOrigin": "not-established-by-recipe-source",
+      "regionalAttribution": "None inferred",
+      "sourceClarificationRequired": false,
+      "archivedFormulaFingerprint": [
+        "1 ripe soursop",
+        "1 L cold water"
+      ],
+      "reviewedOn": "2026-10-16"
+    },
+    {
+      "number": 44,
+      "id": "foodways-next-20",
+      "name": "Mint tea",
+      "category": "Drinks",
+      "status": "dish-only",
+      "sourceIds": [
+        "FW-S106"
+      ],
+      "note": "Jamaican producer Tops documents kitchen mint and supplies teabag brewing instructions. That does not validate the archived fresh-mint quantities or establish that all “mint” plants are interchangeable.",
+      "formulaStatus": "withheld-unverified",
+      "kitchenStatus": "not-tested",
+      "historicalOrigin": "not-established-by-recipe-source",
+      "regionalAttribution": "None inferred",
+      "sourceClarificationRequired": false,
+      "archivedFormulaFingerprint": [
+        "20 g fresh culinary mint leaves",
+        "800 ml water"
+      ],
+      "reviewedOn": "2026-10-16"
+    },
+    {
+      "number": 45,
+      "id": "foodways-completion-a-1",
+      "name": "Ackee and corned pork",
+      "category": "Breakfast",
+      "status": "published-preparation",
+      "sourceIds": [
+        "FW-S044"
+      ],
+      "note": "Grace publishes ackee and corned pork, but its method mentions garlic and escallion not listed in its ingredients. The displayed single-person yield is also questionable. Source clarification is required.",
+      "formulaStatus": "withheld-unverified",
+      "kitchenStatus": "not-tested",
+      "historicalOrigin": "not-established-by-recipe-source",
+      "regionalAttribution": "None inferred",
+      "sourceClarificationRequired": true,
+      "archivedFormulaFingerprint": [
+        "450 g canned prepared ackee",
+        "250 g fully cooked corned pork, diced"
+      ],
+      "reviewedOn": "2026-10-16"
+    },
+    {
+      "number": 46,
+      "id": "foodways-completion-a-2",
+      "name": "Salt mackerel with boiled food",
+      "category": "Breakfast",
+      "status": "published-preparation",
+      "sourceIds": [
+        "FW-S045"
+      ],
+      "note": "Xavier Murphy publishes salt mackerel and names boiled food as an accompaniment. Salt mackerel is not the same ingredient as fresh mackerel.",
+      "formulaStatus": "withheld-unverified",
+      "kitchenStatus": "not-tested",
+      "historicalOrigin": "not-established-by-recipe-source",
+      "regionalAttribution": "None inferred",
+      "sourceClarificationRequired": false,
+      "archivedFormulaFingerprint": [
+        "400 g salted mackerel",
+        "4 green bananas"
+      ],
+      "reviewedOn": "2026-10-16"
+    },
+    {
+      "number": 47,
+      "id": "foodways-completion-a-3",
+      "name": "Roast breadfruit with saltfish",
+      "category": "Breakfast",
+      "status": "related-evidence",
+      "sourceIds": [
+        "FW-S016"
+      ],
+      "note": "Roast breadfruit is documented, but the inspected roasting source serves it with callaloo or ackee. This does not establish the precise archived saltfish pairing formula.",
+      "formulaStatus": "withheld-unverified",
+      "kitchenStatus": "not-tested",
+      "historicalOrigin": "not-established-by-recipe-source",
+      "regionalAttribution": "None inferred",
+      "sourceClarificationRequired": false,
+      "archivedFormulaFingerprint": [
+        "1 mature breadfruit",
+        "300 g salt cod"
+      ],
+      "reviewedOn": "2026-10-16"
+    },
+    {
+      "number": 48,
+      "id": "foodways-completion-a-4",
+      "name": "Coconut drops breakfast variation",
+      "category": "Breakfast",
+      "status": "related-evidence",
+      "sourceIds": [
+        "FW-S040"
+      ],
+      "note": "The underlying coconut sweet is documented. No inspected source establishes “coconut drops breakfast variation” as a distinct traditional preparation. Retain as an editorial label only.",
+      "formulaStatus": "withheld-unverified",
+      "kitchenStatus": "not-tested",
+      "historicalOrigin": "not-established-by-recipe-source",
+      "regionalAttribution": "None inferred",
+      "sourceClarificationRequired": false,
+      "archivedFormulaFingerprint": [
+        "250 g diced fresh coconut",
+        "180 g brown sugar"
+      ],
+      "reviewedOn": "2026-10-16"
+    },
+    {
+      "number": 49,
+      "id": "foodways-completion-a-5",
+      "name": "Cassava bammy",
+      "category": "Breads & sides",
+      "status": "published-preparation",
+      "sourceIds": [
+        "FW-S015"
+      ],
+      "note": "This is an overlapping name for the bammy record. The same cassava-processing uncertainty applies; it is not a second authenticated tradition.",
+      "formulaStatus": "withheld-unverified",
+      "kitchenStatus": "not-tested",
+      "historicalOrigin": "not-established-by-recipe-source",
+      "regionalAttribution": "None inferred",
+      "sourceClarificationRequired": false,
+      "archivedFormulaFingerprint": [
+        "500 g commercially processed food-safe cassava meal",
+        "200 ml coconut milk"
+      ],
+      "reviewedOn": "2026-10-16",
+      "relatedEntry": "foodways-added-3"
+    },
+    {
+      "number": 50,
+      "id": "foodways-completion-a-6",
+      "name": "Johnny cakes",
+      "category": "Breads & sides",
+      "status": "published-preparation",
+      "sourceIds": [
+        "FW-S099"
+      ],
+      "note": "Johnny cakes is a documented name for Jamaican fried dumplings. Keep the alias rather than treating this as an independently authenticated bread tradition.",
+      "formulaStatus": "withheld-unverified",
+      "kitchenStatus": "not-tested",
+      "historicalOrigin": "not-established-by-recipe-source",
+      "regionalAttribution": "None inferred",
+      "sourceClarificationRequired": false,
+      "archivedFormulaFingerprint": [
+        "300 g plain flour",
+        "2 tsp baking powder"
+      ],
+      "reviewedOn": "2026-10-16",
+      "relatedEntry": "foodway-3"
+    },
+    {
+      "number": 51,
+      "id": "foodways-completion-a-7",
+      "name": "Coco bread",
+      "category": "Breads & sides",
+      "status": "published-preparation",
+      "sourceIds": [
+        "FW-S101"
+      ],
+      "note": "Tanya Harris documents folded coco bread from her Jamaican household experience. A different candidate page used cocoa powder in a loaf and was rejected as the reference for this pocket bread.",
+      "formulaStatus": "withheld-unverified",
+      "kitchenStatus": "not-tested",
+      "historicalOrigin": "not-established-by-recipe-source",
+      "regionalAttribution": "None inferred",
+      "sourceClarificationRequired": false,
+      "archivedFormulaFingerprint": [
+        "500 g bread flour",
+        "7 g instant yeast"
+      ],
+      "reviewedOn": "2026-10-16"
+    },
+    {
+      "number": 52,
+      "id": "foodways-completion-a-8",
+      "name": "Hard dough bread",
+      "category": "Breads & sides",
+      "status": "published-preparation",
+      "sourceIds": [
+        "FW-S047"
+      ],
+      "note": "Chef Sian Rose supplies a hardough-bread recipe and working instructions. Her published method should retain her name and its own proportions.",
+      "formulaStatus": "withheld-unverified",
+      "kitchenStatus": "not-tested",
+      "historicalOrigin": "not-established-by-recipe-source",
+      "regionalAttribution": "None inferred",
+      "sourceClarificationRequired": false,
+      "archivedFormulaFingerprint": [
+        "500 g bread flour",
+        "7 g yeast"
+      ],
+      "reviewedOn": "2026-10-16"
+    },
+    {
+      "number": 53,
+      "id": "foodways-completion-a-9",
+      "name": "Bulla cake",
+      "category": "Breads & sides",
+      "status": "published-preparation",
+      "sourceIds": [
+        "FW-S048"
+      ],
+      "note": "Grace “Grandma” Reynolds publishes ginger bulla. No universal village or parish formula is inferred.",
+      "formulaStatus": "withheld-unverified",
+      "kitchenStatus": "not-tested",
+      "historicalOrigin": "not-established-by-recipe-source",
+      "regionalAttribution": "None inferred",
+      "sourceClarificationRequired": false,
+      "archivedFormulaFingerprint": [
+        "350 g flour",
+        "150 g brown sugar"
+      ],
+      "reviewedOn": "2026-10-16"
+    },
+    {
+      "number": 54,
+      "id": "foodways-completion-a-10",
+      "name": "Easter bun",
+      "category": "Breads & sides",
+      "status": "documented-variation",
+      "sourceIds": [
+        "FW-S049"
+      ],
+      "note": "Chef Noel Cunningham’s Easter bun uses stout and dried fruit. Different bun leavening and alcohol choices require separate attribution.",
+      "formulaStatus": "withheld-unverified",
+      "kitchenStatus": "not-tested",
+      "historicalOrigin": "not-established-by-recipe-source",
+      "regionalAttribution": "None inferred",
+      "sourceClarificationRequired": false,
+      "archivedFormulaFingerprint": [
+        "400 g flour",
+        "200 ml stout or nonalcoholic malt drink"
+      ],
+      "reviewedOn": "2026-10-16"
+    },
+    {
+      "number": 55,
+      "id": "foodways-completion-a-11",
+      "name": "Spiced bun and cheese",
+      "category": "Breads & sides",
+      "status": "documented-variation",
+      "sourceIds": [
+        "FW-S050"
+      ],
+      "note": "Kerri-Ann’s Kravings documents Easter bun served with cheese. This is a serving combination of the bun family, not an additional historically independent recipe.",
+      "formulaStatus": "withheld-unverified",
+      "kitchenStatus": "not-tested",
+      "historicalOrigin": "not-established-by-recipe-source",
+      "regionalAttribution": "None inferred",
+      "sourceClarificationRequired": false,
+      "archivedFormulaFingerprint": [
+        "6 slices spiced Easter bun",
+        "180 g firm Jamaican-style cheddar"
+      ],
+      "reviewedOn": "2026-10-16",
+      "relatedEntry": "foodways-completion-a-10"
+    },
+    {
+      "number": 56,
+      "id": "foodways-completion-a-12",
+      "name": "Jackass corn",
+      "category": "Breads & sides",
+      "status": "published-preparation",
+      "sourceIds": [
+        "FW-S051"
+      ],
+      "note": "Winsome Murphy publishes a coconut biscuit called jackass corn. The name does not imply cornmeal is an ingredient in that published version.",
+      "formulaStatus": "withheld-unverified",
+      "kitchenStatus": "not-tested",
+      "historicalOrigin": "not-established-by-recipe-source",
+      "regionalAttribution": "None inferred",
+      "sourceClarificationRequired": false,
+      "archivedFormulaFingerprint": [
+        "300 g flour",
+        "80 g brown sugar"
+      ],
+      "reviewedOn": "2026-10-16"
+    },
+    {
+      "number": 57,
+      "id": "foodways-completion-a-13",
+      "name": "Turn cornmeal",
+      "category": "Breads & sides",
+      "status": "documented-variation",
+      "sourceIds": [
+        "FW-S052"
+      ],
+      "note": "Chef Sian Rose documents turn cornmeal with corned pork and relates it to her western-Jamaica childhood. That is her identified experience, not a parish-wide survey.",
+      "formulaStatus": "withheld-unverified",
+      "kitchenStatus": "not-tested",
+      "historicalOrigin": "not-established-by-recipe-source",
+      "regionalAttribution": "None inferred",
+      "sourceClarificationRequired": false,
+      "archivedFormulaFingerprint": [
+        "220 g cornmeal",
+        "650 ml water"
+      ],
+      "reviewedOn": "2026-10-16"
+    },
+    {
+      "number": 58,
+      "id": "foodways-completion-a-14",
+      "name": "Cornmeal cou-cou",
+      "category": "Breads & sides",
+      "status": "related-evidence",
+      "sourceIds": [
+        "FW-S053"
+      ],
+      "note": "Charla explicitly labels the linked okra-and-pimiento cou-cou recipe Trinidadian and distinguishes Jamaican turn cornmeal. Preserve the comparison; do not label the source formula Jamaican.",
+      "formulaStatus": "withheld-unverified",
+      "kitchenStatus": "not-tested",
+      "historicalOrigin": "not-established-by-recipe-source",
+      "regionalAttribution": "None inferred",
+      "sourceClarificationRequired": false,
+      "archivedFormulaFingerprint": [
+        "220 g fine cornmeal",
+        "650 ml water"
+      ],
+      "reviewedOn": "2026-10-16"
+    },
+    {
+      "number": 59,
+      "id": "foodways-completion-a-15",
+      "name": "Jerk pork",
+      "category": "Main dishes",
+      "status": "published-preparation",
+      "sourceIds": [
+        "FW-S054"
+      ],
+      "note": "Xavier Murphy documents jerk pork using a separate jerk sauce. The sauce and cooking method must be sourced together before a complete local formula is reconstructed.",
+      "formulaStatus": "withheld-unverified",
+      "kitchenStatus": "not-tested",
+      "historicalOrigin": "not-established-by-recipe-source",
+      "regionalAttribution": "None inferred",
+      "sourceClarificationRequired": false,
+      "archivedFormulaFingerprint": [
+        "1.2 kg pork shoulder",
+        "5 scallions"
+      ],
+      "reviewedOn": "2026-10-16"
+    },
+    {
+      "number": 60,
+      "id": "foodways-completion-a-16",
+      "name": "Oxtail and broad beans",
+      "category": "Main dishes",
+      "status": "published-preparation",
+      "sourceIds": [
+        "FW-S055"
+      ],
+      "note": "Chef Noel Cunningham publishes braised oxtail and broad beans. Keep the named bean and slow-braising preparation attached to this cook.",
+      "formulaStatus": "withheld-unverified",
+      "kitchenStatus": "not-tested",
+      "historicalOrigin": "not-established-by-recipe-source",
+      "regionalAttribution": "None inferred",
+      "sourceClarificationRequired": false,
+      "archivedFormulaFingerprint": [
+        "1.2 kg oxtail",
+        "400 g cooked broad beans"
+      ],
+      "reviewedOn": "2026-10-16"
+    },
+    {
+      "number": 61,
+      "id": "foodways-completion-a-17",
+      "name": "Pepper steak",
+      "category": "Main dishes",
+      "status": "published-preparation",
+      "sourceIds": [
+        "FW-S056"
+      ],
+      "note": "Lesa publishes Jamaican-style pepper steak. This supports contemporary culinary practice, not a dated account of Chinese-Jamaican recipe invention.",
+      "formulaStatus": "withheld-unverified",
+      "kitchenStatus": "not-tested",
+      "historicalOrigin": "not-established-by-recipe-source",
+      "regionalAttribution": "None inferred",
+      "sourceClarificationRequired": false,
+      "archivedFormulaFingerprint": [
+        "600 g thinly sliced beef",
+        "2 bell peppers"
+      ],
+      "reviewedOn": "2026-10-16"
+    },
+    {
+      "number": 62,
+      "id": "foodways-completion-a-18",
+      "name": "Brown stew pork",
+      "category": "Main dishes",
+      "status": "dish-only",
+      "sourceIds": [
+        "FW-S057"
+      ],
+      "note": "A Jamaican food roundup identifies stew pork but does not give its own complete pork formula. It also contains a conflicting indenture chronology; do not use it as historical authority.",
+      "formulaStatus": "withheld-unverified",
+      "kitchenStatus": "not-tested",
+      "historicalOrigin": "not-established-by-recipe-source",
+      "regionalAttribution": "None inferred",
+      "sourceClarificationRequired": false,
+      "archivedFormulaFingerprint": [
+        "900 g pork shoulder cubes",
+        "1 onion"
+      ],
+      "reviewedOn": "2026-10-16"
+    },
+    {
+      "number": 63,
+      "id": "foodways-completion-a-19",
+      "name": "Gungo peas soup",
+      "category": "Main dishes",
+      "status": "published-preparation",
+      "sourceIds": [
+        "FW-S058"
+      ],
+      "note": "Grace publishes a gungo-peas soup using canned peas, coconut milk and soup mix. A dried-pea or ham-bone version needs its own instructions.",
+      "formulaStatus": "withheld-unverified",
+      "kitchenStatus": "not-tested",
+      "historicalOrigin": "not-established-by-recipe-source",
+      "regionalAttribution": "None inferred",
+      "sourceClarificationRequired": false,
+      "archivedFormulaFingerprint": [
+        "400 g cooked gungo peas",
+        "300 g pumpkin"
+      ],
+      "reviewedOn": "2026-10-16",
+      "publishedPreparation": {
+        "sourceId": "FW-S058",
+        "yield": "6 people",
+        "ingredients": [
+          "2 medium Irish potatoes",
+          "1 medium cho-cho",
+          "6 cups water, divided",
+          "1/2 cup Grace coconut milk",
+          "2 stalks escallion, crushed",
+          "2 sprigs thyme",
+          "4 small pimento berries",
+          "1 packet Grace Cock Soup Mix",
+          "1/4 teaspoon salt",
+          "1/4 teaspoon Grace Caribbean Traditions black pepper",
+          "1 can gungo peas",
+          "1 cup sliced carrots"
+        ],
+        "steps": [
+          "Peel and dice the potatoes and cho-cho; set them in two cups of the water. Bring the remaining four cups to a boil and add the diced vegetables.",
+          "Stir in coconut milk, escallion, thyme, pimento, soup mix, salt and black pepper. Simmer until the potatoes and cho-cho are tender.",
+          "Drain the canned peas. Add them with the carrots, reduce the heat and simmer until the soup thickens. Serve hot."
+        ],
+        "status": "Documented source transcription; not kitchen-tested by Tony’s Guide",
+        "treatment": "Source ingredient quantities preserved; directions paraphrased. No conversions or substitutions.",
+        "limitation": "The source does not state whether the two cups holding the diced vegetables are added to the pot. That ambiguity is retained here for clarification; no invented liquid adjustment is supplied. Product packet and can weights are not specified.",
+        "displayMode": "source-record"
+      }
+    },
+    {
+      "number": 64,
+      "id": "foodways-completion-a-20",
+      "name": "Chicken foot soup",
+      "category": "Main dishes",
+      "status": "published-preparation",
+      "sourceIds": [
+        "FW-S059"
+      ],
+      "note": "Xavier Murphy documents chicken-foot soup with vegetables and ground provisions. The existence of the dish does not certify the archive’s cooking time.",
+      "formulaStatus": "withheld-unverified",
+      "kitchenStatus": "not-tested",
+      "historicalOrigin": "not-established-by-recipe-source",
+      "regionalAttribution": "None inferred",
+      "sourceClarificationRequired": false,
+      "archivedFormulaFingerprint": [
+        "900 g thoroughly cleaned chicken feet",
+        "300 g pumpkin"
+      ],
+      "reviewedOn": "2026-10-16"
+    },
+    {
+      "number": 65,
+      "id": "foodways-completion-b-1",
+      "name": "Red peas soup",
+      "category": "Main dishes",
+      "status": "documented-variation",
+      "sourceIds": [
+        "FW-S060"
+      ],
+      "note": "Grace’s red-peas soup uses a ham bone and ground provisions. This is a specific published variation, not a vegetarian formula.",
+      "formulaStatus": "withheld-unverified",
+      "kitchenStatus": "not-tested",
+      "historicalOrigin": "not-established-by-recipe-source",
+      "regionalAttribution": "None inferred",
+      "sourceClarificationRequired": false,
+      "archivedFormulaFingerprint": [
+        "300 g dried kidney beans",
+        "350 g pumpkin"
+      ],
+      "reviewedOn": "2026-10-16"
+    },
+    {
+      "number": 66,
+      "id": "foodways-completion-b-2",
+      "name": "Mannish water",
+      "category": "Main dishes",
+      "status": "published-preparation",
+      "sourceIds": [
+        "FW-S061"
+      ],
+      "note": "Grace documents mannish water with goat head and belly. Do not equate any goat-meat broth with this preparation or repeat aphrodisiac claims as fact.",
+      "formulaStatus": "withheld-unverified",
+      "kitchenStatus": "not-tested",
+      "historicalOrigin": "not-established-by-recipe-source",
+      "regionalAttribution": "None inferred",
+      "sourceClarificationRequired": false,
+      "archivedFormulaFingerprint": [
+        "1 kg cleaned goat meat with bones",
+        "300 g green banana"
+      ],
+      "reviewedOn": "2026-10-16"
+    },
+    {
+      "number": 67,
+      "id": "foodways-completion-b-3",
+      "name": "Fish tea",
+      "category": "Main dishes",
+      "status": "published-preparation",
+      "sourceIds": [
+        "FW-S062"
+      ],
+      "note": "Lesa publishes fish tea and separately discusses optional dumplings. Her stated personal omission is a variation, not evidence that dumplings are forbidden.",
+      "formulaStatus": "withheld-unverified",
+      "kitchenStatus": "not-tested",
+      "historicalOrigin": "not-established-by-recipe-source",
+      "regionalAttribution": "None inferred",
+      "sourceClarificationRequired": false,
+      "archivedFormulaFingerprint": [
+        "750 g cleaned fish with bones",
+        "2 L water"
+      ],
+      "reviewedOn": "2026-10-16"
+    },
+    {
+      "number": 68,
+      "id": "foodways-completion-b-4",
+      "name": "Saturday soup",
+      "category": "Main dishes",
+      "status": "published-preparation",
+      "sourceIds": [
+        "FW-S103"
+      ],
+      "note": "Grace publishes Saturday Soup/Beef Soup. “Saturday soup” describes a practice as well as a dish family; chicken and beef versions need separate provenance.",
+      "formulaStatus": "withheld-unverified",
+      "kitchenStatus": "not-tested",
+      "historicalOrigin": "not-established-by-recipe-source",
+      "regionalAttribution": "None inferred",
+      "sourceClarificationRequired": false,
+      "archivedFormulaFingerprint": [
+        "700 g chicken portions",
+        "300 g pumpkin"
+      ],
+      "reviewedOn": "2026-10-16"
+    },
+    {
+      "number": 69,
+      "id": "foodways-completion-b-5",
+      "name": "Pepperpot soup",
+      "category": "Main dishes",
+      "status": "published-preparation",
+      "sourceIds": [
+        "FW-S064"
+      ],
+      "note": "Winsome Murphy publishes Jamaican pepperpot and explicitly discusses a meatless option. The Jamaican recipe should not be conflated with Guyanese pepperpot.",
+      "formulaStatus": "withheld-unverified",
+      "kitchenStatus": "not-tested",
+      "historicalOrigin": "not-established-by-recipe-source",
+      "regionalAttribution": "None inferred",
+      "sourceClarificationRequired": false,
+      "archivedFormulaFingerprint": [
+        "350 g callaloo",
+        "300 g okra"
+      ],
+      "reviewedOn": "2026-10-16"
+    },
+    {
+      "number": 70,
+      "id": "foodways-completion-b-6",
+      "name": "Cow foot stew",
+      "category": "Main dishes",
+      "status": "published-preparation",
+      "sourceIds": [
+        "FW-S065"
+      ],
+      "note": "Grace publishes cow foot with broad beans and pressure-cooker instructions. The source does not validate the archived stovetop duration.",
+      "formulaStatus": "withheld-unverified",
+      "kitchenStatus": "not-tested",
+      "historicalOrigin": "not-established-by-recipe-source",
+      "regionalAttribution": "None inferred",
+      "sourceClarificationRequired": false,
+      "archivedFormulaFingerprint": [
+        "1.2 kg cleaned cow feet, chopped",
+        "400 g cooked broad beans"
+      ],
+      "reviewedOn": "2026-10-16"
+    },
+    {
+      "number": 71,
+      "id": "foodways-completion-b-7",
+      "name": "Tripe and beans",
+      "category": "Main dishes",
+      "status": "documented-variation",
+      "sourceIds": [
+        "FW-S066"
+      ],
+      "note": "Grace publishes curried tripe with beans and coconut milk. Curry is a source-specific feature and must not be silently omitted when attributing this version.",
+      "formulaStatus": "withheld-unverified",
+      "kitchenStatus": "not-tested",
+      "historicalOrigin": "not-established-by-recipe-source",
+      "regionalAttribution": "None inferred",
+      "sourceClarificationRequired": false,
+      "archivedFormulaFingerprint": [
+        "900 g cleaned beef tripe",
+        "400 g cooked butter beans"
+      ],
+      "reviewedOn": "2026-10-16"
+    },
+    {
+      "number": 72,
+      "id": "foodways-completion-b-8",
+      "name": "Curried chickpeas",
+      "category": "Main dishes",
+      "status": "documented-variation",
+      "sourceIds": [
+        "FW-S067"
+      ],
+      "note": "Lesa explicitly calls her chickpea curry a Jamaican-and-Indian fusion. It can be included as a contemporary adaptation with that attribution.",
+      "formulaStatus": "withheld-unverified",
+      "kitchenStatus": "not-tested",
+      "historicalOrigin": "not-established-by-recipe-source",
+      "regionalAttribution": "None inferred",
+      "sourceClarificationRequired": false,
+      "archivedFormulaFingerprint": [
+        "450 g cooked chickpeas",
+        "1.5 tbsp curry powder"
+      ],
+      "reviewedOn": "2026-10-16"
+    },
+    {
+      "number": 73,
+      "id": "foodways-completion-b-9",
+      "name": "Ital stew",
+      "category": "Main dishes",
+      "status": "published-preparation",
+      "sourceIds": [
+        "FW-S020"
+      ],
+      "note": "Charla’s Ital vegetable stew is also used for the earlier Ital vegetable stew record. This is an overlapping dish family rather than an additional authenticated tradition.",
+      "formulaStatus": "withheld-unverified",
+      "kitchenStatus": "not-tested",
+      "historicalOrigin": "not-established-by-recipe-source",
+      "regionalAttribution": "None inferred",
+      "sourceClarificationRequired": false,
+      "archivedFormulaFingerprint": [
+        "250 g pumpkin",
+        "1 carrot"
+      ],
+      "reviewedOn": "2026-10-16",
+      "relatedEntry": "foodways-added-8"
+    },
+    {
+      "number": 74,
+      "id": "foodways-completion-b-10",
+      "name": "Ital vegetable rundown",
+      "category": "Main dishes",
+      "status": "documented-variation",
+      "sourceIds": [
+        "FW-S068"
+      ],
+      "note": "Original Flava describes its Ital rundown as inspired by Rastafari cooks encountered in Jamaica. It is their published interpretation, not testimony representing all Rastafari practice.",
+      "formulaStatus": "withheld-unverified",
+      "kitchenStatus": "not-tested",
+      "historicalOrigin": "not-established-by-recipe-source",
+      "regionalAttribution": "None inferred",
+      "sourceClarificationRequired": false,
+      "archivedFormulaFingerprint": [
+        "400 ml coconut milk",
+        "250 g pumpkin"
+      ],
+      "reviewedOn": "2026-10-16"
+    },
+    {
+      "number": 75,
+      "id": "foodways-completion-b-11",
+      "name": "Steamed cabbage and carrots",
+      "category": "Main dishes",
+      "status": "published-preparation",
+      "sourceIds": [
+        "FW-S031"
+      ],
+      "note": "Lesa’s steamed-cabbage recipe includes carrots. This overlaps the breakfast cabbage record; the serving label does not create another culinary lineage.",
+      "formulaStatus": "withheld-unverified",
+      "kitchenStatus": "not-tested",
+      "historicalOrigin": "not-established-by-recipe-source",
+      "regionalAttribution": "None inferred",
+      "sourceClarificationRequired": false,
+      "archivedFormulaFingerprint": [
+        "500 g cabbage",
+        "2 carrots"
+      ],
+      "reviewedOn": "2026-10-16",
+      "relatedEntry": "foodways-next-8"
+    },
+    {
+      "number": 76,
+      "id": "foodways-completion-b-12",
+      "name": "Ackee and callaloo",
+      "category": "Main dishes",
+      "status": "unresolved",
+      "sourceIds": [
+        "FW-S069"
+      ],
+      "note": "A blog publishes ackee, callaloo and pumpkin, but the individual cook’s identity and Jamaican provenance have not been established. Treat it as a research lead, not an authenticated Jamaican formula.",
+      "formulaStatus": "withheld-unverified",
+      "kitchenStatus": "not-tested",
+      "historicalOrigin": "not-established-by-recipe-source",
+      "regionalAttribution": "None inferred",
+      "sourceClarificationRequired": false,
+      "archivedFormulaFingerprint": [
+        "450 g commercially prepared ackee",
+        "350 g callaloo"
+      ],
+      "reviewedOn": "2026-10-16"
+    },
+    {
+      "number": 77,
+      "id": "foodways-completion-b-13",
+      "name": "Brown stew fish",
+      "category": "Fish & seafood",
+      "status": "published-preparation",
+      "sourceIds": [
+        "FW-S070"
+      ],
+      "note": "Lesa documents brown-stew fish, distinguishing it from steamed fish. The species, frying and sauce quantities belong to the published version.",
+      "formulaStatus": "withheld-unverified",
+      "kitchenStatus": "not-tested",
+      "historicalOrigin": "not-established-by-recipe-source",
+      "regionalAttribution": "None inferred",
+      "sourceClarificationRequired": false,
+      "archivedFormulaFingerprint": [
+        "800 g cleaned firm fish",
+        "1 onion"
+      ],
+      "reviewedOn": "2026-10-16"
+    },
+    {
+      "number": 78,
+      "id": "foodways-completion-b-14",
+      "name": "Saltfish rundown",
+      "category": "Fish & seafood",
+      "status": "published-preparation",
+      "sourceIds": [
+        "FW-S071"
+      ],
+      "note": "Lesa separately publishes saltfish rundown. Preserve the distinction from salted-mackerel rundown and keep her coconut-reduction method attached to her recipe.",
+      "formulaStatus": "withheld-unverified",
+      "kitchenStatus": "not-tested",
+      "historicalOrigin": "not-established-by-recipe-source",
+      "regionalAttribution": "None inferred",
+      "sourceClarificationRequired": false,
+      "archivedFormulaFingerprint": [
+        "400 g salted cod",
+        "400 ml coconut milk"
+      ],
+      "reviewedOn": "2026-10-16"
+    },
+    {
+      "number": 79,
+      "id": "foodways-completion-b-15",
+      "name": "Pickled herring",
+      "category": "Fish & seafood",
+      "status": "related-evidence",
+      "sourceIds": [
+        "FW-S072"
+      ],
+      "note": "Winsome Murphy documents Solomon-a-Gundy, a pâté of smoked red herring. This does not authenticate the archived vinegar-pickled herring fillets; they are different preparations.",
+      "formulaStatus": "withheld-unverified",
+      "kitchenStatus": "not-tested",
+      "historicalOrigin": "not-established-by-recipe-source",
+      "regionalAttribution": "None inferred",
+      "sourceClarificationRequired": false,
+      "archivedFormulaFingerprint": [
+        "400 g commercially prepared pickled herring",
+        "1 onion"
+      ],
+      "reviewedOn": "2026-10-16"
+    },
+    {
+      "number": 80,
+      "id": "foodways-completion-b-16",
+      "name": "Steamed parrotfish",
+      "category": "Fish & seafood",
+      "status": "published-preparation",
+      "sourceIds": [
+        "FW-S073"
+      ],
+      "note": "Lesa explicitly identifies parrotfish as a fish she uses for steaming and supplies a steamed-fish preparation. This is culinary documentation, not advice about current catch regulations or conservation.",
+      "formulaStatus": "withheld-unverified",
+      "kitchenStatus": "not-tested",
+      "historicalOrigin": "not-established-by-recipe-source",
+      "regionalAttribution": "None inferred",
+      "sourceClarificationRequired": false,
+      "archivedFormulaFingerprint": [
+        "800 g cleaned parrotfish portions",
+        "1 carrot"
+      ],
+      "reviewedOn": "2026-10-16"
+    },
+    {
+      "number": 81,
+      "id": "foodways-completion-b-17",
+      "name": "Garlic lobster",
+      "category": "Fish & seafood",
+      "status": "related-evidence",
+      "sourceIds": [
+        "FW-S074"
+      ],
+      "note": "Yanikie Tucker publishes broiled lobster tails, but that inspected recipe has no garlic. It cannot authenticate a “garlic lobster” formula.",
+      "formulaStatus": "withheld-unverified",
+      "kitchenStatus": "not-tested",
+      "historicalOrigin": "not-established-by-recipe-source",
+      "regionalAttribution": "None inferred",
+      "sourceClarificationRequired": false,
+      "archivedFormulaFingerprint": [
+        "700 g cleaned lobster tails",
+        "4 garlic cloves"
+      ],
+      "reviewedOn": "2026-10-16"
+    },
+    {
+      "number": 82,
+      "id": "foodways-completion-b-18",
+      "name": "Crayfish rundown",
+      "category": "Fish & seafood",
+      "status": "unresolved",
+      "sourceIds": [
+        "FW-S075"
+      ],
+      "note": "Winsome Murphy documents janga soup. A crayfish soup is not evidence for the archived crayfish rundown; that precise preparation remains unestablished in the checked material.",
+      "formulaStatus": "withheld-unverified",
+      "kitchenStatus": "not-tested",
+      "historicalOrigin": "not-established-by-recipe-source",
+      "regionalAttribution": "None inferred",
+      "sourceClarificationRequired": false,
+      "archivedFormulaFingerprint": [
+        "600 g cleaned freshwater crayfish tails",
+        "400 ml coconut milk"
+      ],
+      "reviewedOn": "2026-10-16"
+    },
+    {
+      "number": 83,
+      "id": "foodways-completion-b-19",
+      "name": "Fish escovitch with bammy",
+      "category": "Fish & seafood",
+      "status": "published-preparation",
+      "sourceIds": [
+        "FW-S009"
+      ],
+      "note": "Grace explicitly pairs escovitch fish with bammy or festival. Keep this as a meal combination tied to the escovitch record, not a separate origin story.",
+      "formulaStatus": "withheld-unverified",
+      "kitchenStatus": "not-tested",
+      "historicalOrigin": "not-established-by-recipe-source",
+      "regionalAttribution": "None inferred",
+      "sourceClarificationRequired": false,
+      "archivedFormulaFingerprint": [
+        "800 g cleaned fish",
+        "4 commercially prepared bammy rounds"
+      ],
+      "reviewedOn": "2026-10-16",
+      "relatedEntry": "foodway-9"
+    },
+    {
+      "number": 84,
+      "id": "foodways-completion-b-20",
+      "name": "Saltfish buljol",
+      "category": "Fish & seafood",
+      "status": "related-evidence",
+      "sourceIds": [
+        "FW-S076"
+      ],
+      "note": "The inspected Jamaican source is pick-up saltfish. It does not authenticate the archived buljol preparation or justify labelling a wider-Caribbean name exclusively Jamaican.",
+      "formulaStatus": "withheld-unverified",
+      "kitchenStatus": "not-tested",
+      "historicalOrigin": "not-established-by-recipe-source",
+      "regionalAttribution": "None inferred",
+      "sourceClarificationRequired": false,
+      "archivedFormulaFingerprint": [
+        "350 g salted cod",
+        "2 tomatoes"
+      ],
+      "reviewedOn": "2026-10-16"
+    },
+    {
+      "number": 85,
+      "id": "foodways-completion-c-1",
+      "name": "Gizzada",
+      "category": "Sweet dishes",
+      "status": "dish-only",
+      "sourceIds": [
+        "FW-S077"
+      ],
+      "note": "Grace’s gizzada page provides pastry quantities and mentions coconut filling without a filling formula. It establishes the dish but is incomplete as a standalone recipe.",
+      "formulaStatus": "withheld-unverified",
+      "kitchenStatus": "not-tested",
+      "historicalOrigin": "not-established-by-recipe-source",
+      "regionalAttribution": "None inferred",
+      "sourceClarificationRequired": true,
+      "archivedFormulaFingerprint": [
+        "240 g flour",
+        "120 g butter"
+      ],
+      "reviewedOn": "2026-10-16"
+    },
+    {
+      "number": 86,
+      "id": "foodways-completion-c-2",
+      "name": "Grater cake",
+      "category": "Sweet dishes",
+      "status": "published-preparation",
+      "sourceIds": [
+        "FW-S078"
+      ],
+      "note": "Grace documents a pink-topped grated-coconut sweet. This is distinct from the diced coconut used in drops.",
+      "formulaStatus": "withheld-unverified",
+      "kitchenStatus": "not-tested",
+      "historicalOrigin": "not-established-by-recipe-source",
+      "regionalAttribution": "None inferred",
+      "sourceClarificationRequired": false,
+      "archivedFormulaFingerprint": [
+        "350 g freshly grated coconut",
+        "250 g sugar"
+      ],
+      "reviewedOn": "2026-10-16"
+    },
+    {
+      "number": 87,
+      "id": "foodways-completion-c-3",
+      "name": "Peanut drops",
+      "category": "Sweet dishes",
+      "status": "published-preparation",
+      "sourceIds": [
+        "FW-S079"
+      ],
+      "note": "Lesa documents peanut drops with ginger and sugar. Do not substitute this evidence for coconut drops; the nut allergen remains relevant.",
+      "formulaStatus": "withheld-unverified",
+      "kitchenStatus": "not-tested",
+      "historicalOrigin": "not-established-by-recipe-source",
+      "regionalAttribution": "None inferred",
+      "sourceClarificationRequired": false,
+      "archivedFormulaFingerprint": [
+        "300 g roasted unsalted peanuts",
+        "250 g brown sugar"
+      ],
+      "reviewedOn": "2026-10-16"
+    },
+    {
+      "number": 88,
+      "id": "foodways-completion-c-4",
+      "name": "Plantain tart",
+      "category": "Sweet dishes",
+      "status": "published-preparation",
+      "sourceIds": [
+        "FW-S080"
+      ],
+      "note": "Winsome Murphy publishes plantain tarts with separate pastry and filling sections. This is a named published preparation, not an authenticated match for the archive.",
+      "formulaStatus": "withheld-unverified",
+      "kitchenStatus": "not-tested",
+      "historicalOrigin": "not-established-by-recipe-source",
+      "regionalAttribution": "None inferred",
+      "sourceClarificationRequired": false,
+      "archivedFormulaFingerprint": [
+        "300 g flour",
+        "150 g butter"
+      ],
+      "reviewedOn": "2026-10-16"
+    },
+    {
+      "number": 89,
+      "id": "foodways-completion-c-5",
+      "name": "Sweet potato pone",
+      "category": "Sweet dishes",
+      "status": "documented-variation",
+      "sourceIds": [
+        "FW-S081"
+      ],
+      "note": "Grace publishes a sweet-potato pone with optional yam and both fire and oven methods. It differs from the pudding source; preserve rather than erase that variation.",
+      "formulaStatus": "withheld-unverified",
+      "kitchenStatus": "not-tested",
+      "historicalOrigin": "not-established-by-recipe-source",
+      "regionalAttribution": "None inferred",
+      "sourceClarificationRequired": false,
+      "archivedFormulaFingerprint": [
+        "750 g grated Caribbean sweet potato",
+        "350 ml coconut milk"
+      ],
+      "reviewedOn": "2026-10-16"
+    },
+    {
+      "number": 90,
+      "id": "foodways-completion-c-6",
+      "name": "Cassava pone",
+      "category": "Sweet dishes",
+      "status": "published-preparation",
+      "sourceIds": [
+        "FW-S082"
+      ],
+      "note": "Grace publishes cassava pone with sweet potato, but its method mentions unquantified vanilla. Cassava variety and safe processing still need independent validation.",
+      "formulaStatus": "withheld-unverified",
+      "kitchenStatus": "not-tested",
+      "historicalOrigin": "not-established-by-recipe-source",
+      "regionalAttribution": "None inferred",
+      "sourceClarificationRequired": true,
+      "archivedFormulaFingerprint": [
+        "700 g commercially processed food-safe grated cassava",
+        "350 ml coconut milk"
+      ],
+      "reviewedOn": "2026-10-16"
+    },
+    {
+      "number": 91,
+      "id": "foodways-completion-c-7",
+      "name": "Asham",
+      "category": "Sweet dishes",
+      "status": "documented-variation",
+      "sourceIds": [
+        "FW-S083"
+      ],
+      "note": "Charla publishes a modern asham preparation and describes the older parching-and-pounding practice. Her kitchen method is not an unchanged historical transcript.",
+      "formulaStatus": "withheld-unverified",
+      "kitchenStatus": "not-tested",
+      "historicalOrigin": "not-established-by-recipe-source",
+      "regionalAttribution": "None inferred",
+      "sourceClarificationRequired": false,
+      "archivedFormulaFingerprint": [
+        "250 g dried roasted cornmeal",
+        "120 g brown sugar"
+      ],
+      "reviewedOn": "2026-10-16"
+    },
+    {
+      "number": 92,
+      "id": "foodways-completion-c-8",
+      "name": "Blue draws (duckunoo)",
+      "category": "Sweet dishes",
+      "status": "published-preparation",
+      "sourceIds": [
+        "FW-S084"
+      ],
+      "note": "Grace publishes a banana-leaf-wrapped cornmeal duckunoo with optional raisins and orange sauce. It does not establish that every blue-draws version uses the same starch.",
+      "formulaStatus": "withheld-unverified",
+      "kitchenStatus": "not-tested",
+      "historicalOrigin": "not-established-by-recipe-source",
+      "regionalAttribution": "None inferred",
+      "sourceClarificationRequired": false,
+      "archivedFormulaFingerprint": [
+        "350 g fine cornmeal",
+        "250 g grated coconut"
+      ],
+      "reviewedOn": "2026-10-16"
+    },
+    {
+      "number": 93,
+      "id": "foodways-completion-c-9",
+      "name": "Toto cake",
+      "category": "Sweet dishes",
+      "status": "published-preparation",
+      "sourceIds": [
+        "FW-S104"
+      ],
+      "note": "Grace “Grandma” Reynolds publishes coconut toto. The recipe is documented; its accompanying slavery-era origin story lacks the historical evidence needed for repetition as fact.",
+      "formulaStatus": "withheld-unverified",
+      "kitchenStatus": "not-tested",
+      "historicalOrigin": "not-established-by-recipe-source",
+      "regionalAttribution": "None inferred",
+      "sourceClarificationRequired": false,
+      "archivedFormulaFingerprint": [
+        "300 g flour",
+        "200 g grated coconut"
+      ],
+      "reviewedOn": "2026-10-16"
+    },
+    {
+      "number": 94,
+      "id": "foodways-completion-c-10",
+      "name": "Black cake",
+      "category": "Sweet dishes",
+      "status": "documented-variation",
+      "sourceIds": [
+        "FW-S086"
+      ],
+      "note": "Chef Sian Rose attributes this black cake to her mother’s family recipe. The claimed generations are her testimony, not independently verified genealogy.",
+      "formulaStatus": "withheld-unverified",
+      "kitchenStatus": "not-tested",
+      "historicalOrigin": "not-established-by-recipe-source",
+      "regionalAttribution": "None inferred",
+      "sourceClarificationRequired": false,
+      "archivedFormulaFingerprint": [
+        "300 g mixed dried fruit",
+        "200 ml dark rum or fruit juice"
+      ],
+      "reviewedOn": "2026-10-16"
+    },
+    {
+      "number": 95,
+      "id": "foodways-completion-c-11",
+      "name": "Rum cake",
+      "category": "Sweet dishes",
+      "status": "documented-variation",
+      "sourceIds": [
+        "FW-S087"
+      ],
+      "note": "Miss G publishes a fruit-based rum/Christmas cake. This overlaps black cake; it does not stand for every plain rum-soaked sponge sold as “rum cake”.",
+      "formulaStatus": "withheld-unverified",
+      "kitchenStatus": "not-tested",
+      "historicalOrigin": "not-established-by-recipe-source",
+      "regionalAttribution": "None inferred",
+      "sourceClarificationRequired": false,
+      "archivedFormulaFingerprint": [
+        "250 g flour",
+        "180 g butter"
+      ],
+      "reviewedOn": "2026-10-16",
+      "relatedEntry": "foodways-completion-c-10"
+    },
+    {
+      "number": 96,
+      "id": "foodways-completion-c-12",
+      "name": "Guava cheese",
+      "category": "Sweet dishes",
+      "status": "related-evidence",
+      "sourceIds": [
+        "FW-S088"
+      ],
+      "note": "The inspected guava-cheese account concerns Nevis and the wider Caribbean. It is comparative evidence, not proof of a Jamaican preparation or of the archived formula.",
+      "formulaStatus": "withheld-unverified",
+      "kitchenStatus": "not-tested",
+      "historicalOrigin": "not-established-by-recipe-source",
+      "regionalAttribution": "None inferred",
+      "sourceClarificationRequired": false,
+      "archivedFormulaFingerprint": [
+        "500 g strained ripe guava pulp",
+        "400 g sugar"
+      ],
+      "reviewedOn": "2026-10-16"
+    },
+    {
+      "number": 97,
+      "id": "foodways-completion-c-13",
+      "name": "Irish moss drink",
+      "category": "Drinks",
+      "status": "published-preparation",
+      "sourceIds": [
+        "FW-S089"
+      ],
+      "note": "Winsome Murphy publishes an Irish-moss drink. The source’s medicinal or stamina associations are not verified health effects and are not adopted here.",
+      "formulaStatus": "withheld-unverified",
+      "kitchenStatus": "not-tested",
+      "historicalOrigin": "not-established-by-recipe-source",
+      "regionalAttribution": "None inferred",
+      "sourceClarificationRequired": false,
+      "archivedFormulaFingerprint": [
+        "40 g commercially cleaned dried edible sea moss",
+        "1.2 L water"
+      ],
+      "reviewedOn": "2026-10-16"
+    },
+    {
+      "number": 98,
+      "id": "foodways-completion-c-14",
+      "name": "Carrot juice Jamaican style",
+      "category": "Drinks",
+      "status": "documented-variation",
+      "sourceIds": [
+        "FW-S090"
+      ],
+      "note": "Chef Noel Cunningham’s carrot drink contains Guinness and milk-based products. Label the alcohol and dairy; a non-alcoholic version needs separate attribution.",
+      "formulaStatus": "withheld-unverified",
+      "kitchenStatus": "not-tested",
+      "historicalOrigin": "not-established-by-recipe-source",
+      "regionalAttribution": "None inferred",
+      "sourceClarificationRequired": false,
+      "archivedFormulaFingerprint": [
+        "600 g carrots",
+        "1 L water"
+      ],
+      "reviewedOn": "2026-10-16"
+    },
+    {
+      "number": 99,
+      "id": "foodways-completion-c-15",
+      "name": "Peanut punch",
+      "category": "Drinks",
+      "status": "documented-variation",
+      "sourceIds": [
+        "FW-S091"
+      ],
+      "note": "Lesa publishes peanut punch and distinguishes adult and child-friendly versions. Alcohol and dairy choices belong to the selected version, not an assumed single recipe.",
+      "formulaStatus": "withheld-unverified",
+      "kitchenStatus": "not-tested",
+      "historicalOrigin": "not-established-by-recipe-source",
+      "regionalAttribution": "None inferred",
+      "sourceClarificationRequired": false,
+      "archivedFormulaFingerprint": [
+        "200 g unsalted roasted peanuts",
+        "1 L water"
+      ],
+      "reviewedOn": "2026-10-16"
+    },
+    {
+      "number": 100,
+      "id": "foodways-completion-c-16",
+      "name": "June plum juice",
+      "category": "Drinks",
+      "status": "published-preparation",
+      "sourceIds": [
+        "FW-S092"
+      ],
+      "note": "Chef Noel Cunningham publishes a June-plum and ginger drink. It establishes his preparation without validating the archive’s fruit-to-water ratio.",
+      "formulaStatus": "withheld-unverified",
+      "kitchenStatus": "not-tested",
+      "historicalOrigin": "not-established-by-recipe-source",
+      "regionalAttribution": "None inferred",
+      "sourceClarificationRequired": false,
+      "archivedFormulaFingerprint": [
+        "600 g ripe june plums",
+        "1 L water"
+      ],
+      "reviewedOn": "2026-10-16"
+    },
+    {
+      "number": 101,
+      "id": "foodways-completion-c-17",
+      "name": "Tamarind juice",
+      "category": "Drinks",
+      "status": "published-preparation",
+      "sourceIds": [
+        "FW-S093"
+      ],
+      "note": "Lesa publishes tamarind drink. Seed removal and dilution belong to her documented preparation; no medicinal claims are adopted.",
+      "formulaStatus": "withheld-unverified",
+      "kitchenStatus": "not-tested",
+      "historicalOrigin": "not-established-by-recipe-source",
+      "regionalAttribution": "None inferred",
+      "sourceClarificationRequired": false,
+      "archivedFormulaFingerprint": [
+        "250 g seedless tamarind pulp",
+        "1.2 L water"
+      ],
+      "reviewedOn": "2026-10-16"
+    },
+    {
+      "number": 102,
+      "id": "foodways-completion-c-18",
+      "name": "Coconut water",
+      "category": "Drinks",
+      "status": "dish-only",
+      "sourceIds": [
+        "FW-S108"
+      ],
+      "note": "Jamaica’s Scientific Research Council documents coconut-water processing work. Coconut water is an ingredient or beverage, not a compound recipe authenticated by that account.",
+      "formulaStatus": "withheld-unverified",
+      "kitchenStatus": "not-tested",
+      "historicalOrigin": "not-established-by-recipe-source",
+      "regionalAttribution": "None inferred",
+      "sourceClarificationRequired": false,
+      "archivedFormulaFingerprint": [
+        "2 to 3 fresh drinking coconuts with approximately 1 L clear water total"
+      ],
+      "reviewedOn": "2026-10-16"
+    },
+    {
+      "number": 103,
+      "id": "foodways-completion-c-19",
+      "name": "Mauby",
+      "category": "Drinks",
+      "status": "related-evidence",
+      "sourceIds": [
+        "FW-S095"
+      ],
+      "note": "Cynthia Nelson’s mauby account documents her family’s wider-Caribbean practice in a Guyanese publication. It does not establish a Jamaican recipe; do not import that identity.",
+      "formulaStatus": "withheld-unverified",
+      "kitchenStatus": "not-tested",
+      "historicalOrigin": "not-established-by-recipe-source",
+      "regionalAttribution": "None inferred",
+      "sourceClarificationRequired": false,
+      "archivedFormulaFingerprint": [
+        "30 g commercially sold edible mauby bark",
+        "1.5 L water"
+      ],
+      "reviewedOn": "2026-10-16"
+    },
+    {
+      "number": 104,
+      "id": "foodways-completion-c-20",
+      "name": "Cerasee tea",
+      "category": "Drinks",
+      "status": "dish-only",
+      "sourceIds": [
+        "FW-S096"
+      ],
+      "note": "Jamaican producer Tops publishes cerasee teabag directions. This supports a commercial infusion, not the archived fresh-vine formula or any treatment claim.",
+      "formulaStatus": "withheld-unverified",
+      "kitchenStatus": "not-tested",
+      "historicalOrigin": "not-established-by-recipe-source",
+      "regionalAttribution": "None inferred",
+      "sourceClarificationRequired": false,
+      "archivedFormulaFingerprint": [
+        "8 g food-grade dried cerasee",
+        "800 ml water"
+      ],
+      "reviewedOn": "2026-10-16"
+    },
+    {
+      "number": 105,
+      "id": "foodways-completion-c-21",
+      "name": "Guava jam",
+      "category": "Drinks & preserves",
+      "status": "unresolved",
+      "sourceIds": [
+        "FW-S097"
+      ],
+      "note": "JamaicanBikkle publishes a guava-jam formula and family anecdote but does not identify the cook on the inspected page. Attribution and a validated storage process remain outstanding.",
+      "formulaStatus": "withheld-unverified",
+      "kitchenStatus": "not-tested",
+      "historicalOrigin": "not-established-by-recipe-source",
+      "regionalAttribution": "None inferred",
+      "sourceClarificationRequired": true,
+      "archivedFormulaFingerprint": [
+        "800 g ripe guavas",
+        "500 g sugar"
+      ],
+      "reviewedOn": "2026-10-16"
+    },
+    {
+      "number": 106,
+      "id": "foodways-completion-c-22",
+      "name": "June plum chutney",
+      "category": "Drinks & preserves",
+      "status": "unresolved",
+      "sourceIds": [
+        "FW-S098"
+      ],
+      "note": "A 2007 Gleaner June-plum article and a PBC Jamaica chutney video were located, but the article failed to decode and the full broadcast was not inspected. No recipe authentication is claimed.",
+      "formulaStatus": "withheld-unverified",
+      "kitchenStatus": "not-tested",
+      "historicalOrigin": "not-established-by-recipe-source",
+      "regionalAttribution": "None inferred",
+      "sourceClarificationRequired": false,
+      "archivedFormulaFingerprint": [
+        "600 g peeled june plum flesh",
+        "200 ml vinegar"
+      ],
+      "reviewedOn": "2026-10-16"
+    },
+    {
+      "number": 107,
+      "id": "foodways-completion-c-23",
+      "name": "Pepper sauce",
+      "category": "Drinks & preserves",
+      "status": "published-preparation",
+      "sourceIds": [
+        "FW-S105"
+      ],
+      "note": "King’s Jamaican publishes a refrigerated pepper sauce. It supplies no validated shelf-stable canning process; the archived bottle-storage formula remains withheld.",
+      "formulaStatus": "withheld-unverified",
+      "kitchenStatus": "not-tested",
+      "historicalOrigin": "not-established-by-recipe-source",
+      "regionalAttribution": "None inferred",
+      "sourceClarificationRequired": true,
+      "archivedFormulaFingerprint": [
+        "150 g Scotch bonnet peppers",
+        "150 ml vinegar"
+      ],
+      "reviewedOn": "2026-10-16"
+    }
+  ],
+  "sourceRecordedPreparations": 5,
+  "localKitchenTests": 0
+}

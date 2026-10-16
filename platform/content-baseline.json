@@ -1,7 +1,7 @@
 {
-  "jamaica/src/template.html": "2d490328d3a30bbb8e756195071125f9d9d9a1585eaa3a07c350c7df9126ff89",
+  "jamaica/src/template.html": "82a25df29f4fcd085a3acf55436f83c2265ea8b4f5b931d84678f1ccc598b3c5",
   "jamaica/src/manifest.json": "60e80d276bd81708b77692b24d6ae36299253b0bc2e60d241147a255b195cd54",
-  "jamaica/src/layout/header.html": "31a679718993c6dd871966b839f7b86e40d93a23e2878ff913214653ab26e331",
+  "jamaica/src/layout/header.html": "8af9b7862c92f02ba4b051b2bfc0968eab44e2eff85df2089987c7d24a2a8149",
   "jamaica/src/layout/footer.html": "9f8bfcb728f9dae075397c27f6412c273d31f142268dd72a93086f33d185c800",
   "jamaica/src/routes/route-stelizabeth-freedom-land.html": "6b84a93fbaef8f2aba53c6637b73ce10be32ed565ceeff3390e79fd866aa959c",
   "jamaica/src/routes/route-stmary-garden-country-commerce.html": "2bcd6bc597ff804024aee33a1e62f4e1a545d992885624f6159a17bc6407b951",
@@ -212,7 +212,7 @@
   "jamaica/src/pages/voices.html": "87eb531bc329e9ce248b228008ce50759d11412794e86153723bc980c811dfb6",
   "jamaica/src/pages/conditions.html": "99579103539dd2af5b654e53704eabf24b1d8362a2d95d8f2a40d121188f5840",
   "jamaica/src/pages/tools.html": "ef80ee005ca54ee0f497382b47a388c6b38b074e8da89f3ffef8a6e04caa6eb3",
-  "jamaica/src/pages/food.html": "67b003649f94f9e2c0cfe7324ae0a3a81c4f430508ce95dac118b261de6afbdd",
+  "jamaica/src/pages/food.html": "4b2497b355aebd671b04ab6e05e75d07ba18f2b73a0bc78c95c7422362f8a1ea",
   "jamaica/src/pages/cruise.html": "1263c57a82ce2270fbba063d3ba0af8e321521aae30a18eddd2f45c226c90a33",
   "jamaica/src/pages/safety.html": "561c9909dfcf5e86429f84a28e8111ad8ad170fa63270bac0c73e0c295fc267e",
   "jamaica/src/pages/watch.html": "fa26bdb7a8b782401a71c1b4098732bf8b29bdcc88db34b7aa81356df829f17e",

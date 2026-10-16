@@ -1,6 +1,6 @@
 {
   "status": "Editorial research crosswalk; linked sources support broad history, not necessarily a specific modern recipe",
-  "verified_on": "2026-10-15",
+  "verified_on": "2026-10-16",
   "sources": [
     {
       "id": "HIGMAN08",
@@ -38,6 +38,24 @@
       "url": "https://history.cass.anu.edu.au/research/publications/jamaican-food-history-biology-culture",
       "scope": "Taíno cassava and Maroon jerk historical topic coverage",
       "limitation": "Book description is secondary metadata, not proof of exact recipes"
+    },
+    {
+      "id": "EDWARDS26",
+      "author": "Thera Edwards, Nicole Plummer and Charmaine McKenzie",
+      "work": "Grounds and Gardens in Jamaica: Rooting Black Resistance and Resilience",
+      "publisher": "Public Humanities 2, e126, pp. 1–20",
+      "year": 2026,
+      "url": "https://doi.org/10.1017/pub.2026.10241",
+      "scope": "Provision grounds, marginal landscapes, household production and exchange; introductory argument inspected, pp. 1–4",
+      "limitation": "Does not authenticate a modern recipe. No article figures reproduced."
+    },
+    {
+      "id": "ITAL-CONTEMPORARY",
+      "author": "Charla; Original Flava",
+      "work": "Ital Stew; Ital Rundown",
+      "url": "https://originalflava.com/vegan/ital-rundown/",
+      "scope": "Named contemporary culinary interpretations",
+      "limitation": "Not a survey of Rastafari religious practice; NLJ Ital attribution in the prior draft was not substantiated and was removed."
     }
   ],
   "essays": [
@@ -46,7 +64,8 @@
       "title": "The provision ground was more than a garden",
       "sources": [
         "SLOCUM24",
-        "HIGMAN08"
+        "HIGMAN08",
+        "EDWARDS26"
       ],
       "relevant_recipes": [
         "Boiled yam and dumpling",
@@ -73,7 +92,8 @@
       "title": "Markets built by women, farmers and vendors",
       "sources": [
         "SLOCUM24",
-        "HIGMAN08"
+        "HIGMAN08",
+        "EDWARDS26"
       ],
       "relevant_recipes": [
         "Pepper shrimp",
@@ -137,7 +157,8 @@
       "essay": 8,
       "title": "Ital food as religious and ethical practice",
       "sources": [
-        "HIGMAN08"
+        "HIGMAN08",
+        "ITAL-CONTEMPORARY"
       ],
       "relevant_recipes": [
         "Ital stew",
@@ -147,9 +168,71 @@
     }
   ],
   "research_review": {
-    "reviewed": "2026-10-15",
+    "reviewed": "2026-10-16",
     "publisher_confirmation": "https://www.uwipress.com/9789766409111/jamaican-food/",
-    "status": "Publisher verifies broad subject coverage; precise dish-origin claims still need primary or paginated sources",
+    "status": "Publisher metadata, accessible introductory scholarship and recipe sources checked separately. Full cookbook pages, oral testimony and contested origin claims remain outstanding.",
     "editorial_consequence": "Recipe-history links indicate relevant context, never proof of a unique origin"
-  }
+  },
+  "reading_notes": [
+    {
+      "number": 1,
+      "title": "Why Jamaicans eat what they eat",
+      "evidence_status": "Interpretive reading note; linked evidence scope visible in the article; not a fully authenticated historical monograph"
+    },
+    {
+      "number": 2,
+      "title": "Taíno food knowledge and cassava",
+      "evidence_status": "Interpretive reading note; linked evidence scope visible in the article; not a fully authenticated historical monograph"
+    },
+    {
+      "number": 3,
+      "title": "Food, slavery and the plantation economy",
+      "evidence_status": "Interpretive reading note; linked evidence scope visible in the article; not a fully authenticated historical monograph"
+    },
+    {
+      "number": 4,
+      "title": "African continuities and Jamaican change",
+      "evidence_status": "Interpretive reading note; linked evidence scope visible in the article; not a fully authenticated historical monograph"
+    },
+    {
+      "number": 5,
+      "title": "Jerk beyond a restaurant label",
+      "evidence_status": "Interpretive reading note; linked evidence scope visible in the article; not a fully authenticated historical monograph"
+    },
+    {
+      "number": 6,
+      "title": "Saltfish, imports and local meals",
+      "evidence_status": "Interpretive reading note; linked evidence scope visible in the article; not a fully authenticated historical monograph"
+    },
+    {
+      "number": 7,
+      "title": "Coconut, rundown and regional variation",
+      "evidence_status": "Interpretive reading note; linked evidence scope visible in the article; not a fully authenticated historical monograph"
+    },
+    {
+      "number": 8,
+      "title": "Peas, rice and Sunday dinner",
+      "evidence_status": "Interpretive reading note; linked evidence scope visible in the article; not a fully authenticated historical monograph"
+    },
+    {
+      "number": 9,
+      "title": "Celebration foods and community memory",
+      "evidence_status": "Interpretive reading note; linked evidence scope visible in the article; not a fully authenticated historical monograph"
+    },
+    {
+      "number": 10,
+      "title": "The diaspora pantry",
+      "evidence_status": "Interpretive reading note; linked evidence scope visible in the article; not a fully authenticated historical monograph"
+    },
+    {
+      "number": 11,
+      "title": "Food markets as living institutions",
+      "evidence_status": "Interpretive reading note; linked evidence scope visible in the article; not a fully authenticated historical monograph"
+    },
+    {
+      "number": 12,
+      "title": "How this collection handles evidence",
+      "evidence_status": "Interpretive reading note; linked evidence scope visible in the article; not a fully authenticated historical monograph"
+    }
+  ]
 }

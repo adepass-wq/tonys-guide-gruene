@@ -1,1 +1,25 @@
-const test=require('node:test');const assert=require('node:assert/strict');const fs=require('node:fs');const path=require('node:path');const {JSDOM}=require('jsdom');const root=path.resolve(__dirname,'..');test('Built Foodways UI renders 107 recipes and filters by category and query',()=>{const html=fs.readFileSync(path.join(root,'index.html'),'utf8');const dom=new JSDOM(html,{url:'https://jamaica.tonysguide.com/',runScripts:'outside-only'});const {window}=dom,d=window.document;assert(d.getElementById('foodways'),'Missing Foodways page');assert(d.getElementById('foodways-completion-a'),'Missing completion data');const js=fs.readFileSync(path.join(root,'src/scripts/foodways.js'),'utf8');window.eval(js);const grid=d.getElementById('foodways-grid');assert.equal(grid.querySelectorAll('.foodways-card').length,107);const category=d.getElementById('foodways-category');category.value='Fish & seafood';category.dispatchEvent(new window.Event('change'));assert(grid.querySelectorAll('.foodways-card').length>0);const input=d.getElementById('foodways-query');input.value='sorrel';input.dispatchEvent(new window.Event('input'));assert.equal(grid.querySelectorAll('.foodways-card').length,0);category.value='';category.dispatchEvent(new window.Event('change'));assert.equal(grid.querySelectorAll('.foodways-card').length,1);assert.equal(grid.querySelector('h3').textContent,'Sorrel drink');dom.window.close()});test('Built Foodways research index has no leftover dishes masquerading as incomplete',()=>{const html=fs.readFileSync(path.join(root,'index.html'),'utf8');const dom=new JSDOM(html,{url:'https://jamaica.tonysguide.com/',runScripts:'outside-only'});const {window}=dom,d=window.document;window.eval(fs.readFileSync(path.join(root,'src/scripts/foodways-inventory.js'),'utf8'));assert.equal(d.querySelectorAll('#foodways-inventory-grid .foodways-card').length,0);for(let i=1;i<=8;i++)assert(d.getElementById('foodways-essay-'+i));assert(d.querySelector('a[href="#foodways"]'));dom.window.close()});
+const test=require('node:test'),assert=require('node:assert/strict');const {site}=require('./helpers.cjs');
+test('Foodways routes, search, combined filters and reset work without exposing archive formulas',()=>{
+ const s=site();try{
+ s.route('foodways');assert(!s.E('foodways').hidden);const visible=()=>[...s.d.querySelectorAll('#foodways-grid .foodways-entry')].filter(x=>!x.hidden);
+ assert.equal(visible().length,107);s.input('foodways-evidence-filter','sourced');assert.equal(visible().length,89);
+ s.input('foodways-query','sorrel','input');assert.equal(visible().length,1);assert.equal(visible()[0].querySelector('h3').textContent,'Sorrel drink');
+ s.input('foodways-category','Breads');assert.equal(visible().length,0);assert(!s.E('foodways-empty').hidden);
+ s.E('foodways-reset').click();assert.equal(visible().length,107);assert.equal(s.d.activeElement,s.E('foodways-query'));
+ s.input('foodways-query','<img src=x onerror=alert(1)>','input');assert.equal(visible().length,0);assert(!s.E('foodways-grid').querySelector('img'));
+ s.route('foodways-completion-b-20');assert.equal(s.E('foodways-query').value,'');assert(!s.E('foodways-completion-b-20').hidden);assert(!s.E('foodways').hidden);
+ assert(!s.d.getElementById('foodways-completion-a'));assert(!s.E('foodways').textContent.includes('800 g bone-in goat'));assert.deepEqual(s.errors,[]);
+ }finally{s.close();}
+});
+test('Foodways controls and records are accessible, static and linked to existing guide destinations',()=>{
+ const s=site();try{
+ for(const id of ['foodways-query','foodways-category','foodways-evidence-filter'])assert(s.d.querySelector('label[for="'+id+'"]'));
+ assert.equal(s.E('foodways-count').getAttribute('role'),'status');
+ const data=require('../src/data/foodways-authentication.json');for(const c of new Set(data.entries.map(x=>x.category)))assert([...s.E('foodways-category').options].some(x=>x.value===c),c);
+ for(const a of s.E('foodways').querySelectorAll('a[href^="#"]'))assert(s.E(a.hash.slice(1)),'Broken Foodways destination '+a.hash);
+ assert.equal(s.d.querySelectorAll('#foodways-grid article').length,107);assert.equal(s.d.querySelectorAll('#foodways-grid .foodways-preparation').length,3);assert(!s.E('foodways-next-5').querySelector('.foodways-preparation'));assert(!s.E('foodways-completion-a-19').querySelector('.foodways-preparation'));assert(s.d.querySelectorAll('#foodways-grid .foodways-source-review>summary').length===107);
+ for(const link of s.E('foodways').querySelectorAll('a[target="_blank"]'))assert(link.rel.includes('noopener'));
+ for(const id of ['foodways-deep-history','foodways-history','foodways-inventory','foodways-field','foodways-standards']){s.route(id);assert(!s.E('foodways').hidden);}
+ assert.deepEqual(s.errors,[]);
+ }finally{s.close();}
+});

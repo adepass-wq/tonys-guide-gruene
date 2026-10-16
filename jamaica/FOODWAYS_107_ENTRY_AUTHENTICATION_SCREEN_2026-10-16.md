@@ -1,3 +1,5 @@
+> Historical audit snapshot. Superseded for current counts and implementation by [the staging report](FOODWAYS_STAGING_REPORT_2026-10-16.md) and [entry-by-entry register](FOODWAYS_ENTRY_REGISTER_2026-10-16.md). Earlier source gaps must not be read as claims that dishes do not exist.
+
 # Jamaican Foodways — comprehensive 107-entry authentication screening
 
 Date: 2026-10-16. Branch: staging/jamaica-foodways-2026-10-15. STAGING ONLY; NO PRODUCTION RELEASE.

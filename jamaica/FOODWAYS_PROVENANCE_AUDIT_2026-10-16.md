@@ -1,3 +1,5 @@
+> Historical audit snapshot. Superseded for current counts and implementation by [the staging report](FOODWAYS_STAGING_REPORT_2026-10-16.md) and [entry-by-entry register](FOODWAYS_ENTRY_REGISTER_2026-10-16.md). Earlier source gaps must not be read as claims that dishes do not exist.
+
 # Jamaican Foodways — recipe provenance and publication gate
 
 Updated 2026-10-16. STAGING ONLY. No merge or production publication authorized.

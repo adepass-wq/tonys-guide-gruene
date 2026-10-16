@@ -1,0 +1,24 @@
+{
+  "date": "2026-10-16",
+  "changes": [
+    {
+      "path": "jamaica/src/template.html",
+      "priorProtectedSha256": "2d490328d3a30bbb8e756195071125f9d9d9a1585eaa3a07c350c7df9126ff89",
+      "reviewedSha256": "82a25df29f4fcd085a3acf55436f83c2265ea8b4f5b931d84678f1ccc598b3c5",
+      "reason": "Approved Foodways page/style/module integration; remove embedded unverified formulas and obsolete runtime inventory."
+    },
+    {
+      "path": "jamaica/src/layout/header.html",
+      "priorProtectedSha256": "31a679718993c6dd871966b839f7b86e40d93a23e2878ff913214653ab26e331",
+      "reviewedSha256": "8af9b7862c92f02ba4b051b2bfc0968eab44e2eff85df2089987c7d24a2a8149",
+      "reason": "Prior staging adds only a Foodways navigation link; all preceding destinations preserved."
+    },
+    {
+      "path": "jamaica/src/pages/food.html",
+      "priorProtectedSha256": "67b003649f94f9e2c0cfe7324ae0a3a81c4f430508ce95dac118b261de6afbdd",
+      "reviewedSha256": "4b2497b355aebd671b04ab6e05e75d07ba18f2b73a0bc78c95c7422362f8a1ea",
+      "reason": "Prior staging adds only a Foodways cross-link; all food listings and filter controls preserved."
+    }
+  ],
+  "scope": "Only these three reviewed integration files updated; all other baseline hashes retained."
+}
