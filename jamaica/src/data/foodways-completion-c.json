@@ -1,0 +1,473 @@
+{
+  "recipes": [
+    {
+      "id": "foodways-completion-c-1",
+      "name": "Gizzada",
+      "category": "Sweet dishes",
+      "servings": "12",
+      "ingredients": [
+        "240 g flour",
+        "120 g butter",
+        "80 ml cold water",
+        "250 g grated coconut",
+        "160 g brown sugar",
+        "1 tsp ginger",
+        "1/2 tsp nutmeg"
+      ],
+      "steps": [
+        "Rub butter into flour and add cold water to form a pastry dough; chill 20 minutes.",
+        "Simmer coconut, sugar, ginger and nutmeg with 60 ml water until thickened, then cool.",
+        "Roll pastry into circles, pinch rims into small cups and fill with cooled coconut mixture.",
+        "Bake at 180°C/355°F for 20–25 minutes until pastry is cooked."
+      ],
+      "status": "measured editorial draft; not kitchen-tested"
+    },
+    {
+      "id": "foodways-completion-c-2",
+      "name": "Grater cake",
+      "category": "Sweet dishes",
+      "servings": "12",
+      "ingredients": [
+        "350 g freshly grated coconut",
+        "250 g sugar",
+        "150 ml water",
+        "1/2 tsp vanilla",
+        "Red food coloring optional"
+      ],
+      "steps": [
+        "Line a heatproof tray with parchment.",
+        "Simmer coconut, sugar and water in a heavy pan, stirring often.",
+        "Cook until liquid largely evaporates and mass forms a thick sticky paste; stir in vanilla.",
+        "Press into a shallow tray, optionally tint half, and cut after cooling."
+      ],
+      "status": "measured editorial draft; not kitchen-tested"
+    },
+    {
+      "id": "foodways-completion-c-3",
+      "name": "Peanut drops",
+      "category": "Sweet dishes",
+      "servings": "16",
+      "ingredients": [
+        "300 g roasted unsalted peanuts",
+        "250 g brown sugar",
+        "180 ml water",
+        "1 tbsp grated ginger"
+      ],
+      "steps": [
+        "Line a baking tray with parchment.",
+        "Boil sugar and water until syrup thickens.",
+        "Stir in roasted peanuts and ginger and continue cooking until syrup coats nuts thickly.",
+        "Drop spoonfuls onto tray and cool fully; boiling sugar causes severe burns."
+      ],
+      "status": "measured editorial draft; not kitchen-tested"
+    },
+    {
+      "id": "foodways-completion-c-4",
+      "name": "Plantain tart",
+      "category": "Sweet dishes",
+      "servings": "8",
+      "ingredients": [
+        "300 g flour",
+        "150 g butter",
+        "90 ml cold water",
+        "3 very ripe plantains",
+        "90 g brown sugar",
+        "1/2 tsp cinnamon",
+        "1 tbsp lime juice"
+      ],
+      "steps": [
+        "Rub butter into flour, moisten with cold water, and refrigerate dough for 20 minutes.",
+        "Mash cooked, softened ripe plantains with sugar, cinnamon and lime; cool filling.",
+        "Roll dough and cut eight rounds, add filling and fold edges closed.",
+        "Bake at 190°C/375°F until pastry is golden and thoroughly cooked, about 25 minutes."
+      ],
+      "status": "measured editorial draft; not kitchen-tested"
+    },
+    {
+      "id": "foodways-completion-c-5",
+      "name": "Sweet potato pone",
+      "category": "Sweet dishes",
+      "servings": "8",
+      "ingredients": [
+        "750 g grated Caribbean sweet potato",
+        "350 ml coconut milk",
+        "150 g brown sugar",
+        "50 g flour",
+        "1 tsp ginger",
+        "1/2 tsp nutmeg"
+      ],
+      "steps": [
+        "Preheat oven to 175°C/350°F and grease a baking dish.",
+        "Mix grated sweet potato with coconut milk, sugar, flour and spices.",
+        "Spoon into dish and level surface.",
+        "Bake approximately 65–85 minutes until set throughout; cool before cutting."
+      ],
+      "status": "measured editorial draft; not kitchen-tested"
+    },
+    {
+      "id": "foodways-completion-c-6",
+      "name": "Cassava pone",
+      "category": "Sweet dishes",
+      "servings": "8",
+      "ingredients": [
+        "700 g commercially processed food-safe grated cassava",
+        "350 ml coconut milk",
+        "150 g brown sugar",
+        "50 g flour",
+        "1 tsp vanilla",
+        "1/2 tsp nutmeg"
+      ],
+      "steps": [
+        "Use only food-safe processed grated cassava and follow product instructions.",
+        "Mix cassava, coconut milk, sugar, flour and flavorings.",
+        "Pour into greased baking dish and spread evenly.",
+        "Bake at 175°C/350°F for 65–85 minutes until cooked and set; cool thoroughly."
+      ],
+      "status": "measured editorial draft; not kitchen-tested"
+    },
+    {
+      "id": "foodways-completion-c-7",
+      "name": "Asham",
+      "category": "Sweet dishes",
+      "servings": "12",
+      "ingredients": [
+        "250 g dried roasted cornmeal",
+        "120 g brown sugar",
+        "1/2 tsp cinnamon",
+        "1/2 tsp nutmeg",
+        "Pinch salt"
+      ],
+      "steps": [
+        "Toast cornmeal slowly in a dry heavy skillet, stirring frequently, until fragrant and lightly colored.",
+        "Cool completely, then grind further if coarse.",
+        "Mix with sugar, cinnamon, nutmeg and salt.",
+        "Serve dry in small portions or sprinkle over fruit; avoid inhaling fine powder."
+      ],
+      "status": "measured editorial draft; not kitchen-tested"
+    },
+    {
+      "id": "foodways-completion-c-8",
+      "name": "Blue draws (duckunoo)",
+      "category": "Sweet dishes",
+      "servings": "10",
+      "ingredients": [
+        "350 g fine cornmeal",
+        "250 g grated coconut",
+        "200 g grated sweet potato",
+        "150 g brown sugar",
+        "1 tsp cinnamon",
+        "1/2 tsp nutmeg",
+        "10 clean food-safe banana leaf squares"
+      ],
+      "steps": [
+        "Clean banana leaves carefully and briefly soften over steam or low heat until flexible.",
+        "Mix cornmeal, coconut, sweet potato, sugar and spices into a moist paste, adding water by spoonful if needed.",
+        "Place small portions on leaf squares and wrap securely with food-safe ties.",
+        "Steam over simmering water for approximately 60–80 minutes until centers are fully cooked; cool before opening."
+      ],
+      "status": "measured editorial draft; not kitchen-tested"
+    },
+    {
+      "id": "foodways-completion-c-9",
+      "name": "Toto cake",
+      "category": "Sweet dishes",
+      "servings": "10",
+      "ingredients": [
+        "300 g flour",
+        "200 g grated coconut",
+        "160 g brown sugar",
+        "200 ml coconut milk",
+        "2 tsp baking powder",
+        "1 tsp vanilla",
+        "1/2 tsp nutmeg"
+      ],
+      "steps": [
+        "Heat oven to 175°C/350°F; line a cake pan.",
+        "Combine flour, baking powder, nutmeg and sugar.",
+        "Fold in grated coconut, coconut milk and vanilla to form thick batter.",
+        "Bake 35–45 minutes until a skewer comes out without wet batter."
+      ],
+      "status": "measured editorial draft; not kitchen-tested"
+    },
+    {
+      "id": "foodways-completion-c-10",
+      "name": "Black cake",
+      "category": "Sweet dishes",
+      "servings": "12",
+      "ingredients": [
+        "300 g mixed dried fruit",
+        "200 ml dark rum or fruit juice",
+        "250 g flour",
+        "200 g butter",
+        "180 g brown sugar",
+        "4 eggs",
+        "1 tsp cinnamon",
+        "1 tsp baking powder",
+        "2 tbsp browning"
+      ],
+      "steps": [
+        "Soak dried fruit in rum or juice, refrigerate as appropriate, then finely chop or puree.",
+        "Cream butter and sugar, beat in eggs, then fold in flour, baking powder and cinnamon.",
+        "Fold in fruit and browning, pour into prepared deep cake tin.",
+        "Bake at 150°C/300°F for 90–120 minutes until center is set; cool completely before slicing."
+      ],
+      "status": "measured editorial draft; not kitchen-tested"
+    },
+    {
+      "id": "foodways-completion-c-11",
+      "name": "Rum cake",
+      "category": "Sweet dishes",
+      "servings": "12",
+      "ingredients": [
+        "250 g flour",
+        "180 g butter",
+        "160 g sugar",
+        "3 eggs",
+        "120 ml milk",
+        "60 ml dark rum",
+        "2 tsp baking powder",
+        "1 tsp vanilla"
+      ],
+      "steps": [
+        "Preheat oven to 175°C/350°F and grease a bundt or loaf tin.",
+        "Cream butter and sugar, beat in eggs one at a time.",
+        "Fold in flour, baking powder, milk, vanilla and rum.",
+        "Bake about 40–55 minutes until skewer comes out clean; cool and label alcohol content."
+      ],
+      "status": "measured editorial draft; not kitchen-tested"
+    },
+    {
+      "id": "foodways-completion-c-12",
+      "name": "Guava cheese",
+      "category": "Sweet dishes",
+      "servings": "20",
+      "ingredients": [
+        "500 g strained ripe guava pulp",
+        "400 g sugar",
+        "2 tbsp lime juice",
+        "Butter for pan"
+      ],
+      "steps": [
+        "Cook peeled guava with a little water until soft, then strain to remove all hard seeds.",
+        "Measure 500 g pulp, add sugar and lime, and simmer in a heavy pot.",
+        "Stir constantly as mixture thickens and begins to pull from sides.",
+        "Pour into buttered heatproof dish, cool completely and slice; boiling fruit sugar is hazardous."
+      ],
+      "status": "measured editorial draft; not kitchen-tested"
+    },
+    {
+      "id": "foodways-completion-c-13",
+      "name": "Irish moss drink",
+      "category": "Drinks",
+      "servings": "6",
+      "ingredients": [
+        "40 g commercially cleaned dried edible sea moss",
+        "1.2 L water",
+        "300 ml milk or coconut milk",
+        "1 tsp vanilla",
+        "1/2 tsp nutmeg",
+        "60 g sugar"
+      ],
+      "steps": [
+        "Rinse commercially prepared food-grade sea moss well according to package guidance.",
+        "Simmer in water until softened and thickening, about 20–30 minutes, then cool slightly.",
+        "Blend with milk, vanilla, nutmeg and sugar until smooth, using heat-safe methods.",
+        "Refrigerate promptly and serve chilled; check iodine and ingredient restrictions for consumers."
+      ],
+      "status": "measured editorial draft; not kitchen-tested"
+    },
+    {
+      "id": "foodways-completion-c-14",
+      "name": "Carrot juice Jamaican style",
+      "category": "Drinks",
+      "servings": "6",
+      "ingredients": [
+        "600 g carrots",
+        "1 L water",
+        "250 ml milk or coconut milk",
+        "1 tsp grated ginger",
+        "1/2 tsp nutmeg",
+        "60 g sugar"
+      ],
+      "steps": [
+        "Wash, peel and chop carrots.",
+        "Cook carrots in water until tender, then cool.",
+        "Blend with some cooking liquid until smooth and strain if desired.",
+        "Stir in milk, ginger, nutmeg and sugar; chill promptly."
+      ],
+      "status": "measured editorial draft; not kitchen-tested"
+    },
+    {
+      "id": "foodways-completion-c-15",
+      "name": "Peanut punch",
+      "category": "Drinks",
+      "servings": "6",
+      "ingredients": [
+        "200 g unsalted roasted peanuts",
+        "1 L water",
+        "250 ml milk",
+        "1/2 tsp nutmeg",
+        "1 tsp vanilla",
+        "80 g sugar"
+      ],
+      "steps": [
+        "Blend roasted peanuts with 400 ml water until very smooth.",
+        "Strain if a fine texture is desired.",
+        "Add remaining water, milk, nutmeg, vanilla and sugar and blend again.",
+        "Chill immediately and label prominently as containing peanuts."
+      ],
+      "status": "measured editorial draft; not kitchen-tested"
+    },
+    {
+      "id": "foodways-completion-c-16",
+      "name": "June plum juice",
+      "category": "Drinks",
+      "servings": "6",
+      "ingredients": [
+        "600 g ripe june plums",
+        "1 L water",
+        "60 g sugar",
+        "2 tbsp lime juice"
+      ],
+      "steps": [
+        "Wash fruit thoroughly, cut flesh away from large fibrous stones.",
+        "Blend flesh with water until pulpy.",
+        "Strain through a sieve and discard fibrous material.",
+        "Stir in sugar and lime to taste, chill and serve."
+      ],
+      "status": "measured editorial draft; not kitchen-tested"
+    },
+    {
+      "id": "foodways-completion-c-17",
+      "name": "Tamarind juice",
+      "category": "Drinks",
+      "servings": "6",
+      "ingredients": [
+        "250 g seedless tamarind pulp",
+        "1.2 L water",
+        "90 g sugar",
+        "1/2 tsp ginger optional"
+      ],
+      "steps": [
+        "Check tamarind for shell and seed fragments.",
+        "Soak pulp in warm water and break up with a spoon.",
+        "Strain to remove fibers and remaining solids.",
+        "Sweeten, add ginger if preferred, chill and serve."
+      ],
+      "status": "measured editorial draft; not kitchen-tested"
+    },
+    {
+      "id": "foodways-completion-c-18",
+      "name": "Coconut water",
+      "category": "Drinks",
+      "servings": "4",
+      "ingredients": [
+        "2 to 3 fresh drinking coconuts with approximately 1 L clear water total"
+      ],
+      "steps": [
+        "Wash outside of coconuts carefully before cutting.",
+        "Open using a clean, appropriate tool on a stable surface; avoid injury from sharp machetes.",
+        "Pour clear water into clean cups and check for off odors.",
+        "Consume promptly or refrigerate immediately; discard spoiled or discolored liquid."
+      ],
+      "status": "measured editorial draft; not kitchen-tested"
+    },
+    {
+      "id": "foodways-completion-c-19",
+      "name": "Mauby",
+      "category": "Drinks",
+      "servings": "6",
+      "ingredients": [
+        "30 g commercially sold edible mauby bark",
+        "1.5 L water",
+        "100 g sugar",
+        "2 cinnamon sticks",
+        "4 allspice berries"
+      ],
+      "steps": [
+        "Rinse mauby bark according to supplier instructions.",
+        "Simmer bark, cinnamon and allspice in water for 15–20 minutes.",
+        "Cool covered, strain and sweeten to balance bitterness.",
+        "Refrigerate and serve cold; use food-grade bark from a reputable supplier."
+      ],
+      "status": "measured editorial draft; not kitchen-tested"
+    },
+    {
+      "id": "foodways-completion-c-20",
+      "name": "Cerasee tea",
+      "category": "Drinks",
+      "servings": "4",
+      "ingredients": [
+        "8 g food-grade dried cerasee",
+        "800 ml water"
+      ],
+      "steps": [
+        "Use only a correctly identified, commercially food-grade product.",
+        "Bring water to boil, remove from heat and add dried leaves.",
+        "Steep covered briefly according to supplier instructions and strain.",
+        "Serve in small amounts; pregnancy, medications and blood sugar conditions warrant clinical advice rather than treating this as a medicine."
+      ],
+      "status": "measured editorial draft; not kitchen-tested"
+    },
+    {
+      "id": "foodways-completion-c-21",
+      "name": "Guava jam",
+      "category": "Drinks & preserves",
+      "servings": "2 small jars",
+      "ingredients": [
+        "800 g ripe guavas",
+        "500 g sugar",
+        "100 ml water",
+        "2 tbsp lime juice"
+      ],
+      "steps": [
+        "Wash, chop and simmer guavas in water until very soft.",
+        "Press pulp through sieve to remove seeds.",
+        "Cook pulp with sugar and lime until thick enough to coat spoon.",
+        "Transfer to clean containers, cool and refrigerate; this is refrigerator jam, not validated shelf-stable canning."
+      ],
+      "status": "measured editorial draft; not kitchen-tested"
+    },
+    {
+      "id": "foodways-completion-c-22",
+      "name": "June plum chutney",
+      "category": "Drinks & preserves",
+      "servings": "2 small jars",
+      "ingredients": [
+        "600 g peeled june plum flesh",
+        "200 ml vinegar",
+        "200 g brown sugar",
+        "1 onion",
+        "1 tsp ginger",
+        "1/2 tsp allspice"
+      ],
+      "steps": [
+        "Chop fruit and onion finely.",
+        "Combine vinegar, sugar, fruit, onion and seasonings in a saucepan.",
+        "Simmer gently 35–50 minutes, stirring until mixture thickens.",
+        "Cool and refrigerate in clean containers; not a shelf-stable canning procedure."
+      ],
+      "status": "measured editorial draft; not kitchen-tested"
+    },
+    {
+      "id": "foodways-completion-c-23",
+      "name": "Pepper sauce",
+      "category": "Drinks & preserves",
+      "servings": "250 ml",
+      "ingredients": [
+        "150 g Scotch bonnet peppers",
+        "150 ml vinegar",
+        "1 small onion",
+        "2 garlic cloves",
+        "1/2 tsp salt"
+      ],
+      "steps": [
+        "Wear gloves and avoid touching face while handling hot peppers.",
+        "Chop peppers, onion and garlic; simmer with vinegar until softened.",
+        "Cool slightly, then blend carefully using a heat-safe method.",
+        "Refrigerate in a clean container; this is a refrigerated condiment, not a validated shelf-stable preservation recipe."
+      ],
+      "status": "measured editorial draft; not kitchen-tested"
+    }
+  ]
+}
