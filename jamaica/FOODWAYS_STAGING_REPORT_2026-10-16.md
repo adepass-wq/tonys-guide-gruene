@@ -10,12 +10,11 @@ All 107 archived entry records now have an individual documentary decision, an i
 |---|---:|
 | Published preparation located | 70 |
 | Attributed contemporary variation | 19 |
-| Dish or product documented; formula not authenticated | 9 |
+| Dish or product documented; formula not authenticated | 11 |
 | Related preparation only | 7 |
-| Authentication outstanding | 2 |
 | Total, including aliases and combinations | 107 |
 
-The 89 published-preparation/variation records include duplicate names, serving combinations and imperfect published sources. They must not be advertised as 89 unique, fully authenticated or tested recipes. The 18 other records remain plainly distinguished. Two unresolved records concern crayfish rundown and June-plum chutney. Further checks located cookbook-index evidence for cook-down ackee and callaloo (Original Flava, p. 142) and garlic-butter lobster (p. 129), and a Grace guava-jam product page. These support named preparations/products, not their complete home formulas; the full cookbook pages were not inspected. A failed or insufficient search is not proof of nonexistence.
+The 89 published-preparation/variation records include duplicate names, serving combinations and imperfect published sources. They must not be advertised as 89 unique, fully authenticated or tested recipes. The 18 records without inspected complete source preparations remain plainly distinguished. Seven relate to different preparations or wider-Caribbean identities and must not be promoted as authenticated Jamaican formulas. Later research established use of crayfish rundown through a firsthand class account naming Chef Simone Walker-Barrett, and June-plum chutney through independent 2018 and 2023 reports naming Chefs Dennis McIntosh and Johnathan Bispott. These records now have dish-level evidence, with complete recipe formulas still outstanding. Further checks located cookbook-index evidence for cook-down ackee and callaloo (Original Flava, p. 142) and garlic-butter lobster (p. 129), and a Grace guava-jam product page. These support named preparations/products, not their complete home formulas; the full cookbook pages were not inspected. A failed or insufficient search is not proof of nonexistence.
 
 **Original archived Tony’s Guide formulas authenticated: 0. Tony’s Guide kitchen trials: 0.** The earlier measured drafts remain archived and are excluded from the shipped HTML and runtime data. Their original twelve-record JavaScript data block was preserved in `research/foodways-original-twelve.json`; the other 95 remain in their original tracked JSON collections.
 
@@ -23,7 +22,7 @@ Five new source transcriptions retain published measurements with paraphrased in
 
 ## Research, attribution and rejected evidence
 
-The structured ledger records 117 retrieved-source attempts: 113 pages returned readable material and four failed. Of the 100 distinct sources linked to entry decisions, 99 were read; the remaining one is the failed Gleaner candidate explicitly attached to an unresolved record. The source ledger is bounded; additional search results and historical/safety references are described separately rather than included in these counts. A page read is not a claim that every external video played or that the publisher’s recipe has been independently tested.
+The structured ledger records 120 retrieved-source attempts: 116 pages returned readable material and four failed. Of the 101 distinct sources linked to entry decisions, all were read. The failed Gleaner candidate remains recorded as an earlier lead, superseded for dish identity by accessible named-cook accounts. The source ledger is bounded; additional search results and historical/safety references are described separately rather than included in these counts. A page read is not a claim that every external video played or that the publisher’s recipe has been independently tested.
 
 Sources include Grace Foods; Joan Lue; Noel Cunningham; Sian Rose; Grace “Grandma” Reynolds; Winsome and Xavier Murphy; Lesa at Jamaican Foods and Recipes; Charla; Original Flava; Tanya Harris; Jamaica Tourist Board; Jamaica’s Scientific Research Council; and Jamaican tea producer Tops. Publisher identity is retained where no individual cook is identified. Corporate recipe pages are contemporary commercial sources, not historical proof.
 

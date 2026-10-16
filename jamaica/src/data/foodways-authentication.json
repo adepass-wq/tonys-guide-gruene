@@ -6,9 +6,8 @@
   "statusCounts": {
     "published-preparation": 70,
     "documented-variation": 19,
-    "dish-only": 9,
-    "related-evidence": 7,
-    "unresolved": 2
+    "dish-only": 11,
+    "related-evidence": 7
   },
   "sources": [
     {
@@ -1528,6 +1527,45 @@
       "accessed": "2026-10-16",
       "retrieval": "page-read",
       "locator": "Complete platter preparation; ackee and callaloo cooked in separate pans, not evidence for a combined formula",
+      "quantityWitness": null,
+      "automatedPreparationKeywordDetected": false,
+      "webReference": null
+    },
+    {
+      "id": "FW-S118",
+      "url": "https://simplylocal.life/street-food-saturdays-coal-stove-cooking/",
+      "title": "Get Cooking with Street Food Saturdays Coal Stove Experience",
+      "author": "Jhunelle J, firsthand account; Chef Simone Walker-Barrett identified",
+      "publicationDate": null,
+      "accessed": "2026-10-16",
+      "retrieval": "page-read",
+      "locator": "Author’s coal-stove cooking account, crayfish-rundown recipe card and prepared meal; quantities not published",
+      "quantityWitness": null,
+      "automatedPreparationKeywordDetected": false,
+      "webReference": null
+    },
+    {
+      "id": "FW-S119",
+      "url": "https://www.jamaicaobserver.com/2018/11/21/la-chaine-brunch-at-konoko-falls/",
+      "title": "La Chaîne Brunch at Konoko Falls",
+      "author": "Jamaica Observer; Chef Dennis McIntosh identified",
+      "publicationDate": "2018-11-21",
+      "accessed": "2026-10-16",
+      "retrieval": "page-read",
+      "locator": "2018 report and captions: roast pork served with June-plum chutney; no formula",
+      "quantityWitness": null,
+      "automatedPreparationKeywordDetected": false,
+      "webReference": null
+    },
+    {
+      "id": "FW-S120",
+      "url": "https://www.jamaicaobserver.com/2023/02/23/tarragon-and-thyme/",
+      "title": "Tarragon and Thyme",
+      "author": "Jamaica Observer; Chef Johnathan Bispott identified",
+      "publicationDate": "2023-02-23",
+      "accessed": "2026-10-16",
+      "retrieval": "page-read",
+      "locator": "2023 report: dhal and roti with June-plum chutney; no formula",
       "quantityWitness": null,
       "automatedPreparationKeywordDetected": false,
       "webReference": null
@@ -3367,11 +3405,11 @@
       "id": "foodways-completion-b-18",
       "name": "Crayfish rundown",
       "category": "Fish & seafood",
-      "status": "unresolved",
+      "status": "dish-only",
       "sourceIds": [
-        "FW-S075"
+        "FW-S118"
       ],
-      "note": "Winsome Murphy documents janga soup. A crayfish soup is not evidence for the archived crayfish rundown; that precise preparation remains unestablished in the checked material.",
+      "note": "Jhunelle J’s firsthand account documents preparing crayfish rundown with a recipe card under Chef Simone Walker-Barrett at a Mount James coal-stove class. This establishes actual preparation at a named Jamaican cooking experience. The card’s quantities are not published, so the archived formula is not authenticated.",
       "formulaStatus": "withheld-unverified",
       "kitchenStatus": "not-tested",
       "historicalOrigin": "not-established-by-recipe-source",
@@ -3872,11 +3910,12 @@
       "id": "foodways-completion-c-22",
       "name": "June plum chutney",
       "category": "Drinks & preserves",
-      "status": "unresolved",
+      "status": "dish-only",
       "sourceIds": [
-        "FW-S098"
+        "FW-S119",
+        "FW-S120"
       ],
-      "note": "A 2007 Gleaner June-plum article and a PBC Jamaica chutney video were located, but the article failed to decode and the full broadcast was not inspected. No recipe authentication is claimed.",
+      "note": "The Jamaica Observer reports June-plum chutney served by Chef Dennis McIntosh at Konoko Falls in 2018 and by Chef Johnathan Bispott at a 2023 event. Two named-cook accounts establish use in Jamaica. Neither supplies a complete formula or validates the archived quantities and storage instructions.",
       "formulaStatus": "withheld-unverified",
       "kitchenStatus": "not-tested",
       "historicalOrigin": "not-established-by-recipe-source",
