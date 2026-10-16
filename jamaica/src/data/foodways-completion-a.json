@@ -1,0 +1,429 @@
+{
+  "recipes": [
+    {
+      "id": "foodways-completion-a-1",
+      "name": "Ackee and corned pork",
+      "category": "Breakfast",
+      "servings": "4",
+      "ingredients": [
+        "450 g canned prepared ackee",
+        "250 g fully cooked corned pork, diced",
+        "1 onion",
+        "1 tomato",
+        "2 scallions",
+        "1 tbsp oil"
+      ],
+      "steps": [
+        "Desalt the corned pork if needed and cook it thoroughly before using.",
+        "Sauté onion and scallion in oil until soft.",
+        "Add diced pork and tomato and heat through.",
+        "Fold in drained, commercially prepared ackee gently and cook until hot."
+      ],
+      "status": "measured editorial draft; not kitchen-tested"
+    },
+    {
+      "id": "foodways-completion-a-2",
+      "name": "Salt mackerel with boiled food",
+      "category": "Breakfast",
+      "servings": "4",
+      "ingredients": [
+        "400 g salted mackerel",
+        "4 green bananas",
+        "400 g yam",
+        "1 onion",
+        "2 tomatoes",
+        "2 scallions",
+        "1 tbsp oil"
+      ],
+      "steps": [
+        "Soak and simmer salted mackerel in fresh water, repeat until pleasantly salted, then debone.",
+        "Peel and boil yam and green banana until tender.",
+        "Sauté onion, scallion and tomato until softened.",
+        "Add flaked mackerel, heat through and serve with boiled provisions."
+      ],
+      "status": "measured editorial draft; not kitchen-tested"
+    },
+    {
+      "id": "foodways-completion-a-3",
+      "name": "Roast breadfruit with saltfish",
+      "category": "Breakfast",
+      "servings": "4",
+      "ingredients": [
+        "1 mature breadfruit",
+        "300 g salt cod",
+        "1 onion",
+        "1 tomato",
+        "2 scallions",
+        "1 tbsp oil"
+      ],
+      "steps": [
+        "Roast breadfruit on indirect heat, turning until uniformly soft, then peel and core.",
+        "Desalt cod by simmering in fresh water and remove bones.",
+        "Sauté aromatics in oil, add flaked cod and warm through.",
+        "Slice breadfruit and serve beside saltfish."
+      ],
+      "status": "measured editorial draft; not kitchen-tested"
+    },
+    {
+      "id": "foodways-completion-a-4",
+      "name": "Coconut drops breakfast variation",
+      "category": "Breakfast",
+      "servings": "10",
+      "ingredients": [
+        "250 g diced fresh coconut",
+        "180 g brown sugar",
+        "120 ml water",
+        "1 tbsp ginger"
+      ],
+      "steps": [
+        "Line a heat-safe tray with parchment.",
+        "Bring sugar and water to a boil and dissolve completely.",
+        "Stir in coconut and ginger and cook until syrup thickens.",
+        "Drop spoonfuls onto tray and cool fully; this is a sweet treat, not a nutritionally balanced breakfast."
+      ],
+      "status": "measured editorial draft; not kitchen-tested"
+    },
+    {
+      "id": "foodways-completion-a-5",
+      "name": "Cassava bammy",
+      "category": "Breads & sides",
+      "servings": "8",
+      "ingredients": [
+        "500 g commercially processed food-safe cassava meal",
+        "200 ml coconut milk",
+        "1/2 tsp salt",
+        "1 tbsp oil"
+      ],
+      "steps": [
+        "Use food-safe prepared cassava meal rather than untreated bitter cassava.",
+        "Combine meal and salt, moisten according to package processing instructions, and shape flat rounds.",
+        "Cook rounds in a lightly oiled skillet until firm and lightly browned.",
+        "Briefly soak in coconut milk and return to pan until cooked through."
+      ],
+      "status": "measured editorial draft; not kitchen-tested"
+    },
+    {
+      "id": "foodways-completion-a-6",
+      "name": "Johnny cakes",
+      "category": "Breads & sides",
+      "servings": "8",
+      "ingredients": [
+        "300 g plain flour",
+        "2 tsp baking powder",
+        "1/2 tsp salt",
+        "180 ml water",
+        "Oil for frying"
+      ],
+      "steps": [
+        "Combine flour, baking powder and salt.",
+        "Add water gradually to make a soft dough; rest covered 10 minutes.",
+        "Divide into eight portions and shape flat rounds.",
+        "Fry over moderate heat, turning, until golden and the centers are cooked."
+      ],
+      "status": "measured editorial draft; not kitchen-tested"
+    },
+    {
+      "id": "foodways-completion-a-7",
+      "name": "Coco bread",
+      "category": "Breads & sides",
+      "servings": "8",
+      "ingredients": [
+        "500 g bread flour",
+        "7 g instant yeast",
+        "250 ml warm milk",
+        "50 g butter",
+        "25 g sugar",
+        "1 tsp salt"
+      ],
+      "steps": [
+        "Combine flour, yeast, sugar and salt; add milk and softened butter.",
+        "Knead until smooth and elastic, then cover and prove until doubled.",
+        "Divide into eight pieces, roll into ovals and fold each over with a little butter inside.",
+        "Prove briefly and bake at 190°C/375°F for 15–20 minutes until cooked."
+      ],
+      "status": "measured editorial draft; not kitchen-tested"
+    },
+    {
+      "id": "foodways-completion-a-8",
+      "name": "Hard dough bread",
+      "category": "Breads & sides",
+      "servings": "1 loaf",
+      "ingredients": [
+        "500 g bread flour",
+        "7 g yeast",
+        "280 ml water",
+        "30 g sugar",
+        "30 g butter",
+        "1 tsp salt"
+      ],
+      "steps": [
+        "Mix flour, yeast, sugar and salt; add water and butter to form a firm dough.",
+        "Knead thoroughly, cover and rise until nearly doubled.",
+        "Shape tightly into a greased loaf tin and prove until risen above rim.",
+        "Bake at 190°C/375°F for 30–40 minutes until baked through; cool before slicing."
+      ],
+      "status": "measured editorial draft; not kitchen-tested"
+    },
+    {
+      "id": "foodways-completion-a-9",
+      "name": "Bulla cake",
+      "category": "Breads & sides",
+      "servings": "10",
+      "ingredients": [
+        "350 g flour",
+        "150 g brown sugar",
+        "120 ml molasses",
+        "100 ml water",
+        "1 tsp ground ginger",
+        "1 tsp baking powder",
+        "1/2 tsp baking soda"
+      ],
+      "steps": [
+        "Mix flour, ginger, baking powder and baking soda.",
+        "Stir molasses, sugar and water together and combine with dry ingredients.",
+        "Shape into small flat rounds on a lined tray.",
+        "Bake at 175°C/350°F for 15–20 minutes, checking that the centers have set."
+      ],
+      "status": "measured editorial draft; not kitchen-tested"
+    },
+    {
+      "id": "foodways-completion-a-10",
+      "name": "Easter bun",
+      "category": "Breads & sides",
+      "servings": "1 loaf",
+      "ingredients": [
+        "400 g flour",
+        "200 ml stout or nonalcoholic malt drink",
+        "120 g brown sugar",
+        "120 g mixed dried fruit",
+        "2 tsp baking powder",
+        "1 tsp cinnamon",
+        "1/2 tsp nutmeg"
+      ],
+      "steps": [
+        "Preheat oven to 175°C/350°F and grease a loaf tin.",
+        "Mix flour, baking powder and spices, then add sugar and fruit.",
+        "Stir in malt beverage until a thick batter forms.",
+        "Bake 50–65 minutes until center is set; cool before slicing."
+      ],
+      "status": "measured editorial draft; not kitchen-tested"
+    },
+    {
+      "id": "foodways-completion-a-11",
+      "name": "Spiced bun and cheese",
+      "category": "Breads & sides",
+      "servings": "6",
+      "ingredients": [
+        "6 slices spiced Easter bun",
+        "180 g firm Jamaican-style cheddar"
+      ],
+      "steps": [
+        "Slice a fully cooled bun evenly.",
+        "Cut cheese into six thin portions.",
+        "Place cheese between pairs of bun slices or serve open-faced.",
+        "Serve immediately; refrigerate leftover cheese promptly."
+      ],
+      "status": "measured editorial draft; not kitchen-tested"
+    },
+    {
+      "id": "foodways-completion-a-12",
+      "name": "Jackass corn",
+      "category": "Breads & sides",
+      "servings": "20 crackers",
+      "ingredients": [
+        "300 g flour",
+        "80 g brown sugar",
+        "100 ml water",
+        "50 g butter",
+        "1 tsp grated ginger",
+        "1/2 tsp baking powder"
+      ],
+      "steps": [
+        "Mix flour, ginger and baking powder.",
+        "Rub in butter and work in sugar dissolved in water to create firm dough.",
+        "Roll out thinly and cut into small rounds or squares.",
+        "Bake at 180°C/355°F until dry and crisp, approximately 15–22 minutes."
+      ],
+      "status": "measured editorial draft; not kitchen-tested"
+    },
+    {
+      "id": "foodways-completion-a-13",
+      "name": "Turn cornmeal",
+      "category": "Breads & sides",
+      "servings": "4",
+      "ingredients": [
+        "220 g cornmeal",
+        "650 ml water",
+        "200 ml coconut milk",
+        "1 onion",
+        "2 scallions",
+        "1 tbsp oil",
+        "1 tsp thyme"
+      ],
+      "steps": [
+        "Sauté chopped onion and scallion in oil until softened.",
+        "Add water, coconut milk and thyme and bring to a simmer.",
+        "Whisk in cornmeal gradually to prevent lumps.",
+        "Cook on low, stirring often, for 20–25 minutes until thick and fully cooked."
+      ],
+      "status": "measured editorial draft; not kitchen-tested"
+    },
+    {
+      "id": "foodways-completion-a-14",
+      "name": "Cornmeal cou-cou",
+      "category": "Breads & sides",
+      "servings": "4",
+      "ingredients": [
+        "220 g fine cornmeal",
+        "650 ml water",
+        "200 g okra",
+        "1 tbsp butter",
+        "1/2 tsp salt"
+      ],
+      "steps": [
+        "Slice okra and simmer in water until tender.",
+        "Whisk cornmeal slowly into simmering okra liquid.",
+        "Cook on low, stirring vigorously, until the grain softens and mass thickens.",
+        "Stir in butter, season lightly and shape to serve."
+      ],
+      "status": "measured editorial draft; not kitchen-tested"
+    },
+    {
+      "id": "foodways-completion-a-15",
+      "name": "Jerk pork",
+      "category": "Main dishes",
+      "servings": "6",
+      "ingredients": [
+        "1.2 kg pork shoulder",
+        "5 scallions",
+        "3 garlic cloves",
+        "1 Scotch bonnet",
+        "2 tbsp allspice",
+        "2 tbsp lime juice",
+        "1 tbsp thyme",
+        "1 tbsp oil"
+      ],
+      "steps": [
+        "Blend scallions, garlic, bonnet, allspice, lime, thyme and oil into a paste.",
+        "Coat pork, refrigerate at least 4 hours and discard used marinade.",
+        "Slow-roast covered at 160°C/325°F or cook by indirect barbecue until tender and food-safe.",
+        "Rest before slicing; use a thermometer and follow a validated pork temperature recommendation."
+      ],
+      "status": "measured editorial draft; not kitchen-tested"
+    },
+    {
+      "id": "foodways-completion-a-16",
+      "name": "Oxtail and broad beans",
+      "category": "Main dishes",
+      "servings": "6",
+      "ingredients": [
+        "1.2 kg oxtail",
+        "400 g cooked broad beans",
+        "1 onion",
+        "2 scallions",
+        "3 garlic cloves",
+        "2 thyme sprigs",
+        "1 tbsp browning",
+        "800 ml water"
+      ],
+      "steps": [
+        "Brown seasoned oxtail in a heavy pot and drain excess rendered fat.",
+        "Add onion, scallion, garlic, thyme, browning and water.",
+        "Cover and simmer 2.5–3.5 hours, replenishing water until meat is tender.",
+        "Add cooked broad beans for the last 15 minutes and reduce sauce."
+      ],
+      "status": "measured editorial draft; not kitchen-tested"
+    },
+    {
+      "id": "foodways-completion-a-17",
+      "name": "Pepper steak",
+      "category": "Main dishes",
+      "servings": "4",
+      "ingredients": [
+        "600 g thinly sliced beef",
+        "2 bell peppers",
+        "1 onion",
+        "2 garlic cloves",
+        "1 tbsp soy sauce",
+        "1 tbsp oil",
+        "150 ml stock"
+      ],
+      "steps": [
+        "Slice beef against the grain and pat dry.",
+        "Sear beef in hot oil in batches; remove from pan.",
+        "Sauté onion, garlic and peppers until crisp-tender.",
+        "Return beef with stock and soy sauce, simmer briefly until cooked and sauce lightly reduces."
+      ],
+      "status": "measured editorial draft; not kitchen-tested"
+    },
+    {
+      "id": "foodways-completion-a-18",
+      "name": "Brown stew pork",
+      "category": "Main dishes",
+      "servings": "5",
+      "ingredients": [
+        "900 g pork shoulder cubes",
+        "1 onion",
+        "1 tomato",
+        "1 bell pepper",
+        "2 thyme sprigs",
+        "1 tbsp browning",
+        "2 tbsp oil",
+        "350 ml water"
+      ],
+      "steps": [
+        "Pat pork dry and sear in batches in oil.",
+        "Add chopped onion, tomato, pepper and thyme and cook 4 minutes.",
+        "Stir in browning and water, cover and simmer gently until pork is tender.",
+        "Uncover to thicken sauce and verify meat is thoroughly cooked."
+      ],
+      "status": "measured editorial draft; not kitchen-tested"
+    },
+    {
+      "id": "foodways-completion-a-19",
+      "name": "Gungo peas soup",
+      "category": "Main dishes",
+      "servings": "6",
+      "ingredients": [
+        "400 g cooked gungo peas",
+        "300 g pumpkin",
+        "250 g yam",
+        "2 carrots",
+        "1 onion",
+        "1 thyme sprig",
+        "1.5 L water",
+        "150 g flour for spinners"
+      ],
+      "steps": [
+        "Combine peas, pumpkin, yam, carrots, onion and thyme with water.",
+        "Bring to a boil then simmer until vegetables begin to soften.",
+        "Make a stiff dough from flour and water, form small spinners and add.",
+        "Cook 15–20 minutes more until dumplings and vegetables are done, adjusting seasoning."
+      ],
+      "status": "measured editorial draft; not kitchen-tested"
+    },
+    {
+      "id": "foodways-completion-a-20",
+      "name": "Chicken foot soup",
+      "category": "Main dishes",
+      "servings": "6",
+      "ingredients": [
+        "900 g thoroughly cleaned chicken feet",
+        "300 g pumpkin",
+        "250 g yam",
+        "2 carrots",
+        "1 onion",
+        "1.7 L water",
+        "2 thyme sprigs",
+        "150 g flour"
+      ],
+      "steps": [
+        "Blanch cleaned chicken feet in boiling water, drain and replace with fresh water.",
+        "Simmer with onion and thyme until feet become tender, generally 1–2 hours.",
+        "Add pumpkin, yam and carrots and simmer until nearly tender.",
+        "Add small flour spinners and cook another 15–20 minutes; ensure poultry is thoroughly cooked."
+      ],
+      "status": "measured editorial draft; not kitchen-tested"
+    }
+  ]
+}
