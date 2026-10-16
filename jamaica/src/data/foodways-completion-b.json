@@ -1,0 +1,450 @@
+{
+  "recipes": [
+    {
+      "id": "foodways-completion-b-1",
+      "name": "Red peas soup",
+      "category": "Main dishes",
+      "servings": "6",
+      "ingredients": [
+        "300 g dried kidney beans",
+        "350 g pumpkin",
+        "250 g yam",
+        "2 carrots",
+        "1 onion",
+        "2 thyme sprigs",
+        "150 g flour",
+        "1.7 L water"
+      ],
+      "steps": [
+        "Soak kidney beans overnight, drain and boil vigorously in fresh water for at least 10 minutes.",
+        "Simmer beans until completely tender, adding water when needed.",
+        "Add pumpkin, yam, carrot, onion and thyme and simmer until almost tender.",
+        "Mix flour with water into spinners and simmer in the soup 15–20 minutes until cooked."
+      ],
+      "status": "measured editorial draft; not kitchen-tested"
+    },
+    {
+      "id": "foodways-completion-b-2",
+      "name": "Mannish water",
+      "category": "Main dishes",
+      "servings": "8",
+      "ingredients": [
+        "1 kg cleaned goat meat with bones",
+        "300 g green banana",
+        "250 g yam",
+        "2 carrots",
+        "1 onion",
+        "2 scallions",
+        "1 Scotch bonnet optional",
+        "2 L water"
+      ],
+      "steps": [
+        "Rinse goat meat and place in a large pot with water.",
+        "Bring to a boil, skim foam, and simmer until meat is tender, approximately 2 hours.",
+        "Add peeled and chopped provisions, vegetables and aromatics.",
+        "Simmer until provisions are soft; remove bones and season before serving."
+      ],
+      "status": "measured editorial draft; not kitchen-tested"
+    },
+    {
+      "id": "foodways-completion-b-3",
+      "name": "Fish tea",
+      "category": "Main dishes",
+      "servings": "6",
+      "ingredients": [
+        "750 g cleaned fish with bones",
+        "2 L water",
+        "250 g pumpkin",
+        "1 carrot",
+        "1 onion",
+        "2 scallions",
+        "2 thyme sprigs",
+        "1 Scotch bonnet optional"
+      ],
+      "steps": [
+        "Simmer cleaned fish in water for 15–20 minutes until it flakes.",
+        "Lift fish out and strain broth carefully to remove bones.",
+        "Add finely diced pumpkin, carrot, onion, scallion and thyme to broth and cook until tender.",
+        "Return deboned fish flakes, heat through and season; check again for small bones."
+      ],
+      "status": "measured editorial draft; not kitchen-tested"
+    },
+    {
+      "id": "foodways-completion-b-4",
+      "name": "Saturday soup",
+      "category": "Main dishes",
+      "servings": "6",
+      "ingredients": [
+        "700 g chicken portions",
+        "300 g pumpkin",
+        "250 g yam",
+        "2 carrots",
+        "1 onion",
+        "2 scallions",
+        "150 g flour",
+        "2 L water"
+      ],
+      "steps": [
+        "Cover chicken with water in a soup pot and simmer 20 minutes.",
+        "Add pumpkin, peeled yam, carrot, onion and scallion.",
+        "Mix flour with enough water to form a firm dough and roll small spinners.",
+        "Add spinners, simmer until chicken is cooked and vegetables tender; poultry must reach 74°C/165°F."
+      ],
+      "status": "measured editorial draft; not kitchen-tested"
+    },
+    {
+      "id": "foodways-completion-b-5",
+      "name": "Pepperpot soup",
+      "category": "Main dishes",
+      "servings": "6",
+      "ingredients": [
+        "350 g callaloo",
+        "300 g okra",
+        "250 g pumpkin",
+        "250 g cooked beans",
+        "1 onion",
+        "2 scallions",
+        "1 thyme sprig",
+        "1.5 L water"
+      ],
+      "steps": [
+        "Wash callaloo and okra thoroughly and chop them.",
+        "Simmer pumpkin, beans, onion and thyme in water for 15 minutes.",
+        "Add callaloo and okra, cover and cook until vegetables soften.",
+        "Stir, adjust consistency with water and cook until all greens are tender."
+      ],
+      "status": "measured editorial draft; not kitchen-tested"
+    },
+    {
+      "id": "foodways-completion-b-6",
+      "name": "Cow foot stew",
+      "category": "Main dishes",
+      "servings": "6",
+      "ingredients": [
+        "1.2 kg cleaned cow feet, chopped",
+        "400 g cooked broad beans",
+        "1 onion",
+        "3 garlic cloves",
+        "2 scallions",
+        "2 thyme sprigs",
+        "1 tbsp browning",
+        "1 L water"
+      ],
+      "steps": [
+        "Blanch cleaned cow feet and discard the water.",
+        "Cover with fresh water, add onion, garlic, scallion, thyme and simmer 3–4 hours or pressure-cook according to equipment instructions.",
+        "Once tender, add browning and cooked beans.",
+        "Simmer uncovered until gravy thickens; serve hot."
+      ],
+      "status": "measured editorial draft; not kitchen-tested"
+    },
+    {
+      "id": "foodways-completion-b-7",
+      "name": "Tripe and beans",
+      "category": "Main dishes",
+      "servings": "6",
+      "ingredients": [
+        "900 g cleaned beef tripe",
+        "400 g cooked butter beans",
+        "1 onion",
+        "2 scallions",
+        "2 thyme sprigs",
+        "3 garlic cloves",
+        "600 ml water"
+      ],
+      "steps": [
+        "Blanch cleaned tripe, discard water and slice into manageable strips.",
+        "Simmer in fresh water until tender, often 2 hours or longer.",
+        "Add onion, scallion, garlic and thyme and continue cooking to develop sauce.",
+        "Fold in cooked beans and simmer 15 minutes; serve only when tripe is fully tender."
+      ],
+      "status": "measured editorial draft; not kitchen-tested"
+    },
+    {
+      "id": "foodways-completion-b-8",
+      "name": "Curried chickpeas",
+      "category": "Main dishes",
+      "servings": "4",
+      "ingredients": [
+        "450 g cooked chickpeas",
+        "1.5 tbsp curry powder",
+        "1 onion",
+        "2 garlic cloves",
+        "1 carrot",
+        "250 ml coconut milk",
+        "1 tbsp oil"
+      ],
+      "steps": [
+        "Sauté onion and garlic in oil for 3 minutes.",
+        "Stir in curry powder for 20 seconds without scorching.",
+        "Add sliced carrot, chickpeas and coconut milk; simmer for 12–15 minutes.",
+        "Adjust seasoning and cook until carrot is tender, then serve with rice."
+      ],
+      "status": "measured editorial draft; not kitchen-tested"
+    },
+    {
+      "id": "foodways-completion-b-9",
+      "name": "Ital stew",
+      "category": "Main dishes",
+      "servings": "4",
+      "ingredients": [
+        "250 g pumpkin",
+        "1 carrot",
+        "1 green banana",
+        "200 g cooked red peas",
+        "200 g callaloo",
+        "350 ml coconut milk",
+        "1 onion",
+        "2 thyme sprigs"
+      ],
+      "steps": [
+        "Peel and dice pumpkin, banana and carrot.",
+        "Simmer these vegetables with onion, thyme, coconut milk and 200 ml water for 12 minutes.",
+        "Add cooked peas and callaloo and cook until greens soften.",
+        "Reduce slightly; season according to household preferences and serve warm."
+      ],
+      "status": "measured editorial draft; not kitchen-tested"
+    },
+    {
+      "id": "foodways-completion-b-10",
+      "name": "Ital vegetable rundown",
+      "category": "Main dishes",
+      "servings": "4",
+      "ingredients": [
+        "400 ml coconut milk",
+        "250 g pumpkin",
+        "200 g cabbage",
+        "1 carrot",
+        "1 onion",
+        "2 scallions",
+        "2 thyme sprigs"
+      ],
+      "steps": [
+        "Bring coconut milk to a gentle simmer with onion, scallion and thyme.",
+        "Cook uncovered 8–10 minutes to reduce slightly.",
+        "Add diced pumpkin and carrot; cook until almost tender.",
+        "Add shredded cabbage and simmer until tender and coconut liquid is saucy."
+      ],
+      "status": "measured editorial draft; not kitchen-tested"
+    },
+    {
+      "id": "foodways-completion-b-11",
+      "name": "Steamed cabbage and carrots",
+      "category": "Main dishes",
+      "servings": "4",
+      "ingredients": [
+        "500 g cabbage",
+        "2 carrots",
+        "1 onion",
+        "1 sweet pepper",
+        "2 scallions",
+        "2 tbsp oil",
+        "100 ml water"
+      ],
+      "steps": [
+        "Wash and slice all vegetables into thin pieces.",
+        "Sauté onion and sweet pepper in oil for 3 minutes.",
+        "Add cabbage, carrot, scallion and water; cover and cook 8–12 minutes.",
+        "Uncover, cook off excess liquid and season to taste."
+      ],
+      "status": "measured editorial draft; not kitchen-tested"
+    },
+    {
+      "id": "foodways-completion-b-12",
+      "name": "Ackee and callaloo",
+      "category": "Main dishes",
+      "servings": "4",
+      "ingredients": [
+        "450 g commercially prepared ackee",
+        "350 g callaloo",
+        "1 onion",
+        "2 scallions",
+        "1 tomato",
+        "1 tbsp oil",
+        "1 thyme sprig"
+      ],
+      "steps": [
+        "Wash and chop callaloo; drain safe commercially prepared ackee.",
+        "Sauté onion, scallion, tomato and thyme in oil.",
+        "Add callaloo with a splash of water, cover and cook until tender.",
+        "Gently fold in ackee, heat through and serve without crushing the fruit."
+      ],
+      "status": "measured editorial draft; not kitchen-tested"
+    },
+    {
+      "id": "foodways-completion-b-13",
+      "name": "Brown stew fish",
+      "category": "Fish & seafood",
+      "servings": "4",
+      "ingredients": [
+        "800 g cleaned firm fish",
+        "1 onion",
+        "1 tomato",
+        "1 sweet pepper",
+        "2 thyme sprigs",
+        "1 tbsp browning",
+        "2 tbsp oil",
+        "250 ml water"
+      ],
+      "steps": [
+        "Pat fish dry and season lightly.",
+        "Sear fish in oil until lightly browned and cooked; remove to a plate.",
+        "Sauté onion, tomato and pepper, add thyme, browning and water.",
+        "Simmer 5 minutes, return fish and spoon sauce over until heated through."
+      ],
+      "status": "measured editorial draft; not kitchen-tested"
+    },
+    {
+      "id": "foodways-completion-b-14",
+      "name": "Saltfish rundown",
+      "category": "Fish & seafood",
+      "servings": "4",
+      "ingredients": [
+        "400 g salted cod",
+        "400 ml coconut milk",
+        "1 onion",
+        "1 tomato",
+        "2 scallions",
+        "2 thyme sprigs",
+        "1 Scotch bonnet optional"
+      ],
+      "steps": [
+        "Soak and simmer cod in fresh water until desalinated; remove all bones.",
+        "Simmer coconut milk, onion, tomato, scallion and thyme uncovered.",
+        "When sauce thickens after about 12–15 minutes, fold in flaked cod.",
+        "Heat through gently and serve with boiled green banana."
+      ],
+      "status": "measured editorial draft; not kitchen-tested"
+    },
+    {
+      "id": "foodways-completion-b-15",
+      "name": "Pickled herring",
+      "category": "Fish & seafood",
+      "servings": "4",
+      "ingredients": [
+        "400 g commercially prepared pickled herring",
+        "1 onion",
+        "1 carrot",
+        "100 ml white vinegar",
+        "120 ml water",
+        "3 allspice berries",
+        "1 Scotch bonnet optional"
+      ],
+      "steps": [
+        "Read label for whether herring is ready to eat; desalt briefly if needed.",
+        "Bring vinegar, water, sliced onion, carrot and allspice to a gentle simmer.",
+        "Cool the pickle liquid completely before combining with ready-to-eat fish.",
+        "Refrigerate covered and serve cold; keep the product chilled according to its label."
+      ],
+      "status": "measured editorial draft; not kitchen-tested"
+    },
+    {
+      "id": "foodways-completion-b-16",
+      "name": "Steamed parrotfish",
+      "category": "Fish & seafood",
+      "servings": "4",
+      "ingredients": [
+        "800 g cleaned parrotfish portions",
+        "1 carrot",
+        "1 onion",
+        "2 scallions",
+        "1 tomato",
+        "2 thyme sprigs",
+        "300 ml water"
+      ],
+      "steps": [
+        "Check legality and sustainability of locally available parrotfish and consider alternative responsibly sourced fish.",
+        "Sauté onion, carrot and tomato briefly in a lidded skillet.",
+        "Add thyme, scallion and water; simmer 5 minutes.",
+        "Add fish, cover and steam gently until center reaches 63°C/145°F; check bones."
+      ],
+      "status": "measured editorial draft; not kitchen-tested"
+    },
+    {
+      "id": "foodways-completion-b-17",
+      "name": "Garlic lobster",
+      "category": "Fish & seafood",
+      "servings": "4",
+      "ingredients": [
+        "700 g cleaned lobster tails",
+        "4 garlic cloves",
+        "50 g butter",
+        "1 lime",
+        "1 tbsp chopped parsley",
+        "Black pepper"
+      ],
+      "steps": [
+        "Thaw lobster safely in refrigerator if frozen and pat dry.",
+        "Melt butter over gentle heat with crushed garlic, without browning it.",
+        "Cook lobster in a covered skillet or under a broiler until flesh is opaque and firm, checking for doneness.",
+        "Spoon garlic butter and lime juice over cooked lobster and serve immediately."
+      ],
+      "status": "measured editorial draft; not kitchen-tested"
+    },
+    {
+      "id": "foodways-completion-b-18",
+      "name": "Crayfish rundown",
+      "category": "Fish & seafood",
+      "servings": "4",
+      "ingredients": [
+        "600 g cleaned freshwater crayfish tails",
+        "400 ml coconut milk",
+        "1 onion",
+        "2 scallions",
+        "1 tomato",
+        "2 thyme sprigs"
+      ],
+      "steps": [
+        "Rinse cleaned crayfish tails and refrigerate until cooking.",
+        "Simmer coconut milk with onion, scallion, tomato and thyme until slightly reduced.",
+        "Add crayfish tails and simmer gently until opaque and fully cooked.",
+        "Serve over boiled provisions; avoid overcooking shellfish."
+      ],
+      "status": "measured editorial draft; not kitchen-tested"
+    },
+    {
+      "id": "foodways-completion-b-19",
+      "name": "Fish escovitch with bammy",
+      "category": "Fish & seafood",
+      "servings": "4",
+      "ingredients": [
+        "800 g cleaned fish",
+        "4 commercially prepared bammy rounds",
+        "120 ml vinegar",
+        "1 carrot",
+        "1 onion",
+        "1 Scotch bonnet optional",
+        "Oil for frying"
+      ],
+      "steps": [
+        "Fry fish in moderate oil until fully cooked and drain.",
+        "Simmer vinegar with carrot, onion and bonnet for 3–5 minutes.",
+        "Warm or pan-fry commercially prepared bammy according to package instructions.",
+        "Serve fish with warm escovitch vegetables and bammy on the side."
+      ],
+      "status": "measured editorial draft; not kitchen-tested"
+    },
+    {
+      "id": "foodways-completion-b-20",
+      "name": "Saltfish buljol",
+      "category": "Fish & seafood",
+      "servings": "4",
+      "ingredients": [
+        "350 g salted cod",
+        "2 tomatoes",
+        "1 onion",
+        "1 sweet pepper",
+        "2 scallions",
+        "2 tbsp oil",
+        "1 lime"
+      ],
+      "steps": [
+        "Desalt cod in simmering fresh water, repeat if needed and remove bones.",
+        "Flake cod into a mixing bowl and cool.",
+        "Dice tomato, onion, pepper and scallion; combine with cod and oil.",
+        "Dress with lime, taste for salt and serve promptly with bread or provisions."
+      ],
+      "status": "measured editorial draft; not kitchen-tested"
+    }
+  ]
+}
