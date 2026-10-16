@@ -52,15 +52,29 @@ The historical work retains twenty introductions/reading notes and now attaches 
 
 ## Verification
 
-Final checks are being recorded below. A build is not a deployment, a DOM check is not graphical browser inspection, and recipe-source retrieval is not kitchen testing.
+Verification was performed against the implemented source and its generated page. The final source checkpoint is `7321e64fa027afba02cc025cadb6a508a4cf4937`. This report update changes documentation only. A build is not a deployment; DOM checks are not graphical browser inspection; source retrieval is not kitchen testing.
 
-- Build and static validator: passed during implementation; final coordinated release check in progress.
-- Foodways record and behaviour tests: initial focused checks passed; final checks follow the final build.
-- Full website regression suite: in progress.
-- Pinned platform tests: 2 passed. Preservation check: 718 protected files pass after reviewing the three authorized Foodways integration baselines. The baseline-change record lists their prior/reviewed hashes and reasons. All other baseline hashes were retained.
-- Visual desktop/mobile preview: blocked. `sites-preview start` failed with `bwrap: Can't mount proc on /newroot/proc: Operation not permitted`. No desktop/mobile screenshots or graphical browser results are claimed.
-- Screen reader, actual touch interaction, external video/audio playback and real-device rendering: not independently verified.
-- Production: no merge, hosting change or deployment performed.
+| Check | Verified outcome |
+|---|---|
+| Build and `npm run check` | Pass: source/output consistency, syntax, structured data, unique IDs, article/citation inventory and image descriptions |
+| Full local `npm test` run within `release:prepare` | 98 tests completed: 97 passed; one failed the obsolete HTML-size limit before its correction |
+| Corrected build tests | 2/2 passed after revising the bounded size budgets; the stale-output and broken-include checks remain active |
+| Final Foodways data/interface tests | 7/7 passed after the final source decisions and renderer-test correction |
+| Pinned platform tests | 2/2 passed |
+| Protected content/SEO/media check | Pass across 718 protected paths after reviewing and recording the three authorized Foodways integration baseline changes; every other baseline hash retained |
+| Colour contrast calculations | Seven specified text/background pairs exceed normal-text AA’s 4.5:1 threshold; lowest measured pair 5.46:1. This is not a complete WCAG audit |
+| Deploy-copy comparison | `jamaica/index.html` and `public/index.html` match byte for byte |
+| GitHub CI for source checkpoint | Still in progress at the final observation; no green CI result is claimed |
+| Graphical desktop/mobile preview | Blocked by the container mount failure below |
+| Production | No merge, hosting change or deployment performed |
+
+The first full local run completed with a failure, so **`release:prepare` is not reported as an uninterrupted successful full run**. Its failed size assertion was corrected and the affected build suite rerun successfully. Later documentary refinements were rebuilt, statically validated and checked with the final seven Foodways tests. The whole local suite was not rerun again after every source-note change. Remote full checks for the final checkpoint are [source/behaviour run 38889075690](https://github.com/adepass-wq/tonys-guide-gruene/actions/runs/38889075690) and [Foodways run 38889075697](https://github.com/adepass-wq/tonys-guide-gruene/actions/runs/38889075697); their observed status was in progress, not passed.
+
+Final generated HTML: **4,808,316 bytes**, **1,154,731 bytes gzip**, SHA-256 `ee6884515afc8f19010d1d524f23d92ff0960a7d430f49db09d54dd0888ebab6`. The builder reports 153 existing historical articles and 185 preserved static media assets.
+
+Observed failures and corrections: a malformed URI fragment initially threw in the Foodways hash handler; guarded decoding now preserves navigation and the regression passed. Obsolete tests expecting unverified recipes to appear were replaced with provenance and withholding assertions. An assertion requiring an unresolved card became obsolete when later evidence established those dish names; the final test checks the actual limited-evidence labels, escaping and refusal of a missing source ID instead. The old raw/compressed size caps were narrowly revised to 4,900,000 / 1,175,000 bytes for the expanded static directory. This is a documented content-budget change, not evidence of faster rendering.
+
+The preview service failed with `bwrap: Can't mount proc on /newroot/proc: Operation not permitted`. It was stopped during teardown. No desktop/mobile screenshots or graphical browser results are claimed. Actual screen-reader output, touch interaction and third-party video/audio playback were not independently verified. The existing suite’s simulated viewport and media-control checks do not establish those results.
 
 ## Publication readiness and recommended next action
 
