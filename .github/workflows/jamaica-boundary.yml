@@ -1,0 +1,32 @@
+name: Gruene repository boundary
+on:
+  pull_request:
+    branches: [main]
+permissions:
+  contents: read
+jobs:
+  jamaica-boundary:
+    name: Reject Jamaica changes in Gruene
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+          persist-credentials: false
+      - name: Reject Jamaica source and dedicated assets
+        env:
+          BASE_SHA: ${{ github.event.pull_request.base.sha }}
+          HEAD_SHA: ${{ github.event.pull_request.head.sha }}
+        run: |
+          python3 - <<'PY'
+          import os, subprocess
+          changed = subprocess.check_output(['git', 'diff', '--name-only', os.environ['BASE_SHA'], os.environ['HEAD_SHA']], text=True).splitlines()
+          def jamaica_only(p):
+              return p.startswith('jamaica/') or p == 'platform/build_jamaica.py' or p.startswith('public/assets/foodways-') or p.startswith('public/assets/jamaica-') or p == '.github/workflows/jamaica-checks.yml' or p == '.github/workflows/foodways-verify.yml'
+          blocked = [p for p in changed if jamaica_only(p)]
+          if blocked:
+              print('BLOCKED: Jamaica changes belong in adepass-wq/tonys-guide-jamaica:')
+              print('\n'.join(blocked))
+              raise SystemExit(1)
+          print('PASS: no Jamaica-specific source or dedicated assets changed')
+          PY
