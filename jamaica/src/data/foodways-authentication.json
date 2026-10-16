@@ -6,9 +6,9 @@
   "statusCounts": {
     "published-preparation": 70,
     "documented-variation": 19,
-    "dish-only": 6,
-    "related-evidence": 8,
-    "unresolved": 4
+    "dish-only": 9,
+    "related-evidence": 7,
+    "unresolved": 2
   },
   "sources": [
     {
@@ -21,8 +21,8 @@
       "retrieval": "page-read",
       "locator": "Ingredients and preparation section",
       "quantityWitness": "1 teaspoon(s) Grace caribbean traditions black pepper",
-      "hasPreparationText": true,
-      "webReference": "turn37view0"
+      "webReference": "turn37view0",
+      "automatedPreparationKeywordDetected": true
     },
     {
       "id": "FW-S002",
@@ -34,8 +34,8 @@
       "retrieval": "page-read",
       "locator": "Ingredients and preparation section",
       "quantityWitness": "688 g Callaloo 2 bunches",
-      "hasPreparationText": true,
-      "webReference": "turn36view0"
+      "webReference": "turn36view0",
+      "automatedPreparationKeywordDetected": true
     },
     {
       "id": "FW-S003",
@@ -47,8 +47,8 @@
       "retrieval": "page-read",
       "locator": "Ingredients and preparation section",
       "quantityWitness": "2 cups (500 mL) All-purpose flour",
-      "hasPreparationText": true,
-      "webReference": "turn43view0"
+      "webReference": "turn43view0",
+      "automatedPreparationKeywordDetected": true
     },
     {
       "id": "FW-S004",
@@ -60,8 +60,8 @@
       "retrieval": "page-read",
       "locator": "Ingredients and preparation section",
       "quantityWitness": "2 Cups of flour",
-      "hasPreparationText": false,
-      "webReference": "turn39view0"
+      "webReference": "turn39view0",
+      "automatedPreparationKeywordDetected": false
     },
     {
       "id": "FW-S005",
@@ -73,8 +73,8 @@
       "retrieval": "page-read",
       "locator": "Ingredients and preparation section",
       "quantityWitness": "2 cup(s) Grace Coconut Milk",
-      "hasPreparationText": true,
-      "webReference": "turn38view0"
+      "webReference": "turn38view0",
+      "automatedPreparationKeywordDetected": true
     },
     {
       "id": "FW-S006",
@@ -86,8 +86,8 @@
       "retrieval": "page-read",
       "locator": "Ingredients and preparation section",
       "quantityWitness": "771 g Chicken",
-      "hasPreparationText": true,
-      "webReference": "turn40view0"
+      "webReference": "turn40view0",
+      "automatedPreparationKeywordDetected": true
     },
     {
       "id": "FW-S007",
@@ -99,8 +99,8 @@
       "retrieval": "page-read",
       "locator": "Ingredients and preparation section",
       "quantityWitness": "3 pound(s) goat meat",
-      "hasPreparationText": true,
-      "webReference": "turn41view0"
+      "webReference": "turn41view0",
+      "automatedPreparationKeywordDetected": true
     },
     {
       "id": "FW-S008",
@@ -112,8 +112,8 @@
       "retrieval": "page-read",
       "locator": "Ingredients and preparation section",
       "quantityWitness": "2 cups red peas",
-      "hasPreparationText": true,
-      "webReference": "turn42view0"
+      "webReference": "turn42view0",
+      "automatedPreparationKeywordDetected": true
     },
     {
       "id": "FW-S009",
@@ -125,8 +125,8 @@
       "retrieval": "page-read",
       "locator": "Ingredients and preparation section",
       "quantityWitness": "2 pound(s) Snapper Fish",
-      "hasPreparationText": true,
-      "webReference": "turn44view0"
+      "webReference": "turn44view0",
+      "automatedPreparationKeywordDetected": true
     },
     {
       "id": "FW-S010",
@@ -138,8 +138,8 @@
       "retrieval": "page-read",
       "locator": "Ingredients and preparation section",
       "quantityWitness": "260 g Salt mackerel",
-      "hasPreparationText": true,
-      "webReference": "turn45view0"
+      "webReference": "turn45view0",
+      "automatedPreparationKeywordDetected": true
     },
     {
       "id": "FW-S011",
@@ -151,8 +151,8 @@
       "retrieval": "page-read",
       "locator": "Ingredients and preparation section",
       "quantityWitness": "2 pounds sweet potato",
-      "hasPreparationText": true,
-      "webReference": "turn51view0"
+      "webReference": "turn51view0",
+      "automatedPreparationKeywordDetected": true
     },
     {
       "id": "FW-S012",
@@ -164,8 +164,8 @@
       "retrieval": "page-read",
       "locator": "Ingredients and preparation section",
       "quantityWitness": "Servings: 8 Cups",
-      "hasPreparationText": true,
-      "webReference": "turn47view0"
+      "webReference": "turn47view0",
+      "automatedPreparationKeywordDetected": true
     },
     {
       "id": "FW-S013",
@@ -177,8 +177,8 @@
       "retrieval": "page-read",
       "locator": "Ingredients and preparation section",
       "quantityWitness": "1. Prepare 2 cups of fresh coconut milk, then pour",
-      "hasPreparationText": true,
-      "webReference": "turn46view0"
+      "webReference": "turn46view0",
+      "automatedPreparationKeywordDetected": true
     },
     {
       "id": "FW-S014",
@@ -190,8 +190,8 @@
       "retrieval": "page-read",
       "locator": "Ingredients and preparation section",
       "quantityWitness": "½ lb. (225 grams) Salted Codfish",
-      "hasPreparationText": true,
-      "webReference": "turn50view0"
+      "webReference": "turn50view0",
+      "automatedPreparationKeywordDetected": true
     },
     {
       "id": "FW-S015",
@@ -203,8 +203,8 @@
       "retrieval": "page-read",
       "locator": "Ingredients and preparation section",
       "quantityWitness": "2 pound(s) cassava",
-      "hasPreparationText": true,
-      "webReference": "turn49view0"
+      "webReference": "turn49view0",
+      "automatedPreparationKeywordDetected": true
     },
     {
       "id": "FW-S016",
@@ -216,8 +216,8 @@
       "retrieval": "page-read",
       "locator": "Ingredients and preparation section",
       "quantityWitness": null,
-      "hasPreparationText": true,
-      "webReference": "turn48view0"
+      "webReference": "turn48view0",
+      "automatedPreparationKeywordDetected": true
     },
     {
       "id": "FW-S017",
@@ -229,8 +229,8 @@
       "retrieval": "page-read",
       "locator": "Ingredients and preparation section",
       "quantityWitness": "1 lb Basmati rice",
-      "hasPreparationText": true,
-      "webReference": "turn53view0"
+      "webReference": "turn53view0",
+      "automatedPreparationKeywordDetected": true
     },
     {
       "id": "FW-S018",
@@ -242,8 +242,8 @@
       "retrieval": "page-read",
       "locator": "Ingredients and preparation section",
       "quantityWitness": null,
-      "hasPreparationText": true,
-      "webReference": "turn59view0"
+      "webReference": "turn59view0",
+      "automatedPreparationKeywordDetected": true
     },
     {
       "id": "FW-S019",
@@ -255,8 +255,8 @@
       "retrieval": "page-read",
       "locator": "Ingredients and preparation section",
       "quantityWitness": "3 1/2 pound(s) chicken",
-      "hasPreparationText": true,
-      "webReference": "turn54view0"
+      "webReference": "turn54view0",
+      "automatedPreparationKeywordDetected": true
     },
     {
       "id": "FW-S020",
@@ -268,8 +268,8 @@
       "retrieval": "page-read",
       "locator": "Ingredients and preparation section",
       "quantityWitness": "Add the sweet potato, dasheen, carrots along with 1 cup",
-      "hasPreparationText": true,
-      "webReference": "turn52view0"
+      "webReference": "turn52view0",
+      "automatedPreparationKeywordDetected": true
     },
     {
       "id": "FW-S021",
@@ -281,8 +281,8 @@
       "retrieval": "page-read",
       "locator": "Ingredients and preparation section",
       "quantityWitness": "2 cup(s) fish stock",
-      "hasPreparationText": true,
-      "webReference": "turn56view0"
+      "webReference": "turn56view0",
+      "automatedPreparationKeywordDetected": true
     },
     {
       "id": "FW-S022",
@@ -294,8 +294,8 @@
       "retrieval": "page-read",
       "locator": "Ingredients and preparation section",
       "quantityWitness": "1 lb of raw shrimp with shell and head, deveined",
-      "hasPreparationText": true,
-      "webReference": "turn55view0"
+      "webReference": "turn55view0",
+      "automatedPreparationKeywordDetected": true
     },
     {
       "id": "FW-S023",
@@ -307,8 +307,8 @@
       "retrieval": "page-read",
       "locator": "Ingredients and preparation section",
       "quantityWitness": "1⅔ (600 mL) cup mashed overripe Bananas (about 3-5 medium",
-      "hasPreparationText": true,
-      "webReference": "turn58view0"
+      "webReference": "turn58view0",
+      "automatedPreparationKeywordDetected": true
     },
     {
       "id": "FW-S024",
@@ -320,8 +320,8 @@
       "retrieval": "page-read",
       "locator": "Ingredients and preparation section",
       "quantityWitness": "Servings: 12 Cups",
-      "hasPreparationText": true,
-      "webReference": "turn57view0"
+      "webReference": "turn57view0",
+      "automatedPreparationKeywordDetected": true
     },
     {
       "id": "FW-S025",
@@ -333,8 +333,8 @@
       "retrieval": "page-read",
       "locator": "Ingredients and preparation section",
       "quantityWitness": "1 cup Hominy Corn",
-      "hasPreparationText": true,
-      "webReference": "turn63view0"
+      "webReference": "turn63view0",
+      "automatedPreparationKeywordDetected": true
     },
     {
       "id": "FW-S026",
@@ -346,8 +346,8 @@
       "retrieval": "page-read",
       "locator": "Ingredients and preparation section",
       "quantityWitness": "2 Cups Coconut milk",
-      "hasPreparationText": true,
-      "webReference": "turn61view0"
+      "webReference": "turn61view0",
+      "automatedPreparationKeywordDetected": true
     },
     {
       "id": "FW-S027",
@@ -359,8 +359,8 @@
       "retrieval": "page-read",
       "locator": "Ingredients and preparation section",
       "quantityWitness": "1 ½ cups Coconut milk See notes",
-      "hasPreparationText": true,
-      "webReference": "turn65view0"
+      "webReference": "turn65view0",
+      "automatedPreparationKeywordDetected": true
     },
     {
       "id": "FW-S028",
@@ -372,8 +372,8 @@
       "retrieval": "page-read",
       "locator": "Ingredients and preparation section",
       "quantityWitness": "2 cups raw peanut",
-      "hasPreparationText": true,
-      "webReference": "turn60view0"
+      "webReference": "turn60view0",
+      "automatedPreparationKeywordDetected": true
     },
     {
       "id": "FW-S029",
@@ -385,8 +385,8 @@
       "retrieval": "page-read",
       "locator": "Ingredients and preparation section",
       "quantityWitness": "10 cup(s) water",
-      "hasPreparationText": true,
-      "webReference": "turn62view0"
+      "webReference": "turn62view0",
+      "automatedPreparationKeywordDetected": true
     },
     {
       "id": "FW-S030",
@@ -398,8 +398,8 @@
       "retrieval": "page-read",
       "locator": "Named page section",
       "quantityWitness": null,
-      "hasPreparationText": false,
-      "webReference": "turn67view0"
+      "webReference": "turn67view0",
+      "automatedPreparationKeywordDetected": false
     },
     {
       "id": "FW-S031",
@@ -411,8 +411,8 @@
       "retrieval": "page-read",
       "locator": "Ingredients and preparation section",
       "quantityWitness": "710 g white cabbage shredded",
-      "hasPreparationText": true,
-      "webReference": "turn66view0"
+      "webReference": "turn66view0",
+      "automatedPreparationKeywordDetected": true
     },
     {
       "id": "FW-S032",
@@ -424,8 +424,8 @@
       "retrieval": "page-read",
       "locator": "Ingredients and preparation section",
       "quantityWitness": "1/2 teaspoon(s) salt",
-      "hasPreparationText": true,
-      "webReference": "turn64view0"
+      "webReference": "turn64view0",
+      "automatedPreparationKeywordDetected": true
     },
     {
       "id": "FW-S033",
@@ -437,8 +437,8 @@
       "retrieval": "page-read",
       "locator": "Ingredients and preparation section",
       "quantityWitness": "½ lb Yellow yam",
-      "hasPreparationText": true,
-      "webReference": "turn70view0"
+      "webReference": "turn70view0",
+      "automatedPreparationKeywordDetected": true
     },
     {
       "id": "FW-S034",
@@ -450,8 +450,8 @@
       "retrieval": "page-read",
       "locator": "Ingredients and preparation section",
       "quantityWitness": "1 lb Basmati rice",
-      "hasPreparationText": true,
-      "webReference": "turn74view0"
+      "webReference": "turn74view0",
+      "automatedPreparationKeywordDetected": true
     },
     {
       "id": "FW-S035",
@@ -463,8 +463,8 @@
       "retrieval": "page-read",
       "locator": "Ingredients and preparation section",
       "quantityWitness": "1 tbsp vegetable oil",
-      "hasPreparationText": true,
-      "webReference": "turn73view0"
+      "webReference": "turn73view0",
+      "automatedPreparationKeywordDetected": true
     },
     {
       "id": "FW-S036",
@@ -476,8 +476,8 @@
       "retrieval": "page-read",
       "locator": "Ingredients and preparation section",
       "quantityWitness": "2 cup(s) lentils",
-      "hasPreparationText": true,
-      "webReference": "turn68view0"
+      "webReference": "turn68view0",
+      "automatedPreparationKeywordDetected": true
     },
     {
       "id": "FW-S037",
@@ -489,8 +489,8 @@
       "retrieval": "page-read",
       "locator": "Ingredients and preparation section",
       "quantityWitness": "500 g Prawns Remove shell",
-      "hasPreparationText": true,
-      "webReference": "turn71view0"
+      "webReference": "turn71view0",
+      "automatedPreparationKeywordDetected": true
     },
     {
       "id": "FW-S038",
@@ -502,8 +502,8 @@
       "retrieval": "page-read",
       "locator": "Ingredients and preparation section",
       "quantityWitness": "### 【27† Brazil Is Out. So Which World Cup 2026",
-      "hasPreparationText": true,
-      "webReference": "turn72view0"
+      "webReference": "turn72view0",
+      "automatedPreparationKeywordDetected": true
     },
     {
       "id": "FW-S039",
@@ -515,8 +515,8 @@
       "retrieval": "page-read",
       "locator": "Ingredients and preparation section",
       "quantityWitness": "2 cup(s) Grace Coconut Milk",
-      "hasPreparationText": true,
-      "webReference": "turn75view0"
+      "webReference": "turn75view0",
+      "automatedPreparationKeywordDetected": true
     },
     {
       "id": "FW-S040",
@@ -528,8 +528,8 @@
       "retrieval": "page-read",
       "locator": "Ingredients and preparation section",
       "quantityWitness": "4 cup(s) water",
-      "hasPreparationText": true,
-      "webReference": "turn69view0"
+      "webReference": "turn69view0",
+      "automatedPreparationKeywordDetected": true
     },
     {
       "id": "FW-S041",
@@ -541,8 +541,8 @@
       "retrieval": "page-read",
       "locator": "Ingredients and preparation section",
       "quantityWitness": "2 lb of Tamarinds (shells removed)",
-      "hasPreparationText": true,
-      "webReference": "turn81view0"
+      "webReference": "turn81view0",
+      "automatedPreparationKeywordDetected": true
     },
     {
       "id": "FW-S042",
@@ -554,8 +554,8 @@
       "retrieval": "page-read",
       "locator": "Ingredients and preparation section",
       "quantityWitness": "880 g ripe soursop",
-      "hasPreparationText": true,
-      "webReference": "turn83view0"
+      "webReference": "turn83view0",
+      "automatedPreparationKeywordDetected": true
     },
     {
       "id": "FW-S043",
@@ -567,8 +567,8 @@
       "retrieval": "page-read",
       "locator": "Named page section",
       "quantityWitness": "2 cups fresh mint leaves with stems, washed and picked",
-      "hasPreparationText": false,
-      "webReference": "turn79view0"
+      "webReference": "turn79view0",
+      "automatedPreparationKeywordDetected": false
     },
     {
       "id": "FW-S044",
@@ -580,8 +580,8 @@
       "retrieval": "page-read",
       "locator": "Ingredients and preparation section",
       "quantityWitness": "1 1/2 pound(s) corned pork",
-      "hasPreparationText": true,
-      "webReference": "turn78view0"
+      "webReference": "turn78view0",
+      "automatedPreparationKeywordDetected": true
     },
     {
       "id": "FW-S045",
@@ -593,8 +593,8 @@
       "retrieval": "page-read",
       "locator": "Ingredients and preparation section",
       "quantityWitness": "1 lb. Mackerel",
-      "hasPreparationText": true,
-      "webReference": "turn82view0"
+      "webReference": "turn82view0",
+      "automatedPreparationKeywordDetected": true
     },
     {
       "id": "FW-S046",
@@ -606,8 +606,8 @@
       "retrieval": "page-read",
       "locator": "Ingredients and preparation section",
       "quantityWitness": "9. Half a cup of walnut meats may be added",
-      "hasPreparationText": true,
-      "webReference": "turn77view0"
+      "webReference": "turn77view0",
+      "automatedPreparationKeywordDetected": true
     },
     {
       "id": "FW-S047",
@@ -619,8 +619,8 @@
       "retrieval": "page-read",
       "locator": "Ingredients and preparation section",
       "quantityWitness": "1. Reserve ¼ cup flour for rolling. Combine dry ingredients",
-      "hasPreparationText": true,
-      "webReference": "turn80view0"
+      "webReference": "turn80view0",
+      "automatedPreparationKeywordDetected": true
     },
     {
       "id": "FW-S048",
@@ -632,8 +632,8 @@
       "retrieval": "page-read",
       "locator": "Ingredients and preparation section",
       "quantityWitness": "2 3/4 cups brown sugar",
-      "hasPreparationText": true,
-      "webReference": "turn76view0"
+      "webReference": "turn76view0",
+      "automatedPreparationKeywordDetected": true
     },
     {
       "id": "FW-S049",
@@ -645,8 +645,8 @@
       "retrieval": "page-read",
       "locator": "Ingredients and preparation section",
       "quantityWitness": "2 tbsp. melted margarine",
-      "hasPreparationText": true,
-      "webReference": "turn84view0"
+      "webReference": "turn84view0",
+      "automatedPreparationKeywordDetected": true
     },
     {
       "id": "FW-S050",
@@ -658,8 +658,8 @@
       "retrieval": "page-read",
       "locator": "Ingredients and preparation section",
       "quantityWitness": "3 tbsp butter + 1 tsp to grease the baking",
-      "hasPreparationText": true,
-      "webReference": "turn85view0"
+      "webReference": "turn85view0",
+      "automatedPreparationKeywordDetected": true
     },
     {
       "id": "FW-S051",
@@ -671,8 +671,8 @@
       "retrieval": "page-read",
       "locator": "Ingredients and preparation section",
       "quantityWitness": "1 cup all-purpose flour",
-      "hasPreparationText": true,
-      "webReference": "turn91view0"
+      "webReference": "turn91view0",
+      "automatedPreparationKeywordDetected": true
     },
     {
       "id": "FW-S052",
@@ -684,8 +684,8 @@
       "retrieval": "page-read",
       "locator": "Ingredients and preparation section",
       "quantityWitness": "¼ LB Corned pork, cubed",
-      "hasPreparationText": true,
-      "webReference": "turn88view0"
+      "webReference": "turn88view0",
+      "automatedPreparationKeywordDetected": true
     },
     {
       "id": "FW-S053",
@@ -697,8 +697,8 @@
       "retrieval": "page-read",
       "locator": "Ingredients and preparation section",
       "quantityWitness": "There should be a total of 4 cups if you",
-      "hasPreparationText": true,
-      "webReference": "turn89view0"
+      "webReference": "turn89view0",
+      "automatedPreparationKeywordDetected": true
     },
     {
       "id": "FW-S054",
@@ -710,8 +710,8 @@
       "retrieval": "page-read",
       "locator": "Ingredients and preparation section",
       "quantityWitness": "5 lb Pork Shoulder (cut up)",
-      "hasPreparationText": true,
-      "webReference": "turn86view0"
+      "webReference": "turn86view0",
+      "automatedPreparationKeywordDetected": true
     },
     {
       "id": "FW-S055",
@@ -723,8 +723,8 @@
       "retrieval": "page-read",
       "locator": "Ingredients and preparation section",
       "quantityWitness": "2 lb oxtails",
-      "hasPreparationText": true,
-      "webReference": "turn87view0"
+      "webReference": "turn87view0",
+      "automatedPreparationKeywordDetected": true
     },
     {
       "id": "FW-S056",
@@ -736,8 +736,8 @@
       "retrieval": "page-read",
       "locator": "Ingredients and preparation section",
       "quantityWitness": "Beef broth: There is a likelihood you may not need",
-      "hasPreparationText": true,
-      "webReference": "turn90view0"
+      "webReference": "turn90view0",
+      "automatedPreparationKeywordDetected": true
     },
     {
       "id": "FW-S057",
@@ -749,8 +749,8 @@
       "retrieval": "page-read",
       "locator": "Ingredients and preparation section",
       "quantityWitness": "3-4 lbs oxtail, cleaned and cut into pieces",
-      "hasPreparationText": true,
-      "webReference": "turn95view0"
+      "webReference": "turn95view0",
+      "automatedPreparationKeywordDetected": true
     },
     {
       "id": "FW-S058",
@@ -762,8 +762,8 @@
       "retrieval": "page-read",
       "locator": "Ingredients and preparation section",
       "quantityWitness": "6 cup(s) water",
-      "hasPreparationText": true,
-      "webReference": "turn97view0"
+      "webReference": "turn97view0",
+      "automatedPreparationKeywordDetected": true
     },
     {
       "id": "FW-S059",
@@ -775,8 +775,8 @@
       "retrieval": "page-read",
       "locator": "Ingredients and preparation section",
       "quantityWitness": "2 lb. chicken foot (Skinned and nails cut-off)",
-      "hasPreparationText": true,
-      "webReference": "turn92view0"
+      "webReference": "turn92view0",
+      "automatedPreparationKeywordDetected": true
     },
     {
       "id": "FW-S060",
@@ -788,8 +788,8 @@
       "retrieval": "page-read",
       "locator": "Ingredients and preparation section",
       "quantityWitness": "16 cup(s) water",
-      "hasPreparationText": true,
-      "webReference": "turn94view0"
+      "webReference": "turn94view0",
+      "automatedPreparationKeywordDetected": true
     },
     {
       "id": "FW-S061",
@@ -801,8 +801,8 @@
       "retrieval": "page-read",
       "locator": "Ingredients and preparation section",
       "quantityWitness": "2 pound(s) goat head and belly",
-      "hasPreparationText": true,
-      "webReference": "turn96view0"
+      "webReference": "turn96view0",
+      "automatedPreparationKeywordDetected": true
     },
     {
       "id": "FW-S062",
@@ -814,8 +814,8 @@
       "retrieval": "page-read",
       "locator": "Ingredients and preparation section",
       "quantityWitness": "1 Cup plain flour",
-      "hasPreparationText": true,
-      "webReference": "turn98view0"
+      "webReference": "turn98view0",
+      "automatedPreparationKeywordDetected": true
     },
     {
       "id": "FW-S063",
@@ -827,8 +827,8 @@
       "retrieval": "page-read",
       "locator": "Named page section",
       "quantityWitness": null,
-      "hasPreparationText": false,
-      "webReference": "turn99view0"
+      "webReference": "turn99view0",
+      "automatedPreparationKeywordDetected": false
     },
     {
       "id": "FW-S064",
@@ -840,8 +840,8 @@
       "retrieval": "page-read",
       "locator": "Ingredients and preparation section",
       "quantityWitness": "1 lb Callaloo (approximately 8 stalks) –",
-      "hasPreparationText": true,
-      "webReference": "turn93view0"
+      "webReference": "turn93view0",
+      "automatedPreparationKeywordDetected": true
     },
     {
       "id": "FW-S065",
@@ -853,8 +853,8 @@
       "retrieval": "page-read",
       "locator": "Ingredients and preparation section",
       "quantityWitness": "4 pound(s) cow foot",
-      "hasPreparationText": true,
-      "webReference": "turn107view0"
+      "webReference": "turn107view0",
+      "automatedPreparationKeywordDetected": true
     },
     {
       "id": "FW-S066",
@@ -866,8 +866,8 @@
       "retrieval": "page-read",
       "locator": "Ingredients and preparation section",
       "quantityWitness": "3 pound(s) cow tripe",
-      "hasPreparationText": true,
-      "webReference": "turn103view0"
+      "webReference": "turn103view0",
+      "automatedPreparationKeywordDetected": true
     },
     {
       "id": "FW-S067",
@@ -879,8 +879,8 @@
       "retrieval": "page-read",
       "locator": "Ingredients and preparation section",
       "quantityWitness": "1. Toast the curry: First, you want to toast curry",
-      "hasPreparationText": true,
-      "webReference": "turn101view0"
+      "webReference": "turn101view0",
+      "automatedPreparationKeywordDetected": true
     },
     {
       "id": "FW-S068",
@@ -892,8 +892,8 @@
       "retrieval": "page-read",
       "locator": "Named page section",
       "quantityWitness": null,
-      "hasPreparationText": false,
-      "webReference": "turn100view0"
+      "webReference": "turn100view0",
+      "automatedPreparationKeywordDetected": false
     },
     {
       "id": "FW-S069",
@@ -905,8 +905,8 @@
       "retrieval": "page-read",
       "locator": "Ingredients and preparation section",
       "quantityWitness": "2 garlic cloves",
-      "hasPreparationText": false,
-      "webReference": "turn106view0"
+      "webReference": "turn106view0",
+      "automatedPreparationKeywordDetected": false
     },
     {
       "id": "FW-S070",
@@ -918,8 +918,8 @@
       "retrieval": "page-read",
       "locator": "Ingredients and preparation section",
       "quantityWitness": "632 g Fresh fish",
-      "hasPreparationText": true,
-      "webReference": "turn102view0"
+      "webReference": "turn102view0",
+      "automatedPreparationKeywordDetected": true
     },
     {
       "id": "FW-S071",
@@ -931,8 +931,8 @@
       "retrieval": "page-read",
       "locator": "Ingredients and preparation section",
       "quantityWitness": "2 Cups Homemade coconut milk canned coconut is an option",
-      "hasPreparationText": true,
-      "webReference": "turn104view0"
+      "webReference": "turn104view0",
+      "automatedPreparationKeywordDetected": true
     },
     {
       "id": "FW-S072",
@@ -944,8 +944,8 @@
       "retrieval": "page-read",
       "locator": "Ingredients and preparation section",
       "quantityWitness": "1 ½ lb. Smoked Herring",
-      "hasPreparationText": true,
-      "webReference": "turn105view0"
+      "webReference": "turn105view0",
+      "automatedPreparationKeywordDetected": true
     },
     {
       "id": "FW-S073",
@@ -957,8 +957,8 @@
       "retrieval": "page-read",
       "locator": "Ingredients and preparation section",
       "quantityWitness": "1½ lbs Fresh fish See notes",
-      "hasPreparationText": true,
-      "webReference": "turn113view0"
+      "webReference": "turn113view0",
+      "automatedPreparationKeywordDetected": true
     },
     {
       "id": "FW-S074",
@@ -970,8 +970,8 @@
       "retrieval": "page-read",
       "locator": "Ingredients and preparation section",
       "quantityWitness": "1 teaspoon cracked pepper",
-      "hasPreparationText": true,
-      "webReference": "turn109view0"
+      "webReference": "turn109view0",
+      "automatedPreparationKeywordDetected": true
     },
     {
       "id": "FW-S075",
@@ -983,8 +983,8 @@
       "retrieval": "page-read",
       "locator": "Ingredients and preparation section",
       "quantityWitness": "1 lb Janga crayfish",
-      "hasPreparationText": true,
-      "webReference": "turn114view0"
+      "webReference": "turn114view0",
+      "automatedPreparationKeywordDetected": true
     },
     {
       "id": "FW-S076",
@@ -996,8 +996,8 @@
       "retrieval": "page-read",
       "locator": "Ingredients and preparation section",
       "quantityWitness": "1/2 pound salt fish",
-      "hasPreparationText": true,
-      "webReference": "turn115view0"
+      "webReference": "turn115view0",
+      "automatedPreparationKeywordDetected": true
     },
     {
       "id": "FW-S077",
@@ -1009,8 +1009,8 @@
       "retrieval": "page-read",
       "locator": "Ingredients and preparation section",
       "quantityWitness": "1 pound(s) pastry flour",
-      "hasPreparationText": true,
-      "webReference": "turn111view0"
+      "webReference": "turn111view0",
+      "automatedPreparationKeywordDetected": true
     },
     {
       "id": "FW-S078",
@@ -1022,8 +1022,8 @@
       "retrieval": "page-read",
       "locator": "Ingredients and preparation section",
       "quantityWitness": "3 cup(s) dried coconut",
-      "hasPreparationText": true,
-      "webReference": "turn110view0"
+      "webReference": "turn110view0",
+      "automatedPreparationKeywordDetected": true
     },
     {
       "id": "FW-S079",
@@ -1035,8 +1035,8 @@
       "retrieval": "page-read",
       "locator": "Ingredients and preparation section",
       "quantityWitness": "4 Cups Roasted peanuts",
-      "hasPreparationText": true,
-      "webReference": "turn112view0"
+      "webReference": "turn112view0",
+      "automatedPreparationKeywordDetected": true
     },
     {
       "id": "FW-S080",
@@ -1048,8 +1048,8 @@
       "retrieval": "page-read",
       "locator": "Ingredients and preparation section",
       "quantityWitness": "2 lb flour",
-      "hasPreparationText": true,
-      "webReference": "turn108view0"
+      "webReference": "turn108view0",
+      "automatedPreparationKeywordDetected": true
     },
     {
       "id": "FW-S081",
@@ -1061,8 +1061,8 @@
       "retrieval": "page-read",
       "locator": "Ingredients and preparation section",
       "quantityWitness": "1 cup(s) wine",
-      "hasPreparationText": true,
-      "webReference": "turn123view0"
+      "webReference": "turn123view0",
+      "automatedPreparationKeywordDetected": true
     },
     {
       "id": "FW-S082",
@@ -1074,8 +1074,8 @@
       "retrieval": "page-read",
       "locator": "Ingredients and preparation section",
       "quantityWitness": "2 cup(s) cassava, grated",
-      "hasPreparationText": true,
-      "webReference": "turn119view0"
+      "webReference": "turn119view0",
+      "automatedPreparationKeywordDetected": true
     },
     {
       "id": "FW-S083",
@@ -1087,8 +1087,8 @@
       "retrieval": "page-read",
       "locator": "Ingredients and preparation section",
       "quantityWitness": "2 cups of loose sweet corn kernels (or use 1",
-      "hasPreparationText": true,
-      "webReference": "turn122view0"
+      "webReference": "turn122view0",
+      "automatedPreparationKeywordDetected": true
     },
     {
       "id": "FW-S084",
@@ -1100,8 +1100,8 @@
       "retrieval": "page-read",
       "locator": "Ingredients and preparation section",
       "quantityWitness": "4 cup(s) Grace Cornmeal",
-      "hasPreparationText": true,
-      "webReference": "turn118view0"
+      "webReference": "turn118view0",
+      "automatedPreparationKeywordDetected": true
     },
     {
       "id": "FW-S085",
@@ -1113,8 +1113,8 @@
       "retrieval": "page-read",
       "locator": "Named page section",
       "quantityWitness": null,
-      "hasPreparationText": false,
-      "webReference": "turn117view0"
+      "webReference": "turn117view0",
+      "automatedPreparationKeywordDetected": false
     },
     {
       "id": "FW-S086",
@@ -1126,8 +1126,8 @@
       "retrieval": "page-read",
       "locator": "Ingredients and preparation section",
       "quantityWitness": "*2 lb. wine soaked fruits* see notes",
-      "hasPreparationText": true,
-      "webReference": "turn120view0"
+      "webReference": "turn120view0",
+      "automatedPreparationKeywordDetected": true
     },
     {
       "id": "FW-S087",
@@ -1139,8 +1139,8 @@
       "retrieval": "page-read",
       "locator": "Ingredients and preparation section",
       "quantityWitness": "Celebrating Christmas in Jamaican style is never complete without Jamaican",
-      "hasPreparationText": true,
-      "webReference": "turn116view0"
+      "webReference": "turn116view0",
+      "automatedPreparationKeywordDetected": true
     },
     {
       "id": "FW-S088",
@@ -1152,8 +1152,8 @@
       "retrieval": "page-read",
       "locator": "Ingredients and preparation section",
       "quantityWitness": null,
-      "hasPreparationText": true,
-      "webReference": "turn121view0"
+      "webReference": "turn121view0",
+      "automatedPreparationKeywordDetected": true
     },
     {
       "id": "FW-S089",
@@ -1165,8 +1165,8 @@
       "retrieval": "page-read",
       "locator": "Ingredients and preparation section",
       "quantityWitness": "¾ lb Irish Moss",
-      "hasPreparationText": true,
-      "webReference": "turn127view0"
+      "webReference": "turn127view0",
+      "automatedPreparationKeywordDetected": true
     },
     {
       "id": "FW-S090",
@@ -1178,8 +1178,8 @@
       "retrieval": "page-read",
       "locator": "Ingredients and preparation section",
       "quantityWitness": "2 lb whole carrots",
-      "hasPreparationText": true,
-      "webReference": "turn128view0"
+      "webReference": "turn128view0",
+      "automatedPreparationKeywordDetected": true
     },
     {
       "id": "FW-S091",
@@ -1191,8 +1191,8 @@
       "retrieval": "page-read",
       "locator": "Ingredients and preparation section",
       "quantityWitness": "35 g Raw peanut",
-      "hasPreparationText": true,
-      "webReference": "turn126view0"
+      "webReference": "turn126view0",
+      "automatedPreparationKeywordDetected": true
     },
     {
       "id": "FW-S092",
@@ -1204,8 +1204,8 @@
       "retrieval": "page-read",
       "locator": "Ingredients and preparation section",
       "quantityWitness": "10 cups water",
-      "hasPreparationText": false,
-      "webReference": "turn129view0"
+      "webReference": "turn129view0",
+      "automatedPreparationKeywordDetected": false
     },
     {
       "id": "FW-S093",
@@ -1217,8 +1217,8 @@
       "retrieval": "page-read",
       "locator": "Ingredients and preparation section",
       "quantityWitness": "Tamarind: I’m using about 604g (1lb. 53oz) tamarind. That’s about",
-      "hasPreparationText": true,
-      "webReference": "turn125view0"
+      "webReference": "turn125view0",
+      "automatedPreparationKeywordDetected": true
     },
     {
       "id": "FW-S094",
@@ -1230,8 +1230,8 @@
       "retrieval": "page-read",
       "locator": "Named page section",
       "quantityWitness": null,
-      "hasPreparationText": false,
-      "webReference": "turn131view0"
+      "webReference": "turn131view0",
+      "automatedPreparationKeywordDetected": false
     },
     {
       "id": "FW-S095",
@@ -1243,8 +1243,8 @@
       "retrieval": "page-read",
       "locator": "Ingredients and preparation section",
       "quantityWitness": "✿ 1 ½ cups water",
-      "hasPreparationText": true,
-      "webReference": "turn124view0"
+      "webReference": "turn124view0",
+      "automatedPreparationKeywordDetected": true
     },
     {
       "id": "FW-S096",
@@ -1256,8 +1256,8 @@
       "retrieval": "page-read",
       "locator": "Named page section",
       "quantityWitness": "Pour 1 cup freshly boiled water over 1 – 2",
-      "hasPreparationText": false,
-      "webReference": "turn130view0"
+      "webReference": "turn130view0",
+      "automatedPreparationKeywordDetected": false
     },
     {
       "id": "FW-S097",
@@ -1269,8 +1269,8 @@
       "retrieval": "page-read",
       "locator": "Ingredients and preparation section",
       "quantityWitness": "1 lb sugar",
-      "hasPreparationText": true,
-      "webReference": "turn133view0"
+      "webReference": "turn133view0",
+      "automatedPreparationKeywordDetected": true
     },
     {
       "id": "FW-S098",
@@ -1282,8 +1282,8 @@
       "retrieval": "failed",
       "locator": "Named page section",
       "quantityWitness": null,
-      "hasPreparationText": false,
-      "webReference": "turn132view0"
+      "webReference": "turn132view0",
+      "automatedPreparationKeywordDetected": false
     },
     {
       "id": "FW-S099",
@@ -1295,8 +1295,8 @@
       "retrieval": "page-read",
       "locator": "Ingredients and preparation section",
       "quantityWitness": "358 g Plain flour",
-      "hasPreparationText": true,
-      "webReference": "turn141view0"
+      "webReference": "turn141view0",
+      "automatedPreparationKeywordDetected": true
     },
     {
       "id": "FW-S100",
@@ -1308,8 +1308,8 @@
       "retrieval": "page-read",
       "locator": "Ingredients and preparation section",
       "quantityWitness": "60 g Plain flour",
-      "hasPreparationText": true,
-      "webReference": "turn147view0"
+      "webReference": "turn147view0",
+      "automatedPreparationKeywordDetected": true
     },
     {
       "id": "FW-S101",
@@ -1321,8 +1321,8 @@
       "retrieval": "page-read",
       "locator": "Ingredients and preparation section",
       "quantityWitness": "Instant dry yeast. This recipe uses 2¼ teaspoons, which is",
-      "hasPreparationText": true,
-      "webReference": "turn151view0"
+      "webReference": "turn151view0",
+      "automatedPreparationKeywordDetected": true
     },
     {
       "id": "FW-S102",
@@ -1334,8 +1334,8 @@
       "retrieval": "page-read",
       "locator": "Ingredients and preparation section",
       "quantityWitness": "4 lbs. Chicken",
-      "hasPreparationText": true,
-      "webReference": "turn142view0"
+      "webReference": "turn142view0",
+      "automatedPreparationKeywordDetected": true
     },
     {
       "id": "FW-S103",
@@ -1347,8 +1347,8 @@
       "retrieval": "page-read",
       "locator": "Ingredients and preparation section",
       "quantityWitness": "24 cup(s) water",
-      "hasPreparationText": true,
-      "webReference": "turn144view0"
+      "webReference": "turn144view0",
+      "automatedPreparationKeywordDetected": true
     },
     {
       "id": "FW-S104",
@@ -1360,8 +1360,8 @@
       "retrieval": "page-read",
       "locator": "Ingredients and preparation section",
       "quantityWitness": "3 cups flour",
-      "hasPreparationText": true,
-      "webReference": "turn154view0"
+      "webReference": "turn154view0",
+      "automatedPreparationKeywordDetected": true
     },
     {
       "id": "FW-S105",
@@ -1373,8 +1373,8 @@
       "retrieval": "page-read",
       "locator": "Ingredients and preparation section",
       "quantityWitness": "- 1 cup vinegar",
-      "hasPreparationText": true,
-      "webReference": "turn143view0"
+      "webReference": "turn143view0",
+      "automatedPreparationKeywordDetected": true
     },
     {
       "id": "FW-S106",
@@ -1386,8 +1386,8 @@
       "retrieval": "page-read",
       "locator": "Named page section",
       "quantityWitness": "Pour 1 cup freshly boiled water over 1 – 2",
-      "hasPreparationText": false,
-      "webReference": "turn146view0"
+      "webReference": "turn146view0",
+      "automatedPreparationKeywordDetected": false
     },
     {
       "id": "FW-S107",
@@ -1399,8 +1399,8 @@
       "retrieval": "page-read",
       "locator": "Named page section",
       "quantityWitness": null,
-      "hasPreparationText": false,
-      "webReference": "turn148view0"
+      "webReference": "turn148view0",
+      "automatedPreparationKeywordDetected": false
     },
     {
       "id": "FW-S108",
@@ -1412,8 +1412,8 @@
       "retrieval": "page-read",
       "locator": "Named page section",
       "quantityWitness": null,
-      "hasPreparationText": true,
-      "webReference": "turn150view0"
+      "webReference": "turn150view0",
+      "automatedPreparationKeywordDetected": true
     },
     {
       "id": "FW-S109",
@@ -1425,8 +1425,8 @@
       "retrieval": "page-read",
       "locator": "Named page section",
       "quantityWitness": null,
-      "hasPreparationText": false,
-      "webReference": "turn153view0"
+      "webReference": "turn153view0",
+      "automatedPreparationKeywordDetected": false
     },
     {
       "id": "FW-S110",
@@ -1438,8 +1438,8 @@
       "retrieval": "page-read",
       "locator": "Named page section",
       "quantityWitness": "Plantain /133 Banana /139 Breadfruit /145 Ackee /151 Avocado /158",
-      "hasPreparationText": true,
-      "webReference": "turn149view0"
+      "webReference": "turn149view0",
+      "automatedPreparationKeywordDetected": true
     },
     {
       "id": "FW-S111",
@@ -1451,8 +1451,8 @@
       "retrieval": "failed",
       "locator": "Named page section",
       "quantityWitness": null,
-      "hasPreparationText": false,
-      "webReference": "turn140view0"
+      "webReference": "turn140view0",
+      "automatedPreparationKeywordDetected": false
     },
     {
       "id": "FW-S112",
@@ -1464,8 +1464,8 @@
       "retrieval": "failed",
       "locator": "Named page section",
       "quantityWitness": null,
-      "hasPreparationText": false,
-      "webReference": "turn152view0"
+      "webReference": "turn152view0",
+      "automatedPreparationKeywordDetected": false
     },
     {
       "id": "FW-S113",
@@ -1477,8 +1477,60 @@
       "retrieval": "failed",
       "locator": "Named page section",
       "quantityWitness": null,
-      "hasPreparationText": false,
-      "webReference": "turn145view0"
+      "webReference": "turn145view0",
+      "automatedPreparationKeywordDetected": false
+    },
+    {
+      "id": "FW-S114",
+      "url": "https://www.eatyourbooks.com/library/recipes/2434326/cook-down-ackee-and-callaloo",
+      "title": "Cook-down ackee and callaloo, Original Flava: Caribbean Recipes from Home, p. 142",
+      "author": "Craig McAnuff and Shaun McAnuff; indexed by Eat Your Books",
+      "publicationDate": null,
+      "accessed": "2026-10-16",
+      "retrieval": "page-read",
+      "locator": "Bibliographic recipe index; full cookbook formula not inspected",
+      "quantityWitness": null,
+      "automatedPreparationKeywordDetected": false,
+      "webReference": null
+    },
+    {
+      "id": "FW-S115",
+      "url": "https://www.eatyourbooks.com/library/recipes/2434315/garlic-butter-lobster-with-sweet",
+      "title": "Garlic butter lobster with sweet chilli sauce, Original Flava: Caribbean Recipes from Home, p. 129",
+      "author": "Craig McAnuff and Shaun McAnuff; indexed by Eat Your Books",
+      "publicationDate": null,
+      "accessed": "2026-10-16",
+      "retrieval": "page-read",
+      "locator": "Bibliographic recipe index; full cookbook formula not inspected",
+      "quantityWitness": null,
+      "automatedPreparationKeywordDetected": false,
+      "webReference": null
+    },
+    {
+      "id": "FW-S116",
+      "url": "https://gracefoods.com/products/product/view/17/386",
+      "title": "Grace Guava Jam",
+      "author": "Grace Foods",
+      "publicationDate": null,
+      "accessed": "2026-10-16",
+      "retrieval": "page-read",
+      "locator": "Primary product page; no home recipe or storage process supplied",
+      "quantityWitness": null,
+      "automatedPreparationKeywordDetected": false,
+      "webReference": null
+    },
+    {
+      "id": "FW-S117",
+      "url": "https://originalflava.com/vegan/vegan-platter-plantaincallalooackee/",
+      "title": "Vegan Platter (Plantain, Callaloo, Ackee)",
+      "author": "Shaun McAnuff / Original Flava",
+      "publicationDate": null,
+      "accessed": "2026-10-16",
+      "retrieval": "page-read",
+      "locator": "Complete platter preparation; ackee and callaloo cooked in separate pans, not evidence for a combined formula",
+      "quantityWitness": null,
+      "automatedPreparationKeywordDetected": false,
+      "webReference": null
     }
   ],
   "entries": [
@@ -3188,11 +3240,12 @@
       "id": "foodways-completion-b-12",
       "name": "Ackee and callaloo",
       "category": "Main dishes",
-      "status": "unresolved",
+      "status": "dish-only",
       "sourceIds": [
-        "FW-S069"
+        "FW-S114",
+        "FW-S117"
       ],
-      "note": "A blog publishes ackee, callaloo and pumpkin, but the individual cook’s identity and Jamaican provenance have not been established. Treat it as a research lead, not an authenticated Jamaican formula.",
+      "note": "Cook-down ackee and callaloo is indexed on page 142 of Craig and Shaun McAnuff’s Original Flava. The full cookbook formula has not been inspected. Their separate online platter cooks ackee and callaloo in different pans, so it cannot authenticate the archived combined method.",
       "formulaStatus": "withheld-unverified",
       "kitchenStatus": "not-tested",
       "historicalOrigin": "not-established-by-recipe-source",
@@ -3293,11 +3346,11 @@
       "id": "foodways-completion-b-17",
       "name": "Garlic lobster",
       "category": "Fish & seafood",
-      "status": "related-evidence",
+      "status": "dish-only",
       "sourceIds": [
-        "FW-S074"
+        "FW-S115"
       ],
-      "note": "Yanikie Tucker publishes broiled lobster tails, but that inspected recipe has no garlic. It cannot authenticate a “garlic lobster” formula.",
+      "note": "Garlic butter lobster with sweet chilli sauce is indexed on page 129 of Craig and Shaun McAnuff’s Original Flava. That establishes a named cookbook preparation; the full quantities and method have not been inspected. The earlier broiled-lobster candidate had no garlic and was not a match.",
       "formulaStatus": "withheld-unverified",
       "kitchenStatus": "not-tested",
       "historicalOrigin": "not-established-by-recipe-source",
@@ -3798,11 +3851,11 @@
       "id": "foodways-completion-c-21",
       "name": "Guava jam",
       "category": "Drinks & preserves",
-      "status": "unresolved",
+      "status": "dish-only",
       "sourceIds": [
-        "FW-S097"
+        "FW-S116"
       ],
-      "note": "JamaicanBikkle publishes a guava-jam formula and family anecdote but does not identify the cook on the inspected page. Attribution and a validated storage process remain outstanding.",
+      "note": "Grace’s primary product page documents guava jam. It does not supply a home recipe. The JamaicanBikkle candidate has a formula but no individually identified cook on the inspected page; local quantities, attribution and safe storage remain unresolved.",
       "formulaStatus": "withheld-unverified",
       "kitchenStatus": "not-tested",
       "historicalOrigin": "not-established-by-recipe-source",
