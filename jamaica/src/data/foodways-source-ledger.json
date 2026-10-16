@@ -8,9 +8,9 @@
       "work": "Jamaican Food: History, Biology, Culture",
       "publisher": "University of the West Indies Press",
       "year": 2008,
-      "url": "https://libraries.sta.uwi.edu/uwipress/index.php/main/catalogueDetails/461",
+      "url": "https://www.uwipress.com/9789766409111/jamaican-food/",
       "scope": "Broad historical development and food supply, plant introductions, cooking and cultural change",
-      "limitation": "Publisher catalogue and overview consulted; claims needing page references remain open"
+      "limitation": "Verified UWI Press publisher listing (2022 paperback reissue) and 2008 edition bibliographic catalogue; no book full-text or page-by-page validation. Do not claim page-specific proof."
     },
     {
       "id": "SLOCUM24",
@@ -145,5 +145,11 @@
       ],
       "limit": "Practices vary among Rastafari families and communities"
     }
-  ]
+  ],
+  "research_review": {
+    "reviewed": "2026-10-15",
+    "publisher_confirmation": "https://www.uwipress.com/9789766409111/jamaican-food/",
+    "status": "Publisher verifies broad subject coverage; precise dish-origin claims still need primary or paginated sources",
+    "editorial_consequence": "Recipe-history links indicate relevant context, never proof of a unique origin"
+  }
 }
