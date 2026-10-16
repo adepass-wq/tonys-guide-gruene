@@ -1,0 +1,149 @@
+{
+  "status": "Editorial research crosswalk; linked sources support broad history, not necessarily a specific modern recipe",
+  "verified_on": "2026-10-15",
+  "sources": [
+    {
+      "id": "HIGMAN08",
+      "author": "B. W. Higman",
+      "work": "Jamaican Food: History, Biology, Culture",
+      "publisher": "University of the West Indies Press",
+      "year": 2008,
+      "url": "https://libraries.sta.uwi.edu/uwipress/index.php/main/catalogueDetails/461",
+      "scope": "Broad historical development and food supply, plant introductions, cooking and cultural change",
+      "limitation": "Publisher catalogue and overview consulted; claims needing page references remain open"
+    },
+    {
+      "id": "SLOCUM24",
+      "author": "Leah Slocum",
+      "work": "Provision Grounds, Fruit, and Labour Conflicts in Jamaica, 1830s–1850s",
+      "publisher": "Slavery & Abolition 45(4), 828–849",
+      "year": 2024,
+      "url": "https://doi.org/10.1080/0144039X.2024.2358537",
+      "scope": "Provision grounds, apprenticeship, peasant agriculture, fruit, labor and emancipation disputes",
+      "limitation": "Article abstract and accessible bibliographic metadata checked; avoid unwarranted extrapolation to specific modern recipe"
+    },
+    {
+      "id": "NLJIND",
+      "author": "National Library of Jamaica",
+      "work": "History Notes: Indian Immigration",
+      "publisher": "National Library of Jamaica",
+      "url": "https://www.nlj.gov.jm/history-notes/history-notes.htm",
+      "scope": "1845–1917 indenture timeline, 36,412 estimate, contractual arrangements",
+      "limitation": "Population estimate from NLJ, not a precise origin for curried goat"
+    },
+    {
+      "id": "HIGMANANU",
+      "author": "Australian National University School of History",
+      "work": "Jamaican Food: History, Biology, Culture book description",
+      "url": "https://history.cass.anu.edu.au/research/publications/jamaican-food-history-biology-culture",
+      "scope": "Taíno cassava and Maroon jerk historical topic coverage",
+      "limitation": "Book description is secondary metadata, not proof of exact recipes"
+    }
+  ],
+  "essays": [
+    {
+      "essay": 1,
+      "title": "The provision ground was more than a garden",
+      "sources": [
+        "SLOCUM24",
+        "HIGMAN08"
+      ],
+      "relevant_recipes": [
+        "Boiled yam and dumpling",
+        "Steamed cabbage and carrots",
+        "Callaloo and saltfish"
+      ],
+      "limit": "Exact foods and preparation methods vary by estate and period"
+    },
+    {
+      "essay": 2,
+      "title": "Saltfish and the Atlantic economy",
+      "sources": [
+        "HIGMAN08"
+      ],
+      "relevant_recipes": [
+        "Ackee and saltfish",
+        "Saltfish rundown",
+        "Stamp and go"
+      ],
+      "limit": "Recipe pairing chronology unverified"
+    },
+    {
+      "essay": 3,
+      "title": "Markets built by women, farmers and vendors",
+      "sources": [
+        "SLOCUM24",
+        "HIGMAN08"
+      ],
+      "relevant_recipes": [
+        "Pepper shrimp",
+        "Roast breadfruit"
+      ],
+      "limit": "Parish-specific market and vendor narratives need separate primary sources"
+    },
+    {
+      "essay": 4,
+      "title": "Indian indenture and the Jamaican curry",
+      "sources": [
+        "NLJIND",
+        "HIGMAN08"
+      ],
+      "relevant_recipes": [
+        "Curry goat",
+        "Curried chicken",
+        "Curried chickpeas"
+      ],
+      "limit": "No definitive origin or fixed ingredients assigned to a single immigrant group"
+    },
+    {
+      "essay": 5,
+      "title": "Chinese Jamaican kitchens and changing town food",
+      "sources": [
+        "HIGMAN08"
+      ],
+      "relevant_recipes": [
+        "Steamed snapper",
+        "Pepper steak"
+      ],
+      "limit": "Need named Chinese-Jamaican oral testimony and dates; recipes here are not labeled direct historical reconstructions"
+    },
+    {
+      "essay": 6,
+      "title": "Cassava before conquest and after",
+      "sources": [
+        "HIGMAN08",
+        "HIGMANANU"
+      ],
+      "relevant_recipes": [
+        "Bammy",
+        "Cassava pone"
+      ],
+      "limit": "Ingredient continuity does not establish unchanged Taíno recipes"
+    },
+    {
+      "essay": 7,
+      "title": "Maroon food histories and the making of jerk",
+      "sources": [
+        "HIGMANANU",
+        "HIGMAN08"
+      ],
+      "relevant_recipes": [
+        "Jerk pork",
+        "Jerk chicken"
+      ],
+      "limit": "Modern jerk seasoning not presented as eighteenth-century formulation"
+    },
+    {
+      "essay": 8,
+      "title": "Ital food as religious and ethical practice",
+      "sources": [
+        "HIGMAN08"
+      ],
+      "relevant_recipes": [
+        "Ital stew",
+        "Ital vegetable rundown"
+      ],
+      "limit": "Practices vary among Rastafari families and communities"
+    }
+  ]
+}
