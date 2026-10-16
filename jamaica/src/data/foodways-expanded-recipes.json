@@ -1,0 +1,306 @@
+{
+  "date": "2026-10-15",
+  "status": "untested editorial methods, distinct from research index",
+  "recipes": [
+    {
+      "id": "foodways-added-1",
+      "name": "Cornmeal porridge",
+      "category": "Breakfast",
+      "servings": "4 bowls",
+      "ingredients": [
+        "100 g fine cornmeal",
+        "700 ml water",
+        "250 ml milk or coconut milk",
+        "1 cinnamon stick",
+        "1/4 tsp nutmeg",
+        "2 tbsp brown sugar"
+      ],
+      "steps": [
+        "Whisk cornmeal into 250 ml cool water until smooth.",
+        "Simmer remaining water with cinnamon in a saucepan.",
+        "Whisk in cornmeal slurry and stir constantly for 5 minutes.",
+        "Cook over low heat for 15–20 minutes, stirring and adding liquid if thick.",
+        "Stir in milk, nutmeg and sugar; simmer 3 minutes and serve hot."
+      ],
+      "note": "Take care: thick porridge splashes when boiling.",
+      "context": "Plantation, market and everyday household food traditions",
+      "status": "editorial draft; not kitchen-tested"
+    },
+    {
+      "id": "foodways-added-2",
+      "name": "Saltfish fritters",
+      "category": "Breakfast",
+      "servings": "12 small fritters",
+      "ingredients": [
+        "200 g salt cod",
+        "180 g plain flour",
+        "1 tsp baking powder",
+        "180 ml water",
+        "2 scallions",
+        "1 small onion",
+        "1 tsp thyme",
+        "1/2 sweet pepper",
+        "Oil for frying"
+      ],
+      "steps": [
+        "Soak and simmer salted cod in fresh water, repeat if necessary and remove bones.",
+        "Mix flour and baking powder; stir in water for a thick batter.",
+        "Fold in flaked cod, chopped scallion, onion, thyme and sweet pepper.",
+        "Heat a shallow layer of oil over medium heat; drop in small spoonfuls without crowding.",
+        "Fry until browned on both sides and fully cooked inside; drain."
+      ],
+      "note": "Taste cod before seasoning batter; saltiness varies.",
+      "context": "Atlantic fish provisioning and breakfast",
+      "status": "editorial draft; not kitchen-tested"
+    },
+    {
+      "id": "foodways-added-3",
+      "name": "Bammy",
+      "category": "Breads & sides",
+      "servings": "8 small rounds",
+      "ingredients": [
+        "500 g commercially prepared, food-safe grated cassava",
+        "1/2 tsp salt",
+        "200 ml coconut milk",
+        "1 tbsp oil"
+      ],
+      "steps": [
+        "Use only properly processed, food-safe cassava; press out excess moisture.",
+        "Mix cassava evenly with salt and divide into eight portions.",
+        "Shape flat rounds and cook slowly on a lightly oiled skillet until they hold together and lightly color.",
+        "Pour coconut milk into a shallow dish; briefly soak the partially cooked rounds.",
+        "Return to the pan and cook gently until hot and cooked through."
+      ],
+      "note": "Never use raw bitter cassava without professionally validated detoxification; prepared frozen bammy is the safest shortcut.",
+      "context": "Indigenous cassava continuities and changed techniques",
+      "status": "editorial draft; not kitchen-tested"
+    },
+    {
+      "id": "foodways-added-4",
+      "name": "Roast breadfruit",
+      "category": "Breads & sides",
+      "servings": "4 servings",
+      "ingredients": [
+        "1 mature breadfruit (about 1 kg)",
+        "1 tbsp oil optional",
+        "Salt to taste"
+      ],
+      "steps": [
+        "Wash breadfruit and cut a shallow cross in its base; pierce skin to vent steam.",
+        "Roast on an outdoor grill over moderate indirect heat, turning, until all sides char and the flesh is tender, often 45–70 minutes.",
+        "Allow to cool enough to handle and remove charred skin and central core.",
+        "Cut into wedges and serve with saltfish, fish or vegetables.",
+        "For leftovers, pan-fry cooled wedges in a little oil."
+      ],
+      "note": "Do not leave roasting breadfruit unattended; ensure center is completely cooked.",
+      "context": "Food crops and Caribbean exchange",
+      "status": "editorial draft; not kitchen-tested"
+    },
+    {
+      "id": "foodways-added-5",
+      "name": "Coconut rice",
+      "category": "Breads & sides",
+      "servings": "4 servings",
+      "ingredients": [
+        "300 g rinsed long-grain rice",
+        "400 ml coconut milk",
+        "220 ml water",
+        "1/2 tsp salt",
+        "2 scallions",
+        "2 thyme sprigs"
+      ],
+      "steps": [
+        "Combine coconut milk, water, scallions, thyme and salt and bring to a gentle simmer.",
+        "Add rinsed rice and stir once.",
+        "Cover tightly; reduce heat to low and cook about 18–22 minutes without repeated stirring.",
+        "Turn off heat and leave covered for 10 minutes.",
+        "Remove aromatics, fluff and serve."
+      ],
+      "note": "Liquid requirements vary with rice variety.",
+      "context": "Coconut kitchens and regional adaptations",
+      "status": "editorial draft; not kitchen-tested"
+    },
+    {
+      "id": "foodways-added-6",
+      "name": "Jerk chicken",
+      "category": "Main dishes",
+      "servings": "4 servings",
+      "ingredients": [
+        "1 kg chicken pieces",
+        "2 tbsp ground allspice",
+        "4 scallions",
+        "3 garlic cloves",
+        "1 Scotch bonnet, seeded for less heat",
+        "2 tbsp lime juice",
+        "1 tbsp fresh thyme",
+        "1 tbsp soy sauce",
+        "1 tbsp oil"
+      ],
+      "steps": [
+        "Blend allspice, scallion, garlic, bonnet, lime, thyme, soy and oil into a paste.",
+        "Coat chicken and refrigerate at least 2 hours, ideally overnight; discard used marinade.",
+        "Heat a covered grill for indirect cooking; add a small amount of suitable smoking wood if available.",
+        "Cook away from direct flames, turning occasionally, until all pieces reach 74°C/165°F internally.",
+        "Rest 5 minutes and serve with festival or rice and peas."
+      ],
+      "note": "Scotch bonnet is very hot; wear gloves. A modern grill version is not a reconstruction of historical jerk.",
+      "context": "Maroon foodways and evolving jerk",
+      "status": "editorial draft; not kitchen-tested"
+    },
+    {
+      "id": "foodways-added-7",
+      "name": "Curried chicken",
+      "category": "Main dishes",
+      "servings": "4 servings",
+      "ingredients": [
+        "900 g chicken pieces",
+        "2 tbsp Jamaican curry powder",
+        "1 onion",
+        "3 garlic cloves",
+        "2 scallions",
+        "1 tsp thyme",
+        "2 tbsp oil",
+        "250 ml water",
+        "250 g potatoes"
+      ],
+      "steps": [
+        "Season chicken with half the curry powder, garlic and thyme; refrigerate 30 minutes.",
+        "Heat oil in a pot and gently bloom remaining curry powder for 20–30 seconds without burning.",
+        "Add chicken and onion; brown lightly for 5 minutes.",
+        "Add water, cover and simmer 20 minutes, then add potatoes.",
+        "Cook until potatoes soften and chicken reaches 74°C/165°F; adjust liquid and seasoning."
+      ],
+      "note": "Jamaican curry blends and household practices differ; recipe is an editorial adaptation.",
+      "context": "Indian indenture and Jamaican curry",
+      "status": "editorial draft; not kitchen-tested"
+    },
+    {
+      "id": "foodways-added-8",
+      "name": "Ital vegetable stew",
+      "category": "Main dishes",
+      "servings": "4 servings",
+      "ingredients": [
+        "250 g pumpkin cubes",
+        "200 g callaloo or washed leafy greens",
+        "1 carrot",
+        "1 green banana, peeled",
+        "200 g cooked chickpeas",
+        "400 ml coconut milk",
+        "1 onion",
+        "2 scallions",
+        "2 thyme sprigs"
+      ],
+      "steps": [
+        "Wash and chop vegetables into bite-size pieces; prepare green banana safely using a knife rather than bare hands if sap irritates skin.",
+        "Simmer pumpkin, carrot, banana and onion in coconut milk and 200 ml water.",
+        "After 10 minutes add chickpeas, thyme and scallion.",
+        "Add greens and cook another 8–12 minutes, until all vegetables are tender.",
+        "Taste and adjust seasoning according to household practice; serve hot."
+      ],
+      "note": "Not all Rastafari practitioners use the same ingredients or salt guidelines.",
+      "context": "Rastafari food practice",
+      "status": "editorial draft; not kitchen-tested"
+    },
+    {
+      "id": "foodways-added-9",
+      "name": "Steamed snapper",
+      "category": "Fish & seafood",
+      "servings": "4 servings",
+      "ingredients": [
+        "4 cleaned snapper portions (about 200 g each)",
+        "1 carrot",
+        "1 onion",
+        "2 scallions",
+        "1 tomato",
+        "1 bell pepper",
+        "2 thyme sprigs",
+        "300 ml water",
+        "1 tbsp oil"
+      ],
+      "steps": [
+        "Check fish for scales and bones; refrigerate until needed.",
+        "Warm oil in a wide lidded pan; cook onion, carrot and bell pepper for 4 minutes.",
+        "Add tomato, scallion, thyme and water, then simmer 5 minutes.",
+        "Nestle fish into the seasoned liquid, cover and cook gently 8–14 minutes depending on thickness.",
+        "Check center reaches 63°C/145°F or flesh is opaque and flakes; serve with cooking liquor."
+      ],
+      "note": "Whole fish and portions contain bones; choose responsibly sourced fish.",
+      "context": "Fish commerce and coastal markets",
+      "status": "editorial draft; not kitchen-tested"
+    },
+    {
+      "id": "foodways-added-10",
+      "name": "Pepper shrimp",
+      "category": "Fish & seafood",
+      "servings": "4 servings",
+      "ingredients": [
+        "500 g cleaned raw shrimp",
+        "1 Scotch bonnet, finely chopped",
+        "3 garlic cloves",
+        "1 tsp allspice",
+        "1 tsp paprika",
+        "1/2 tsp salt",
+        "2 tbsp water",
+        "1 tbsp oil"
+      ],
+      "steps": [
+        "Wash hands and equipment after handling raw shrimp and hot pepper.",
+        "Mix shrimp with minced garlic, pepper, allspice, paprika and salt.",
+        "Heat oil in a skillet and cook shrimp in one layer, turning after 2 minutes.",
+        "Add water, cover for 1–2 minutes and continue cooking until shrimp are opaque and firm.",
+        "Serve promptly; adjust pepper cautiously."
+      ],
+      "note": "This is a home skillet interpretation, not a documented Middle Quarters vendor formula.",
+      "context": "Markets, vendors and road food",
+      "status": "editorial draft; not kitchen-tested"
+    },
+    {
+      "id": "foodways-added-11",
+      "name": "Banana fritters",
+      "category": "Sweet dishes",
+      "servings": "12 small fritters",
+      "ingredients": [
+        "3 ripe bananas",
+        "160 g plain flour",
+        "1 egg",
+        "1 tsp vanilla",
+        "1/2 tsp cinnamon",
+        "1 tsp baking powder",
+        "1 tbsp sugar",
+        "Oil for shallow frying"
+      ],
+      "steps": [
+        "Mash bananas until smooth.",
+        "Mix with beaten egg, vanilla and sugar.",
+        "Stir flour, baking powder and cinnamon into the banana mixture to form a spoonable batter.",
+        "Heat shallow oil over medium heat and drop tablespoon portions, leaving space.",
+        "Fry until golden and cooked through on both sides; drain and serve."
+      ],
+      "note": "Very ripe bananas add sweetness; vary sugar to taste.",
+      "context": "Household fruit and everyday sweets",
+      "status": "editorial draft; not kitchen-tested"
+    },
+    {
+      "id": "foodways-added-12",
+      "name": "Ginger beer",
+      "category": "Drinks",
+      "servings": "6 glasses",
+      "ingredients": [
+        "150 g fresh ginger",
+        "1.5 litres water",
+        "100 g sugar, adjust to taste",
+        "2 tbsp lime juice"
+      ],
+      "steps": [
+        "Wash and roughly chop ginger; blend with 400 ml water.",
+        "Pour over remaining water, stir and refrigerate covered for 2 hours.",
+        "Strain through a fine sieve or cloth.",
+        "Stir in sugar until dissolved and add lime juice.",
+        "Chill and serve; refrigerate leftovers and use promptly."
+      ],
+      "note": "This is a nonfermented fresh ginger drink, not a fermented beer.",
+      "context": "Ginger, trade and festive food",
+      "status": "editorial draft; not kitchen-tested"
+    }
+  ]
+}
