@@ -83,3 +83,15 @@ The preview service failed with `bwrap: Can't mount proc on /newroot/proc: Opera
 The remaining gates are a functioning browser preview and desktop/mobile/keyboard/assistive-technology inspection; full page-level verification of contested historical assertions; resolution of the identified source defects and remaining provenance gaps; independent corroboration where only one cook/publication has been examined; appropriate food-safety review; permissioned photography; and recorded kitchen trials before any claim of tested local recipes. No parish-wide tradition should be inferred from one cook’s memory.
 
 Use the register to obtain exact cookbook pages and named-cook clarification, then select preparations for controlled kitchen trials. Broader Caribbean dishes should remain comparisons unless Jamaican usage is established. Current source labels should remain even after a later production release is authorized.
+
+## Current-head release verification addendum — 16 October 2026
+
+At head `4c55e128ed28193b9b5260c20d09018a5d3b084f`, GitHub reported:
+
+- [Foodways staging workflow run 38902545653](https://github.com/adepass-wq/tonys-guide-gruene/actions/runs/38902545653): **success**. This workflow runs `npm ci`, `npm run build`, `npm run verify`, and the Foodways jsdom smoke tests. It verifies automated checks, not kitchen usability or actual browser display.
+- [Jamaica source and behavior run 38902545527](https://github.com/adepass-wq/tonys-guide-gruene/actions/runs/38902545527): **cancelled** during `npm run verify`. Cancellation is neither pass nor proof of code failure; the cause was not independently established.
+- PR #1 remained **open, draft, and unmerged** when checked. No production action taken.
+
+The independently inspected comparison supplement is [FOODWAYS_INDEPENDENT_COMPARISON_ADDENDUM_2026-10-16.md](FOODWAYS_INDEPENDENT_COMPARISON_ADDENDUM_2026-10-16.md). It adds two independently presented ackee/saltfish preparations and three rice/peas sources, without endorsing an untested Tony's Guide formula.
+
+**Release decision: HOLD.** The Foodways automated workflow passing is valuable, but the separately cancelled source check, absence of actual graphical/mobile/assistive-technology browser inspection, lack of recorded kitchen trials, unresolved recipe-specific food safety/cultural provenance, and licensed original imagery remain gates. Do not describe this as a finished 107-recipe cookbook. A future release can potentially present a transparently source-attributed research directory without claiming cooking validation, but it still requires functional browser verification and owner approval.
