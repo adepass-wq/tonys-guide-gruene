@@ -1,0 +1,462 @@
+{
+  "recipes": [
+    {
+      "id": "foodways-next-1",
+      "name": "Hominy corn porridge",
+      "category": "Breakfast",
+      "servings": "6 servings",
+      "ingredients": [
+        "250 g dried hominy corn",
+        "1.5 L water",
+        "400 ml coconut milk",
+        "1 cinnamon stick",
+        "1/2 tsp nutmeg",
+        "60 g brown sugar"
+      ],
+      "steps": [
+        "Soak dried hominy overnight in plenty of water.",
+        "Drain and simmer in fresh water until the kernels are tender, often 1–2 hours.",
+        "Add coconut milk and cinnamon and simmer gently for 15 minutes.",
+        "Stir in nutmeg and sugar; thin with water if needed, and serve warm."
+      ],
+      "status": "measured editorial draft; not kitchen-tested",
+      "historicalStatus": "See historical essays for context; no claimed unique origin"
+    },
+    {
+      "id": "foodways-next-2",
+      "name": "Green banana porridge",
+      "category": "Breakfast",
+      "servings": "4 servings",
+      "ingredients": [
+        "4 green bananas",
+        "750 ml water",
+        "250 ml coconut milk",
+        "1/2 tsp cinnamon",
+        "1/4 tsp nutmeg",
+        "2 tbsp brown sugar"
+      ],
+      "steps": [
+        "Peel green bananas with a knife and wash off sap.",
+        "Blend chopped banana with 250 ml water to a smooth paste.",
+        "Bring remaining water to a simmer and whisk in banana mixture gradually.",
+        "Cook stirring 12–18 minutes until cooked through and thickened; add coconut milk and spices.",
+        "Simmer 5 minutes and sweeten to taste."
+      ],
+      "status": "measured editorial draft; not kitchen-tested",
+      "historicalStatus": "See historical essays for context; no claimed unique origin"
+    },
+    {
+      "id": "foodways-next-3",
+      "name": "Plantain porridge",
+      "category": "Breakfast",
+      "servings": "4 servings",
+      "ingredients": [
+        "2 green plantains",
+        "700 ml water",
+        "250 ml coconut milk",
+        "1 cinnamon stick",
+        "2 tbsp brown sugar",
+        "1/4 tsp nutmeg"
+      ],
+      "steps": [
+        "Peel and chop plantains; blend with 250 ml water until smooth.",
+        "Simmer remaining water with cinnamon.",
+        "Whisk in blended plantain and cook, stirring frequently, for 12–15 minutes.",
+        "Add coconut milk and nutmeg; cook until no raw starchy flavor remains.",
+        "Sweeten and serve hot."
+      ],
+      "status": "measured editorial draft; not kitchen-tested",
+      "historicalStatus": "See historical essays for context; no claimed unique origin"
+    },
+    {
+      "id": "foodways-next-4",
+      "name": "Peanut porridge",
+      "category": "Breakfast",
+      "servings": "4 servings",
+      "ingredients": [
+        "150 g unsalted roasted peanuts",
+        "80 g oats",
+        "850 ml water",
+        "250 ml milk or coconut milk",
+        "1/2 tsp cinnamon",
+        "2 tbsp sugar"
+      ],
+      "steps": [
+        "Blend peanuts, oats and 300 ml water until smooth.",
+        "Bring remaining water to a simmer and whisk in the mixture.",
+        "Cook over low heat 12–15 minutes, stirring to prevent sticking.",
+        "Add milk, cinnamon and sugar and simmer another 5 minutes.",
+        "Serve hot; identify peanut allergens clearly."
+      ],
+      "status": "measured editorial draft; not kitchen-tested",
+      "historicalStatus": "See historical essays for context; no claimed unique origin"
+    },
+    {
+      "id": "foodways-next-5",
+      "name": "Oats porridge",
+      "category": "Breakfast",
+      "servings": "4 servings",
+      "ingredients": [
+        "160 g rolled oats",
+        "850 ml water",
+        "250 ml milk",
+        "1/2 tsp cinnamon",
+        "1/4 tsp nutmeg",
+        "2 tbsp brown sugar"
+      ],
+      "steps": [
+        "Combine oats and water in a saucepan.",
+        "Bring to a gentle simmer, stirring for 5–8 minutes until oats soften.",
+        "Add milk, cinnamon and nutmeg; cook another 3–5 minutes.",
+        "Sweeten to taste and adjust thickness with additional water.",
+        "Serve warm."
+      ],
+      "status": "measured editorial draft; not kitchen-tested",
+      "historicalStatus": "See historical essays for context; no claimed unique origin"
+    },
+    {
+      "id": "foodways-next-6",
+      "name": "Stamp and go",
+      "category": "Breakfast",
+      "servings": "4 servings",
+      "ingredients": [
+        "250 g desalted salt cod",
+        "170 g plain flour",
+        "1 tsp baking powder",
+        "160 ml water",
+        "1 onion",
+        "2 scallions",
+        "1/2 Scotch bonnet optional",
+        "Oil for frying"
+      ],
+      "steps": [
+        "Simmer salted cod in fresh water, repeat as needed, remove bones and flake.",
+        "Combine flour, baking powder and water to form a thick batter.",
+        "Mix in cod, finely chopped onion, scallion and pepper.",
+        "Heat shallow oil over medium heat, drop spoonfuls and fry on both sides until browned and cooked through.",
+        "Drain and serve hot."
+      ],
+      "status": "measured editorial draft; not kitchen-tested",
+      "historicalStatus": "See historical essays for context; no claimed unique origin"
+    },
+    {
+      "id": "foodways-next-7",
+      "name": "Callaloo omelette",
+      "category": "Breakfast",
+      "servings": "2 servings",
+      "ingredients": [
+        "4 eggs",
+        "160 g washed, cooked callaloo",
+        "1 scallion",
+        "1 small tomato",
+        "1 tbsp oil",
+        "Black pepper"
+      ],
+      "steps": [
+        "Whisk eggs with black pepper.",
+        "Squeeze extra moisture from cooked callaloo and chop finely.",
+        "Sauté chopped scallion and tomato in oil for 2 minutes, then add callaloo.",
+        "Pour in eggs and cook over low heat until just set, folding once.",
+        "Serve immediately; cook eggs thoroughly for vulnerable diners."
+      ],
+      "status": "measured editorial draft; not kitchen-tested",
+      "historicalStatus": "See historical essays for context; no claimed unique origin"
+    },
+    {
+      "id": "foodways-next-8",
+      "name": "Steamed cabbage breakfast",
+      "category": "Breakfast",
+      "servings": "4 servings",
+      "ingredients": [
+        "1/2 cabbage (500 g)",
+        "1 carrot",
+        "1 onion",
+        "1 sweet pepper",
+        "2 scallions",
+        "1 tbsp oil",
+        "100 ml water",
+        "Thyme"
+      ],
+      "steps": [
+        "Wash and finely slice cabbage and other vegetables.",
+        "Soften onion and sweet pepper in oil for 3 minutes.",
+        "Add carrot, cabbage, scallion, thyme and water.",
+        "Cover and steam 8–12 minutes until vegetables are tender but not mushy.",
+        "Remove lid to reduce liquid and season to taste."
+      ],
+      "status": "measured editorial draft; not kitchen-tested",
+      "historicalStatus": "See historical essays for context; no claimed unique origin"
+    },
+    {
+      "id": "foodways-next-9",
+      "name": "Boiled green banana",
+      "category": "Breads & sides",
+      "servings": "4 servings",
+      "ingredients": [
+        "8 green bananas",
+        "1.5 L water",
+        "1 tsp salt optional"
+      ],
+      "steps": [
+        "Trim ends and score skin lengthwise without cutting deep into the flesh.",
+        "Cover green bananas with water in a pot and bring to a boil.",
+        "Simmer 15–25 minutes, depending on size, until easily pierced.",
+        "Cool enough to handle, remove skins and serve with saltfish or vegetables.",
+        "Use care when peeling hot bananas."
+      ],
+      "status": "measured editorial draft; not kitchen-tested",
+      "historicalStatus": "See historical essays for context; no claimed unique origin"
+    },
+    {
+      "id": "foodways-next-10",
+      "name": "Boiled yam and dumpling",
+      "category": "Breads & sides",
+      "servings": "4 servings",
+      "ingredients": [
+        "500 g white yam",
+        "220 g plain flour",
+        "1/2 tsp salt",
+        "120–150 ml water",
+        "2 L water for boiling"
+      ],
+      "steps": [
+        "Peel yam thickly with a knife, wash and cut into pieces; some yams irritate skin.",
+        "Mix flour, salt and enough water into a firm dough; shape small dumplings.",
+        "Bring water to a full boil and add yam pieces.",
+        "After 5 minutes add dumplings and simmer 15–20 minutes until yam and dumplings are fully cooked.",
+        "Drain and serve warm."
+      ],
+      "status": "measured editorial draft; not kitchen-tested",
+      "historicalStatus": "See historical essays for context; no claimed unique origin"
+    },
+    {
+      "id": "foodways-next-11",
+      "name": "Pumpkin rice",
+      "category": "Breads & sides",
+      "servings": "4 servings",
+      "ingredients": [
+        "350 g pumpkin",
+        "300 g long-grain rice",
+        "700 ml water or mild broth",
+        "1 onion",
+        "2 scallions",
+        "1 thyme sprig",
+        "1 tbsp oil"
+      ],
+      "steps": [
+        "Peel pumpkin and cut into small cubes.",
+        "Sauté chopped onion and scallion in oil for 3 minutes.",
+        "Add pumpkin, water and thyme; simmer 8 minutes until pumpkin softens.",
+        "Add rinsed rice and stir once, then cover and cook low 18–22 minutes until rice is tender.",
+        "Rest 10 minutes and fluff."
+      ],
+      "status": "measured editorial draft; not kitchen-tested",
+      "historicalStatus": "See historical essays for context; no claimed unique origin"
+    },
+    {
+      "id": "foodways-next-12",
+      "name": "Curried shrimp",
+      "category": "Main dishes",
+      "servings": "4 servings",
+      "ingredients": [
+        "600 g peeled raw shrimp",
+        "1.5 tbsp Jamaican curry powder",
+        "1 onion",
+        "2 garlic cloves",
+        "1 sweet pepper",
+        "200 ml coconut milk",
+        "1 tbsp oil"
+      ],
+      "steps": [
+        "Pat shrimp dry and toss with half the curry powder.",
+        "Heat oil, gently cook remaining curry powder 20 seconds, then soften onion and pepper.",
+        "Add garlic and coconut milk; simmer 4 minutes.",
+        "Add shrimp and cook 3–5 minutes, stirring, until opaque and firm.",
+        "Serve promptly over rice."
+      ],
+      "status": "measured editorial draft; not kitchen-tested",
+      "historicalStatus": "See historical essays for context; no claimed unique origin"
+    },
+    {
+      "id": "foodways-next-13",
+      "name": "Stewed lentils",
+      "category": "Main dishes",
+      "servings": "4 servings",
+      "ingredients": [
+        "250 g dried lentils",
+        "800 ml water",
+        "1 onion",
+        "2 garlic cloves",
+        "2 scallions",
+        "1 carrot",
+        "1 thyme sprig",
+        "200 ml coconut milk"
+      ],
+      "steps": [
+        "Rinse lentils and check for small stones.",
+        "Sauté onion, scallion, carrot and garlic in a little water or oil.",
+        "Add lentils, thyme and water; simmer 20–30 minutes until tender.",
+        "Pour in coconut milk and simmer 5–10 minutes until slightly thickened.",
+        "Season and serve with rice."
+      ],
+      "status": "measured editorial draft; not kitchen-tested",
+      "historicalStatus": "See historical essays for context; no claimed unique origin"
+    },
+    {
+      "id": "foodways-next-14",
+      "name": "Coconut shrimp",
+      "category": "Fish & seafood",
+      "servings": "4 servings",
+      "ingredients": [
+        "600 g cleaned shrimp",
+        "250 ml coconut milk",
+        "1 onion",
+        "2 garlic cloves",
+        "1 bell pepper",
+        "1 thyme sprig",
+        "1 tbsp oil"
+      ],
+      "steps": [
+        "Dry shrimp and refrigerate until ready to cook.",
+        "Sauté onion and bell pepper in oil for 4 minutes; add garlic and thyme.",
+        "Add coconut milk and simmer 5–7 minutes to concentrate the sauce.",
+        "Add shrimp and cook until opaque and firm, typically 3–5 minutes.",
+        "Taste sauce and serve immediately."
+      ],
+      "status": "measured editorial draft; not kitchen-tested",
+      "historicalStatus": "See historical essays for context; no claimed unique origin"
+    },
+    {
+      "id": "foodways-next-15",
+      "name": "Fried sprat",
+      "category": "Fish & seafood",
+      "servings": "4 servings",
+      "ingredients": [
+        "600 g cleaned small sprat",
+        "2 tbsp lime juice",
+        "80 g plain flour",
+        "1/2 tsp black pepper",
+        "1/2 tsp salt",
+        "Oil for frying"
+      ],
+      "steps": [
+        "Clean fish appropriately and pat dry; keep chilled.",
+        "Season with lime, salt and pepper, then coat lightly in flour.",
+        "Heat a shallow layer of oil in a heavy skillet over medium-high heat.",
+        "Fry in batches until crisp and cooked through, turning carefully.",
+        "Drain on a rack; small fish may contain fine bones."
+      ],
+      "status": "measured editorial draft; not kitchen-tested",
+      "historicalStatus": "See historical essays for context; no claimed unique origin"
+    },
+    {
+      "id": "foodways-next-16",
+      "name": "Cornmeal pudding",
+      "category": "Sweet dishes",
+      "servings": "8 servings",
+      "ingredients": [
+        "240 g fine cornmeal",
+        "500 ml coconut milk",
+        "350 ml water",
+        "150 g brown sugar",
+        "1 tsp cinnamon",
+        "1/2 tsp nutmeg",
+        "1 tsp vanilla",
+        "50 g raisins optional"
+      ],
+      "steps": [
+        "Heat oven to 175°C/350°F and grease a baking dish.",
+        "Whisk cornmeal into half the cool water to prevent lumps.",
+        "Heat coconut milk, remaining water, sugar and spices until warm; whisk in cornmeal slurry.",
+        "Stir over low heat until just thickening, then pour into the dish and add raisins if using.",
+        "Bake about 50–70 minutes until firm in the center; cool before slicing."
+      ],
+      "status": "measured editorial draft; not kitchen-tested",
+      "historicalStatus": "See historical essays for context; no claimed unique origin"
+    },
+    {
+      "id": "foodways-next-17",
+      "name": "Coconut drops",
+      "category": "Sweet dishes",
+      "servings": "16 pieces servings",
+      "ingredients": [
+        "300 g diced fresh coconut",
+        "250 g brown sugar",
+        "180 ml water",
+        "1 tbsp grated ginger",
+        "1/4 tsp salt"
+      ],
+      "steps": [
+        "Line a tray with baking parchment.",
+        "Bring sugar and water to a gentle boil in a heavy pot.",
+        "Add diced coconut, ginger and salt, stirring to prevent burning.",
+        "Cook until syrup thickens and clings to coconut; drop spoonfuls onto prepared tray.",
+        "Cool completely before handling; hot sugar causes burns."
+      ],
+      "status": "measured editorial draft; not kitchen-tested",
+      "historicalStatus": "See historical essays for context; no claimed unique origin"
+    },
+    {
+      "id": "foodways-next-18",
+      "name": "Tamarind balls",
+      "category": "Sweet dishes",
+      "servings": "20 balls servings",
+      "ingredients": [
+        "250 g seedless tamarind pulp",
+        "150 g brown sugar plus extra for rolling",
+        "1/4 tsp ginger optional"
+      ],
+      "steps": [
+        "Check tamarind pulp carefully for hard seeds and shell fragments.",
+        "Knead pulp with brown sugar, adding enough to make a cohesive, tangy paste.",
+        "Divide into small portions and roll into balls with clean hands.",
+        "Roll in extra sugar and leave briefly to firm.",
+        "Store covered and refrigerate if keeping beyond the day."
+      ],
+      "status": "measured editorial draft; not kitchen-tested",
+      "historicalStatus": "See historical essays for context; no claimed unique origin"
+    },
+    {
+      "id": "foodways-next-19",
+      "name": "Soursop juice",
+      "category": "Drinks",
+      "servings": "6 servings",
+      "ingredients": [
+        "1 ripe soursop",
+        "1 L cold water",
+        "250 ml milk or coconut milk optional",
+        "50 g sugar, to taste",
+        "1/4 tsp nutmeg"
+      ],
+      "steps": [
+        "Wash and peel soursop; separate flesh from peel.",
+        "Remove every hard black seed and discard; never blend seeds.",
+        "Blend seed-free pulp with water until smooth.",
+        "Strain if preferred; stir in milk, nutmeg and sugar to taste.",
+        "Refrigerate promptly and serve cold."
+      ],
+      "status": "measured editorial draft; not kitchen-tested",
+      "historicalStatus": "See historical essays for context; no claimed unique origin"
+    },
+    {
+      "id": "foodways-next-20",
+      "name": "Mint tea",
+      "category": "Drinks",
+      "servings": "4 servings",
+      "ingredients": [
+        "20 g fresh culinary mint leaves",
+        "800 ml water",
+        "Honey or sugar optional"
+      ],
+      "steps": [
+        "Wash mint leaves carefully.",
+        "Bring water to a boil and remove from heat.",
+        "Add mint leaves, cover and steep 5–8 minutes.",
+        "Strain into cups and sweeten if desired.",
+        "Serve warm."
+      ],
+      "status": "measured editorial draft; not kitchen-tested",
+      "historicalStatus": "See historical essays for context; no claimed unique origin"
+    }
+  ]
+}
